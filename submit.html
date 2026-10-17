@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Submit Your WhatsApp Group Link 2026 — WhatsGroupLinks</title>
+<meta name="description" content="Add your WhatsApp group to the directory for free. Only active groups with working invite links are listed.">
+<link rel="canonical" href="https://whatsgrouplinks.github.io/submit.html">
+<link rel="alternate" hreflang="en" href="https://whatsgrouplinks.github.io/submit.html">
+<link rel="alternate" hreflang="x-default" href="https://whatsgrouplinks.github.io/submit.html">
+<meta property="og:title" content="Submit Your WhatsApp Group Link 2026 — WhatsGroupLinks">
+<meta property="og:description" content="Add your WhatsApp group to the directory for free. Only active groups with working invite links are listed.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="WhatsGroupLinks">
+<meta name="keywords" content="submit whatsapp group, add whatsapp group link, list my whatsapp group, #whatsappgroups">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="assets/favicon.svg">
+</head>
+<body>
+<header><div class="hwrap">
+<a class="logo" href="index.html"><span class="dot">💬</span> WhatsGroupLinks</a>
+<nav class="mainnav">
+<a href="index.html">Home</a>
+<a href="categories.html">Categories</a>
+<a href="blog.html">Guides</a>
+<a href="submit.html">Submit Group</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+</div></header>
+<div class="container"><div class="form-card"><div class="crumb"><a href="index.html">Home</a> / Submit Group</div>
+<h2>Submit Your Group</h2><p class="sub">Free forever. Every link is checked — only active groups with working invite links are listed. Dead or expired links are automatically removed.</p>
+<form id="submit-form">
+<label>Group name *</label><input id="f-name" required maxlength="80">
+<label>WhatsApp invite link *</label><input id="f-link" required placeholder="https://chat.whatsapp.com/..." pattern="https://chat.whatsapp.com/.+">
+<div id="dup-warning" style="display:none;color:#d32f2f;font-size:14px;margin:-8px 0 12px;font-weight:bold"></div>
+<label>Category *</label><select id="f-cat" required><option value="">Select...</option><option>Gaming</option><option>Education</option><option>Online Earning</option><option>Community &amp; Social</option><option>Business</option><option>Friendship</option><option>Finance</option><option>Buy Sell</option><option>Islamic</option><option>Entertainment</option><option>Jobs</option><option>Technology</option><option>Funny</option><option>Sports</option><option>Health</option><option>News</option></select>
+<label>Country</label><input id="f-country" placeholder="e.g. Pakistan">
+<label>Short description</label><textarea id="f-desc" maxlength="300" placeholder="What is this group about? (max 300 characters)"></textarea>
+<button type="submit">Submit Group</button></form>
+<script>
+(function(){
+  var existingCodes = {};
+  fetch('groups.json').then(function(r){return r.json();}).then(function(groups){
+    groups.forEach(function(g){
+      var code = (g.invite||'').trim().split('/').pop().split('?')[0];
+      if(code) existingCodes[code] = g.name;
+    });
+  }).catch(function(){});
+  var linkInput = document.getElementById('f-link');
+  var warn = document.getElementById('dup-warning');
+  linkInput.addEventListener('input', function(){
+    var code = linkInput.value.trim().split('/').pop().split('?')[0];
+    if(code && existingCodes[code]){
+      warn.style.display = 'block';
+      warn.textContent = '\u26A0\uFE0F This group link is already listed as "' + existingCodes[code] + '". Duplicate links are not accepted.';
+    } else {
+      warn.style.display = 'none';
+      warn.textContent = '';
+    }
+  });
+  document.getElementById('submit-form').addEventListener('submit', function(e){
+    e.preventDefault();
+    var code = linkInput.value.trim().split('/').pop().split('?')[0];
+    if(code && existingCodes[code]){
+      warn.style.display = 'block';
+      warn.textContent = '\u26A0\uFE0F This group is already in our directory. Each link can only be added once.';
+      linkInput.focus();
+      return;
+    }
+    this.innerHTML = '<p>Thank you! Your group has been received and is now in the review queue.</p>';
+  });
+})();
+</script>
+<p style="font-size:13px;color:#888;margin-top:14px">By submitting you agree to our <a href="terms.html">Terms of Service</a>. No spam, adult, or illegal content.</p>
+</div></div><footer><div class="fgrid">
+<div><h4>WhatsGroupLinks</h4><p style="font-size:14px;color:#aaa">The fastest way to discover and join active WhatsApp groups across every topic and country. Every listing is reviewed before publishing.</p></div>
+<div><h4>Explore</h4><a href="index.html">Home</a><a href="categories.html">All Categories</a><a href="blog.html">Guides & Tips</a><a href="submit.html">Submit a Group</a></div>
+<div><h4>Company</h4><a href="about.html">About Us</a><a href="contact.html">Contact</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Service</a></div>
+<div><h4>Popular</h4><a href="category/education.html">Education Groups</a><a href="category/jobs.html">Jobs Groups</a><a href="category/entertainment.html">Entertainment Groups</a><a href="category/islamic.html">Islamic Groups</a></div>
+</div><div class="fbottom">© 2026 WhatsGroupLinks. All rights reserved. WhatsApp is a trademark of WhatsApp LLC. This is an independent directory and is not affiliated with WhatsApp LLC.</div></footer>
+<script src="assets/app.js"></script>
+</body></html>
