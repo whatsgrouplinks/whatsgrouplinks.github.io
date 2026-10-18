@@ -56,7 +56,7 @@
   var nameInput = document.getElementById('f-name');
   var descInput = document.getElementById('f-desc');
   var adultWarn = document.getElementById('adult-warning');
-  var ADULT_RE = /\b(porn|pornography|xxx|sex|sexy|nudes?|naked|escort|playboy|call[\s-]?girls?|bhabhi|aunty|mms|leak(?:ed|s)?[\s-]?videos?|viral[\s-]?videos?|bedroom[\s-]?videos?|blue[\s-]?films?|adult[\s-]?videos?|sex[\s-]?(videos?|chat)|sexy[\s-]?videos?|porn[\s-]?videos?|xxx[\s-]?videos?|hot[\s-]?videos?|massage[\s-]?girls?)\b|18\+/i;
+  var ADULT_RE = /\b(porn|pornography|xxx|sex|sexy|nudes?|naked|escort|playboy|girls?|call[\s-]?girls?|desi[\s-]?girls?|hot[\s-]?girls?|whatsapp[\s-]?girls?|night[\s-]?girls?|bhabhi|aunty|mms|leak(?:ed|s)?[\s-]?videos?|viral[\s-]?videos?|bedroom[\s-]?videos?|blue[\s-]?films?|adult[\s-]?videos?|sex[\s-]?(videos?|chat)|sexy[\s-]?videos?|porn[\s-]?videos?|xxx[\s-]?videos?|hot[\s-]?videos?|video[\s-]?call[\s-]?girls?|girls?[\s-]?numbers?|massage[\s-]?girls?)\b|18\+/i;
   function containsAdult(){
     var t = ((nameInput.value||'') + ' ' + (descInput.value||'')).toLowerCase();
     if(/adult\s+(education|quran|class|course|learning)/i.test(t)) return false;
