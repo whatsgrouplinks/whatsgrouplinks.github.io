@@ -37,7 +37,6 @@
 <label>Group name *</label><input id="f-name" required maxlength="80">
 <label>WhatsApp invite link *</label><input id="f-link" required placeholder="https://chat.whatsapp.com/..." pattern="https://chat.whatsapp.com/.+">
 <div id="dup-warning" style="display:none;color:#d32f2f;font-size:14px;margin:-8px 0 12px;font-weight:bold"></div>
-<div id="adult-warning" style="display:none;color:#d32f2f;font-size:14px;margin:-8px 0 12px;font-weight:bold"></div>
 <label>Category *</label><select id="f-cat" required><option value="">Select...</option><option>Gaming</option><option>Education</option><option>Online Earning</option><option>Community &amp; Social</option><option>Business</option><option>Friendship</option><option>Finance</option><option>Buy Sell</option><option>Islamic</option><option>Entertainment</option><option>Jobs</option><option>Technology</option><option>Funny</option><option>Sports</option><option>Health</option><option>News</option></select>
 <label>Country</label><input id="f-country" placeholder="e.g. Pakistan">
 <label>Short description</label><textarea id="f-desc" maxlength="300" placeholder="What is this group about? (max 300 characters)"></textarea>
@@ -52,23 +51,7 @@
     });
   }).catch(function(){});
   var linkInput = document.getElementById('f-link');
-  var nameInput = document.getElementById('f-name');
-  var descInput = document.getElementById('f-desc');
   var warn = document.getElementById('dup-warning');
-  var adultWarn = document.getElementById('adult-warning');
-  var ADULT_RE = /\b(porn|pornography|xxx|sex|sexy|nude|nudes|naked|escort|call[\s-]?girl|desi[\s-]?girl|hot[\s-]?girl|bhabhi|aunty[\s-]?video|mms[\s-]?video|leak(?:ed)?[\s-]?video|viral[\s-]?video|bedroom[\s-]?video|blue[\s-]?film|adult[\s-]?video|sex[\s-]?video|sexy[\s-]?video|porn[\s-]?video|xxx[\s-]?video|hot[\s-]?video|sex[\s-]?chat|video[\s-]?call[\s-]?girl|girl[\s-]?number|whatsapp[\s-]?girl|playboy|massage[\s-]?girl|night[\s-]?girl)\b|18\+/i;
-  function containsAdult(){
-    var t = ((nameInput.value||'') + ' ' + (descInput.value||'')).toLowerCase();
-    if(/adult\s+(education|quran|class|course|learning)/i.test(t)) return false;
-    return ADULT_RE.test(t);
-  }
-  function showAdultError(){
-    adultWarn.style.display = 'block';
-    adultWarn.textContent = '❌ Adult / pornographic content is not allowed on WhatsGroupLinks. This submission has been blocked.';
-  }
-  function hideAdultError(){ adultWarn.style.display = 'none'; adultWarn.textContent = ''; }
-  nameInput.addEventListener('input', function(){ containsAdult() ? showAdultError() : hideAdultError(); });
-  descInput.addEventListener('input', function(){ containsAdult() ? showAdultError() : hideAdultError(); });
   linkInput.addEventListener('input', function(){
     var code = linkInput.value.trim().split('/').pop().split('?')[0];
     if(code && existingCodes[code]){
@@ -81,8 +64,6 @@
   });
   document.getElementById('submit-form').addEventListener('submit', function(e){
     e.preventDefault();
-    if(containsAdult()){ showAdultError(); nameInput.focus(); return; }
-    hideAdultError();
     var code = linkInput.value.trim().split('/').pop().split('?')[0];
     if(code && existingCodes[code]){
       warn.style.display = 'block';
