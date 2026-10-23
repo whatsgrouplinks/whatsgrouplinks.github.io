@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Cloud Mechanics UAE Meetup Group",
+    "invite": "https://chat.whatsapp.com/E4V0vErdchT19ANsHBDe5g",
+    "description": "UAE cloud and AI meetup community - updates and coordination for GitHub Copilot and Azure AI events in Abu Dhabi and Dubai.",
+    "category": "Technology",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "THECLUB DUBAI - Poolside Friends",
+    "invite": "https://chat.whatsapp.com/G1p2svvNGscK3rHVx5Hky0",
+    "description": "Informal all-day poolside meetup at 25hours Hotel Dubai One Central - remote work, networking, meeting new people, games. English common language.",
+    "category": "Social",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Fade Fit Run Club Dubai",
+    "invite": "https://chat.whatsapp.com/GHxJwgHGDPg5eB5R8IPxjK",
+    "description": "Dubai running community by Kris Fade - group runs at Kite Beach every Saturday, training sessions and social hangouts for all levels.",
+    "category": "Sports",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Founders Connect Dubai & Sharjah",
+    "invite": "https://chat.whatsapp.com/JzHZxzhwS5MJHmLHmXIc7k",
+    "description": "Weekly business community for founders, freelancers and homepreneurs in Dubai and Sharjah - networking, AI and tech skills, honest practical sessions.",
+    "category": "Business",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Badminton For All Dubai",
+    "invite": "https://chat.whatsapp.com/DCHMx6hAx3wEWDE93YTeJQ",
+    "description": "Dubai's largest badminton community - Friday sessions at Al Manara Sports Hall, Saturday at Sportsbay Al Karama. Play, meet, repeat.",
+    "category": "Sports",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "FREEHAND Dubai Art Community",
+    "invite": "https://chat.whatsapp.com/CEMfTnIGFO3CbW7g8Hnevo",
+    "description": "Vibrant community for artists and sketchers in Dubai - live sketching sessions, art challenges, workshops and gallery visits every Saturday at Dubai Marina Mall.",
+    "category": "Art",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Dubai Singles & Mingle Meetup",
+    "invite": "https://chat.whatsapp.com/JKd3Fyei4pcHbj9aoS1KY4",
+    "description": "Dubai singles social community - make meaningful connections through offline meetups and events across the city.",
+    "category": "Social",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Dubai Business Community",
+    "invite": "https://chat.whatsapp.com/EAYWgmpDGM296DoDvhn54I",
+    "description": "Large Emirati business community focused on professional growth, networking events, language learning and training across the UAE.",
+    "category": "Business",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "My Sister's Heart Community Dubai",
+    "invite": "https://chat.whatsapp.com/GNBGupXVTtD4tq5jyi7vrP",
+    "description": "Sisterhood community for women in Dubai - events to help women grow in community, network, heal and thrive in personal life, careers and health.",
+    "category": "Women",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "eSeek Dubai Women Social",
+    "invite": "https://chat.whatsapp.com/IFJpSoK5LIVJRA5YF68ZQb",
+    "description": "Social app community for women by women in Dubai - bowling bashes, pool parties and group hangouts to turn matches into real friendships.",
+    "category": "Women",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "F365 Female Community Dubai",
+    "invite": "https://chat.whatsapp.com/JPWqlTDhUKBAbiwgp9wdOP",
+    "description": "Vibrant female community in Dubai supporting women through connection, growth and shared experiences - events and networking.",
+    "category": "Women",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Winner Dinner Game Night Dubai",
+    "invite": "https://chat.whatsapp.com/Ck5pRMqGsYo8Frp3kiZXZM",
+    "description": "Dubai board and card game night community - unlimited games, drinks and social hangouts in Dubai.",
+    "category": "Games",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Middle East Evacuation Info - Dubai",
+    "invite": "https://chat.whatsapp.com/ICSfdA0gsWgA5mPaIlYT7w",
+    "description": "Dubai travelers group chat for Middle East self-evacuation info - land transfer coordination and safety updates for the Gulf region.",
+    "category": "Travel",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Saudi Life Unpacked - Khobar",
+    "invite": "https://chat.whatsapp.com/K8Dk4iX50tNLukqgHHLnvV",
+    "description": "Khobar community of the Saudi Life Unpacked podcast - community questions, tips and discussions for expats living in Saudi Arabia.",
+    "category": "Community",
+    "country": "Saudi Arabia",
+    "image": ""
+  },
+  {
+    "name": "Saudi Life Unpacked - Jeddah",
+    "invite": "https://chat.whatsapp.com/Kv6MxVrWKwG3pjv2XXFciH",
+    "description": "Jeddah community of the Saudi Life Unpacked podcast - community questions, tips and discussions for expats living in Saudi Arabia.",
+    "category": "Community",
+    "country": "Saudi Arabia",
+    "image": ""
+  },
+  {
+    "name": "Saudi Life Unpacked - Riyadh",
+    "invite": "https://chat.whatsapp.com/DysXvVVswHoHhUNMxALH1s",
+    "description": "Riyadh community of the Saudi Life Unpacked podcast - community questions, tips and discussions for expats living in Saudi Arabia.",
+    "category": "Community",
+    "country": "Saudi Arabia",
+    "image": ""
+  },
+  {
+    "name": "Darussalam Islamic Books Group",
+    "invite": "https://chat.whatsapp.com/LnHxZpaUxe5Htchljo83h8",
+    "description": "Islamic book community from Darussalam Riyadh - weekly book recommendations, recitation and faith discussions.",
+    "category": "Islamic",
+    "country": "Saudi Arabia",
+    "image": ""
+  },
+  {
+    "name": "The Flow Riyadh",
+    "invite": "https://chat.whatsapp.com/J3HolFAIMf2JnHwHEvddr6",
+    "description": "Riyadh wellness meetup community - social events, networking, energy and transformation workshops and community gatherings.",
+    "category": "Wellness",
+    "country": "Saudi Arabia",
+    "image": ""
+  },
+  {
+    "name": "Riyadh Eateries Community",
+    "invite": "https://chat.whatsapp.com/BSjhJNB4FKm6zyO86mMdfw",
+    "description": "Riyadh food lovers community - restaurant recommendations, food discounts and dining events across Riyadh.",
+    "category": "Food",
+    "country": "Saudi Arabia",
+    "image": ""
+  },
+  {
+    "name": "Farm Fresh Supermarket Riyadh",
+    "invite": "https://chat.whatsapp.com/LDXpD07cVvG5qXB5hecz4Q",
+    "description": "Pakistani groceries supermarket community in Riyadh - fresh stock alerts, snacks, bakery treats and supermarket offers.",
+    "category": "Shopping",
+    "country": "Saudi Arabia",
+    "image": ""
+  },
+  {
+    "name": "Pokemon Qatar TCG Community",
+    "invite": "https://chat.whatsapp.com/JatoBtN25UaGjAqRZoasxQ",
+    "description": "Pokemon Trading Card Game community in Qatar - tournament updates from Collector's Cafe Lusail and The Art of Cardz, Doha.",
+    "category": "Games",
+    "country": "Qatar",
+    "image": ""
+  },
+  {
+    "name": "Middle East Evacuation Info - Doha",
+    "invite": "https://chat.whatsapp.com/C2QliqoXOhU8yvys7QJ9Yp",
+    "description": "Doha travelers group chat for Middle East self-evacuation info - land transfer coordination and safety updates for the Gulf region.",
+    "category": "Travel",
+    "country": "Qatar",
+    "image": ""
+  },
+  {
+    "name": "ScholarsRoad Kuwait Community",
+    "invite": "https://chat.whatsapp.com/Cv2wVa23gPMKo5F0PbTAC1",
+    "description": "Study in Kuwait scholarship community - daily updates on Kuwait scholarships, fully funded opportunities and application guidance.",
+    "category": "Education",
+    "country": "Kuwait",
+    "image": ""
+  },
+  {
+    "name": "Nigerian Community Kuwait & Bahrain",
+    "invite": "https://chat.whatsapp.com/IdLCVvIPbJjANbeqUVnemG",
+    "description": "Embassy of Nigeria Kuwait and Bahrain support group chat - community support, safety advisories and updates for Nigerian nationals.",
+    "category": "Community",
+    "country": "Kuwait",
+    "image": ""
+  },
+  {
+    "name": "Middle East Evacuation Info - Kuwait",
+    "invite": "https://chat.whatsapp.com/JEVYxol0FRi39OhPaJM6Z1",
+    "description": "Kuwait travelers group chat for Middle East self-evacuation info - land transfer coordination and safety updates for the Gulf region.",
+    "category": "Travel",
+    "country": "Kuwait",
+    "image": ""
+  },
+  {
+    "name": "SIC Mega Quiz Kuwait",
+    "invite": "https://chat.whatsapp.com/C4Jksm9LCv4CWJfeBFiM6K",
+    "description": "SIC Mega Quiz Competition community for Indian nationals in Kuwait - real-time updates, announcements and quiz communication.",
+    "category": "Community",
+    "country": "Kuwait",
+    "image": ""
+  },
+  {
+    "name": "Sahaja Yoga Meditation Manama",
+    "invite": "https://chat.whatsapp.com/EJvwZfLezsdKyVzN71tuSu",
+    "description": "Sahaja Yoga meditation community in Manama, Bahrain - learn, practice and unwind with recurring meditation sessions.",
+    "category": "Wellness",
+    "country": "Bahrain",
+    "image": ""
+  },
+  {
+    "name": "Bahraini Music Fans Group",
+    "invite": "https://chat.whatsapp.com/6ZRsRbcACfmFxAyQys9XQq",
+    "description": "Fan community for Bahraini pop singer Hala Al Turk - music updates, videos and entertainment from UMO Production.",
+    "category": "Entertainment",
+    "country": "Bahrain",
+    "image": ""
+  },
+  {
+    "name": "Arabic Industries Majlis",
+    "invite": "https://chat.whatsapp.com/LJsZpnl4d6t5CGfvSTrgct",
+    "description": "Arabic and English language exchange community in the UAE - meetups to exchange English and Arabic, professional Arabic program, high-level speakers.",
+    "category": "Language",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Abu Dhabi Meditation Group",
+    "invite": "https://chat.whatsapp.com/ItGH2TjTq139NsdqRT6BOo",
+    "description": "Learn and practice meditation while meeting like-minded people - weekly guided meditation sessions, discussions and friendly hangouts at Open Circle Yoga, Abu Dhabi.",
+    "category": "Wellness",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Abu Dhabi Expat's Community",
+    "invite": "https://chat.whatsapp.com/ID3d0rTKsTpJCbT6eLyjLX",
+    "description": "Vibrant expat community in Abu Dhabi - regular meetups, social events, workshops on navigating life in the UAE, cultural exchange and networking.",
+    "category": "Community",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Hudayriyat Sports Abu Dhabi",
+    "invite": "https://chat.whatsapp.com/BhrEg7pmCvWG8U8CWRM1it",
+    "description": "Sports bookings and community at Hudayriyat Island 321 Sports - padel, football games, surf sessions and dining experiences.",
+    "category": "Sports",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Run with Rixos Abu Dhabi",
+    "invite": "https://chat.whatsapp.com/KKbNTIkSZxHFhpsWVKINUh",
+    "description": "Run with Rixos charity run community in Abu Dhabi - Corniche runs for Movember, ice baths, breakfast bites and live DJ post-run celebrations.",
+    "category": "Sports",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Abu Dhabi Chess Lovers Club",
+    "invite": "https://chat.whatsapp.com/EnA9f5UeJij6FSAqd7TRr4",
+    "description": "Abu Dhabi chess community - rapid chess championships, casual games and fun team events at cafes across the city, all nationalities welcome.",
+    "category": "Games",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Abu Dhabi Book Lovers Club",
+    "invite": "https://chat.whatsapp.com/Lls5cdKXXv9EfGr2KczcoC",
+    "description": "Abu Dhabi book club - book giveaways, book exchanges and guided discussions over books, authors and stories.",
+    "category": "Books",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Sharjah Saturday Coffee Hangout",
+    "invite": "https://chat.whatsapp.com/L0FoXrMYP74HV6X1WwIMqU",
+    "description": "Saturday morning coffee hangout in Sharjah - small friendly gatherings over coffee, conversations about ideas, books, work and life. No networking pitches.",
+    "category": "Social",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Kuwait News Updates Group",
+    "invite": "https://chat.whatsapp.com/JwjTxtP7SMiEbr9IDkTJiK",
+    "description": "Kuwait news updates group in Malayalam - latest Kuwait news and job opportunity alerts shared daily.",
+    "category": "News",
+    "country": "Kuwait",
+    "image": ""
+  },
+  {
+    "name": "Doha Picnic Social Group",
+    "invite": "https://chat.whatsapp.com/DRoswJ5effQ870GnUhmLJl",
+    "description": "Doha social meetup community - picnics at MIA Park, social networking events and outdoor gatherings to make new friends in Qatar.",
+    "category": "Social",
+    "country": "Qatar",
+    "image": ""
+  },
+  {
+    "name": "Explore Dubai WhatsApp",
+    "invite": "https://chat.whatsapp.com/Fy35Wbg4aY498VnuTZvGLY",
+    "description": "Explore Dubai WhatsApp community by Urban Events Global - events, networking and travel connections for travelers, professionals and expats in Dubai.",
+    "category": "Community",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Dubai Meditation Community",
+    "invite": "https://chat.whatsapp.com/C4B9vZivGyO9zAHhRlVO8l",
+    "description": "Dubai meditation community based on Dr Joe Dispenza's work - online and in-person meditations, 21 sessions per week plus walking meditations.",
+    "category": "Wellness",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Web3 Dubai Yacht Networking",
+    "invite": "https://chat.whatsapp.com/DEHP6aXfOTa8MHI7HYQGh8",
+    "description": "Dubai Web3 and blockchain networking community - events, presentations and discussions on the latest in decentralized tech.",
+    "category": "Technology",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "KAUST Toastmasters Club",
+    "invite": "https://chat.whatsapp.com/KZ2het9qDyN0iYzWFpbrAZ",
+    "description": "Toastmasters public speaking club at King Abdullah University of Science and Technology, Saudi Arabia - meetings every other Wednesday, learn public speaking by doing.",
+    "category": "Education",
+    "country": "Saudi Arabia",
+    "image": ""
+  },
+  {
+    "name": "OM Chanting Dubai",
+    "invite": "https://chat.whatsapp.com/HPu7ZPoaANWLsDIcKCSqbv",
+    "description": "OM Chanting meditation and sound healing circle in Dubai - group OM chanting practice at Soul Side Wellness, Jumeirah Lake Towers.",
+    "category": "Wellness",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Free Outdoor Fitness Dubai",
+    "invite": "https://chat.whatsapp.com/JSYvfmlxnNhEc1oQQCtJ7q",
+    "description": "Free outdoor fitness group in Dubai by UrbanTribe.dxb - holistic fitness for all levels: warmup, animal flow, HIIT, core, yoga and breathing.",
+    "category": "Fitness",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Watar Music and Arts Academy Doha",
+    "invite": "https://chat.whatsapp.com/GJZKE5N7cRc1GblfHyzrvg",
+    "description": "Watar Music and Arts Academy in Doha - music classes, ballet, drum and dabke performances, student achievements and academy updates.",
+    "category": "Music",
+    "country": "Qatar",
+    "image": ""
+  },
+  {
+    "name": "PTC MENA Qatar Engineers",
+    "invite": "https://chat.whatsapp.com/K1HjgekgA7Q17r5ei6Emis",
+    "description": "Philippine Technological Council MENA Qatar chapter - engineering community networking, technical conferences and World Engineering Day events in Doha.",
+    "category": "Professional",
+    "country": "Qatar",
+    "image": ""
+  },
+  {
+    "name": "UAE Photography Club",
+    "invite": "https://chat.whatsapp.com/A0RjHyxQIKrI2uPEzbYj7e",
+    "description": "UAE Photography Club community in Dubai - casting calls, shoots, photography events and networking for photographers.",
+    "category": "Photography",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Anime Society DXB",
+    "invite": "https://chat.whatsapp.com/BaVC4Y1G4lmH9tIuvTBJKc",
+    "description": "Anime Society DXB - anime fan community in Dubai, Japan Culture Con meetups, cosplay, anime merch and festival gatherings.",
+    "category": "Anime",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Community of Curious Minds Dubai",
+    "invite": "https://chat.whatsapp.com/JoVNHmlz02uKxXAL9MQ3jW",
+    "description": "Dubai philosophy community at DIFC - sober philosophy events, debates, book club, drunken philosophy, picnics and stargazing trips.",
+    "category": "Philosophy",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Dubai AI Meetup",
+    "invite": "https://chat.whatsapp.com/JjrVIJyxHbe9fUWoGLaJsZ",
+    "description": "Weekly Saturday AI meetup community in Dubai - AI programmers, engineers, investors and curious minds, casual discussions and business idea pitches.",
+    "category": "Technology",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "ShuttleIQ Badminton Dubai",
+    "invite": "https://chat.whatsapp.com/HqkDIpLMHyV7vKzjePctXr",
+    "description": "Badminton community at Dubailand and DSO Dubai - regular badminton sessions, bring your racket.",
+    "category": "Sports",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Desert Raiders UAE",
+    "invite": "https://chat.whatsapp.com/EiJUm6dXGDB1Fs5tDf77S0",
+    "description": "UAE desert off-roading community - weekend drives, recovery rope and equipment talk, desert adventure coordination.",
+    "category": "Adventure",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Krazzy Adventures Padel Dubai",
+    "invite": "https://chat.whatsapp.com/BecRdEMdGSz7qhavvlwdrM",
+    "description": "Paddle tennis with Krazzy Adventures at Dubai Sports World - learn padel tennis from beginners to experts, 50 AED per person per hour.",
+    "category": "Sports",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Hive MTG Community Dubai",
+    "invite": "https://chat.whatsapp.com/LubW5L1zCCMCHoKiRKkWaQ",
+    "description": "Magic The Gathering community in Dubai - Thursday casual commander games and Magic Academy learn-to-play sessions at HIVE Board Game Cafe, Sheikh Zayed Road.",
+    "category": "Games",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Money Minds Book Club DXB",
+    "invite": "https://chat.whatsapp.com/DPbMfZndPooGHSxFCLCKHg",
+    "description": "Money Minds investing book and podcast club in Dubai - discussions on investing, finance podcasts and talks at Souk al Bahar, Dubai Mall.",
+    "category": "Finance",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Dollar Diaries Spend Less Community",
+    "invite": "https://chat.whatsapp.com/FG67aEgWQa5IP1W1ue5J8s",
+    "description": "The Dollar Diaries podcast community in the UAE - weekly discussions on making, managing and multiplying money, making dirhams dance.",
+    "category": "Finance",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Handball Club Dubai",
+    "invite": "https://chat.whatsapp.com/IJCnLZZRiwRAS7u8ddZkhh",
+    "description": "Handball Club Dubai broadcast chat group - training times, matches and events, open for men and women all levels 18+.",
+    "category": "Sports",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Prabasi Odia Samaj Abu Dhabi",
+    "invite": "https://chat.whatsapp.com/GQzKoDshJeL4nD4qyLStya",
+    "description": "Odia cultural community in Abu Dhabi - celebrates Odisha traditions with music, dance, food, games and festivals like Raja Utsav.",
+    "category": "Culture",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "A Few Good Pages - Short Story Book Club",
+    "invite": "https://chat.whatsapp.com/IpIMc6c87W49FJIg1cRDJk",
+    "description": "Weekly short story circle in Dubai - read together and discuss one or two short stories at Mall of the Emirates and JLT",
+    "category": "entertainment",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "A Few Good Pages - Short Story Book Club",
+    "invite": "https://chat.whatsapp.com/EXWaYqf5iAYEz8OJ5Frk9t",
+    "description": "Weekly short story reading and discussion circle in Dubai, Mall of the Emirates",
+    "category": "entertainment",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Winner dinner - Board games night",
+    "invite": "https://chat.whatsapp.com/EQf0n5Gtg2XDotL7Hno8bF",
+    "description": "Weekly board games night in Downtown Dubai - meet new people over board games",
+    "category": "entertainment",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Adventur Next",
+    "invite": "https://chat.whatsapp.com/JflIvCJkGoDLgPBQ14kKGM",
+    "description": "Dubai adventure community - hiking, trekking, bicycling, climbing, running and walking events",
+    "category": "entertainment",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Active Fitness Community (AFC)",
+    "invite": "https://chat.whatsapp.com/GTZISvVe6vDFMYk8wz00QJ",
+    "description": "UAE fitness community - running, cycling, hiking, badminton, zumba, yoga and obstacle races",
+    "category": "entertainment",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Saudi Sailing Championship",
+    "invite": "https://chat.whatsapp.com/DAVXYcXJD8tLqPHmbXTVA5",
+    "description": "Saudi national sailing championship event group - Jeddah sailing community updates",
+    "category": "entertainment",
+    "country": "Saudi Arabia",
+    "image": ""
+  },
+  {
+    "name": "Urban Events Global",
+    "invite": "https://chat.whatsapp.com/IgeoaaV0p5iGR6XZW4Zoej",
+    "description": "UAE events community - travel weekends, camp weekends and social events updates",
+    "category": "entertainment",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Ladies Forum of Pakistan Association Dubai",
+    "invite": "https://chat.whatsapp.com/JPnS2iuFpUo5f5UELfUmJW",
+    "description": "Pakistani ladies community in Dubai - events, Eid celebrations and community activities",
+    "category": "social",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Marina Pub Crawl Dubai",
+    "invite": "https://chat.whatsapp.com/EaFzeakk5qn3RQGIcnTltA",
+    "description": "Dubai Marina pub crawl - hosted social nightlife events in JBR",
+    "category": "entertainment",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Moms, Pops and Tots Dubai",
+    "invite": "https://chat.whatsapp.com/HaNgqGUfrH1LaOrak1SJhD",
+    "description": "Family initiative at Mohammed Bin Rashid Library Dubai - interactive family events for parents and tots",
+    "category": "social",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Online Yoga Classes Doha",
+    "invite": "https://chat.whatsapp.com/KCmRyNg8pRNKBbYGZZLWoG",
+    "description": "Doha online yoga community - pranayama, mudra and hatha yoga sessions",
+    "category": "entertainment",
+    "country": "Qatar",
+    "image": ""
+  },
+  {
+    "name": "Unwind Sports Community Badminton",
+    "invite": "https://chat.whatsapp.com/DJAZKdJUCmdG7lDVb5tzyn",
+    "description": "Social sports community playing badminton and more across Dubai. Relax, socialise and stay active with like-minded players.",
+    "category": "social",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "AFC Smashers Badminton",
+    "invite": "https://chat.whatsapp.com/DWRVYSewNsYEwIxfsIqlwF",
+    "description": "A sub-group of the Active Fitness Community for passionate badminton players in Dubai. Queuing and tournaments at Abu Hail.",
+    "category": "social",
+    "country": "UAE",
+    "image": ""
+  },
+  {
+    "name": "Kite Beach MK Volley",
+    "invite": "https://chat.whatsapp.com/Gf6ZgKq58Mg9usiaqafb0A",
+    "description": "Beach volleyball sessions at Kite Beach Dubai, open for men and women. Weekly games with fixed setter rotation.",
+    "category": "social",
+    "country": "UAE",
+    "image": ""
+  }
+]
