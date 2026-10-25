@@ -1,0 +1,21 @@
+=== 100K PUSH — Oct 18 2026 ~11:05 PKT ===
+PHASE 1A done: 108 team files (91,009 records) -> 33,354 NEW candidates (42,094 dup of existing, 11,032 in-queue dups, 76 adult-filtered, 4,453 no-code) -> queued_new_oct18.json
+PHASE 1B: verify_queued_oct18.py running in background (60 workers) -> verified_new_oct18.json
+PHASE 2: 13 scraper subagents launched (team104-grupodewhatsapp, team105-groupsgyani, team106-wagroupslink, team107-whtsgroupslinks, team108-groupize, team109-invitegroups, team110-reddit, team111-social, team112-niche-jobs, team113-niche-study, team114-niche-crypto, team115-new-directories, +1)
+Rules: dedupe by code, verify working links only, porn filter (ADULT_RE), no source names on site.
+team105-groupsgyani: COMPLETED 0 groups — site needs JS clicks (invite behind disclaimer dialog), no live browser. Empty JSON saved (pipeline-safe). Reassigning team105 to static-site target.
+~11:35 PKT: verify run #1 died at 18,000/33,354 (cause unknown, resumable). Interim: 17,367 dead (96.5%), 632 uncheckable, 1 ok. Old queued links are overwhelmingly dead.
+~11:40 PKT: FIXED adult filter plural bug (desi girls etc. slipped through) in merge_queued_oct18.py + baked v2 filter into generate.py template (parent's submit.html edit had been wiped by generate.py regeneration - root-caused via byte-code analysis). Regenerated, 10/10 regex tests pass, submit.html redeployed live (commit 0f606cccc).
+~11:42 PKT: relaunched verification for remaining ~15,354 (resumable via verify_new_state.json).
+OUTLOOK: Phase 1 net will be tiny (likely <1k). 100K target depends on Phase 2 fresh scrapes.
+~12:15 PKT: 12/13 scrapers reported. Usable new coded groups: team105-static-dirs 405, team106 2, team109 101, team110 362, team111 328, team112 121, team113 123, team114 252 = 1,694 recs. team104 100 recs have NO invite codes (JS-gated, needs live browser). team107/team108/groupsgyani = 0 (JS-gated). team115 worker never reported, file missing -> respawned.
+Wave2 merge: 1,694 -> 986 dup (existing/queue overlap) -> 708 NEW candidates -> wave2_new_oct18.json. Verifying now (verify_wave2_oct18.py, background).
+Phase1B still at 18,000/33,354 (checkpoint every 2k).
+~13:00 PKT: WAVE 2 DEPLOYED live. 708 fresh candidates -> 80 ok / 88 dead / 540 uncheckable (retest showed uncheckables are dead too - rate-limit artifacts). Merged 80 -> site 31,109 -> 31,189. Verified live "(31189+ Groups)". Commit 6ded19988 pushed.
+Phase1B at 22,000/33,354: 20,871 dead, 1,127 uncheck, 2 ok. Still running.
+Running total added today: +86 verified (6 unexplained +80 wave2). Site: 31,189.
+~14:00 PKT: PHASE 1B COMPLETE. 33,354 old-queue links fully verified: ~7 ok total. Merge: 2 added (4 dup), 0 adult. Site: 31,189 -> 31,191.
+Phase 1 final tally: 33,354 candidates -> 2 net new groups. Old queue exhausted.
+~15:00 PKT: PHASE 1 FINAL + WAVE 3 DEPLOYED. Phase1: 33,354 old links -> 2 net new. Wave3 (team115 respawn, 217 recs): 44 dup, 32 adult-filtered (Girls groups), 141 candidates -> 48 ok / 93 dead. Merged 48. Site: 31,189 -> 31,239. Live verified "(31239+ Groups)", filter live. Commit ab5a2754c.
+Porn filter v3: added standalone girls? to merge script + generate.py template + live submit.html.
+DAY TOTAL: 31,103 -> 31,239 = +136 verified working groups.

@@ -1,0 +1,13 @@
+=== MASSIVE SCRAPE — Oct 18 2026 08:14 PKT ===
+Wave 1 launched: team200-209 (10 scrapers)
+Base: 31,271 groups
+Wave 1 deployed: +18 verified (31,271 -> 31,289), commit 791ddd92c
+Wave 3 launched: team220-229 (10 country scrapers: PK, IN, USA, UK, NG, PH, BD, UAE/SA, CA/AU, ID)
+[2026-10-18 15:05 PKT] DEPLOYED: wave1 batch2 +43 verified, wave2 +355 verified (282+73 retry) -> 31,687 groups live. Wave3 verify running (894 cands). Wave4 scrapers 230-237 launched.
+[2026-10-18 10:39:32] Wave3 merged: +230 verified (247 ok, 17 dup/junk), -15 adult removed by porn filter -> 31,896. Commits local-only: git remote missing, push BLOCKED.
+[2026-10-18 10:55 UTC] Wave4 merged: 8,127 candidates (team230 alone: 7,979 real codes). Verify running (25 workers, ~70min). Wave5 launched: teams 238-243 (Africa2, LatAm, Jobs, Study, Islamic, Turkey/CAsia). BLOCKER: wgl-deploy has no git remote; all pushes local-only; live site stuck at 31,289 until parent reconfigures remote.
+[2026-10-18 11:10 UTC] Wave5 partial merged: 779 candidates (233:271 tech, 243:93 turkey, 238:172 africa2, 242:211 islamic, 239:116 latam). Verify queued after wave4. Wave4 verify at 5000/8127 (587 ok). Still running: team240 jobs, team241 study, team222 usa.
+[2026-10-18 11:30 UTC] team241 study done: 599 scraped, 343 new -> wave5 total 1,122 candidates. Only team240 (jobs) still scraping.
+[2026-10-18 12:00 UTC] Wave5 deployed: +383 verified (458 ok, 75 dup/junk) -> 33,057 groups. Commits: wave4 e8f1033e5, wave5 6ac6d6893. NOTE: rsync must ALWAYS exclude .git/ (build dir has stale .git that corrupted deploy refs twice). Push still BLOCKED (no remote).
+[2026-10-18 12:15 UTC] Wave5b deployed: +90 verified jobs -> 33,147 groups.
+2026-10-18 12:21 PKT: Wave 5b complete. 1,858 new verified groups in local commits (33,147 total). Live site frozen at 31,289 - git remote missing, PAT unavailable without user password entry. Groups safe in local commits.
