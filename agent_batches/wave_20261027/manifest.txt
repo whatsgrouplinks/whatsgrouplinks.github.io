@@ -1,0 +1,47 @@
+WhatsGroupLinks wave 20261027 — coordinator manifest (30 teams)
+Counts verified from team files on disk (NOT from team claims alone).
+Existing set checked: groups.json 38,051 groups + .existing_codes.json 73,169 codes = 73,170-code union.
+Verified = spaced-curl HTTP success + non-empty og:title. Pending = code-bearing but unverified (see per-team notes).
+
+team01-fresh-kenya.json | verified 3 | pending 26 | sources: Kenyan 2026/2027 university freshers directory, KCA Univ. attachment memo, Kenyatta Univ. Energy Eng. Club page, Elyzza Tours hike listing, Kenya Times articles, Newsblaze link
+team02-fresh-tanzania.json | verified 17 | pending 4 | sources: mavusu.com AjiraCoach groups, mtaala.co.tz teachers pages
+team03-fresh-ghana-westafrica.json | verified 6 | pending 1 | sources: Accra school homepage, Univ. of Ghana scholarship guide, Cameroon diaspora form, Cameroon music listing, Senegalese drum/dance page, CI app support reply
+team04-fresh-ethiopia-eastafrica.json | verified 0 | pending 16 | sources: groupjoin.link Uganda tag page, thelightofengineer.com Rwanda article, findglocal.com Lusaka listing, whatstele.com Zambia page (all codes dupes)
+team05-fresh-morocco-northafrica.json | verified 0 | pending 1 | sources: country-page directory (Libya page via related-groups links); DZ/TN/LY mostly name-only
+team06-fresh-egypt-gulf.json | verified 1 | pending 6 | sources: whtspgrouplink.com SA/QA/UAE/EG country pages, Meetup Dubai/Sharjah/Abu Dhabi pages, Arabic forum thread, UAE job pages
+team07-fresh-bangladesh.json | verified 7 | pending 8 | sources: grouplinkshare.com Bangladesh listing page (new, 15 cards, 0 dupes)
+team08-fresh-nepal-srilanka.json | verified 1 | pending 1 | sources: institute notice PDF (Gampaha HRM batch), news article (LK news group)
+team09-fresh-indonesia.json | verified 58 | pending 94 | sources: groupjoin.link tag/Indonesia pages 1-10 + tag/indonesian pages 1-3
+team10-fresh-philippines.json | verified 0 | pending 1 | sources: techsslash.com Philippines page (5 codes, all dupes), Philippines Sailing notice PDF
+team11-fresh-vietnam-thailand.json | verified 0 | pending 11 | sources: Hanoi dance/fitness studio, Hoi An meditation event, Hanoi coffee course, HCMC design community, Thailand news community, Bangkok school booster news, Bangkok triathlon club
+team12-fresh-brazil.json | verified 0 | pending 1 | sources: 17 Oct 2021 Brazil forum post (Indie Hackers Brasil); fresh BR directories found but Join-button-hidden
+team13-fresh-mexico.json | verified 12 | pending 6 | sources: Spanish search/university/union/chess/community listings (MX/GT/CR/PA/HN/SV)
+team14-fresh-latam-south.json | verified 21 | pending 31 | sources: Bogota district sports regulations, Bogota university arts/wellbeing pages, Lima fashion/health/education listings, Buenos Aires news/gaming pages
+team15-fresh-spain-portugal.json | verified 3 | pending 8 | sources: Oviedo student-council pages, ESI/UCLM, El Partido de Manu, Wuolah, nuevosvecinos threads, Huelva sailing notice, Lisbon European Studies PDF, Portuguese F1 podcast page
+team16-fresh-italy.json | verified 2 | pending 2 | sources: techsslash Italy listing, Meetup Rome/Milan pages, Italy scholarship pages, WASZP Italia Cup notice-of-race PDF, solar-cooking wiki page
+team17-fresh-france-germany-poland.json | verified 0 | pending 10 | sources: FR/DE event/community listings; PL directory page (~35 names, codes not extractable — live-browser lead)
+team18-fresh-turkey-eeurope.json | verified 10 | pending 5 | sources: Technical Univ. of Cluj-Napoca faculty pages (RO), Polytechnic student masterdoc list (RO), Karadeniz Technical Univ. contact-groups document (TR), Ukraine war news article (UA)
+team19-fresh-usa.json | verified 3 | pending 3 | sources: search-snippet raw invites (LA relationships page, Chicago church cell-group post, UChicago programme newsletter, Miami golf interview, Miami crypto chamber listing)
+team20-fresh-uk.json | verified 0 | pending 11 | sources: UK city/region searches (Birmingham, Edinburgh, Glasgow, Wales, Bristol, London student societies)
+team21-fresh-canada-australia.json | verified 7 | pending 6 | sources: whatgroups.com Canada page, whatsgroupslinkspk.com Canada page, whtsgrouplink.com international page, thinkingoutsidethesandbox.ca, group-hubs.com, Meetup/Humanitix/KeepActive/club-school city pages
+team22-fresh-nigeria.json | verified 1 | pending 4 | sources: Nairaland introvert threads, schoolgist.ng, schoolandcollegelistings.com, thenigeriaeducationnews.com, lasuma.org.ng, instituteofhealthsc.com, ixdf.org
+team23-fresh-safrica.json | verified 3 | pending 11 | sources: Kaapjag branch PDFs, Zimbabwe marketplace/Bulawayo/Marondera listings, Zimbabwe stock-investors listing, Cinema Society of Zimbabwe, Harare business listing, SA brand-growth listing, SA geology/ICT jobs listings
+team24-cat-sports.json | verified 3 | pending 1 | sources: search-snippet sports pages (football trialists, Dallas cricket club, university futsal network)
+team25-cat-gaming.json | verified 0 | pending 2 | sources: Unstop BGMI/Brawl Stars tournament pages, DGL Sri Lanka PUBG tournament page, search-snippet gaming pages
+team26-cat-crypto-earning.json | verified 5 | pending 1 | sources: forex/earning/community pages (names from og:title)
+team27-cat-education-jobs.json | verified 0 | pending 29 | sources: Kenya university freshers forums page, scholarship pages, Govt Job Alert Community page
+team28-cat-islamic-community.json | verified 0 | pending 9 | sources: meraonlineworld.com Islamic listing page, Meetup community pages (London)
+team29-cat-entertainment-health-news.json | verified 3 | pending 43 | sources: hubrecipes.com movies/news/active pages, walinking.link, wahublink.com (MS Shopping), groupwa.link, whtspgrouplink.com, 77links.com (mostly dupes)
+team30-fresh-english-dirs.json | verified 0 | pending 20 | sources: whatgroups.com, wahublink.com, whatsshare.com, groupchatlink.com, 77links.com, whatsgrouply.com, mdecommunity.com, Dubai/Alicante Meetup, UK farm/garden/university pages
+
+TOTALS (from files on disk):
+- Verified: 166 items = 166 unique codes
+- Pending: 372 items = 349 unique codes (23 pending-pending duplicates, all team01 <-> team27 Kenya freshers codes)
+- Verified internal duplicates: 0. Verified-vs-pending overlap: 0.
+- Verified overlap with existing 73,170-code union: 0. Pending overlap with existing union: 0.
+- Porn/URL-in-description regex hits in output files: 0.
+- Schema anomalies (pending only, fix at merge): team18 pending items carry an extra "verification" key (5 items) — strip it. Code-length anomalies in pending (re-check before merge): team01 20-char code (Kenyatta Energy Eng Club); team09 8-char code (GC UTAMA APRILIO — likely truncated/garbled); team11 11-char code (Thailand News Community — truncated); team14 21-char code (Comunidad Empleo y Bonos Chile); team16 24-char code (Milan Picnic — likely concatenated with following text); team22 20-char code (Nigeria University News Updates). Team27 Kenya freshers codes were truncated to 22 chars from a page with no separator — re-verify before merge. Team19 pending UChicago link is in /invite/ form — convert only after a plain-form re-check. Team24 pending code was printed in malformed form (domain missing) — confirm it resolves. Team08 pending name is inferred from article context, not og:title — drop if title stays empty.
+- Team-reported dedupe drops (overlap with existing, per team reports; not re-derived): team01 11, team03 2, team04 12, team05 1, team06 19, team07 0, team08 3, team09 0, team10 5, team11 5, team12 2, team13 7, team14 21, team15 3, team16 9, team17 11, team18 2, team19 8, team20 21, team21 20, team22 6, team23 11, team24 17, team25 8, team26 8, team28 12; teams 02/27/29/30 reported drops without a single total in their reports (see their leads files).
+- Porn drops (per team reports): team04 1 hard-porn Uganda group blocked; team29 2 porn-named candidates dropped (+1 out-of-slice code dropped, in neither file); team09 41 pre-verify drops (hard porn/sexual/profanity/meaningless titles) + 1 post-verification hard-porn title blocked; team02 excluded an explicit sexual-content directory entirely; team12/others: no porn items in outputs.
+- NOT merged, NOT generated, NOT deployed by coordinator (parent's step). groups.json, generate.py output, and ~/workspace/wgl-deploy/ were not modified by any team.
+- Note: parent_verify_merge_20261027.py (dated 06:58, before team outputs) was already present in the wave dir; coordinator did not create or run it.

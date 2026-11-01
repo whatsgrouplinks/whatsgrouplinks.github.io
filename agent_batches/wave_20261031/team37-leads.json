@@ -1,0 +1,67 @@
+[
+ {
+  "domain": "linktr.ee",
+  "url": "https://www.meetup.com/barcelona-digital-nomads/",
+  "why": "Barcelona Digital Nomads community posts its WhatsApp link via LinkTree on its meetup page; resolve the LinkTree to extract the invite code."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/international-socializing-in-budapest/",
+  "why": "Budapest International Socializing page has a WhatsApp groupchat link rendered as a truncated snippet (code not fully visible); fetch the group page to extract the full code."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=ph--manila&source=GROUPS",
+  "why": "Manila meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=ke--nairobi&source=GROUPS",
+  "why": "Nairobi meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=ng--lagos&source=GROUPS",
+  "why": "Lagos meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=eg--cairo&source=GROUPS",
+  "why": "Cairo meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=tr--istanbul&source=GROUPS",
+  "why": "Istanbul meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=br--sao-paulo&source=GROUPS",
+  "why": "Sao Paulo meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=ar--buenos-aires&source=GROUPS",
+  "why": "Buenos Aires meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=mx--mexico-city&source=GROUPS",
+  "why": "Mexico City meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=pl--warsaw&source=GROUPS",
+  "why": "Warsaw meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=at--vienna&source=GROUPS",
+  "why": "Vienna meetup groups not yet scraped for WhatsApp links."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/find/?location=ie--dublin&source=GROUPS",
+  "why": "Dublin meetup groups not yet scraped for WhatsApp links."
+ }
+]

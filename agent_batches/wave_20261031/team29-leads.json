@@ -1,0 +1,42 @@
+[
+  {
+    "domain": "mylittlecoupon.fr",
+    "url": "https://www.mylittlecoupon.fr/en/blogs/news/tous-les-groupes-couture-par-departement-en-france-my-little-coupon",
+    "why": "French sewing-supplies brand (My Little Coupon) — one WhatsApp sewing group per French department, 94 codes listed on a single page with department names. SCRAPED this wave (verify/append status in resume note)."
+  },
+  {
+    "domain": "meetfrenchies.fr",
+    "url": "https://meetfrenchies.fr/",
+    "why": "French expat community (Frenchies) — WhatsApp groups per destination (Bali cities, Thailand, Australia cities, Philippines, Vietnam). 27 unique chat.whatsapp.com codes in homepage HTML. SCRAPED this wave."
+  },
+  {
+    "domain": "grouplinkshub.net",
+    "url": "https://www.journaldufreenaute.fr/comment-puis-je-rejoindre-un-groupe-whatsapp-sans-invitation/",
+    "why": "French articles (journaldufreenaute.fr, umvie.com, practical-tips.com/fr) name these as WhatsApp directories known in France: WhatsGroupLink.com, GroupLinksHub.net, Group-Links.info. Not yet probed by this team."
+  },
+  {
+    "domain": "groupio.app",
+    "url": "https://groupio.app/",
+    "why": "German/French directory mentioned in French articles; HTML has no chat.whatsapp.com codes (JS-gated or signup wall). Possible for a browser-task wave; note team29 is French-assignment only."
+  },
+  {
+    "domain": "groupler.me",
+    "url": "https://groupler.me/",
+    "why": "Groupler.me / Groupster.me named in practical-tips.com/fr as French-known group directories (signup required). JS-gated; not curl-scrapable."
+  },
+  {
+    "domain": "everygroup.me",
+    "url": "https://www.everygroup.me/",
+    "why": "everygroup.me named in practical-tips.com/fr; homepage fetch failed (transport). Retry next wave."
+  },
+  {
+    "domain": "dansemotion.fr",
+    "url": "https://www.dansemotion.fr/ecstatic-dance-lyon-51",
+    "why": "French coupon/deal blogs (mylittlecoupon.fr model) and French org sites embed single WhatsApp groups; search pattern 'groupe whatsapp chat.whatsapp.com rejoindre site:.fr' yields org-level links one by one — low density, consider only if directory well runs dry."
+  },
+  {
+    "domain": "francaisdujapon.com",
+    "url": "https://francaisdujapon.com/whatsapp-groupes/",
+    "why": "French expat association in Japan (FFJ) with 13 themed WhatsApp groups (buy-sell, daily life Tokyo/Kansai, newcomers, education, health, tourism, real estate, admin). Invite links GATED behind member registration (francaisdujapon.com/register) — no public chat.whatsapp.com codes on the page. Needs member route; recorded for completeness."
+  }
+]

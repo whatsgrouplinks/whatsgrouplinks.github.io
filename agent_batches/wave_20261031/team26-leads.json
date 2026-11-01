@@ -1,0 +1,37 @@
+[
+  {
+    "domain": "whatshub.es",
+    "url": "https://www.whatshub.es/",
+    "why": "Fresh Spanish directory, 2,781 groups / ~143,575 participants, Spain + Latin America city tags. NOT in retired/covered lists. Homepage and group cards are JS-gated: invite links hidden behind buttons (only 1 code visible in text, banked as pending). RESUME: needs JS rendering or internal API to extract detail-page invite links at scale."
+  },
+  {
+    "domain": "grupodewhatsapp.com",
+    "url": "https://grupodewhatsapp.com/es",
+    "why": "Fresh Spanish directory claiming thousands of groups with daily human verification and per-group verification dates. Category pages (e.g. /es/stickers) list groups; detail pages /es/group/<slug> show name, member count, description — but invite buttons are JS-gated (no codes in text). RESUME: needs JS rendering to click through to chat.whatsapp.com codes."
+  },
+  {
+    "domain": "gruposwats.com",
+    "url": "https://www.gruposwats.com/",
+    "why": "Spanish directory, 2,700+ active links per droiders (filter by country/city/keyword). Homepage is an SEO article; _search_ pages returned empty in text fetch. RESUME: probe category/country listing pages; may need JS rendering."
+  },
+  {
+    "domain": "igrupos.com",
+    "url": "https://www.igrupos.com/",
+    "why": "CAUTION — verify with parent before scraping: 50,000+ WhatsApp links (factchequeado, active Mar 2026), tag pages /tag/whatsapp/<tema>/<N>, detail pages /grupo/<id>. BUT its privacy page lists contact informacion@amigossingles.com — same operator as amigossingles, which is on the AVOID list. Possible cross-team duplication; parent decision needed."
+  },
+  {
+    "domain": "TBD (Grupos Para Unirse)",
+    "url": "",
+    "why": "58,000+ WhatsApp links per droiders article (grupos-para-unirse style name). Domain not yet identified — needs discovery search."
+  },
+  {
+    "domain": "TBD (Tu Grupo Online)",
+    "url": "",
+    "why": "Group community directory per sinch.com and droiders articles (WhatsApp + Telegram + Discord, topic-grouped). Domain not yet identified — needs discovery search."
+  },
+  {
+    "domain": "freewagroup.com",
+    "url": "https://freewagroup.com/",
+    "why": "Spanish directory, 28 countries, fresh-looking pages (e.g. /internacional/). PARTIAL OVERLAP RISK: retired list shows freewagroup.com sports/news pages already covered by another team. Coordinate before scraping other pages to avoid duplication."
+  }
+]

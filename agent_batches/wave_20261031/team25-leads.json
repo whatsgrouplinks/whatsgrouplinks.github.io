@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "linkado.app",
+  "url": "https://linkado.app/categoria/links",
+  "why": "Fresh Brazilian directory (claim: 1,872 groups in 'links' alone, 226 musica, 303 LGBT, 100 cidades; updated 30/10/2026). Category/detail pages fetch via text, but invite codes are JS-gated behind an 'Entrar' redirect button — no chat.whatsapp.com codes in HTML text. Needs live-browser or curl-enabled run."
+ },
+ {
+  "domain": "gruposdewhatss.app",
+  "url": "https://gruposdewhatss.app/",
+  "why": "Claims 20,000+ groups published since 2023, 1,108 listing pages, categorized (Academia, Amizade, Amor e Romance, ...). Listing pages/pagination appear JS-gated; homepage text-fetch shows no group cards. Needs live-browser or curl-enabled run."
+ },
+ {
+  "domain": "gruposbrasil.com.br",
+  "url": "https://gruposbrasil.com.br/categoria/divulgacao",
+  "why": "Fresh 2026 Brazilian directory (161 divulgacao groups, 57 academia, 150 amizade, 111 amor-e-romance, 157 compras-e-vendas, 70 cidades). Invite codes hidden behind JS join button on detail pages. Needs live-browser or curl-enabled run."
+ },
+ {
+  "domain": "gruposdewhatsapp.blog.br",
+  "url": "https://gruposdewhatsapp.blog.br/categorias.php",
+  "why": "Classic Portuguese directory (cited by pt.wikipedia.org page on WhatsApp groups). Unreachable this wave (DNS/connection error via browser fetch). Retry next wave."
+ },
+ {
+  "domain": "quizlandia.club",
+  "url": "https://quizlandia.club/links-para-grupos-do-whatsapp/",
+  "why": "LOW priority: 2019-era list; most codes are /invite/ channel-format (excluded by schema); remaining 22-char codes are ancient and two titles ('Figurinhas +18', 'Contatinhos') trip the porn/suggestive filter. Only usable code: JfhadYMcuMdII6ppX2hwJW ('Fortnite BR', Gaming, BR) — likely dead, needs verification next wave."
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/",
+  "why": "RESUME POINT team09 wave_20261031: 48 priority listing pages + homepage scraped (49 of 841 sitemap pages). ~792 remaining listing pages in /tmp/team09/all_pages.txt were NOT scraped this wave. Fetch the remaining URLs, extract chat.whatsapp.com 22-char codes, dedupe against groups.json + .existing_codes.json, og:title-verify, bank. Overlap so far ~93%."
+ },
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/pubg-whatsapp-group-links/",
+  "why": "page hit the site's JS bot-check challenge on both attempts this wave; retry next wave"
+ },
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/free-fire-whatsapp-groups-links/",
+  "why": "page failed (bot-check challenge, then 301/0-byte) on all attempts this wave; retry next wave"
+ },
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/international-whatsapp-groups-links/",
+  "why": "page served only the JS bot-check challenge page on both attempts this wave; retry next wave"
+ },
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/",
+  "why": "ENVIRONMENT BLOCKER: og:title verification of chat.whatsapp.com was impossible this wave — the sandbox DNS resolves chat.whatsapp.com to blackhole 198.18.189.32 and browser_open returns 403. All 91 candidates banked as unverified-pending; run og:title re-verification from an environment where chat.whatsapp.com is reachable before merging."
+ }
+]

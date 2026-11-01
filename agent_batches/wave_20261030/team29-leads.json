@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Gastarbeiter Chatgruppe (already verified, note)",
+    "code_or_invite": "https://chat.whatsapp.com/Cc2nqvZivvd4VpMTj87Uzm",
+    "source_page": "https://groupmaster.app/de/group/320-gastarbeiter-chatgruppe",
+    "note": "Join button at /de/group/320/join redirects (302) to the chat link; verified live via curl."
+  },
+  {
+    "name": "Jobs For Foreigners (grupbul.com)",
+    "code_or_invite": "https://grupbul.com/redirect/175266/350532",
+    "source_page": "https://grupbul.com/group/175266",
+    "note": "JS modal flow (GRUBA KATIL); redirect endpoint returned 200 with no Location — could not resolve a 22-char code. Country unclear (site is Turkish)."
+  },
+  {
+    "name": "Let's Talk Spirituality WhatsApp",
+    "code_or_invite": "https://chat.whatsapp.com/GF5KMEZQdH0IYXnmhB2m1S",
+    "source_page": "https://www.meetup.com/meetup-group-uljznunf/",
+    "note": "Code is fresh and in page, but the group is in Chiang Mai, Thailand — outside the EU/UK slice, so excluded from fresh file."
+  },
+  {
+    "name": "Barcelona International Social WhatsApp (via API)",
+    "code_or_invite": "https://chat.whatsapp.com/K1ZY5vtVqPsKaGRnrAIdSO",
+    "source_page": "https://tinyurl.com/4e57pjzv",
+    "note": "tinyurl resolves to barcelonainternationalsocial.com/api/whatsapp which served the chat link HTML with og:title 'BCN INTERNATIONAL 26' — verified live; included in fresh file."
+  }
+]

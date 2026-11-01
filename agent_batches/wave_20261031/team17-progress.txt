@@ -1,0 +1,4 @@
+pages_completed=[128,129,131,135,136,138,139,140,141]
+verified=28
+pending=48
+resume=page 143 (429 on listing) then 144-174; also retry transport-failed listings 127,130,132,133,134,137,142

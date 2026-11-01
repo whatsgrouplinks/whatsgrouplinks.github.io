@@ -1,0 +1,12 @@
+[
+ {
+  "domain": "thewhatspgrouplinks.com",
+  "url": "https://thewhatspgrouplinks.com/",
+  "why": "DOMAIN CORRECTION: thewhatspgrouplink.com (no trailing S) does not resolve from this network (DNS points to 198.18.189.28 benchmark range; HTTP times out with 0 bytes). The real live site is thewhatspgrouplinks.com (with S) \u2014 team35 scraped it this wave (201 sitemap posts + 14 category archives; 83 verified new groups). Future wave assignments naming thewhatspgrouplink.com should target thewhatspgrouplinks.com."
+ },
+ {
+  "domain": "whatsapp.com",
+  "url": "https://thewhatspgrouplinks.com/greece-whatsapp-group-links/",
+  "why": "WhatsApp CHANNELS (not group invites) linked from thewhatspgrouplinks.com pages: 193 unique whatsapp.com/channel/ URLs harvested across crawled pages (e.g. Greece, Senegal). Excluded by the groups schema this wave; could feed a future channels wave. Sample: https://whatsapp.com/channel/0029Va6QlTuCXC3R9d2beW3r"
+ }
+]

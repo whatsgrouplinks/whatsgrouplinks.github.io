@@ -1,0 +1,37 @@
+[
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/earn-money-online?page=3&limit=20&safeSearch=moderate",
+  "why": "team42 resume point: earn-money-online category pp.1-2 scraped (Oct 31); p3+ not yet scraped. Records embed group_title/group_img/link JSON — same extractor as wave_20261031 team42."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/money?page=3&limit=20&safeSearch=moderate",
+  "why": "team42 resume point: money category pp.1-2 scraped (Oct 31); p3+ not yet scraped."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/groups/forex-whatsapp-group-links?page=3&limit=20&safeSearch=moderate",
+  "why": "team42 resume point: forex /groups/ pp.1-2 scraped (Oct 31); p3+ not yet scraped."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/crypto?page=2&limit=20&safeSearch=moderate",
+  "why": "crypto tag page 1 scraped by team42 (Oct 31, 10 fresh); page 2+ not yet scraped. Note: /tag/ scheme — avoid gaming/Indonesia tags (retired/covered)."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/Binance-signal?limit=20&safeSearch=strict",
+  "why": "Binance-signal tag exists (13 results per search snippet) but page 1 under safeSearch=moderate returned no records; retry with safeSearch=strict or page=2."
+ },
+ {
+  "domain": "forexgdp.com",
+  "url": "https://www.forexgdp.com/forex-signals/whatsapp-group-links/",
+  "why": "Forex signals listicle with NO direct chat.whatsapp.com codes — group access behind a registration form. Possible lead if a form/JS route is found; not scrapable via curl+regex."
+ },
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/work-from-home-whatsapp-group-links/",
+  "why": "Work-from-home/earning listicle on a team19-covered domain but this specific page was NOT in team19's 12 covered pages (Oct 30). Same li-structure extractor as whatslists.com applies."
+ }
+]

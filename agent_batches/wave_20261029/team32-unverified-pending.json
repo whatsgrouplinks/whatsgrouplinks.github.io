@@ -1,0 +1,34 @@
+[
+ {
+  "name": "Jobs Group",
+  "category": "Jobs",
+  "description": "A WhatsApp group for job seekers and vacancy updates.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/IzE0olpyTRp7OmfhhOpSgU",
+  "country": "PK"
+ },
+ {
+  "name": "Online Work Platform",
+  "category": "Jobs",
+  "description": "A WhatsApp group for job seekers and vacancy updates.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/Gkz4wLWSiPwIVOWqAFtSut",
+  "country": "International"
+ },
+ {
+  "name": "QATAR JOB UPDATES",
+  "category": "Jobs",
+  "description": "A WhatsApp group for job seekers and vacancy updates.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/DOE7EETnypqK2EpGAE73al",
+  "country": "QA"
+ },
+ {
+  "name": "MADRE JOBS 24",
+  "category": "Jobs",
+  "description": "A WhatsApp group for job seekers and vacancy updates.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/B7dxXz53T9c5iNNRL210nd",
+  "country": "QA"
+ }
+]

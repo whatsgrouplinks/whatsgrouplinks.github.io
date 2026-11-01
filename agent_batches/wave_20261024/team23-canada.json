@@ -1,0 +1,26 @@
+[
+ {
+  "name": "Love is Life",
+  "category": "Friendship",
+  "description": "Friendly community group in Canada for meeting new people and building connections. Open chat for everyday conversation, friendship and social bonding.",
+  "invite": "https://chat.whatsapp.com/invite/C4JJxgkIov2DksPZSfmOF1",
+  "country": "Canada",
+  "verification": "blocked_env"
+ },
+ {
+  "name": "Neet and CUET students",
+  "category": "Education",
+  "description": "NEET and CUET exam preparation group for students. Share study material, exam tips, previous papers and preparation strategies with fellow aspirants.",
+  "invite": "https://chat.whatsapp.com/EGRLNGrj4EU21QzKdh4eZo",
+  "country": "Canada",
+  "verification": "blocked_env"
+ },
+ {
+  "name": "Eligibility review required",
+  "category": "Community-Social",
+  "description": "Canada immigration support group for applicants whose eligibility shows review required. Share GCMS notes insights, timelines and application experiences.",
+  "invite": "https://chat.whatsapp.com/IfiHLcviTYnI3zBoH25aUY",
+  "country": "Canada",
+  "verification": "blocked_env"
+ }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Campus Mainz Ersti WhatsApp Gruppen (WiSe 2026-27)",
+    "code_or_invite": "not published (QR codes only)",
+    "source_page": "https://www.campus-mainz.net/studium/ersti-hilfe/wagruppen",
+    "note": "QR-code gated: group links only as QR images in article album; no chat.whatsapp.com URLs in HTML"
+  },
+  {
+    "name": "TU Braunschweig Fachgruppe EIT WiSe24/25 WA-Gruppe",
+    "code_or_invite": "not extractable",
+    "source_page": "https://fgeit.tu-braunschweig.de/7364",
+    "note": "JS-gated: WA group link on page but no chat.whatsapp.com URL in HTML"
+  },
+  {
+    "name": "erstie-gruppen.de TU Berlin Informatik (directory)",
+    "code_or_invite": "not extractable",
+    "source_page": "https://erstie-gruppen.de/tu-berlin/tu-berlin-informatik",
+    "note": "JS app: whatsapp_url empty in server-rendered data; link revealed only after interaction"
+  },
+  {
+    "name": "Fachschaft Medizin Wuerzburg Semestergruppen",
+    "code_or_invite": "not published",
+    "source_page": "https://www.med.uni-wuerzburg.de/fachschaft/infos-und-angebote/whatsapp-semestergruppen/",
+    "note": "Gated: links sent only by email after enrollment verification; no public invite links"
+  },
+  {
+    "name": "KIT Fachschaft MACH/CIW Bachelor WhatsApp Gruppen (O-Phase 2026)",
+    "code_or_invite": "not extractable",
+    "source_page": "https://www.fs-fmc.kit.edu/sites/default/files/downloads/Whatsapplinks%20Bachelor.pdf",
+    "note": "PDF-gated: invite links inside PDF link annotations; site blocks direct fetch, PDF text extraction shows no URLs"
+  }
+]

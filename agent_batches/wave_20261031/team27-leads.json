@@ -1,0 +1,32 @@
+[
+ {
+  "domain": "anyquizi.com",
+  "url": "https://anyquizi.com/top-groups-whatsapp",
+  "why": "Arabic WhatsApp groups directory (Islamic, stickers, chat, family sections seen in search snippet). Timed out via curl twice (transport failure) — retry next wave; likely reachable from a different route."
+ },
+ {
+  "domain": "mxawi.com",
+  "url": "https://www.mxawi.com/1188",
+  "why": "Arabic article with ~18-25 group invite links (chat groups, Islamic, stickers). curl timed out (exit 28) — transport failure, retry next wave."
+ },
+ {
+  "domain": "groupchatconnect.info",
+  "url": "https://groupchatconnect.info/",
+  "why": "Arabic/French group directory (group pages like /groupe/3308 seen in search results, Arabic listings, Egypt region noted). Reachable (HTTP 200) but NOT scraped this wave — fresh source for next wave."
+ },
+ {
+  "domain": "groupslinks.com",
+  "url": "https://www.groupslinks.com/search/label/alqrwbat-hsb-aldwltt/qrwbat-dwltt-alardn/page/2/",
+  "why": "RESUME POINT: I scraped only page 1 of 14 non-EG/MA/DZ/Gulf country labels (Jordan, Sudan, Somalia, Iraq, Yemen, Turkey, Tunisia, Comoros, Djibouti, Syria, Palestine, Lebanon, Libya, Mauritania). Labels paginate (Jordan has 19 pages); pages 2..N hold older groups. Next wave: crawl pages 2+ of each label, extract group-NNNN pages, main join link = a.grplink-wa-single-join-link, verify og:title. NOTE: many older pages show 'group full or deleted' (no join link) — expect lower yield."
+ },
+ {
+  "domain": "groupslinks.com",
+  "url": "https://www.groupslinks.com/search/label/alqrwbat-hsb-aldwltt/qrwbat-dwltt-mssr/",
+  "why": "EG/MA/DZ/Gulf country labels (Egypt qrwbat-dwltt-mssr, Morocco almghrb, Algeria aljzaaer, Saudi alsawdett, Kuwait alkwet, Bahrain albhren, Qatar qtdr, Oman auman) intentionally SKIPPED this wave (teams 21/22 coverage per brief). Flag for coordination: if unclaimed, scrape page 1 of each with the same method."
+ },
+ {
+  "domain": "groupslinks.com",
+  "url": "https://www.groupslinks.com/",
+  "why": "Topic-category labels on groupslinks.com (e.g. Islamic, money/business, gaming categories) were NOT scraped this wave — alternative entry point if country labels get crowded."
+ }
+]

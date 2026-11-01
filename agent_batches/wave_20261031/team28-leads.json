@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/indian-whatsapp-group-link/",
+  "why": "India category page exists but curl got a Cloudflare challenge; may be scrapeable via browser text-fetch — expected more India-group codes than the homepage yielded (only 18 live from homepage)."
+ },
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/jobs-whatsapp-group-links/",
+  "why": "Same-site category pages (jobs, movies, news, gaming, students, crypto) likely hold fresh codes; bhakti page yielded 1 fresh (dead) so other categories worth trying next wave."
+ },
+ {
+  "domain": "groupsop.com",
+  "url": "https://groupsop.com/",
+  "why": "Fresh directory with daily-updated groups at /invite/<22-char code>, BUT homepage is porn-saturated (viral-video/leaks titles) — scrape only with strict porn filtering or mark rejected."
+ },
+ {
+  "domain": "whtsgrouplink.com",
+  "url": "https://whtsgrouplink.com/indian-whatsapp-group-links/",
+  "why": "Indian page yielded 0 fresh codes, but it lists dozens of city sub-pages (Bhim Army, Metro, Bhavnagar, Bagalkot, Shillong...) which may carry fresh city-specific codes."
+ },
+ {
+  "domain": "wachannelsfinder.com",
+  "url": "https://wachannelsfinder.com/language/hindi/",
+  "why": "Hindi-language directory of WhatsApp groups/channels — needs check for real 22-char group invite codes (search snippets showed channels only)."
+ }
+]

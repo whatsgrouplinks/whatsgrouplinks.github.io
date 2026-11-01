@@ -1,0 +1,7 @@
+[
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/indonesia",
+  "why": "Resume point: Indonesia tag has 220 pages; team17 covered listing pages 128,129,131,135,136,138,139,140,141 (9/48 assigned). Uncompleted: 127,130,132,133,134,137,142 (transport-failed listings), 143 (429 on listing — respect cooldown before retry), 144-174 (not attempted). Method that works: listing API https://api.groupjoin.link/groups?tag=indonesia&page=N&limit=20 returns records (numeric id, title, desc, tags, category_slug, country iso2, group_img) but group_id is EMPTY in listings — resolve each via https://api.groupjoin.link/groups/<numeric-id> which returns group_id (the 22-char chat.whatsapp.com code). Skip category_slug=adult and ID/EN porn keywords (bokep, colmek, vcs, 18+, sange, ngentot, etc. + 🥵🍆🍑🔞💦👅👄💋🤤🫦). og:title-verify every code; per coordinator advisory retry empty og:title ONCE after 30-60s (false-dead under load). NOTE: /tag/indonesia/page/<N>/ path form 404s — use ?page=N param. The tag is porn-saturated (title of page 1 render was literally 'ONLY PORN'); most yield is JB (jual-beli) gaming stores."
+ }
+]

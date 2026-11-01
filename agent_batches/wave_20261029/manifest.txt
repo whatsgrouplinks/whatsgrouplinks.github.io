@@ -1,0 +1,76 @@
+MANIFEST — wave_20261029 (WhatsGroupLinks scrape coordinator)
+Generated: 2026-10-29 by scrape coordinator (parent: main agent)
+Existing base: 38,755 groups in groups.json; union codes (groups.json + .existing_codes.json): 73874
+
+team | verified(fresh) | pending | validation issues
+team01: fresh=0 pending=0 issues=0
+team02: fresh=5 pending=6 issues=0
+team03: fresh=0 pending=433 issues=0
+team04: fresh=21 pending=39 issues=0
+team05: fresh=0 pending=0 issues=0
+team06: fresh=14 pending=1093 issues=0
+team07: fresh=15 pending=85 issues=0
+team08: fresh=2 pending=132 issues=0
+team09: fresh=4 pending=2 issues=0
+team10: fresh=0 pending=0 issues=0
+team11: fresh=0 pending=0 issues=0
+team12: fresh=0 pending=81 issues=0
+team13: fresh=0 pending=38 issues=0
+team14: fresh=0 pending=14 issues=0
+team15: fresh=0 pending=0 issues=0
+team16: fresh=1 pending=2 issues=0
+team17: fresh=3 pending=1 issues=0
+team19: fresh=0 pending=0 issues=0
+team19b: fresh=0 pending=1 issues=0
+team20: fresh=0 pending=0 issues=0
+team21: fresh=0 pending=64 issues=0
+team21b: fresh=0 pending=1 issues=0
+team22: fresh=0 pending=0 issues=0
+team23: fresh=1 pending=0 issues=0
+team24: fresh=0 pending=62 issues=0
+team24b: fresh=0 pending=2 issues=0
+team25: fresh=1 pending=1 issues=0
+team26: fresh=0 pending=0 issues=0
+team27: fresh=7 pending=0 issues=0
+team28: fresh=4 pending=7 issues=0
+team29: fresh=6 pending=37 issues=0
+team30: fresh=10 pending=10 issues=0
+team31: fresh=0 pending=6 issues=0
+team32: fresh=7 pending=4 issues=0
+team33: fresh=5 pending=11 issues=0
+team34: fresh=0 pending=16 issues=0
+team35: fresh=13 pending=24 issues=0
+team36: fresh=8 pending=4 issues=0
+team37: fresh=0 pending=55 issues=0
+team38: fresh=3 pending=16 issues=0
+team39: fresh=0 pending=5 issues=0
+team40: fresh=1 pending=5 issues=0
+
+TOTALS: fresh(verified)=131 pending=2257
+
+DEDUPE & CONTENT ACTIONS BY COORDINATOR:
+- 19 cross-team/union duplicate items removed across team files (team30 fresh -2; team24/team24b/team30/team35/team37/team40 pending -17)
+- 151 stray _verified/_note keys stripped from pending files (schema: exact 6 keys)
+- 1 item dropped from team09 fresh: 'Walczak Gang (Warsaw Ghetto)' — Holocaust-adjacent meme name, reputational risk
+- 1 item demoted team21b fresh -> pending: 'Cricket Today' — live og:title is emoji-only flags (not meaningful per protocol)
+- 1 pending code promoted: E3kvexxDb5YDUZ78mvC4V9 (team21 pending -> verified by team21B, then demoted back to pending per above)
+- 3 names corrected to live og:title: 'Chicago Mawlid Committee'->'CMC Announcements'; 'Slottsskogen Beach Volleyball'->'Beach Volleyball'; 'All Corners Friends'->'World-wide Corner Friends'; 'JB ALL GAME VIZZ STORE'->'WEBP DAN BAHAN BY ANIS STORE'; 'JB || DEWZ'->'JB || DEWZZ-STORE'; 'GC1 || KEESTORE X HINZZ STORE'->'GC1 || KENSTORE'
+- porn-regex hits in final files: 0
+
+LIVE RE-VERIFICATION (coordinator, spaced curl og:title + invite_link_type_v2, AFTER team staging):
+- 132 verified items live re-checked in two batches (114 + 18): 132/132 still live with meaningful og:title + marker (0 dead). 1 item ('Cricket Today') was live but demoted to pending — its og:title is emoji-only flags, not a meaningful name per protocol.
+- Note: team12 (grouplinkshare India) reported WhatsApp pages 'fully client-rendered' and filed all 81 as pending; coordinator re-check confirmed SSR og:titles work (its 81 codes were genuinely dead/empty).
+
+RETIRED/EXHAUSTED THIS WAVE (do not re-assign next wave): whatslinkhub.com Ghana (parked domain); whatstele.com Telugu (site publishes no Telugu content); grouplink.com.in Malayalam Islamic (fully covered); groupjoin.link Kenya pp.3-4, Indonesia pp.11-30, Nigeria tags 9+, Kenya 5-8; joinnchat.com sub-pages (severe link rot, 91% overlap); whtspgrouplink.com SG/MY/LA/KH/TH/PH country pages (0 fresh)
+
+FLAGS:
+- team18 (LatAm EC/UY/PY/Medellin) went unresponsive and was closed with no output — slice unworked this wave.
+- team24 original claimed completion with no files, then delivered files late (63 pending); team24B replacement worked the same slice — cross-deduped, 4 dups removed.
+- team21 original lost its JSON (only leads.md written); team21B re-ran the slice; promoted code later demoted per emoji-title rule.
+- groupsor.com unreachable via curl (JS-rendered); SEMrush shows its top keywords are adult-heavy — any future browser round must stay on clean categories only.
+- Live-browser-only leads banked: groupssor.com, groupor.link, linkado.app (BR), gruposwhats.app, gruposbrasil.com.br, groupsjoin.com, globalwpgroups.com, thewhatspgrouplinks.com Libya (980+ JS-loaded)
+- team09 lead: groupio.app /groups/* category listings (freundschaften, gaming, fan-gruppen, Finanzen) hold more German pages than the 52 homepage ones.
+- team21b lead: whatsonly.com has ~186 fresh codes in other categories (YouTube/sub4sub, PK shopping, earning, friendship, trading) — /tmp/team34/whatsonly_rows.json
+- team32 lead: whtspgrouplink.com/uppcl-whatsapp-group-links as possible Education-slice lead.
+
+ALL FILES PASS VALIDATION (0 issues)

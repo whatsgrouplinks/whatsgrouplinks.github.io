@@ -1,0 +1,26 @@
+[
+  {
+    "name": "University of Oviedo Informatics Student Delegation",
+    "category": "Education",
+    "description": "A student information group for computer engineering students at the University of Oviedo, sharing faculty news and student council updates.",
+    "image": "",
+    "invite": "https://chat.whatsapp.com/FP7CsRmLnnr3ezyG9FqwDC",
+    "country": "ES"
+  },
+  {
+    "name": "University of Oviedo Science Faculty Student Delegation",
+    "category": "Education",
+    "description": "A student information group for science faculty students at the University of Oviedo, sharing faculty news and student council updates.",
+    "image": "",
+    "invite": "https://chat.whatsapp.com/La1401qFxWL5naAYmqMcTH",
+    "country": "ES"
+  },
+  {
+    "name": "VFF1 Formula 1 Discussion",
+    "category": "Sports",
+    "description": "A Portuguese-language group for Formula 1 fans to discuss races, drivers and the latest motorsport news.",
+    "image": "",
+    "invite": "https://chat.whatsapp.com/J3HKVX5qXYBILlQCtdjTDo",
+    "country": "PT"
+  }
+]

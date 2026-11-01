@@ -1,0 +1,12 @@
+[
+  {
+    "domain": "groupor.link",
+    "url": "https://www.groupor.link/group/find?category=<slug>",
+    "why": "Groupor's public backend (github.com/mrankushsingh/groupor-backend, FastAPI) exposes a paginated JSON API GET /groups?category=&country=&language=&q=&page=&page_size=(max 1000), but the live Railway deployment URL is not published on www.groupor.link (returns 404 there). Resolving the deployment URL would allow full-DB pagination beyond the 1000-record stream cap in the SSR page. RESUME NOTE: www.groupor.link started timing out after ~3 rapid page fetches from one IP (first fetch succeeded, follow-ups hit 40s timeouts) — fetch category pages slowly, one per 30-60s."
+  },
+  {
+    "domain": "groupor.link",
+    "url": "https://www.groupor.link/group/find",
+    "why": "YIELD WARNING for future waves: in categories art-design-photography / film-animation / entertainment-masti / fan-club-celebrities, 72 of 73 candidate invite codes returned EMPTY og:title (dead), 1 porn-blocked, and the single live code pointed to a different group than its record name ('Anime fanclub' record -> 'BITCOIN Trading INVESTMENT platform' live group). Dataset behaves like a stale/synthesized pool (~99% dead), similar to whatgroups.com. Deprioritize groupor.link unless fresher records appear."
+  }
+]

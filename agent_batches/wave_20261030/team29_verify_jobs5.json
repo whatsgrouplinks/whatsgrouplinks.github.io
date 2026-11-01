@@ -1,0 +1,30 @@
+[
+ {
+  "code": "Ldzn6cv2jCmKDGQwNKshTi",
+  "name": "TechniekMatch Zuid-Holland",
+  "category": "Jobs",
+  "country": "NL",
+  "description": "A regional WhatsApp group sharing the newest technical job vacancies. Covering the Zuid-Holland region."
+ },
+ {
+  "code": "B8YLhQd8HxhFK1tRluADQb",
+  "name": "TechniekMatch Noord-Holland",
+  "category": "Jobs",
+  "country": "NL",
+  "description": "A regional WhatsApp group sharing the newest technical job vacancies. Covering the Noord-Holland region."
+ },
+ {
+  "code": "EPXYkmC6NliGiCyDbW3nuM",
+  "name": "TechniekMatch Noord-Brabant",
+  "category": "Jobs",
+  "country": "NL",
+  "description": "A regional WhatsApp group sharing the newest technical job vacancies. Covering the Noord-Brabant region."
+ },
+ {
+  "code": "DPpXYRW4QHV4vd6wP9AX94",
+  "name": "TechniekMatch Utrecht",
+  "category": "Jobs",
+  "country": "NL",
+  "description": "A regional WhatsApp group sharing the newest technical job vacancies. Covering the Utrecht region."
+ }
+]

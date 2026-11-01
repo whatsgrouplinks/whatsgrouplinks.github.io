@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Karadeniz Technical University Student Group",
+    "category": "Education",
+    "description": "A student group for students at Karadeniz Technical University in Trabzon, for sharing university information and peer support.",
+    "image": "",
+    "invite": "https://chat.whatsapp.com/KVFct8Bi1FyCKrVfRy9HOD",
+    "country": "TR",
+    "verification": "unverified-pending"
+  },
+  {
+    "name": "Karadeniz Technical University Alumni Group",
+    "category": "Community & Social",
+    "description": "An alumni group for graduates of Karadeniz Technical University in Trabzon, for staying connected and sharing news.",
+    "image": "",
+    "invite": "https://chat.whatsapp.com/IVx2UdBCLnqDZ1PW7D26Ue",
+    "country": "TR",
+    "verification": "unverified-pending"
+  },
+  {
+    "name": "Energ Students",
+    "category": "Education",
+    "description": "A student group for Energ programme students, for sharing course information and peer support.",
+    "image": "",
+    "invite": "https://chat.whatsapp.com/F8dWA1MfeI535IwT9PIubv",
+    "country": "RO",
+    "verification": "unverified-pending"
+  },
+  {
+    "name": "IS Students",
+    "category": "Education",
+    "description": "A student group for IS programme students, for sharing course information and peer support.",
+    "image": "",
+    "invite": "https://chat.whatsapp.com/J76f7yX24M3Gc1pw1I8mMG",
+    "country": "RO",
+    "verification": "unverified-pending"
+  },
+  {
+    "name": "Ukraine War News Updates",
+    "category": "News",
+    "description": "A group sharing news updates about the war in Ukraine.",
+    "image": "",
+    "invite": "https://chat.whatsapp.com/K4lp5EKuqaACBUywirqziW",
+    "country": "UA",
+    "verification": "unverified-pending"
+  }
+]

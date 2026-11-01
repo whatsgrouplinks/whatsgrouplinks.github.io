@@ -1,0 +1,40 @@
+# Wave 20261030 — team manifest (counts verified from files on disk)
+# Format: team | fresh file | fresh count | pending count | leads count | primary sources
+team01 | team01-fresh-groupjoin-usa.json | 1 | 5 | 2 | groupjoin.link USA tag (?page=1-2), UK tag (fallback)
+team02 | team02-fresh-groupjoin-uk-nigeria.json | 6 | 0 | 85 | groupjoin.link UK tag (2 pages) + Nigeria tag (8 pages, 157 groups)
+team03 | team03-fresh-groupjoin-eastafrica.json | 0 | 2 | 43 | groupjoin.link Kenya (p1 — pp.3-4 404), Tanzania, Uganda tags
+team04 | team04-fresh-groupjoin-indonesia.json | 0 | 0 | 2406 | groupjoin.link Indonesia tag pp.31-220 (API), city tags (all 0 groups)
+team05 | team05-fresh-newdirs-search.json | 5 | 194 | 6 | techsslash.com, whtsagrouplinks.com, appgrouplink.com, groupsnest.com, wahublink.com, get.whtsgroupslinks.com
+team06 | team06-fresh-whtspgrouplink-sg-my.json | 0 | 0 | 0 | whtspgrouplink.com malaysia-whatsapp-group-links (24 dupes), singapore-jobs/investment pages (dead)
+team07 | team07-fresh-whtspgrouplink-mekong.json | 0 | 0 | 0 | whtspgrouplink.com laos/cambodia pages (no VN/MM pages exist; all dead)
+team08 | team08-fresh-meetup-amsterdam-oslo.json | 0 | 4 | 4 | meetup.com Amsterdam descriptions (codes pending; sandbox JS-gated)
+team09 | team09-fresh-meetup-nordics-berlin-melbourne.json | 4 | 0 | 3 | meetup.com Copenhagen/Berlin/Gothenburg pages
+team10 | team10-fresh-ecuador-uruguay-paraguay.json | 13 | 2 | 6 | Ecuador/Uruguay/Paraguay Spanish directories (course/event pages)
+team11 | team11-fresh-medellin-bogota.json | 2 | 26 | 31 | Colombia directories (whts.club all dead; amigossingles JS-gated)
+team12 | team12-fresh-macedonia-balkans.json | 24 | 0 | 0 | whtspgrouplink.com Macedonia/Serbia/Croatia country pages (HTTP-shell verified only — re-verify)
+team13 | team13-fresh-grouplink-malayalam.json | 0 | 2 | 0 | grouplink.com.in Malayalam Islamic pages (live codes were pre-existing dupes)
+team14 | team14-fresh-grouplinkshare-bangladesh.json | 0 | 0 | 8 | grouplinkshare.com bangladesh-whatsapp-group-links (only BD page; dead)
+team15 | team15-fresh-universities-de-nl.json | 14 | 7 | 5 | DE Fachschaft/FSR pages (KIT, Leipzig, Duisburg-Essen, TH OWL, Stuttgart, Trier, Koblenz) + ESN Utrecht/Wageningen/Amsterdam/Breda/Delft
+team16 | team16-fresh-universities-fr-se.json | 0 | 10 | 3 | FR law-student communities, EDHEC Monaco, ESN Toulouse (sandbox could not verify)
+team17 | team17-fresh-expat-city-dirs.json | 0 | 10 | 1 | whtspgrouplink.com Qatar page, theemiratesjob.com Qatar jobs (sandbox JS-gated)
+team18 | team18-fresh-cricket-sports.json | 211 | 1 | 10 | groups1.com, football listicles, wahublink sports, appgrouplink football, whatstele dream11 (whatgroups.com ~99% dead)
+team19 | team19-fresh-crypto-earning.json | 15 | 0 | 0 | crypto/earning listicles (PK/XX)
+team20 | team20-fresh-realestate-buysell.json | 7 | 0 | 1 | grouplink.com.in buy-sell page, groupsnest collections (real-estate niche 0 live)
+team21 | team21-fresh-health-cooking.json | 10 | 4 | 10 | fresh search snippets (YouTube, meetup events, business listings, newsletters)
+team22 | team22-fresh-poetry-shayari.json | 7 | 0 | 9 | whtsagrouplinks Urdu-poetry/shayari, hubrecipes poetry, groupwa.link
+team23 | team23-fresh-scholarship.json | 22 | 0 | 0 | appgrouplink.com/scholarship, scholarhunter.com, grouplink.com.in scholarship section
+team24 | team24-fresh-newdirs-deep.json | 50 | 1 | 13 | whatsgroupjoinlinks.com, whatsonly.com, whtsagrouplinks.com, groupsinvite.link (+ groupor.link/thewhatspgrouplinks.com discoveries)
+team25 | team25-fresh-listicles-new.json | 0 | 0 | 662 | whtsagrouplinks.com, whatgroups.com, groupsnest.com, groupwa.link, whatspgroupslink.com, whatgrouplinks.org (JS-gated, browser needed)
+team26 | team26-fresh-southasia-org-ngo.json | 10 | 3 | 5 | Rotary India PDFs, IEEE BIT Mesra, unstop, Aagaaz/IIT fest pages
+team27 | team27-fresh-rwanda-zambia.json | 7 | 0 | 13 | findglocal Zambian business/college pages, tohoza.com Kigali classifieds
+team28 | team28-fresh-uganda-ghana-ethiopia.json | 0 | 0 | 33 | groupjoin.link UG/GH tags (JS join buttons; browser needed), whtspgrouplink Ghana, whtsgrouplink Ethiopia
+team29 | team29-fresh-eu-uk-classifieds.json | 19 | 0 | 4 | EU/UK classifieds & community boards (GB/FR/NL/ES/DE/IT/AT)
+team30 | team30-fresh-korea-japan-taiwan.json | 5 | 1 | 1 | whatzgrouplink.com Korean page, thediplomariot.com (JP/TW use KakaoTalk/LINE, not WhatsApp)
+team31 | team31-fresh-arabic-eg-ma-dz.json | 10 | 1 | 8 | Arabic directories EG/MA/DZ
+team32 | team32-fresh-arabic-gulf.json | 0 | 1 | 67 | tikane10.com, mstaml.com, anyquizi.com (sandbox could not verify)
+team33 | team33-fresh-portuguese.json | 10 | 15 | 2 | meetup/shotgun/eventbrite PT community pages, empmoz.com, garantesuavaga.com, ongrupos.com
+team34 | team34-fresh-country-search.json | 7 | 0 | 12 | groupor.link (NEW global dir), thewhatspgrouplink.com country pages, whtsagrouplinks.com international page
+team35 | team35-fresh-freelance-study.json | 22 | 3 | 13 | englishums.com, vocabineer.com, mrmrsenglish.com (freelance niche 0 live)
+team36 | team36-fresh-gaming.json | 37 | 4 | 30 | techapkzone, whatstele, whtsagrouplinks PUBG/BGMI pages, groupjoin.link gaming tag pp.1-12 (pp.13+ remain)
+# Totals: fresh 518 | pending 296 | leads 3496
+# Net for merge: 492 group-format verified items (518 minus 13 pre-existing slips minus 4 cross-team extra copies minus 9 channel-format)

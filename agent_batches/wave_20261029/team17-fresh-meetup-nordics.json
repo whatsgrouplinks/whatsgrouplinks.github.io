@@ -1,0 +1,32 @@
+[
+ {
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29",
+  "category": "Community & Social",
+  "country": "SE",
+  "description": "A Gothenburg social group for relaxed Friday food and drinks meetups, bringing locals and newcomers together to mingle and make new friends.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/K995vrcviGA42TjNLiiFsp",
+  "name": "Friday Food & Drinks"
+ },
+ {
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29",
+  "category": "Sports",
+  "country": "SE",
+  "description": "A Gothenburg beach volleyball community group where players coordinate games, practice sessions, and friendly matches at Slottsskogen.",
+  "image": "https://pps.whatsapp.net/v/t61.24694-24/711530980_2186428578781138_895196426349007595_n.jpg?ccb=11-4&oh=01_Q5Aa5wGtt620LmzLTN5aB2Kce_Ao4ukl7KIN4iTrI6B-WStuNg&oe=6AF00B6D&_nc_sid=5e03e0&_nc_cat=110",
+  "invite": "https://chat.whatsapp.com/GWk1i2D24271JvAk1kvqGc",
+  "name": "Beach Volleyball"
+ },
+ {
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29",
+  "category": "Community & Social",
+  "country": "SE",
+  "description": "A Gothenburg stargazing community group for astronomy lovers to share night-sky events, guided moon tours, and telescope outings.",
+  "image": "https://static.whatsapp.net/rsrc.php/v4/yO/r/rukeqTVNJDY.png",
+  "invite": "https://chat.whatsapp.com/L3KEYpmIUkiAL5BarWMHCm",
+  "name": "Gothenburg Stargazers"
+ }
+]

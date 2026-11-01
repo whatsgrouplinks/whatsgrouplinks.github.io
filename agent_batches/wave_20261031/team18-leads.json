@@ -1,0 +1,12 @@
+[
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/indonesia/?page=221&limit=20&safeSearch=blur",
+  "why": "Indonesia tag listing ENDS at page 220 (page 220 returned only 1 record vs 20/page). Pages beyond 220 almost certainly return nothing — check before assigning deeper slices."
+ },
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/indonesia/?page=N&limit=20&safeSearch=blur",
+  "why": "URL scheme confirmed: /tag/indonesia/page/<N>/ now 404s; working scheme is ?page=N&limit=20&safeSearch=blur. Server intermittently 308-redirects the trailing-slash form to /tag/indonesia?page=N (no trailing slash) — retries succeed. Deep pages: ~90% of record 'link' fields are /invite/ channel-form (excluded per brief); usable plain chat.whatsapp.com codes only when pasted in group descriptions (~22% of records). Most records on pp.175-220 carry nsfw:1/contentRating:18 and explicit BOKEP (Indonesian porn-slur) titles are common — consider retiring Indonesia deep pages like the EU tags."
+ }
+]

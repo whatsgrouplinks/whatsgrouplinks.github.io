@@ -1,0 +1,32 @@
+[
+ {
+  "domain": "groupwa.link",
+  "url": "https://groupwa.link/",
+  "why": "Large Pakistan directory with daily updates; Cloudflare JS-gated on curl — needs browser route. NOTE: team12 has a team12-groupwa.json this wave — coordinate before re-scraping."
+ },
+ {
+  "domain": "wagroupnest.com",
+  "url": "https://wagroupnest.com/",
+  "why": "Pakistan WhatsApp guide with group tables (Karachi, drama, Islamic sections); not yet scraped."
+ },
+ {
+  "domain": "grouplinksforyou.com",
+  "url": "https://www.grouplinksforyou.com/search/label/Pakistani%20Whatsapp%20Group%20Links",
+  "why": "Blogger label page with Pakistan government-jobs/earning/drama group posts; curl returned 0 codes (may be JS-gated)."
+ },
+ {
+  "domain": "newgrouplinks.pk",
+  "url": "https://newgrouplinks.pk/",
+  "why": "RESUME POINT: fresh .pk directory (updated ~5 days ago). Scraped: pakistani, islamabad, cricket, peshawar pages. NOT yet scraped: karachi, lahore, rawalpindi, faisalabad, multan, quetta city pages + jobs/girls sections."
+ },
+ {
+  "domain": "whgroups.link",
+  "url": "https://whgroups.link/pakistan-jobs-whatsapp-group-links/",
+  "why": "Hand-verified Oct 20, 2026 Pakistan jobs page — all 24 codes already in union (0 fresh); main homepage whgroups.link/ returned 0 codes (JS-gated) — record as lead for browser route."
+ },
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/lahore-whatsapp-group-links/",
+  "why": "Lahore city page (updated ~7 days ago); curl got HTTP 403 — needs browser route. Note: team22 covered this domain's Urdu-poetry pages only."
+ }
+]

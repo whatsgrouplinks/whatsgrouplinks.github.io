@@ -1,0 +1,42 @@
+[
+ {
+  "name": "Anime Japan Day",
+  "category": "Entertainment",
+  "description": "A German-language WhatsApp group for anime fans following Anime Japan Day. Members share event schedules, cosplay photos, and anime discussions.",
+  "image": "https://pps.whatsapp.net/v/t61.24694-24/869243068_1156743946756812_5052180856397019408_n.jpg?ccb=11-4&oh=01_Q5Aa5wESOYJBx7JDzF1reQzaudA2-wotWTku7I3nVRP6hIgf-Q&oe=6AEFEE61&_nc_sid=5e03e0&_nc_cat=102",
+  "invite": "https://chat.whatsapp.com/CnqcO5XbXio7xDH4KI0oPZ",
+  "country": "DE",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Gays ab 18",
+  "category": "Community & Social",
+  "description": "A German-language WhatsApp social group for gay adults (18+) in Germany to chat, meet, and connect. Dating and friendship conversations welcome.",
+  "image": "https://pps.whatsapp.net/v/t61.24694-24/793934824_998780986512662_4544990213284123125_n.jpg?ccb=11-4&oh=01_Q5Aa5wEJ5DlSy_mWcG-tEv3YiAaw4_H1e4CdaU_ReJXGH_966A&oe=6AF01E8A&_nc_sid=5e03e0&_nc_cat=100",
+  "invite": "https://chat.whatsapp.com/JlLtAyVR82uIYwDkXJ0TuD",
+  "country": "DE",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Discord-Zocken",
+  "category": "Gaming",
+  "description": "A German-language WhatsApp group for gamers who play together via Discord. Members organize game sessions and share gaming news.",
+  "image": "https://pps.whatsapp.net/v/t61.24694-24/864928552_1297277735857422_3672491124857409772_n.jpg?ccb=11-4&oh=01_Q5Aa5wGiecrC_oLFUz3f_gKmfqH0KDunT30FSxLO9U1Xxty_Rw&oe=6AEFEDB8&_nc_sid=5e03e0&_nc_cat=110",
+  "invite": "https://chat.whatsapp.com/LjnKrnWKhQs4aG5BQqMmaC",
+  "country": "DE",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Friedhof der Vernunft",
+  "category": "Funny",
+  "description": "A German-language WhatsApp group for dark humor and sarcasm lovers. Members exchange memes, jokes, and satirical posts.",
+  "image": "https://pps.whatsapp.net/v/t61.24694-24/875102063_1469263108398383_3417514377786005359_n.jpg?ccb=11-4&oh=01_Q5Aa5wEEw0tKldm9O8hVyJHdHzjoFdufB7oUC-IjI4vS-KR1iQ&oe=6AEFF77C&_nc_sid=5e03e0&_nc_cat=108",
+  "invite": "https://chat.whatsapp.com/FmgRr6BFhL28Rt9ciB9k1L",
+  "country": "DE",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ }
+]

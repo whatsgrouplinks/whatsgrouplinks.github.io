@@ -1,0 +1,7 @@
+[
+ {
+  "domain": "www.groupor.link",
+  "url": "https://www.groupor.link/group/find?category=jobs-career",
+  "why": "team03 resume: 327/447 candidates NOT yet verified (run stopped after 120 verified). Re-fetch the 4 assigned categories (jobs-career, business-advertising-marketing, money-earning, news-magazines-politics) from a fresh crawl; skip codes already in the wave-20261031 union + team03 verified file. Remaining unverified candidate codes are embedded in the 2026-10-31 crawl saved by team03; progress state was in /tmp/team03_progress.json (ephemeral)."
+ }
+]

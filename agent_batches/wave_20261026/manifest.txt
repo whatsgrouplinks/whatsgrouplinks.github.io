@@ -1,0 +1,34 @@
+WhatsGroupLinks wave 20261026 — coordinator manifest (20 teams)
+Counts verified from team files on disk; verified = curl HTTP success + non-empty og:title.
+Pending = unverified-pending files (code-bearing) + name-only items (no invite code, Join-button leads).
+Existing set checked: groups.json 37,969 codes + .existing_codes.json, union 73,092 codes. Overlap with existing set: 0 in every file.
+
+team01-fresh-english-dirs.json | verified 0 | pending 17 (code-bearing) | sources: Tbilisi digital-nomad guide, India tech-community pages, expat/social pages (Lima, Paris, Madeira)
+team02-fresh-india.json | verified 0 | pending 95 (name-only, no codes) | sources: joinnchat.com India page, farmersvoice.in agriculture page
+team03-fresh-pakistan.json | verified 0 | pending 25 (name-only, no codes) | sources: hubrecipes.com Urdu Poetry, theiq.pk PTI Pakistan, whatsagroupslinks.com Punjabi (all Join-button)
+team04-fresh-bangladesh-nepal-lanka.json | verified 0 | pending 0 | sources: activewagroup.com LK/NP/BD pages (CORRECTED: already harvested wave 20261025, name-only leads only), linkgic.top, groplink.com
+team05-fresh-indonesia-malaysia.json | verified 14 | pending 13 (code-bearing, HTTP 200 + empty og:title x2 — parent should drop unless a 3rd check passes) | sources: Malaysian university language-course listing, Singapore alumni page
+team06-fresh-philippines-vietnam-thailand.json | verified 7 | pending 5 (code-bearing, empty og:title — needs live re-check) | sources: meetup.com listing pages (Bangkok, Chiang Mai, Manila, Saigon, Da Nang, HCMC)
+team07-fresh-nigeria.json | verified 3 | pending 0 | sources: business-listing directory pages (Port Harcourt/Lagos/Abuja), Nigerian tech-community article
+team08-fresh-eastafrica.json | verified 0 | pending 1 (code-bearing) | sources: walinking.link (MPYA ONLINE, TZ), wagroupslink.pro (Join-button lead)
+team09-fresh-safrica.json | verified 0 | pending 15 (code-bearing) | sources: Zimbabwe blog article, SA education PDF, Gauteng event page
+team10-fresh-westafrica.json | verified 0 | pending 8 (code-bearing) | sources: human-unity.org PDF, schoolandcollegelistings.com Ghana, steemit/allsportsandlove/findglocal singletons
+team11-fresh-latam-spanish.json | verified 0 | pending 3 (code-bearing) | sources: whatshub.es, gruposwats.com, whtsgroupslinks.com Spanish listicle, erappmus.com (all Join-button)
+team12-fresh-brazil-portuguese.json | verified 0 | pending 6 (code-bearing; codes from directory page URL slugs — parent must confirm slug = real invite code) | sources: ongrupos.com
+team13-fresh-europe.json | verified 0 | pending 9 (code-bearing) | sources: Meetup/community pages (Barcelona, Madrid, Munich, Birmingham, Manchester, London, Oxford, Amsterdam)
+team14-fresh-turkey-arabic-eeurope.json | verified 0 | pending 11 (code-bearing) | sources: grupbul.com (name-only), community/forum pages (Istanbul, Bucharest, Kyiv)
+team15-fresh-english-west.json | verified 0 | pending 15 (code-bearing) | sources: meetup.com, docs.google.com (SAS alumni), ps124brooklyn.org, pickupultimate.com, apialegendsfc.com
+team16-cat-education-jobs.json | verified 10 | pending 0 | sources: groupwa.com scholarship page, grouplinks.in Jobs popular list, scholarship article
+team17-cat-entertainment-gaming-sports.json | verified 0 | pending 0 | sources: joingroupslink.com, asiamediajournal.com gaming listicle (57 name-only leads)
+team18-cat-islamic-community.json | verified 1 | pending 0 | sources: whtsgroupslinks.com bare domain, scribd.online, dailygrouplinks.com, grupbul.com (name-only)
+team19-cat-crypto-earning-business.json | verified 0 | pending 0 | sources: joingram.in, freshgrouplinks.com, whtsgrouplink.com trading page, grouplinksforyou.com (all Join-button/bot-challenge, ~90 name-only leads)
+team20-fresh-listicles.json | verified 0 | pending 11 (code-bearing) | sources: university/community list pages (TU Dresden, HNBGU, Manchester Squash, Bristol Motorsport, EUI Florence, DPS Numaligarh)
+
+TOTALS: verified 35 | pending items 234 (114 code-bearing + 120 name-only) | leads files: one per team (teamNN-leads.md)
+CROSS-TEAM DEDUPE (coordinator, from files on disk):
+- Verified files: 0 internal duplicates, 0 overlap with existing 73,092-code set, 0 porn-regex hits, 0 descriptions containing http/www.
+- Pending code-bearing: 114 items = 113 unique codes. 1 pending-pending duplicate: code IebUeEJCLvJLgI8Jfb2tcS in team13 + team20 (keep one at merge).
+- Verified-vs-pending overlap: 1 code, ExqJkk0jJLK8BszF36QsJc, in team16 verified AND team01 pending (verified wins; drop the pending copy at merge).
+- Merge-ready unique pending codes after those 2 drops: 112.
+- Name-only pending (no code, Join-button leads, NOT mergeable without a live-browser pass): team02 95 + team03 25 = 120 items; plus name-only leads files for teams 04, 05, 08, 09, 11, 17, 18, 19 and others.
+- NOT merged, NOT generated, NOT deployed by coordinator (parent's step).

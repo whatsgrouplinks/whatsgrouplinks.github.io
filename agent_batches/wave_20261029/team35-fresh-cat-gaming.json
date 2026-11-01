@@ -1,0 +1,132 @@
+[
+ {
+  "name": "Billionaire Community",
+  "category": "Community & Social",
+  "description": "A WhatsApp group community for making friends and casual everyday chat.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/HovMLneBLZKDEcLInQUQzg",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "EsportsHub Official X FF Nation",
+  "category": "Gaming",
+  "description": "A WhatsApp group for Free Fire players to find teammates, discuss gameplay and follow tournaments and esports news.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/CA1ZAjvGzdH3sGeYlSI6fc",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Flanky Gaming",
+  "category": "Gaming",
+  "description": "A general gaming WhatsApp group where members chat, share clips and find people to play with.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/2RN9QbJdJcQAgzFT9YNEMQ",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Free Fire Rank Push",
+  "category": "Gaming",
+  "description": "A WhatsApp group for Free Fire players to find teammates, discuss gameplay and follow tournaments and esports news.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/JFYeINTVsvz3jDVXx7DDPq",
+  "country": "IN",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Free Fire Verse",
+  "category": "Gaming",
+  "description": "A WhatsApp group for Free Fire players to find teammates, discuss gameplay and follow tournaments and esports news.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/Dkcoun8w85iEbOumxYAaip",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Killar Nation",
+  "category": "Gaming",
+  "description": "A WhatsApp group for Free Fire players to find teammates, discuss gameplay and follow tournaments and esports news.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/G6pnjg9EyJJ5gHQBv4Erlu",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Neymar X PUBG Store",
+  "category": "Gaming",
+  "description": "A WhatsApp group for PUBG and BGMI players to find squads, share strategies and talk about the game.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/LuJHVOD7F6CH2VK2akZCD5",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Niazi PUBG Store",
+  "category": "Gaming",
+  "description": "A WhatsApp group for PUBG and BGMI players to find squads, share strategies and talk about the game.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/J15KbJkYkrq5ywLdGqAaRN",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "PES HERO7",
+  "category": "Gaming",
+  "description": "A WhatsApp group for mobile football-game players to compete, share squads and talk tactics.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/L1SK0MJERUF2YNfQSBK5E7",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "PUBG Trusted Zone",
+  "category": "Gaming",
+  "description": "A WhatsApp group for PUBG and BGMI players in Pakistan and beyond to find squads, share UC store deals and match tips.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/IHy86kCIC5i6gCFh4erkM1",
+  "country": "PK",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "PUBG UC Store",
+  "category": "Gaming",
+  "description": "A WhatsApp group for PUBG and BGMI players to find squads, share strategies and talk about the game.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/DAavlZvPQXfB4xrc0abfk4",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "PUBG and CPM Store",
+  "category": "Gaming",
+  "description": "A WhatsApp group for PUBG and BGMI players to find squads, share strategies and talk about the game.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/HQHPXkbLXkYC2mknP30NLR",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ },
+ {
+  "name": "Youtube Video Sharing",
+  "category": "Entertainment",
+  "description": "A WhatsApp group where members share and discuss entertaining videos.",
+  "image": "",
+  "invite": "https://chat.whatsapp.com/LHBmUhY8cyxIyBPpzhRex5",
+  "country": "International",
+  "_verified": true,
+  "_verified_by": "curl og:title + invite_link_type_v2 check, 2026-10-29"
+ }
+]

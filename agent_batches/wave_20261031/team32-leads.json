@@ -1,0 +1,12 @@
+[
+ {
+  "domain": "whtsgrouplink.com",
+  "url": "https://whtsgrouplink.com/",
+  "why": "Fresh Urdu/English directory (9700+ groups, homepage updated 1 day ago) surfaced in search, but Cloudflare JS-gated — curl blocked ('One moment, please...'). Name resembles retired whtsgroupslinks.com family: verify code freshness before any scrape. Retry via browser route next wave."
+ },
+ {
+  "domain": "wa.waziper.com",
+  "url": "https://wa.waziper.com/group_192888",
+  "why": "Urdu waziper wa-group directory pages (group_192888, group_183948) surfaced in Urdu searches, but the server does not respond to curl (empty replies / timeouts). Transport failure, not a dead verdict — retry next wave."
+ }
+]

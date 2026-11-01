@@ -1,0 +1,32 @@
+[
+ {
+  "domain": "groupchatconnect.info",
+  "url": "https://groupchatconnect.info/",
+  "why": "Fresh Arabic/French group directory (~1383 groups, country+category filters incl. Egypt/Morocco/Algeria). REAL site (verified via text fetch 2026-10-31) but join buttons are JS-gated — invite codes not extractable via curl/text fetch. Needs live-browser round."
+ },
+ {
+  "domain": "groupizo.com",
+  "url": "https://groupizo.com/",
+  "why": "Fresh Arabic directory (2320+ groups, country/category filters incl. Egypt region, reviewed listings). REAL site (verified 2026-10-31) but 'Join Group' buttons are JS-gated — real chat.whatsapp.com codes not in server HTML. Needs live-browser round."
+ },
+ {
+  "domain": "xn--wgbf7c.net",
+  "url": "https://xn--wgbf7c.net/",
+  "why": "Arabic group directory cited by tikane10.com as hosting thousands of groups for Arab countries incl. Egypt/Algeria/Morocco. Unreachable from scrape VM (curl timeout) and IDN not resolvable by text crawler. Needs live-browser check."
+ },
+ {
+  "domain": "mxawi.com",
+  "url": "https://www.mxawi.com/1188",
+  "why": "Arabic listicle with dozens of group names; the join links are ad/JS-gated (403 to curl, no codes in text fetch). Needs live-browser round to resolve join links."
+ },
+ {
+  "domain": "groupssor.com",
+  "url": "https://www.groupssor.com/",
+  "why": "Global WhatsApp/Telegram directory (751 WA groups, country+category filters, one-click joins). Content is India/UK-focused — low EG/MA/DZ relevance; recorded in case a later team wants it."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/Algeria?page=3",
+  "why": "Algeria tag page exists but returns 'No groups found' via text fetch (SafeSearch-blurred); /tag/algeria/page/1/ 404s. Dead end via available routes — do not retry without live browser."
+ }
+]

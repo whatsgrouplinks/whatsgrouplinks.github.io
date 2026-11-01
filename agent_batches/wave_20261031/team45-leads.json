@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/group/707524",
+  "why": "Single-group directory pages (Islamic/Quran groups exist); invite hidden behind JS /redirect/<id>/<n> link — text-fetch yields no chat.whatsapp.com code. Needs JS-rendered fetch."
+ },
+ {
+  "domain": "maablib.org",
+  "url": "https://www.maablib.org/wp-content/uploads/2023/08/use-full-shia-websites-groups-linksupdated-on-22-aug-2023.pdf",
+  "why": "2023 Shia Islamic groups PDF with ~14 raw 22-char chat.whatsapp.com codes; old but never verified — retry codes for liveness."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/al?safeSearch=strict",
+  "why": "Tag page with 34 Quran/Islamic communities (2025-2026); anonymous posts, some contain phone numbers — needs human-grade filtering, not yet scraped."
+ },
+ {
+  "domain": "wa.waziper.com",
+  "url": "https://wa.waziper.com/group_182411",
+  "why": "Single Islamic group page (crawled ~356 days ago); unverified whether invite code is embedded and live."
+ },
+ {
+  "domain": "urdupoint.in",
+  "url": "https://urdupoint.in/daily-dars-e-quran-whatsapp-channels-urdu/",
+  "why": "Urdu Daily Dars-e-Quran WhatsApp CHANNELS list — channels use /invite/ channel format, excluded from groups scope; logged for reference only."
+ }
+]

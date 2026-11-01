@@ -1,0 +1,47 @@
+[
+ {
+  "domain": "groupfinder.info",
+  "url": "https://groupfinder.info/",
+  "why": "WhatsApp/Telegram community directory by city, referenced by a Lisbon community page; not scraped this wave — may yield PT/GR/RO/HU/CZ/BE/CH city groups."
+ },
+ {
+  "domain": "postecards.poste.it",
+  "url": "https://postecards.poste.it/bold-stats/portugal-whatsapp-group-links-2023-join-now-1767647430",
+  "why": "Portugal WhatsApp group directory page; curl transport failure (empty reply, exit 52) this wave — retry next wave."
+ },
+ {
+  "domain": "expat.com",
+  "url": "https://www.expat.com/en/forum/europe/",
+  "why": "Expat forums for RO/HU/CZ/PT/GR/BE/CH; threads occasionally contain chat.whatsapp.com links (one Bucharest code found this wave). Worth a broader thread sweep."
+ },
+ {
+  "domain": "whisperevents.eu",
+  "url": "https://www.whisperevents.eu/",
+  "why": "Budapest community event site; the REAL TALK BUDAPEST WhatsApp code was harvested this wave. New event pages may carry rotated/fresh codes."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/",
+  "why": "Event/group descriptions for Lisbon, Prague, Budapest, Athens, Zurich, Brussels, Geneva, Cascais often embed chat.whatsapp.com links; most found this wave were already in the union or dead, but new event pages appear daily."
+ },
+ {
+  "domain": "safeexpat.com",
+  "url": "https://www.safeexpat.com/join-safeexpat/",
+  "why": "Expat community with WhatsApp/Telegram update channels; no direct invite codes surfaced this wave — check later."
+ },
+ {
+  "domain": "namaste.community",
+  "url": "https://namaste.community/groups/expats-in-belgium",
+  "why": "Expats in Belgium community page — chat runs inside their own app, no WhatsApp invite links; no codes available, not a harvest target."
+ },
+ {
+  "domain": "techsslash.com",
+  "url": "https://techsslash.com/greece-whatsapp-group-links/",
+  "why": "Greece directory EXHAUSTED this wave: all 13 group codes + 7 /invite/ channel links already in dedupe union; do not re-scrape."
+ },
+ {
+  "domain": "pak24tv.net",
+  "url": "https://www.pak24tv.net/group/czech-republic-whatsapp-group-link",
+  "why": "Czech directory EXHAUSTED this wave: both codes already in dedupe union; do not re-scrape."
+ }
+]
