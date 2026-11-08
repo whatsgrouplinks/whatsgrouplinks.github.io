@@ -1,0 +1,22 @@
+[
+ {
+  "domain": "groupda.pk",
+  "url": "https://groupda.pk/",
+  "why": "Homepage (title: 18+ Pakistan groups) timed out on 3 python-requests fetches (520KB, slow server); retry next wave — may hold codes not in the 19 WP posts."
+ },
+ {
+  "domain": "groupda.pk",
+  "url": "https://groupda.pk/wp-json/wp/v2/posts",
+  "why": "WP-API posts endpoint works (19 posts, 1 page, all scraped this wave); poll with after= filter next wave for NEW posts. Note: /wp-json/wp/v2/categories 403s, /tags returns []."
+ },
+ {
+  "domain": "groupda.pk",
+  "url": "https://groupda.pk/pharmacy-whatsapp-group-links/",
+  "why": "47 codes parsed but ALL already in dedupe union (clone of groupda.com content) — 0 fresh this wave; recheck only if union grows."
+ },
+ {
+  "domain": "groupda.pk",
+  "url": "https://groupda.pk/poland-whatsapp-group-links/",
+  "why": "48 codes parsed but ALL already in dedupe union — 0 fresh this wave; recheck only if union grows."
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/group/119828",
+  "why": "Islamic group directory with JS-gated invite-code reveal (codes not in HTML; needs live-browser click-through)"
+ },
+ {
+  "domain": "wa.waziper.com",
+  "url": "https://wa.waziper.com/group_182411",
+  "why": "Urdu WhatsApp group directory with Islamic group pages; curl timed out (HTTP 000), browser route worth trying"
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/Only-islam/?page=1&limit=20&safeSearch=blur",
+  "why": "Only-islam tag listing returned no embedded codes (records may be detail-gated); not retired"
+ },
+ {
+  "domain": "thelastsurvivors.org",
+  "url": "https://www.thelastsurvivors.org/grup-wa-sahur/",
+  "why": "EXHAUSTED — 127 codes scraped, only 5 live (115 dead). Do not re-scrape this page."
+ },
+ {
+  "domain": "javasiana.com",
+  "url": "https://javasiana.com/grup-whatsapp-islami/",
+  "why": "EXHAUSTED — 61 codes scraped (2021 listicle), 13 banked verified, rest dead. Do not re-scrape."
+ }
+]

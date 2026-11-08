@@ -1,0 +1,69 @@
+{
+ "attempted": 104,
+ "candidates": 916,
+ "to_verify": 196,
+ "verified": 11,
+ "pending": 0,
+ "new_leads": 138,
+ "retired_skipped": [
+  "https://whatsgroulink.com/category/country/",
+  "https://whatsgroulink.com/category/earning/",
+  "https://whatsgroulink.com/category/game/",
+  "https://whatsgroulink.com/category/girls/",
+  "https://whatsgroulink.com/category/hot/",
+  "https://whatsgroulink.com/category/jobs/",
+  "https://whatsgroulink.com/category/movies/",
+  "https://whatsgroulink.com/category/shopping/",
+  "https://whatsgroulink.com/category/study/",
+  "https://www.instagram.com/what_groups?igsh=MW5hdHF3NDViaW9oag==",
+  "https://www.imagesplatform.com/whatsapp/category/adult-18~-hot"
+ ],
+ "fetch_fail": [
+  [
+   "https://appgrouplink.com/abu-dhabi-whatsapp-group-links/",
+   "ERR TooManyRedirects"
+  ],
+  [
+   "https://groupsinvite.link/group/rules/hthepv0gnhu5irxpxfgvam/",
+   404
+  ],
+  [
+   "https://groupsinvite.link/group/rules/bt0ehoy3xtfv4n4xeouby/",
+   404
+  ],
+  [
+   "https://whtspgrouplink.com/category/sports-whatsapp-group-links/",
+   "ERR ReadTimeout"
+  ],
+  [
+   "https://whtspgrouplink.com/category/study-whatsapp-group-links/",
+   "ERR ReadTimeout"
+  ],
+  [
+   "https://whtspgrouplink.com/category/tech-whatsapp-group-links/",
+   "ERR ReadTimeout"
+  ],
+  [
+   "https://whatgroups.com/category/blog/",
+   "ERR ReadTimeout"
+  ],
+  [
+   "https://whatgroups.com/category/business/",
+   "ERR ReadTimeout"
+  ],
+  [
+   "https://whatgroups.com/category/country/",
+   "ERR ReadTimeout"
+  ],
+  [
+   "https://whatgroups.com/category/education/",
+   "ERR ReadTimeout"
+  ]
+ ],
+ "posthoc_removed": [
+  "BOKEP VIRAL GROUP (porn)",
+  "COCK AND PUSSY GROUP! Over 18 ONLY!!! (hard porn)",
+  "Russian Fixed Game (fixed-match betting scam)"
+ ],
+ "blocked_live_adult_emoji": 4
+}

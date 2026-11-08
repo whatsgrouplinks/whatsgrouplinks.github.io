@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://groupsgyani.org/whatsapp-group-links/cryptocurrency",
+    "what": "GroupsGyani crypto category — invite codes hidden behind JS Join buttons; detail pages returned no chat.whatsapp.com code in static HTML"
+  },
+  {
+    "url": "https://groupsgyani.org/whatsapp-group-links/online-earning",
+    "what": "GroupsGyani online-earning category — same JS-gated Join flow, not harvested"
+  },
+  {
+    "url": "https://groupsgyani.org/whatsapp-group-links/business-and-advertising",
+    "what": "GroupsGyani business category — same JS-gated Join flow, not harvested"
+  },
+  {
+    "url": "https://groupsgyani.org/whatsapp-group-links/finance-and-investment",
+    "what": "GroupsGyani finance category — same JS-gated Join flow, not harvested"
+  },
+  {
+    "url": "https://groupsgyani.org/whatsapp-group-links/stock-market",
+    "what": "GroupsGyani stock-market category — same JS-gated Join flow, not harvested"
+  },
+  {
+    "url": "https://www.whtsagrouplinks.com/cryptocurrency-whatsapp-group-links/",
+    "what": "Crypto listicle — returned 403 on retry this run (rate-limited after earlier fetches); retry next wave"
+  },
+  {
+    "url": "https://www.whtsagrouplinks.com/earn-money-whatsapp-group-link/",
+    "what": "Earn-money listicle — returned 403 on retry this run; retry next wave"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/5/game-groups",
+    "what": "Grupbul category pages — static HTML shows only a snapshot, invite codes need live JS browser (per prior wave note)"
+  },
+  {
+    "url": "https://groupizo.com/",
+    "what": "Groupizo directory — WhatsApp crypto/business/earning category pages not surfaced via search; per-group invite pages exist but category listing not found"
+  },
+  {
+    "url": "https://groupda.com/",
+    "what": "Groupda — search results were almost all Telegram groups, not WhatsApp; no usable WhatsApp crypto/business listing found"
+  },
+  {
+    "url": "https://whatsgroupslinkspk.com/",
+    "what": "Mega listicle, 900 codes in static HTML — section headings unreliable in static parse (poetry names landed under earning sections); needs deeper section parsing before harvest"
+  },
+  {
+    "url": "https://www.grouplinksforyou.com/2023/04/cryptocurrency-whatsapp-group-links.html",
+    "what": "Crypto listicle updated Nov 3 — main list codes all already in dedupe union; only fresh codes were blog-comment submissions (unreliable, not harvested)"
+  }
+]

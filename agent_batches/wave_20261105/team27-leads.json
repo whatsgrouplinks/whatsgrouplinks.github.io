@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://grupodewhatsapp.com/en",
+    "what": "WhatsApp group directory (claims 4,068 groups, categories by topic/language/country). Invite links NOT exposed in fetched HTML: homepage lists /en/group/<slug> detail pages and all 24 sampled detail pages returned titles but no chat.whatsapp.com code in the HTML (JS/click-gated). Needs browser/JS render to harvest."
+  },
+  {
+    "url": "https://www.whtsagrouplinks.com/pakistani-whatsapp-group-link/",
+    "what": "Category page of whtsagrouplinks.com (homepage harvested: 57 fresh codes). This page fetch failed with IncompleteRead (partial 62KB received, unparsed); retry with curl/browser and extract chat.whatsapp.com codes the same way."
+  },
+  {
+    "url": "https://www.whtsagrouplinks.com/indian-whatsapp-group-link/",
+    "what": "Category page of whtsagrouplinks.com (homepage harvested). Fetch returned HTTP 403 Forbidden to the sandbox UA; retry with browser or different headers."
+  },
+  {
+    "url": "https://www.whtsagrouplinks.com/international-whatsapp-groups-links/",
+    "what": "Category page of whtsagrouplinks.com (homepage harvested). Fetch failed with IncompleteRead (partial 53KB received, unparsed); retry with curl/browser."
+  },
+  {
+    "url": "https://www.appbrain.com/app/whatsapp-groups-find-join/com.social.whatsgroup.wtsp",
+    "what": "GroupLink Android app listing (app-only directory, thousands of groups by category, refreshed daily). Not harvestable via web curl; would need the app or its API."
+  }
+]

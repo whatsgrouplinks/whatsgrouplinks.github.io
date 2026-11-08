@@ -1,0 +1,17 @@
+[
+ {
+  "domain": "igrupos.com",
+  "url": "team16-unverified-pending.json (this wave dir)",
+  "why": "936 banked candidates from AR/CO/PE/CL/EC city pages never got liveness-checked before the wave closed (only first ~275 verified). Resume point: run og:title verification on these codes vs dedupe_union.json; codes are deduped and porn-pre-filtered already."
+ },
+ {
+  "domain": "igrupos.com",
+  "url": "https://www.igrupos.com/whatsapp/<city>",
+  "why": "Detail cap was 80 groups per city and 5 listing pages; several cities (buenos-aires, cordoba, rosario, bogota, medellin, cali, lima, santiago, quito, guayaquil) had 275 cards each. Remaining cards beyond the first 80/city are fresh, unexplored groups."
+ },
+ {
+  "domain": "igrupos.com",
+  "url": "https://www.igrupos.com/whatsapp/argentina https://www.igrupos.com/whatsapp/chile https://www.igrupos.com/whatsapp/ecuador https://www.igrupos.com/whatsapp/peru",
+  "why": "Country-level pages returned 0-1 cards (only colombia had 55). Additional city slugs not yet tried: salta, tucuman, mar-del-plata, santa-fe, neuquen (AR); pereira, bucaramanga, santa-marta (CO); piura, chiclayo, ica, huancayo (PE); antofagasta, temuco (CL); santo-domingo, machala, portoviejo, loja, ambato, riobamba (EC)."
+ }
+]

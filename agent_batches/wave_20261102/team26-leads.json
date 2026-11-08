@@ -1,0 +1,37 @@
+[
+ {
+  "domain": "wemakescholars.com",
+  "url": "https://www.wemakescholars.com/blog/uk-university-whatsapp-group-links",
+  "why": "30 UK university invite codes extracted server-side, but all 30 were already in dedupe_union.json this wave. Re-scan next wave in case codes rotate."
+ },
+ {
+  "domain": "livinintheuk.com",
+  "url": "https://livinintheuk.com/archives/7821/",
+  "why": "UK city hub: whatsappgroup-city-* redirect pages resolved to 15 live codes (all banked this wave). Index page at /whatsappgroup -> /archives/42/ failed to fetch (proxy drop); more city slugs may exist beyond the 15 resolved."
+ },
+ {
+  "domain": "universityapplicants.co.uk",
+  "url": "https://www.universityapplicants.co.uk/",
+  "why": "30+ UK city freshers pages (<city>-freshers/) all embed the SAME single invite code CRTUF6cEbiYLsFaRITLIsv (already in union). Re-scan next wave in case they start rotating per-city codes."
+ },
+ {
+  "domain": "i-symbian.com",
+  "url": "https://www.i-symbian.com/whatsapp-group-link/",
+  "why": "UK WhatsApp Group Link section lists UK group names (Study In London, Dream To London, Manchester Fans, London Riders, Great Britain...) but carries NO join links (plain list items). Name-only; no codes to scrape without further source."
+ },
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/group/532535",
+  "why": "UK football groups (MAN CITY group page etc.) gate the invite code behind a contact/join button (no chat.whatsapp.com code in page HTML). JS-gated; needs live browser or different extraction."
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/manchester-girls-and-guys-having-fun-meetup-group/",
+  "why": "UK meetup group pages sometimes embed chat.whatsapp.com codes in their descriptions (found Linkar Manchester and Birmingham Travel Community via search snippets, both already in union). Search-snippet mining viable."
+ },
+ {
+  "domain": "damourmuslim.com",
+  "url": "https://damourmuslim.com/blog/uk-rishta-whatsapp-group",
+  "why": "UK rishta (Islamic marriage) group page; its single embedded code Kjrn4Lwi54MLhd0NOZLxgl already in dedupe union. Re-scan next wave in case code rotates."
+ }
+]

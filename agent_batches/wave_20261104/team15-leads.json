@@ -1,0 +1,12 @@
+[
+ {
+  "domain": "groupsinvite.link",
+  "url": "https://groupsinvite.link/group/rules/<slug>/",
+  "why": "RESUME (groupsinvite.link BLOCKED Nov-4: Cloudflare 403 via browser.open + read timeouts via egress proxy). Classification at team15/classify.json covers 1800/2326 group-candidate slugs (resume: slugs after index 1799 in team15/slugs_split.json[\"grp\"]; 231 channel-pattern slugs 0029v*/029v* excluded as channels). Pending chat codes (~1373, exact case, 20-24 chars, NOT in Nov-4 dedupe_union.json and NOT in Nov-3 team30R-groupsinvite.json) banked in team15/t15-retry-data.json with note — re-verify liveness via chat.whatsapp.com/<code> og:title next wave. 156 no-join-button dead listings + 71 error slugs skipped. 1173 /group/<tag>/ listing pages untouched. NOTE: Nov-3 team30R-groupsinvite.json (162 items) is NOT in the Nov-4 dedupe_union.json — parent should add it to the union. NOTE: wave-root pending filenames (team15-unverified-pending.json, team15-pending-retry.json) are write-locked by the coordinator merge process — pending data kept at team15/t15-retry-data.json instead."
+ },
+ {
+  "domain": "groupsinvite.link",
+  "url": "https://groupsinvite.link/group/<tag>/",
+  "why": "Listing-tag pages (1173 untouched; listing_meta.json in Nov-3 _team30R_state) — alternate entry point for fresh slugs if rules-page pipeline stays blocked."
+ }
+]

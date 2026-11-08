@@ -1,0 +1,32 @@
+[
+ {
+  "domain": "whtspgrouplink.com",
+  "url": "https://whtspgrouplink.com/south-africa-jobs-whatsapp-group-links/",
+  "why": "Fresh SA jobs directory (not in retired list). ~31 SA group names incl. South Africa Job Seekers 2026, Daily Vacancies SA, SA Youth Employment Network, Limpopo Local Jobs, Government Jobs SA Updates, Johannesburg Job Network, Midrand & Centurion Jobs, KZN Logistics & Driving Jobs, Umhlanga Vacancies, Pinetown Factory Work, Sandton Corporate Careers, Pretoria Vacancies Daily, Eastern Cape Jobs. Codes hide behind Join buttons -> chat.whatsapp.com; direct outlink resolution 403s via browser.open and python requests to the host read-times-out. One code recovered incidentally (H62v3OhcYQzBRhx3PUu4FU) was already in union. Needs live-browser resolution next wave."
+ },
+ {
+  "domain": "whatsgrouply.com",
+  "url": "https://whatsgrouply.com/",
+  "why": "Fresh directory (not in retired list). Homepage lists hundreds of group names by category with Join links, but codes are not server-rendered in the crawled text copy; raw HTML fetch not yet attempted. Banked for next wave."
+ },
+ {
+  "domain": "whatsappgroupsjoinlink.com",
+  "url": "https://whatsappgroupsjoinlink.com/",
+  "why": "Fresh competitor directory (13.74K visits/mo, 15% audience in South Africa per Semrush). python requests read-times-out from this VM. Needs browser.open/crawler path or live browser."
+ },
+ {
+  "domain": "whtspgrouplink.com",
+  "url": "https://whtspgrouplink.com/tag/south-africa-jobs-whatsapp-group-link/",
+  "why": "SA tag archive on the same fresh directory - alternate route to SA codes if the main article is exhausted."
+ },
+ {
+  "domain": "dailygrouplinks.com",
+  "url": "https://dailygrouplinks.com/",
+  "why": "Fresh global directory (5000+ groups, server-rendered WP tables + wa-card directory, 268 codes on homepage). Has a country filter incl. South Africa but NO SA content section - all tables are India/Pakistan/USA/UK/International. Investigated, no SA yield; useful for other teams' slices, not mine."
+ },
+ {
+  "domain": "wagroupslink.pro",
+  "url": "https://www.wagroupslink.pro/index.html",
+  "why": "Fresh static gallery: 16 chat.whatsapp.com codes + several whatsapp.com/channel links, but items are numbered images with no group names and no country context (NOT SA-specific). Dropped for this slice - codes unnameable and channel links forbidden."
+ }
+]

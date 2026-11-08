@@ -1,0 +1,42 @@
+loaded: union=85731 pending-src=3183
+checkpoint: already attempted=0
+todo=3181 in_union=0 dropped_pre=2 skipped_done=0
+[07:01:26] attempted=102 verified=2 pending=98 dropped=2 todo-left=3081
+[07:05:51] attempted=202 verified=4 pending=196 dropped=2 todo-left=2981
+[07:09:40] attempted=302 verified=4 pending=296 dropped=2 todo-left=2881
+[07:13:45] attempted=402 verified=13 pending=387 dropped=2 todo-left=2781
+[07:17:19] attempted=502 verified=28 pending=472 dropped=2 todo-left=2681
+[07:20:21] attempted=602 verified=74 pending=526 dropped=2 todo-left=2581
+[07:23:56] attempted=702 verified=112 pending=588 dropped=2 todo-left=2481
+[07:26:56] attempted=802 verified=153 pending=647 dropped=2 todo-left=2381
+[07:29:38] attempted=902 verified=204 pending=696 dropped=2 todo-left=2281
+[07:32:04] attempted=1002 verified=224 pending=776 dropped=2 todo-left=2181
+[07:34:10] attempted=1102 verified=248 pending=852 dropped=2 todo-left=2081
+loaded: union=85731 pending-src=3183
+checkpoint: already attempted=1165
+todo=2018 in_union=0 dropped_pre=2 skipped_done=1163
+[07:39:21] attempted=1265 verified=310 pending=953 dropped=2 todo-left=1918
+[07:41:42] attempted=1365 verified=353 pending=1010 dropped=2 todo-left=1818
+[07:44:04] attempted=1465 verified=408 pending=1054 dropped=3 todo-left=1718
+[07:46:27] attempted=1565 verified=453 pending=1108 dropped=4 todo-left=1618
+[07:49:05] attempted=1665 verified=500 pending=1161 dropped=4 todo-left=1518
+[07:51:48] attempted=1765 verified=540 pending=1221 dropped=4 todo-left=1418
+[07:55:00] attempted=1865 verified=559 pending=1302 dropped=4 todo-left=1318
+[07:57:33] attempted=1965 verified=594 pending=1367 dropped=4 todo-left=1218
+[08:00:18] attempted=2065 verified=636 pending=1425 dropped=4 todo-left=1118
+[08:02:56] attempted=2165 verified=686 pending=1475 dropped=4 todo-left=1018
+[08:05:29] attempted=2265 verified=733 pending=1527 dropped=5 todo-left=918
+[08:07:45] attempted=2365 verified=762 pending=1598 dropped=5 todo-left=818
+[08:09:40] attempted=2465 verified=802 pending=1658 dropped=5 todo-left=718
+[08:11:39] attempted=2565 verified=832 pending=1728 dropped=5 todo-left=618
+[08:13:16] attempted=2665 verified=864 pending=1795 dropped=6 todo-left=518
+[08:14:45] attempted=2765 verified=898 pending=1861 dropped=6 todo-left=418
+[08:16:02] attempted=2865 verified=937 pending=1922 dropped=6 todo-left=318
+[08:17:19] attempted=2965 verified=982 pending=1976 dropped=7 todo-left=218
+[08:18:26] attempted=3065 verified=1020 pending=2038 dropped=7 todo-left=118
+[08:19:31] attempted=3165 verified=1066 pending=2092 dropped=7 todo-left=18
+verification pass complete
+wrote /home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261105/team03-igrupos.json (1079)
+wrote /home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261105/team03-unverified-pending.json (2097)
+wrote /home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261105/team03-leads.json (0)
+FINAL attempted=3183 verified=1079 pending=2097 dropped=7

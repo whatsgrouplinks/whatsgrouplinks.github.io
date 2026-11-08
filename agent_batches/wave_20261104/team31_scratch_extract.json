@@ -1,0 +1,60 @@
+[
+ {
+  "label": "meetup-paris-internationals",
+  "url": "https://www.meetup.com/fr-FR/internationals-events-paris/events/nlxdxtyjcnbfc/",
+  "status": 200,
+  "title": "Bending Spoons",
+  "codes_new": [],
+  "codes_dup": 2
+ },
+ {
+  "label": "totalask-uk-marketplace",
+  "url": "https://go.tuxmat.com/total-ask/uk-marketplace-whatsapp-group-links-find-deals-and-connect-1767646610",
+  "error": "HTTPSConnectionPool(host='go.tuxmat.com', port=443): Max retries exceeded with url: /total-ask/uk-marketplace-whatsapp-group-links-find-deals-and-connect-1767646610 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))",
+  "codes_new": []
+ },
+ {
+  "label": "fraserbond-uk-property",
+  "url": "https://fraserbond.com/blog/article/uk-property-whatsapp-group-join-londons-trusted-real-estate-network-today-b13893",
+  "status": 200,
+  "title": "UK Property WhatsApp Group - London Investment and Buy-to-Let Updates",
+  "codes_new": [],
+  "codes_dup": 1
+ },
+ {
+  "label": "stemmen-de-community",
+  "url": "https://stemmen.de/pdf/news/4eee6803-808e-48a0-880f-20b95ea05263",
+  "status": 200,
+  "title": "",
+  "codes_new": [
+   "FwdECreYbOaB7lLblpAW7L"
+  ],
+  "codes_dup": 0
+ },
+ {
+  "label": "visadb-nomad-groups",
+  "url": "https://visadb.io/blog/digital-nomad-whatsapp-groups-648bce7cfb4a1e461b7be9bc",
+  "status": 200,
+  "title": "Digital Nomad WhatsApp Groups",
+  "codes_new": [],
+  "codes_dup": 97
+ },
+ {
+  "label": "nextdoor-stockton-trades",
+  "url": "https://nextdoor.co.uk/p/CtmLtG57yFLC?view=detail",
+  "status": 200,
+  "title": "",
+  "codes_new": [
+   "LMI7iIfVbcuHKUsdRBFnp2"
+  ],
+  "codes_dup": 0
+ },
+ {
+  "label": "inyourarea-deals",
+  "url": "https://www.inyourarea.co.uk/news/join-our-whatsapp-group-to-get-money-saving-deals-and-bargains-with-inyourarea",
+  "status": 200,
+  "title": "Join our WhatsApp group to get money-saving deals and bargains with InYourArea | InYourArea",
+  "codes_new": [],
+  "codes_dup": 0
+ }
+]

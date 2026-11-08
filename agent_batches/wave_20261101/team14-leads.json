@@ -1,0 +1,47 @@
+[
+  {
+    "domain": "whatsgroupjoinlinks.com",
+    "url": "https://whatsgroupjoinlinks.com/",
+    "why": "Live (HTTP 301) but JS anti-bot gate ('One moment, please...' auto-reload) — curl cannot pass; needs live-browser visit. Fresh whatgroups-style listicle domain."
+  },
+  {
+    "domain": "get.whtsgroupslinks.com",
+    "url": "https://get.whtsgroupslinks.com/",
+    "why": "WordPress blog (2 posts only, no group listings) — not a group source itself; linked from pkrishta.com 2026 guides as a directory. No scrape value; record only."
+  },
+  {
+    "domain": "77links.com",
+    "url": "https://77links.com",
+    "why": "Scraped this wave (homepage, all 14 category sections): 89 unique codes, only 3 fresh vs exclusion union, all dead on og:title check. Exhausted — re-check next wave only."
+  },
+  {
+    "domain": "whtsgroupslinks.com",
+    "url": "https://whtsgroupslinks.com/",
+    "why": "Scraped this wave (328 unique codes incl. /invite/ channels): only 12 fresh vs union; 11 dead, 1 live dropped (adult-emoji rule). Exhausted."
+  },
+  {
+    "domain": "wagroupslink.com",
+    "url": "https://wagroupslink.com/",
+    "why": "Scraped this wave (40 unique codes): 17 fresh vs union, all dead on og:title except 1 adult-themed live (dropped). Non-freelance pages only (freelance listicles retired). Exhausted."
+  },
+  {
+    "domain": "groupslink.pk",
+    "url": "https://groupslink.pk/",
+    "why": "Scraped this wave (27 unique codes): 1 fresh vs union, dead on check. Exhausted."
+  },
+  {
+    "domain": "whgroups.link",
+    "url": "https://whgroups.link/",
+    "why": "Scraped pakistan-jobs page this wave (24 unique codes): 0 fresh vs union — draws from shared harvested pool. Low priority."
+  },
+  {
+    "domain": "wahublink.com",
+    "url": "https://wahublink.com/",
+    "why": "Scraped education page this wave (29 unique codes, 12 /invite/ channels): 0 fresh vs union. Low priority."
+  },
+  {
+    "domain": "fortress786.blogspot.com",
+    "url": "https://fortress786.blogspot.com/2026/10/whatsapp-group-links-available.html",
+    "why": "Scraped this wave: 30 codes, 23 fresh, 8 live → 6 kept, 2 dropped (porn titles). Resume: check the blog's newer posts next wave (Oct 2026 post already harvested)."
+  }
+]

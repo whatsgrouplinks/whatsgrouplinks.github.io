@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "whatgroups.com",
+  "url": "https://whatgroups.com/online-earning-whatsapp-group-links/",
+  "why": "Pakistan page's 'More Related Groups' lists an Online Earning category page — likely PK-relevant; not scraped (slice focus was the Pakistan page)"
+ },
+ {
+  "domain": "whatgrouplinks.org",
+  "url": "https://whatgrouplinks.org/all-group-links-access-them-with-one-click/",
+  "why": "Redirector page wrapping chat.whatsapp.com codes in ?link= params (4 found, all already in dedupe union); future runs should parse the ?link= query param, not href directly"
+ },
+ {
+  "domain": "whatgroups.com",
+  "url": "https://whatgroups.com/whatsapp-group-links-pakistan/",
+  "why": "Intermittent Cloudflare 'One moment, please' challenge — plain http:// passes sometimes; retry with sleeps; page holds ~119 unique codes, only ~35 fresh vs union (rest re-listed, mostly expired)"
+ },
+ {
+  "domain": "sociallykeeda.com",
+  "url": "https://www.sociallykeeda.com/pakistani-whatsapp-group/",
+  "why": "Fully scraped this wave (425+ groups, only 16 fresh vs union); recheck in a future wave for newly added groups"
+ },
+ {
+  "domain": "appgrouplink.com",
+  "url": "https://appgrouplink.com/pakistani-whatsapp-group-links/",
+  "why": "Fully scraped this wave (37 codes, /invite/ unquoted-href form, 33 fresh); recheck next wave"
+ }
+]

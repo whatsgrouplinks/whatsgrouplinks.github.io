@@ -1,0 +1,12 @@
+[
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/nairobi/",
+  "why": "tag page returns HTTP 200 with 0 group records (empty listing) — not a 404, but no groups to scrape; re-check next wave"
+ },
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/uganda/",
+  "why": "OBSERVATION for next wave: ~all records on these Africa tag pages use chat.whatsapp.com/invite/<code> links (excluded per brief as channels); only 2-4 records total had direct chat.whatsapp.com/<code> links and all were already banked by wave_20261031. Spot-checks showed /invite/ codes do not resolve to live groups (WhatsApp serves generic download page with og:title 'Available' or empty). No further yield expected from these 6 tags under current rules."
+ }
+]

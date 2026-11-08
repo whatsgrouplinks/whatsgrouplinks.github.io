@@ -1,0 +1,6 @@
+resume2: candidates 845, start idx 640, todo 198
+  checked 50/198, verified total 140
+  checked 100/198, verified total 149
+  checked 150/198, verified total 164
+DONE verified=179 pending=3 dead_this_run=146 leads=74
+FAILED TAGS: ["https://api.groupjoin.link/groups?tag=online%20jobs&page=1&limit=20&safeSearch=blur"]

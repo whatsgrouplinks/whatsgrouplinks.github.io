@@ -1,0 +1,70 @@
+[
+ {
+  "url": "https://linktogroups.com/en/blog/top-kenyan-telegram-whatsapp-groups-dating-socialites-2026",
+  "what": "Kenya dating/socialite groups blog (Oct 15 2026); invite links behind redirects/Telegram, 0 direct chat.whatsapp.com codes via curl — needs browser pass"
+ },
+ {
+  "url": "https://www.7hubent.com.ng/2024/09/nigerian-best-universities-whatsapp.html",
+  "what": "Nigerian university aspirant WhatsApp groups hub (all schools 2024/2025/2026); links via site pages, not direct codes on the hub"
+ },
+ {
+  "url": "https://www.7hubent.com.ng/2024/11/futa-aspirant-whatsapp-group-links.html",
+  "what": "FUTA aspirant WhatsApp group links page (7hubent); not fetched this run"
+ },
+ {
+  "url": "https://www.freshnote.com.ng/2025/10/36-nigerian-university-students.html",
+  "what": "36 Nigerian university student groups by state; team25 harvested 1 direct code, rest are WhatsApp channel links"
+ },
+ {
+  "url": "https://whtsgrouplink.org/girl-whatsapp-group-links/",
+  "what": "130+ girls WhatsApp group links directory (cited by ufovpn.io roundup); not fetched this run"
+ },
+ {
+  "url": "https://wappgrouplinks.com/girls-groups/",
+  "what": "Free WhatsApp groups for girls directory (cited by ufovpn.io roundup); not fetched this run"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/love-and-romance-whatsapp-group-links/",
+  "what": "Love/romance directory listing Ghana and Zambia WhatsApp group sections; not fetched this run"
+ },
+ {
+  "url": "https://assengaonline.com/tag/tanzania-whatsapp-group-join-2025/",
+  "what": "Tanzania WhatsApp group join tag archive (assengaonline); article page links did not expose direct codes via curl"
+ },
+ {
+  "url": "https://www.groupjoin.link/country/south-africa?page=2",
+  "what": "groupjoin South Africa page 2 returned 0 codes (anomaly — pages 1 and 3 returned ~20 each); worth a retry"
+ },
+ {
+  "url": "https://www.groupjoin.link/country/nigeria?page=6",
+  "what": "groupjoin Nigeria further pagination beyond page 5 (not attempted this run)"
+ },
+ {
+  "url": "https://www.groupjoin.link/country/kenya?page=4",
+  "what": "groupjoin Kenya further pagination beyond page 3 (not attempted this run)"
+ },
+ {
+  "url": "https://www.groupjoin.link/country/ghana?page=3",
+  "what": "groupjoin Ghana further pagination beyond page 2 (not attempted this run)"
+ },
+ {
+  "url": "https://whatslinkhub.com/african-whatsapp-group/",
+  "what": "Africa hub with Ghana/Kenya/Nigeria/South-Africa country pages; BLOCKED by JS anti-bot (empty 200 this run, same as team25) — browser-only"
+ },
+ {
+  "url": "https://whatslinkhub.com/nigeria-whatsapp-group-links/",
+  "what": "whatslinkhub Nigeria country page; same JS anti-bot gate — browser-only"
+ },
+ {
+  "url": "https://whatslinkhub.com/kenya-whatsapp-group-links/",
+  "what": "whatslinkhub Kenya country page; same JS anti-bot gate — browser-only"
+ },
+ {
+  "url": "https://whatslinkhub.com/ghana-whatsapp-group-links/",
+  "what": "whatslinkhub Ghana country page; same JS anti-bot gate — browser-only"
+ },
+ {
+  "url": "https://groupwa.com/country/zimbabwe-whatsapp-groups/",
+  "what": "groupwa Zimbabwe country page; curl returned 0 codes, JS-loaded listing — browser-only (team25)"
+ }
+]

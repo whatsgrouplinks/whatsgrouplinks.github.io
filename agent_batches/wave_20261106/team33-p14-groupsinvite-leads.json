@@ -1,0 +1,6 @@
+[
+  {
+    "url": "https://groupsinvite.link/",
+    "note": "groupsinvite.link homepage — curl retry on 2026-11-06 timed out twice (HTTP 000, 25-30s; previously Cloudflare-403). Site unreachable from this VM; text-fetcher only holds a stale cached copy (2025-11-13) with no group links. Retry next run and harvest category pages from the site nav: business, buy-sell, community-social, education, entertainment, finance, friendship, funny, gaming, health, islamic, jobs, news, online-earning, sports, technology."
+  }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://www.gruposwats.com/",
+  "what": "NEW directory Grupos Wats (95k links, Spanish/LatAm, country subdomains ar/mx/cl/co/pe/ve/uy/py/bo/ec/cr/sv/gt/hn/ni/pa/do/pr/cu). Listing data via POST /0_portada1/ (token in homepage HTML) + detail pages /<slug>_gr_<id>; invites NOT in static HTML or masinfogrupo.php AJAX (request-to-join form only) — needs live-browser click-through to extract. AVOID adult category links on homepage (hentai/xxx/porno/sexo/onlyfans/hot)."
+ },
+ {
+  "url": "https://www.gruposwats.com/conocer-gente_page_2",
+  "what": "Grupos Wats listing pagination (page 2 of newest groups); same invite-hidden limitation as homepage."
+ },
+ {
+  "url": "https://tugrupo.online/whatsapp/",
+  "what": "NEW directory Tu Grupo Online (from Droiders/Sinch roundups). Cloudflare 'One moment, please' challenge blocks curl — needs live browser. Not harvested."
+ },
+ {
+  "url": "https://www.whatshub.es/trends",
+  "what": "WhatsHub trends page (2,779 groups, Spanish). Invites hidden behind Blazor 'Unirse al grupo' buttons; only 2 codes exposed in SSR HTML (IugV0BQ8FKeG1lzBWgtCa7 already in union; DZTUS8jAlGT60eUOqmTN8K verified live this wave). Needs browser click-through or Blazor API reverse-engineering for the rest."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/amistad",
+  "what": "igrupos amistad newest listing — re-check next wave for gid>526186. Detail pages DO expose the invite in a window.open JS call (2 of 3 newest harvested this wave)."
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526164",
+  "what": "igrupos new group 'Amistad de la que perdura, grupo 47 a 55 anos' (Sabadell, Spain) — detail page exposes NO invite code in HTML (JS click only); needs browser. Do not re-fetch statically."
+ },
+ {
+  "url": "https://freewagroup.com/wp-json/wp/v2/posts?per_page=100&page=1",
+  "what": "freewagroup WP API (28-country Spanish directory). Re-check pages 1-3 next wave for posts dated after 2026-11-06. WARNING: this wave 90 of 93 fresh codes were DEAD on verification and the 3 live ones had blocked emoji in og:title — very low yield; deprioritise."
+ },
+ {
+  "url": "https://groupler.me/",
+  "what": "Groupler.me directory (from practical-tips roundup) — curl connection failed twice from this VM (HTTP 000); RETIRED for curl, try via browser next wave. Registration may be required to see invites."
+ },
+ {
+  "url": "https://groupio.app/",
+  "what": "Groupio.app directory (German, from practical-tips roundup) — homepage loads (200) but is JS-driven with zero invite codes in HTML; needs browser/JS rendering. Mostly German groups."
+ },
+ {
+  "url": "https://whts.club/deportes/",
+  "what": "whts.club sports category — same detail-page method as /amistad/ harvested this wave; not yet touched."
+ },
+ {
+  "url": "https://whts.club/educacion/",
+  "what": "whts.club education category — same detail-page method; not yet touched."
+ },
+ {
+  "url": "https://whts.club/trabajo/",
+  "what": "whts.club jobs category — same detail-page method; not yet touched."
+ },
+ {
+  "url": "https://whts.club/games/",
+  "what": "whts.club gaming category — same detail-page method; not yet touched."
+ },
+ {
+  "url": "https://whts.club/compra-venta/",
+  "what": "whts.club buy-sell category — same detail-page method; not yet touched."
+ },
+ {
+  "url": "https://whts.club/comunidades/",
+  "what": "whts.club communities category — same detail-page method; not yet touched."
+ }
+]

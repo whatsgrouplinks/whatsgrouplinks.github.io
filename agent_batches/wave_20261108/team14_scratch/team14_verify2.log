@@ -1,0 +1,25 @@
+kept=3151 already_decided=152 todo=2999
+  pass1 100/2999 live=152 dead=0 transport-retry=0 empty-retry=99
+  pass1 200/2999 live=152 dead=0 transport-retry=0 empty-retry=199
+  pass1 300/2999 live=152 dead=0 transport-retry=0 empty-retry=299
+  pass1 400/2999 live=152 dead=0 transport-retry=0 empty-retry=399
+  pass1 500/2999 live=175 dead=0 transport-retry=0 empty-retry=476
+  pass1 600/2999 live=208 dead=0 transport-retry=0 empty-retry=543
+  pass1 700/2999 live=208 dead=0 transport-retry=0 empty-retry=643
+  pass1 800/2999 live=209 dead=0 transport-retry=0 empty-retry=742
+  pass1 900/2999 live=235 dead=0 transport-retry=0 empty-retry=816
+  pass1 1000/2999 live=301 dead=0 transport-retry=0 empty-retry=850
+  pass1 1100/2999 live=320 dead=0 transport-retry=0 empty-retry=931
+  pass1 1200/2999 live=356 dead=0 transport-retry=0 empty-retry=995
+  pass1 1300/2999 live=391 dead=0 transport-retry=0 empty-retry=1060
+  pass1 1400/2999 live=415 dead=0 transport-retry=0 empty-retry=1135
+  pass1 1500/2999 live=447 dead=0 transport-retry=0 empty-retry=1203
+  pass1 1600/2999 live=480 dead=0 transport-retry=0 empty-retry=1270
+  pass1 1700/2999 live=491 dead=0 transport-retry=0 empty-retry=1359
+  pass1 1800/2999 live=498 dead=0 transport-retry=0 empty-retry=1452
+  pass1 1900/2999 live=507 dead=0 transport-retry=0 empty-retry=1543
+  pass1 2000/2999 live=536 dead=0 transport-retry=0 empty-retry=1614
+  pass1 2100/2999 live=545 dead=0 transport-retry=0 empty-retry=1705
+  pass1 2200/2999 live=545 dead=0 transport-retry=0 empty-retry=1805
+  pass1 2300/2999 live=553 dead=0 transport-retry=0 empty-retry=1897
+  pass1 2400/2999 live=557 dead=0 transport-retry=0 empty-retry=1993

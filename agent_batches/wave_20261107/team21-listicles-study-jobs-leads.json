@@ -1,0 +1,78 @@
+[
+ {
+  "url": "https://groupizo.com/category/education",
+  "what": "Groupizo Education category — 198 group slugs across pages 1-3, updated 2026-11-07; invite links hidden behind JS join interaction (0 codes in static HTML over 80 detail pages), needs live-browser leg"
+ },
+ {
+  "url": "https://groupizo.com/category/jobs",
+  "what": "Groupizo Jobs category — curl gets redirect loop (30+ redirects) on all http/https/trailing-slash variants; needs live-browser leg"
+ },
+ {
+  "url": "https://groupda.com/",
+  "what": "Groupda homepage — only 22KB static HTML, single dating category link; JS-rendered directory, needs live-browser leg to find education/jobs tags"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/35/student-groups",
+  "what": "Grupbul Student category — static snapshot lists groups but no invite codes in HTML; needs live-browser leg"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/9/job-postings-groups",
+  "what": "Grupbul Job Postings category — same hidden-invite pattern as student category; needs live-browser leg"
+ },
+ {
+  "url": "https://groupsgyani.org/whatsapp-group-links",
+  "what": "Groupsgyani directory — 1,241 active groups, 558KB page, 0 invite codes in static HTML; JS/API-loaded, needs browser leg"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/govt-jobs-whatsapp-group-links/",
+  "what": "Govt Jobs listicle — returns 200 but only 12KB (challenge/empty page), 0 codes via curl; retry via browser or later wave"
+ },
+ {
+  "url": "https://whtsgrouplink.com/",
+  "what": "Directory homepage — 200 but only 12KB, 0 codes via curl; same challenge/empty pattern; browser leg needed"
+ },
+ {
+  "url": "https://www.wemakescholars.com/blog/70-study-abroad-whatsapp-groups-for-students",
+  "what": "WeMakeScholars study-abroad listicle — harvested (18 new codes, all dead on verification); re-check next wave for refreshed links"
+ },
+ {
+  "url": "https://www.upgrad.com/study-abroad/articles/whatsapp-groups-for-ms-in-usa-universities/",
+  "what": "upGrad MS in USA universities listicle — harvested (4 new codes, all dead); re-check next wave"
+ },
+ {
+  "url": "https://77links.com/educational-whatsapp-group-links/",
+  "what": "77links Educational listicle — 73 codes, 0 new vs union (saturated); re-check next wave"
+ },
+ {
+  "url": "https://77links.com/students-whatsapp-group-links/",
+  "what": "77links Students listicle — 85 codes, 0 new vs union (saturated); re-check next wave"
+ },
+ {
+  "url": "https://activewagroup.com/",
+  "what": "Active WA Group directory — 475 codes, 0 new vs union (saturated); re-check next wave"
+ },
+ {
+  "url": "http://joinwagroup.link/lahore-whatsapp-group-link/",
+  "what": "JoinWA Lahore groups incl jobs/business (prior-wave lead, not harvested this wave)"
+ },
+ {
+  "url": "https://whtspgrouplink.com/karachi-jobs-whatsapp-group-links/",
+  "what": "290+ Karachi jobs groups (prior-wave lead, not harvested this wave)"
+ },
+ {
+  "url": "https://www.groupjoin.link/category/education?safeSearch=strict",
+  "what": "Groupjoin Education category — harvested pages 1-3 (60+ new codes this wave); page 3 yielded only 4 groups, pagination tailing off; re-check for new listings next wave"
+ },
+ {
+  "url": "https://www.groupjoin.link/category/jobs?safeSearch=strict",
+  "what": "Groupjoin Jobs category — harvested pages 1-3; re-check for new listings next wave"
+ },
+ {
+  "url": "https://grouplink.com.in/kota-coaching-whatsapp-group-links/",
+  "what": "Guessed grouplink Kota Coaching URL — 404, do not retry; find real URL from all-india-study page links first"
+ },
+ {
+  "url": "https://grouplink.com.in/bank-exam-whatsapp-group-links/",
+  "what": "Guessed grouplink Bank Exam URL — 404, do not retry; find real URL from all-india-study page links first"
+ }
+]

@@ -1,0 +1,35 @@
+WW1 fetch alisveris ok=True
+WW1 alisveris: 6 recs, 4 pages
+WW1 fetch askerlik ok=True
+WW1 askerlik: 1 recs, 1 pages
+WW1 fetch canli-yayin ok=True
+WW1 canli-yayin: 0 recs, 1 pages
+WW1 fetch din ok=True
+WW1 din: 10 recs, 5 pages
+WW1 fetch egitim ok=True
+WW1 egitim: 5 recs, 3 pages
+WW1 fetch evden-para-kazanma ok=True
+WW1 evden-para-kazanma: 0 recs, 1 pages
+WW1 fetch futbol ok=True
+WW1 futbol: 1 recs, 2 pages
+WW1 fetch hizmetler ok=True
+WW1 hizmetler: 0 recs, 1 pages
+WW1 fetch is-ilanlari ok=True
+WW1 is-ilanlari: 9 recs, 2 pages
+WW1 fetch kripto-airdrop ok=True
+WW1 kripto-airdrop: 0 recs, 1 pages
+WW1 fetch lgbt ok=True
+WW1 lgbt: 0 recs, 1 pages
+WW1 fetch okculuk ok=True
+WW1 okculuk: 0 recs, 1 pages
+WW1 fetch rap-hiphop ok=True
+WW1 rap-hiphop: 0 recs, 1 pages
+WW1 fetch spor ok=True
+WW1 spor: 0 recs, 1 pages
+WW1 fetch teknoloji ok=True
+WW1 teknoloji: 0 recs, 1 pages
+WW1 fetch uzaktan-calisma-dijital-gocebe ok=True
+WW1 uzaktan-calisma-dijital-gocebe: 0 recs, 1 pages
+WW1 fetch yasal-danismanlik ok=True
+WW1 yasal-danismanlik: 0 recs, 1 pages
+WW1 TOTAL UNIQUE: 29

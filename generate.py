@@ -249,6 +249,19 @@ def main():
         if g.get('description'):
             g['description'] = re.sub(r'\s+on Groupizo\.?', '', g['description'], flags=re.I)
 
+    # persist slugs back to groups.json (atomic) so URLs stay stable across
+    # runs even when entries are removed/appended (2026-11-01: previously every
+    # generate re-derived slugs from the list index, so each link-check prune
+    # shifted ~38k slugs and orphaned tens of thousands of pages)
+    _gj = f'{BASE}/groups.json'
+    _tmp = _gj + '.tmp-slugfix'
+    for g in groups:
+        g.pop('gid', None)  # transient; not persisted
+    with open(_tmp, 'w') as _f:
+        json.dump(groups, _f, ensure_ascii=False)
+    os.replace(_tmp, _gj)
+    print("slugs persisted to groups.json")
+
     cat_counts = Counter(g['category'] for g in groups if g.get('category'))
     print("Categories:", dict(cat_counts.most_common(12)))
 
@@ -409,6 +422,16 @@ def main():
         pg += FOOTER.format(name=SITE_NAME, prefix='../')
         open(f'{BASE}/groups/{g["slug"]}.html', 'w').write(pg)
     print(f"{len(groups)} group pages written")
+
+    # remove orphan pages: html files in groups/ whose slug no longer exists
+    # (accumulated by pre-2026-11-01 index-shifted slugs; ~2x files on disk)
+    _live = {g['slug'] + '.html' for g in groups}
+    _orphans = 0
+    for _fn in os.listdir(f'{BASE}/groups'):
+        if _fn.endswith('.html') and _fn not in _live:
+            os.remove(f'{BASE}/groups/{_fn}')
+            _orphans += 1
+    print(f"orphan group pages removed: {_orphans}")
 
     # ---- static pages ----
     about = header('About Us — ' + SITE_NAME, 'Learn about our WhatsApp groups directory.', 'about.html')

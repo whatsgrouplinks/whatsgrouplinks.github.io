@@ -1,0 +1,41 @@
+[2026-11-04T07:58:00Z] waiting for egress
+[2026-11-04T08:03:27Z] egress OK after 3 tries
+[2026-11-04T08:03:27Z] stage1 start
+carros cached 48
+cidades cached 100
+comprar-e-venda page 1 ids 45 new 45 maxpage 5
+ERR ProxyError https://linkado.app/categoria/comprar-e-venda?page=2 try 0
+comprar-e-venda page 2 ids 40 new 40 maxpage 5
+comprar-e-venda page 3 ids 40 new 40 maxpage 5
+ERR ProxyError https://linkado.app/categoria/comprar-e-venda?page=4 try 0
+comprar-e-venda page 4 ids 40 new 40 maxpage 5
+comprar-e-venda page 5 ids 40 new 35 maxpage 5
+ERR ProxyError https://linkado.app/categoria/figurinhas try 0
+figurinhas page 1 ids 44 new 44 maxpage 5
+figurinhas page 2 ids 40 new 37 maxpage 5
+ERR ProxyError https://linkado.app/categoria/figurinhas?page=3 try 0
+figurinhas page 3 ids 40 new 39 maxpage 5
+figurinhas page 4 ids 40 new 40 maxpage 5
+ERR ProxyError https://linkado.app/categoria/figurinhas?page=5 try 0
+figurinhas page 5 ids 40 new 40 maxpage 5
+fitness cached 15
+lgbt cached 200
+moda-e-beleza cached 200
+musica cached 200
+namoro cached 200
+series cached 200
+status cached 200
+games cached 203
+tecnologia cached 200
+TOTAL unique ids: 2166
+[2026-11-04T08:07:25Z] stage1 done rc=0
+[2026-11-04T08:07:25Z] stage2 start
+detail jobs: 2166
+detail progress 250
+detail progress 500
+detail progress 750
+detail progress 1000
+detail progress 1250
+detail progress 1500
+detail progress 1750
+[2026-11-04T08:36:50Z] stage2 done rc=0

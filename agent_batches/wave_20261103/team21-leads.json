@@ -1,0 +1,7 @@
+[
+ {
+  "domain": "groupwa.link",
+  "url": "https://groupwa.link/groups-gallery/",
+  "why": "78-category directory is AJAX-only (wp-admin/admin-ajax.php actions wagd_find/wagd_more); POST times out via egress proxy and GET is behind a Cloudflare JS challenge. Only the 10 latest cards are server-rendered in the gallery HTML. Resume: re-fetch gallery for the newest card ids (currently up to 4935); with a CF-cleared session the wagd_more endpoint can paginate per category."
+ }
+]

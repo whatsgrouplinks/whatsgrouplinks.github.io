@@ -1,0 +1,47 @@
+[
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/group/124973",
+  "why": "German WhatsApp group directory (group/<id> pages, e.g. Germany Group, New In Dortmund, Niedersachsen). Server-rendered text but invite code hidden behind join button (no chat.whatsapp.com code in HTML). JS-gated codes - needs browser leg."
+ },
+ {
+  "domain": "groupler.me",
+  "url": "https://groupler.me/",
+  "why": "German public WhatsApp group directory with search + categories. Join links require site registration - codes not visible to anonymous scraping."
+ },
+ {
+  "domain": "groupster.me",
+  "url": "https://groupmaster.app",
+  "why": "Noted separately - groupster.me is the app-based German directory (Groupster app); codes behind registration."
+ },
+ {
+  "domain": "everygroup.me",
+  "url": "https://everygroup.me/",
+  "why": "Mentioned as WhatsApp group search/listing site without registration. DNS did not resolve from this VM (browser.open: unresolvable URL) - retry from another network."
+ },
+ {
+  "domain": "groupssor.com",
+  "url": "https://www.groupssor.com/",
+  "why": "Fresh directory, 751 WhatsApp groups, server-rendered join links, no login. But 100% India-focused (no Germany content found) - useful for India slice teams, not Germany."
+ },
+ {
+  "domain": "groupmaster.app",
+  "url": "https://groupmaster.app/de/categories",
+  "why": "Scraped this wave (team41) via /de/group/<id>/join 302 redirects. 19 categories, ~230 German groups. Resume: re-run team41_pipeline.py; sitemap.xml lists group URLs."
+ },
+ {
+  "domain": "whatsshare.com",
+  "url": "https://whatsshare.com/categories",
+  "why": "Fresh general WhatsApp directory (34 categories: gaming, music, jobs, dating, girls, islamic, etc.), no login. Listing pages have no codes, but /group/<slug> detail pages embed chat.whatsapp.com codes server-rendered (verified on one detail page). No country structure and no Germany section found - useful for general/other-country slice teams, not DE."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/german?page=1&limit=20&safeSearch=blur",
+  "why": "German keyword tag on groupjoin.link (NOT in retired list). Page 1 returns 14 records with chat.whatsapp.com codes embedded in page JSON (group_title/group_desc/tags/category_slug/link). Heavy adult skew on p1 (FKK nudist groups, flirting, category_slug=adult) - only 'Learn German' education record was DE-plausible and its code was dead. Pages 2+ unexplored; parse records from embedded JSON, filter category_slug!=adult."
+ },
+ {
+  "domain": "groupmaster.app",
+  "url": "https://groupmaster.app/sitemap.xml",
+  "why": "EXHAUSTED for this wave: sitemap re-checked Nov 3 2026 lists 196 group URLs, all already in team41-checkpoint.json (ids_slug). ~230 German groups scraped via /de/group/<id>/join 302 redirects; 59 resolved codes already in dedupe union; 42 porn/adult drops; 19 verified into team41-germany.json. No new groups - do not re-scrape until sitemap changes."
+ }
+]

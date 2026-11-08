@@ -12,8 +12,12 @@ CODES_PKL = os.path.join(SITE, 'dedup_codes.pkl')
 VALID_CATS = {'Education','Jobs','Entertainment','Islamic','News','Sports','Technology',
               'Health','Business','Gaming','Friendship','Community & Social','Online Earning',
               'Crypto','Cooking','Poetry','Travel','Scholarship','Freelance','Real Estate',
-              'Buy & Sell'}
+              'Buy & Sell','Finance','Funny','Buy Sell'}
 # alias -> canonical (handles scrapes with lowercase/messy categories)
+# NOTE 2026-11-06: 'Finance', 'Funny' and 'Buy Sell' added — they are real
+# generate.py categories (category/finance.html, category/funny.html,
+# category/buy-sell.html) but were missing here, so 1,323 leg-1 items
+# (Finance 268, Funny 354, Buy-Sell 701) wrongly defaulted to Community & Social.
 ALIASES = {
     'education':'Education','jobs':'Jobs','job':'Jobs','entertainment':'Entertainment',
     'fun':'Entertainment','islamic':'Islamic','islam':'Islamic','news':'News',
@@ -23,8 +27,10 @@ ALIASES = {
     'community':'Community & Social','social':'Community & Social','online earning':'Online Earning',
     'earning':'Online Earning','crypto':'Crypto','cooking':'Cooking','food':'Cooking',
     'poetry':'Poetry','shayari':'Poetry','travel':'Travel','scholarship':'Scholarship',
-    'freelance':'Freelance','real estate':'Real Estate','buy & sell':'Buy & Sell',
-    'buysell':'Buy & Sell','buy sell':'Buy & Sell','general':'Community & Social',
+    'freelance':'Freelance','real estate':'Real Estate','buy & sell':'Buy Sell',
+    'buysell':'Buy Sell','buy sell':'Buy Sell','buy-sell':'Buy Sell','general':'Community & Social',
+    'finance':'Finance','funny':'Funny','movies':'Entertainment','music':'Entertainment',
+    'regional':'Community & Social','pets':'Community & Social','other':'Community & Social',
 }
 
 PORN_RE = re.compile(r'\b(porn|pornhub|xxx|nudes?|sex\s?video|escort|call\s?girl|randi|fuck|dick|pussy|boobs|anal)\b', re.I)

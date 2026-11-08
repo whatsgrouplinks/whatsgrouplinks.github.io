@@ -1,0 +1,12 @@
+[
+ {
+  "domain": "groups1.com",
+  "url": "https://groups1.com/sitemap_index.xml",
+  "why": "RESUME (team28R, wave closed mid-run): 8 of 562 eligible non-sports pages scraped+verified from the TAIL of the sitemap order (aarav-jewellery, csc, dharmapuri, balija-marriage, funny, revanth-reddy, thanjavur, theni-2). Next slug in tail order: tenkasi-whatsapp-group-link, then sivagangai. Eligible page list = https://groups1.com/post-sitemap{1..4}.xml minus telegram pages minus 31 excluded cricket/sports/betting slugs (cricket*, football*, premier-league, chelsea, liverpool, horse-racing, chess, esports, bet*, bookie, fixed-matches*, correct-score*, online-betting, sportybet, sure-bet, odds, fun88, disawar-satta, aviator-game). 94 verified items banked in team28R-groups1.json; all 94 codes were absent from dedupe_union.json (84,400) at scrape time. Method that works: python requests + Chrome UA; page li pattern '<li>NAME —- <a href=chat.whatsapp.com/CODE>'; verify via og:title on plain chat.whatsapp.com/<CODE>. Rerun: ~/workspace/whatsapp-groups-site/agent_batches/wave_20261103/team28_scrape.py (resumes from _team28R_state.json automatically). Note: original team28 worker was also on this slice (head of list); overlap possible — merge dedupes by code."
+ },
+ {
+  "domain": "groups1.com",
+  "url": "https://groups1.com/post-sitemap1.xml",
+  "why": "Left-tail sports/betting pages intentionally excluded from team28R slice (team18 wave-20261030 + team47 this wave own them): esports, chess, horse-racing, all bet*/bookie/fixed-matches/correct-score/odds/fun88/disawar-satta/aviator-game slugs. Revisit only if sports teams report them unclaimed."
+ }
+]

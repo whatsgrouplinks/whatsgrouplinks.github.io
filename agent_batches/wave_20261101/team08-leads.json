@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/education?page=1&limit=20&safeSearch=blur",
+  "why": "Untouched category route on same site; pagination scheme confirmed working. Likely fresh (categories never scraped before)."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/business?page=1&limit=20&safeSearch=blur",
+  "why": "Untouched category route; same scheme."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/entertainment?page=1&limit=20&safeSearch=blur",
+  "why": "Untouched category route; same scheme."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/online-shopping?page=1&limit=20&safeSearch=blur",
+  "why": "Untouched category route; same scheme."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/gaming?page=1&limit=20&safeSearch=blur",
+  "why": "Gaming tag pages exhausted but category route never scraped; may hold different records."
+ }
+]

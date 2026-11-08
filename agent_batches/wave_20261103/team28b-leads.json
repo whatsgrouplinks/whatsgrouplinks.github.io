@@ -1,0 +1,7 @@
+[
+ {
+  "domain": "groups1.com",
+  "url": "https://groups1.com/wp-json/wp/v2/posts?categories=<id>&per_page=100&page=<n>",
+  "why": "Resume: 12,022 unique codes extracted from groups1.com non-sports WP categories (deduped vs wave dedupe_union.json); only 381 liveness-checked in this wave (238 verified). Remaining ~11778 candidate codes saved with post titles at /home/hatch/workspace/team28_work/candidates.json \u2014 re-verify in a follow-up wave, newest-posts-first (list order = newest first per category). Cricket/sports/football categories excluded (covered by wave-20261030 team); adult category excluded."
+ }
+]

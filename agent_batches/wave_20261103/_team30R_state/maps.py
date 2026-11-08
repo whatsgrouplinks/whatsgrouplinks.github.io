@@ -1,0 +1,70 @@
+"""Shared country + category maps for TEAM 30R finalize."""
+COUNTRY_ISO = {
+    'afghanistan': 'AF', 'algeria': 'DZ', 'angola': 'AO', 'argentina': 'AR',
+    'australia': 'AU', 'austria': 'AT', 'azerbaijan': 'AZ', 'bahamas': 'BS',
+    'bangladesh': 'BD', 'belarus': 'BY', 'belgium': 'BE', 'brazil': 'BR',
+    'cameroon': 'CM', 'canada': 'CA', 'china': 'CN', 'colombia': 'CO',
+    'costa-rica': 'CR', 'denmark': 'DK', 'dubai': 'AE', 'ecuador': 'EC',
+    'egypt': 'EG', 'finland': 'FI', 'france': 'FR', 'georgia': 'GE',
+    'germany': 'DE', 'ghana': 'GH', 'global': 'International', 'iceland': 'IS',
+    'india': 'IN', 'indonesia': 'ID', 'international': 'International',
+    'iraq': 'IQ', 'israel': 'IL', 'italy': 'IT', 'japan': 'JP',
+    'kazakhstan': 'KZ', 'kenya': 'KE', 'lebanon': 'LB', 'libya': 'LY',
+    'luxembourg': 'LU', 'malaysia': 'MY', 'malta': 'MT', 'mexico': 'MX',
+    'morocco': 'MA', 'nepal': 'NP', 'nicaragua': 'NI', 'nigeria': 'NG',
+    'oman': 'OM', 'pakistan': 'PK', 'philippines': 'PH', 'poland': 'PL',
+    'qatar': 'QA', 'romania': 'RO', 'russia': 'RU', 'saudi-arabia': 'SA',
+    'senegal': 'SN', 'singapore': 'SG', 'south-africa': 'ZA', 'spain': 'ES',
+    'sri-lanka': 'LK', 'sweden': 'SE', 'switzerland': 'CH', 'tanzania': 'TZ',
+    'togo': 'TG', 'turkey': 'TR', 'uganda': 'UG', 'united-arab-emirates': 'AE',
+    'united-kingdom': 'GB', 'united-states': 'US', 'vietnam': 'VN',
+    'yemen': 'YE', 'zambia': 'ZM', 'zimbabwe': 'ZW',
+}
+
+SITE_CAT = {
+    'ai-machine-learning-data-science': 'Technology',
+    'animals-pets-wildlife': 'Pets',
+    'art-drawing-crafts': 'Entertainment',
+    'astrology-horoscope-spirituality': 'Other',
+    'automotive-cars-bikes': 'Other',
+    'beauty-fashion-lifestyle': 'Entertainment',
+    'books-ebooks-literature': 'Education',
+    'business-startup-earn-money': 'Business',
+    'buy-sell-marketplace': 'Buy-Sell',
+    'career-jobs-freelancing': 'Jobs',
+    'community-friendship-social': 'Friendship',
+    'cooking-food-recipes': 'Food',
+    'crypto-blockchain-web3': 'Crypto',
+    'dating-matrimony-relationships': 'Girls',
+    'education-study-learning': 'Education',
+    'entertainment-comedy-fun': 'Entertainment',
+    'finance-stocks-investing': 'Finance',
+    'fitness-gym-bodybuilding': 'Health',
+    'gardening-farming-agriculture': 'Other',
+    'health-diet-nutrition': 'Health',
+    'hobbies-diy-home-projects': 'Other',
+    'local-city-country': 'Regional',
+    'marketing-advertising-affiliate': 'Business',
+    'movies-tv-celebrities': 'Movies',
+    'music-songs-bands': 'Music',
+    'news-politics-information': 'News',
+    'photography-video-editing': 'Entertainment',
+    'programming-coding-software': 'Technology',
+    'real-estate-property-housing': 'Business',
+    'religion-devotional-faith': 'Community',  # upgraded to Islamic by keyword check
+    'science-engineering-technology': 'Technology',
+    'shopping-deals-coupons': 'Buy-Sell',
+    'sports-games-fantasy': 'Sports',
+    'travel-adventure-road-trips': 'Travel',
+}
+
+PORN_WORDS = ['porn', 'pornhub', 'xxx', 'nude', 'sex video', 'escort', 'call girl',
+              'fuck', 'dick', 'pussy', 'boobs', 'anal', 'sexvideo', 'sexy video',
+              'adult video', '18+', '🥵', '🍆', '🍑', '🔞', '💦', '👅', '👄', '💋']
+
+ISLAMIC_WORDS = ['islam', 'muslim', 'quran', "qur'an", 'masjid', 'mosque', 'naat',
+                 'madrasa', 'madarsa', 'deen', 'allah', 'muhammad', 'ﷺ', 'namaz',
+                 'roza', 'ramadan', 'hajj', 'umrah', 'dua', 'wazifa']
+
+MULE_WORDS = ['passcode', 'loader', 'paypal loader', 'counterfeit', 'fake currency',
+              'money mule', 'cashapp flip', 'flip money']

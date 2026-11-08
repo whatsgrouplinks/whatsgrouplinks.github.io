@@ -1,0 +1,809 @@
+{
+ "verified": 0,
+ "pending": 0,
+ "dead": [
+  [
+   "KUjrZQqOBmk6EK61v4bsnm",
+   "dead",
+   ""
+  ],
+  [
+   "HjwDh3D6ge9FTKTGtQV4Gj",
+   "dead",
+   ""
+  ],
+  [
+   "KHOP4ftGR5q4oqP2nyaHhm",
+   "dead",
+   ""
+  ],
+  [
+   "CfVERefRYC01fvHvHmKLBv",
+   "dead",
+   ""
+  ],
+  [
+   "Knw1kgbmijAFoBH6HxJrqw",
+   "dead",
+   ""
+  ],
+  [
+   "Jpl6rk2qL1wH4jgBkY2bL9",
+   "dead",
+   ""
+  ],
+  [
+   "BO88nRxmEw4550h7NHwpGB",
+   "dead",
+   ""
+  ],
+  [
+   "Fbb150UGnKE64kDWPe16k0",
+   "dead",
+   ""
+  ],
+  [
+   "Fc1O0NGYUer8e40YxJ5uRm",
+   "dead",
+   ""
+  ],
+  [
+   "DSYOxRsF2JMIt2bdSiH0yr",
+   "dead",
+   ""
+  ],
+  [
+   "D4MehDMkmxo3TN7w3rQNLv",
+   "dead",
+   ""
+  ],
+  [
+   "BKhszwJgRT53mgxItoqmV0",
+   "dead",
+   ""
+  ],
+  [
+   "E6VU6U7Z72wBoM4Qn9FO82",
+   "dead",
+   ""
+  ],
+  [
+   "KiurF1q6nb0ARuzQIjgBMn",
+   "dead",
+   ""
+  ],
+  [
+   "BhsEQ8EKP5a5TSp0hYH1mQ",
+   "dead",
+   ""
+  ],
+  [
+   "L3DIyAlQhFpKebMjTAzxOw",
+   "dead",
+   ""
+  ],
+  [
+   "CLIXBbQZMmg3NZ6nvvS6Je",
+   "dead",
+   ""
+  ],
+  [
+   "BzAzupPCsgVKn10gted36Q",
+   "dead",
+   ""
+  ],
+  [
+   "GHniIc4w6Un4nWpQKAvCjk",
+   "dead",
+   ""
+  ],
+  [
+   "LjRy0kO3r1YABKGVzhkBgM",
+   "dead",
+   ""
+  ],
+  [
+   "LUMZAqG2aGV6Jhs3NUFt5q",
+   "community-not-group",
+   "Brave Hearts Reconnect"
+  ],
+  [
+   "JPBvIpyfjDnJAbqY6eYLWn",
+   "community-not-group",
+   "For the girls - Málaga"
+  ]
+ ],
+ "status_log": [
+  [
+   0,
+   "https://gruposdewats.com/",
+   "HTTP None",
+   0
+  ],
+  [
+   1,
+   "https://masgrupos.com/",
+   "HTTP 200",
+   0
+  ],
+  [
+   2,
+   "https://linkado.app/sitemap.xml",
+   "HTTP 200",
+   0
+  ],
+  [
+   3,
+   "https://www.whatshub.es/sitemap.xml",
+   "HTTP 200",
+   0
+  ],
+  [
+   4,
+   "https://whatshub.es/",
+   "HTTP 200",
+   2
+  ],
+  [
+   5,
+   "https://www.whatshub.es/c/amistad-y-planes",
+   "HTTP 200",
+   2
+  ],
+  [
+   6,
+   "https://www.whatshub.es/c/estudios-y-universidad",
+   "HTTP 200",
+   0
+  ],
+  [
+   7,
+   "https://www.whatshub.es/c/vivienda",
+   "HTTP 200",
+   0
+  ],
+  [
+   8,
+   "https://www.whatshub.es/e/erasmus",
+   "HTTP 200",
+   0
+  ],
+  [
+   9,
+   "https://www.whatshub.es/e/conocer-gente",
+   "HTTP 404",
+   0
+  ],
+  [
+   10,
+   "https://www.whatshub.es/e/estudiantes",
+   "HTTP 200",
+   0
+  ],
+  [
+   11,
+   "https://www.whatshub.es/grupo/1025",
+   "HTTP 200",
+   0
+  ],
+  [
+   12,
+   "https://www.whatshub.es/grupo/2",
+   "HTTP 200",
+   0
+  ],
+  [
+   13,
+   "https://www.whatshub.es/grupo/261",
+   "HTTP 200",
+   0
+  ],
+  [
+   14,
+   "https://www.whatshub.es/grupo/639",
+   "HTTP 200",
+   0
+  ],
+  [
+   15,
+   "https://www.whatshub.es/grupo/1419",
+   "HTTP 200",
+   0
+  ],
+  [
+   16,
+   "https://www.whatshub.es/grupo/2140",
+   "HTTP 200",
+   0
+  ],
+  [
+   17,
+   "https://www.whatshub.es/grupo/3957",
+   "HTTP 200",
+   0
+  ],
+  [
+   18,
+   "https://www.whatshub.es/trends",
+   "HTTP 200",
+   0
+  ],
+  [
+   19,
+   "https://www.whatshub.es/grupo/3",
+   "HTTP 200",
+   0
+  ],
+  [
+   20,
+   "https://grupbul.com/en/category/whatsapp/5/game-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   21,
+   "https://grupbul.com/en/category/whatsapp/8/news-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   22,
+   "https://grupbul.com/en/category/whatsapp/9/job-postings-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   23,
+   "https://grupbul.com/en/category/whatsapp/15/chat-friendship-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   24,
+   "https://grupbul.com/en/category/whatsapp/29/trade-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   25,
+   "https://grupbul.com/en/category/whatsapp/34/music-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   26,
+   "https://grupbul.com/en/category/whatsapp/35/student-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   27,
+   "https://grupbul.com/en/category/whatsapp/38/technology-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   28,
+   "https://grupbul.com/en/category/whatsapp/47/series-movie-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   29,
+   "https://grupbul.com/en/category/whatsapp/52/religion-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   30,
+   "https://grupbul.com/en/category/whatsapp/53/food-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   31,
+   "https://grupbul.com/en/category/whatsapp/54/travel-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   32,
+   "https://grupbul.com/en/most-popular-whatsapp-groups",
+   "HTTP 200",
+   0
+  ],
+  [
+   33,
+   "https://whatsappkanali.com/grup/pubg-mobil",
+   "HTTP 200",
+   2
+  ],
+  [
+   34,
+   "https://whatsappkanali.com/etiket/whatsapp-18-grup-linkleri",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   35,
+   "https://whatsappkanali.com/etiket/whatsapp-airdrop-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   36,
+   "https://whatsappkanali.com/etiket/whatsapp-altcoin-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   37,
+   "https://whatsappkanali.com/etiket/whatsapp-bahis-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   38,
+   "https://whatsappkanali.com/etiket/whatsapp-bedava-hesap-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   39,
+   "https://whatsappkanali.com/etiket/whatsapp-binance-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   40,
+   "https://whatsappkanali.com/etiket/whatsapp-bist-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   41,
+   "https://whatsappkanali.com/etiket/whatsapp-bitcoin-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   42,
+   "https://whatsappkanali.com/etiket/whatsapp-canli-mac-skor-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   43,
+   "https://whatsappkanali.com/etiket/whatsapp-canli-skor-uygulama-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   44,
+   "https://whatsappkanali.com/etiket/whatsapp-canli-tv-haber-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   45,
+   "https://whatsappkanali.com/etiket/whatsapp-defi-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   46,
+   "https://whatsappkanali.com/etiket/whatsapp-ethereum-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   47,
+   "https://whatsappkanali.com/etiket/whatsapp-eurolig-basketbol-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   48,
+   "https://whatsappkanali.com/etiket/whatsapp-film-onerileri-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   49,
+   "https://whatsappkanali.com/etiket/whatsapp-iddaa-tahmin-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   50,
+   "https://whatsappkanali.com/etiket/whatsapp-kripto-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   51,
+   "https://groupsinvite.link/group/education/",
+   "HTTP 200",
+   0
+  ],
+  [
+   52,
+   "https://groupsinvite.link/add-group-link/",
+   "HTTP 200",
+   0
+  ],
+  [
+   53,
+   "https://losgrupos.app/grupos",
+   "HTTP 200",
+   0
+  ],
+  [
+   54,
+   "https://losgrupos.app/categorias",
+   "HTTP 200",
+   0
+  ],
+  [
+   55,
+   "https://masgrupos.com",
+   "HTTP 200",
+   0
+  ],
+  [
+   56,
+   "https://gruposdewats.com",
+   "HTTP None",
+   0
+  ],
+  [
+   57,
+   "https://gruposdewats.com/categorias",
+   "HTTP None",
+   0
+  ],
+  [
+   58,
+   "https://whatsappkanali.com/sehir/tekirdag/sohbet",
+   "DEEP-HARVEST (below)",
+   0
+  ],
+  [
+   59,
+   "https://www.meetup.com/fr-FR/find/?source=GROUPS&keywords=Bollywood+Dance",
+   "HTTP 200",
+   0
+  ],
+  [
+   60,
+   "https://nextdoor.co.uk/p/fjt64wLyxXH6?view=detail",
+   "HTTP 200",
+   0
+  ],
+  [
+   61,
+   "https://nextdoor.co.uk/p/PjSLSpytQyNH/",
+   "HTTP 200",
+   0
+  ],
+  [
+   62,
+   "https://nextdoor.co.uk/p/Fkw8gxk8njBY?view=detail",
+   "HTTP 200",
+   0
+  ],
+  [
+   63,
+   "https://www.universityapplicants.co.uk/birmingham-freshers/",
+   "HTTP 200",
+   1
+  ],
+  [
+   64,
+   "https://www.universityapplicants.co.uk/lincoln-freshers/",
+   "HTTP 200",
+   1
+  ],
+  [
+   65,
+   "https://www.universityapplicants.co.uk/edinburgh-freshers/",
+   "HTTP 200",
+   1
+  ],
+  [
+   66,
+   "https://www.universityapplicants.co.uk/sussex-freshers/",
+   "HTTP 200",
+   1
+  ],
+  [
+   67,
+   "https://whatsappkanali.com/etiket/whatsapp-memecoin-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   68,
+   "https://whatsappkanali.com/etiket/whatsapp-milli-takim-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   69,
+   "https://whatsappkanali.com/etiket/whatsapp-mma-ufc-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   70,
+   "https://whatsappkanali.com/etiket/whatsapp-nft-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   71,
+   "https://whatsappkanali.com/etiket/whatsapp-para-kazanma-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   72,
+   "https://whatsappkanali.com/etiket/whatsapp-sampiyonlar-ligi-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   73,
+   "https://whatsappkanali.com/etiket/whatsapp-solana-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   74,
+   "https://whatsappkanali.com/etiket/whatsapp-spor-haber-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   75,
+   "https://whatsappkanali.com/etiket/whatsapp-super-lig-haber-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   76,
+   "https://whatsappkanali.com/etiket/whatsapp-trading-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   77,
+   "https://whatsappkanali.com/etiket/whatsapp-tv-dizi-bolum-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   78,
+   "https://whatsappkanali.com/etiket/whatsapp-usdt-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   79,
+   "https://whatsappkanali.com/etiket/whatsapp-web3-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   80,
+   "https://whatsappkanali.com/etiket/whatsapp-yetiskin-sohbet-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   81,
+   "https://whatsappkanali.com/etiket/whatsapp-anne-bebek-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   82,
+   "https://whatsappkanali.com/etiket/whatsapp-basketbol-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   83,
+   "https://whatsappkanali.com/etiket/whatsapp-dating-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   84,
+   "https://whatsappkanali.com/etiket/whatsapp-doktor-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   85,
+   "https://whatsappkanali.com/etiket/whatsapp-kitap-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   86,
+   "https://whatsappkanali.com/etiket/whatsapp-kosu-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   87,
+   "https://whatsappkanali.com/etiket/whatsapp-musik-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   88,
+   "https://whatsappkanali.com/etiket/whatsapp-saglik-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   89,
+   "https://whatsappkanali.com/etiket/whatsapp-voleybol-kanallari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   90,
+   "https://whatsappkanali.com/etiket/whatsapp-yapay-zeka-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   91,
+   "https://whatsappkanali.com/etiket/whatsapp-yoga-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   92,
+   "https://whatsappkanali.com/kategori/cinsel-fetis",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   93,
+   "https://whatsappkanali.com/etiket/whatsapp-fitness-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   94,
+   "https://whatsappkanali.com/etiket/whatsapp-flort-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   95,
+   "https://whatsappkanali.com/etiket/whatsapp-formula1-gruplari",
+   "SKIP-RULE (per slice note)",
+   0
+  ],
+  [
+   96,
+   "https://visadb.io/blog/digital-nomad-whatsapp-groups-648bce7cfb4a1e461b7be9bc",
+   "HTTP 200",
+   97
+  ],
+  [
+   97,
+   "https://groupda.com/",
+   "HTTP 403",
+   0
+  ],
+  [
+   98,
+   "https://groupda.pk/wp-json/wp/v2/posts?after=2026-11-03T00:00:00&per_page=100",
+   "HTTP 200",
+   0
+  ],
+  [
+   99,
+   "https://groupsinvite.link/",
+   "HTTP 200",
+   1
+  ],
+  [
+   100,
+   "https://groupsinvite.link/group/link/fubfwizgyer0bvc6jg7o2u/",
+   "HTTP 200",
+   0
+  ],
+  [
+   101,
+   "https://groupsinvite.link/group/link/fin3q6eqix62r7ssgeps5r/",
+   "HTTP 200",
+   0
+  ],
+  [
+   102,
+   "https://groupsinvite.link/group/link/gsqw2c7rtom7m8zx1hlkb5/",
+   "HTTP 200",
+   0
+  ],
+  [
+   103,
+   "https://groupsinvite.link/group/link/jo8kh0gjkdg5j9tpfwajtp/",
+   "HTTP 200",
+   0
+  ],
+  [
+   104,
+   "https://groupsinvite.link/group/link/hrfec0i6eqzamaj970xxti/",
+   "HTTP 200",
+   0
+  ],
+  [
+   105,
+   "https://groupsinvite.link/group/link/jwvyj4qbzpidzpzgb2v43g/",
+   "HTTP 200",
+   0
+  ],
+  [
+   106,
+   "https://groupsinvite.link/group/link/ksh5dsi1eey89l40oulz8z/",
+   "HTTP 200",
+   0
+  ],
+  [
+   107,
+   "https://groupsinvite.link/group/link/gl7j0xuzrse2olo3494jya/",
+   "HTTP 200",
+   0
+  ],
+  [
+   108,
+   "https://groupsinvite.link/group/link/j0hboywkne86gcspkwo754/",
+   "HTTP 200",
+   0
+  ],
+  [
+   109,
+   "https://groupsinvite.link/group/link/kjdlbvq5wdvjokmeyafbzy/",
+   "HTTP 200",
+   0
+  ],
+  [
+   110,
+   "https://groupsinvite.link/group/link/llomu1biz2v6vneakcydh9/",
+   "HTTP 200",
+   0
+  ],
+  [
+   111,
+   "https://groupsinvite.link/group/link/f2cogxtvevq1joaqasbipc/",
+   "HTTP 200",
+   0
+  ],
+  [
+   112,
+   "https://groupsinvite.link/group/link/ferhixi0lscaouzacn1grl/",
+   "HTTP 200",
+   0
+  ],
+  [
+   113,
+   "https://groupsinvite.link/group/link/j72a7wcqp3s6lomer3g6kh/",
+   "HTTP 200",
+   0
+  ],
+  [
+   114,
+   "https://groupsinvite.link/group/link/i1vuy9ocuyqd55sbzuef9q/",
+   "HTTP None",
+   0
+  ]
+ ],
+ "leads": 61
+}

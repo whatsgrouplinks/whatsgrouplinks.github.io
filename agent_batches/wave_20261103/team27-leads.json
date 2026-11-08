@@ -1,0 +1,17 @@
+[
+ {
+  "domain": "groupsnext.com",
+  "url": "https://groupsnext.com/",
+  "why": "Assigned slice domain; not indexed by web search and DNS resolves to egress-proxy range (198.18.104.51) — unreachable from this VM (all fetches time out). Not found in any prior wave's files. Retry from a network that can reach it."
+ },
+ {
+  "domain": "whatgrouplinks.org",
+  "url": "https://whatgrouplinks.org/",
+  "why": "Assigned slice domain; unreachable from this VM (proxy timeout on 443/www/via-IP). Seen only as redirect wrapper whatgrouplinks.org/all-group-links-access-them-with-one-click/?link=<chat.whatsapp.com code> on whatgroups.com Pakistan page — all 4 redirect codes already in dedupe union. Retry direct fetch next wave."
+ },
+ {
+  "domain": "whatspgroupslink.com",
+  "url": "https://whatspgroupslink.com/81-whatsapp-group-link/",
+  "why": "Resume point: '81 WhatsApp Group Link' subpage 429'd on the Jina fetch proxy this wave (g6.md). Homepage + foreign + 6 other subpages fully parsed. Retry this one page next wave."
+ }
+]

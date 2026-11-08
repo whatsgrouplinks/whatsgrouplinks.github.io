@@ -1,0 +1,118 @@
+[
+ {
+  "url": "https://www.igrupos.com/grupo/526164",
+  "what": "igrupos group page — needs browser Join-click pass",
+  "name": "Amistad de la que perdura grupo 47 a 55 anos"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526221",
+  "what": "igrupos page — OUT OF SCOPE: WhatsApp CHANNEL (whatsapp.com/channel/0029VbEIivCLo4hduoQ8911y), not a group — do not harvest as a group",
+  "name": "SPACE ZONE"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526222",
+  "what": "igrupos page — OUT OF SCOPE: WhatsApp CHANNEL (whatsapp.com/channel/0029Vb9dRW74tRrwih5pNW10), not a group — do not harvest as a group",
+  "name": "Info ILLIT"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526224",
+  "what": "igrupos group page — join button is a self-link (login-gated, no invite exposed) — needs browser Join-click pass",
+  "name": "Anime y amistad"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526227",
+  "what": "igrupos group page — needs browser Join-click pass",
+  "name": "Somos los que somos"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526229",
+  "what": "igrupos group page — needs browser Join-click pass",
+  "name": "El castillo i la masia de las fiestas y nuevas amistades en Barcelona"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526241",
+  "what": "igrupos group page — needs browser Join-click pass",
+  "name": "Solo chicaaasss"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526243",
+  "what": "igrupos group page — needs browser Join-click pass",
+  "name": "Really Friends"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526251",
+  "what": "igrupos group page — MANGLED invite in static HTML (join button shows 'chat.whatsapp.com/CXCZSbUSEX &XVY', truncated/corrupt, not a 22-char code) — needs browser Join-click pass; do NOT guess the code",
+  "name": "GRUPO NUEVAS AMISTADES MAYORES DE 55 ANOS EN MALAGA Y CERCANIAS"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526258",
+  "what": "igrupos group page — join button is a self-link (login-gated, no invite exposed) — needs browser Join-click pass",
+  "name": "TODO STICKERS"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526299",
+  "what": "igrupos group page — needs browser Join-click pass",
+  "name": "Planes en Madrid con buen rollo"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526301",
+  "what": "igrupos group page — needs browser Join-click pass",
+  "name": "Amistad espana"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526307",
+  "what": "igrupos group page — needs browser Join-click pass",
+  "name": "D&R CUENTAS AR OFICIAL"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526338",
+  "what": "igrupos group page — join button is a self-link (login-gated, no invite exposed) — needs browser Join-click pass",
+  "name": "Monetiza tus videos de youtube y redes sociales"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526342",
+  "what": "igrupos group page — needs browser Join-click pass",
+  "name": "Chicos latinos en Madrid 30-40 anos"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526355",
+  "what": "igrupos group page — BROKEN invite in static HTML (join button shows 'chat.whatsapp.com /forever', no code) — needs browser Join-click pass",
+  "name": "Forever"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/amistad",
+  "what": "igrupos amistad newest listing p1 — checked Nov 7; newest gid 526355; re-check next wave for gid>526355"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/amistad/2",
+  "what": "igrupos amistad page 2 — checked Nov 7; max gid 526007, no new groups; re-check only if p1 overflows"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/negocios",
+  "what": "igrupos negocios newest listing — checked Nov 7; max gid 526122, no new groups since Nov 6 cutoff"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/free-fire",
+  "what": "igrupos free-fire newest listing — checked Nov 7; newest gids 526304/526307 now harvested (526304 verified live, 526307 browser-lead)"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/musica",
+  "what": "igrupos musica newest listing — checked Nov 7; max gid 525956, no new groups"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/futbol",
+  "what": "igrupos futbol newest listing — checked Nov 7; newest gid 526298 verified live"
+ },
+ {
+  "url": "https://www.igrupos.com/",
+  "what": "igrupos homepage 'Ultimos grupos y canales' — checked Nov 7; newest 40, min gid 526196; all 27 WhatsApp cards new since Nov 6 (gid>526133): 11 verified live above, 3 dead codes dropped, 16 browser-leads above"
+ },
+ {
+  "url": "https://ongrupos.com/",
+  "what": "ongrupos homepage — checked Nov 7; 24 newest cards harvested; all fresh codes verified (0 live: 552 dead + 16 dead-on-retry + 5 live-but-adult-blocked)"
+ },
+ {
+  "url": "https://ongrupos.com/category.xml",
+  "what": "INFO: ongrupos category sitemap — all 41 category p1 pages fetched OK Nov 7 (prior wave's fetch failures resolved); 884 unique codes harvested, 573 fresh, 0 verified live; re-check next wave"
+ }
+]

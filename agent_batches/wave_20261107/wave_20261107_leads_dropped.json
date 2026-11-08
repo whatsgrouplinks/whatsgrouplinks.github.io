@@ -1,0 +1,10 @@
+[
+ {
+  "file": "team02-leads-harvest-b-leads.json",
+  "entry": {
+   "url": "https://chat.whatsapp.com/",
+   "what": "VERIFICATION METHOD WORKS AGAIN as of 2026-11-05: control live code KrDwdK8EIkB6vgauHg5M7N returns non-empty og:title, a fake code returns empty og:title (the opposite of the Nov 4 finding, when every code returned an empty og:title). The og:title check is usable again; 30/77 codes verified this run, 47 stayed empty on two attempts."
+  },
+  "reason": "invite URL leaked into leads"
+ }
+]

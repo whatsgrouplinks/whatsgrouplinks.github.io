@@ -1,0 +1,90 @@
+[
+ {
+  "url": "https://groupda.com/add/group/find",
+  "what": "groupda.com directory search (POST /add/group/find + /add/group/loadresult, gcid/cid/lid filters); country-filtered listings (cid=Pakistan/India/Indonesia etc.) not harvested this run \u2014 category-only harvest done"
+ },
+ {
+  "url": "https://groupda.com/category/adult/",
+  "what": "groupda.com Adult WP category (184 posts) \u2014 SKIPPED by content rules (adult), do not harvest"
+ },
+ {
+  "url": "https://groupda.com/wp-json/wp/v2/posts?per_page=100&orderby=modified&order=desc",
+  "what": "groupda.com WP-API posts endpoint \u2014 mostly Telegram-channel posts, only 4/400 had WhatsApp codes; low yield, not the main directory"
+ },
+ {
+  "url": "https://groupda.pk/",
+  "what": "groupda.pk homepage, paginated fresh-groups listing (prior wave lead, not harvested this wave)"
+ },
+ {
+  "url": "https://groupda.pk/category/pakistani-groups/",
+  "what": "groupda.pk Pakistani groups category (prior wave lead)"
+ },
+ {
+  "url": "https://groupda.pk/category/indian-groups/",
+  "what": "groupda.pk Indian groups category (prior wave lead)"
+ },
+ {
+  "url": "https://groupda.pk/group-whatsapp-link/",
+  "what": "groupda.pk master group links listing page (prior wave lead)"
+ },
+ {
+  "url": "https://groupda.pk/wp-json/wp/v2/posts?per_page=100&orderby=modified&order=desc",
+  "what": "groupda.pk WP-API posts endpoint, paginated by modified date (prior wave lead)"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=23, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Crypto_Bitcoin_Betting category listing \u2014 crypto/betting \u2014 scam-prone, not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=17, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com MLM_Group_Joining category listing \u2014 MLM \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=28, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Ullu_Webseries_Movies category listing \u2014 adult webseries \u2014 skipped by content rules"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=3, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com 18_Adult_Hot_Babes category listing \u2014 adult \u2014 skipped by content rules"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=32, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Roleplay_Comics category listing \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=31, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Hacking_Web_Learning category listing \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=18, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Film_Animation category listing \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=29, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Magazines_Politics category listing \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=38, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Thoughts_Quotes_Jokes category listing \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=39, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Youtube_Promotional category listing \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=14, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Fan_Club_Celebrities category listing \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=4, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Art_Design_Photography category listing \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=30, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Pets_Animals_Nature category listing \u2014 not harvested this run"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=24, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Any_Category category listing \u2014 unfiltered catch-all, not harvested this run"
+ }
+]

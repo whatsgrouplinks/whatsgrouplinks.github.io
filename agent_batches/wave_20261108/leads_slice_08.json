@@ -1,0 +1,582 @@
+[
+ {
+  "url": "https://www.imagesplatform.com/whatsapp/category/social-friendship-community",
+  "what": "imagesplatform category page, fetch failed",
+  "source_team": "team15-newdirs-global-leads.json"
+ },
+ {
+  "url": "https://wagroupshub.com/",
+  "what": "WA Groups Hub directory homepage (clone of activewagroup template); table listings harvested this run",
+  "source_team": "team15-newdirs-global-leads.json"
+ },
+ {
+  "url": "https://wagroupnest.com/",
+  "what": "WA Group Nest directory homepage; table listings harvested this run",
+  "source_team": "team15-newdirs-global-leads.json"
+ },
+ {
+  "url": "https://groupwa.link/",
+  "what": "GroupWa.link directory homepage; 230 codes on page, harvested this run",
+  "source_team": "team15-newdirs-global-leads.json"
+ },
+ {
+  "url": "https://groupsnest.com/categories",
+  "what": "GroupsNest category index \u2014 30+ Pakistan collection pages (Punjabi, Karachi, Urdu poetry, sports, crypto, etc.) not harvested this run; only homepage + edu/bank-jobs/news/Islamabad pages were mined",
+  "source_team": "team16-newdirs-southasia-leads.json"
+ },
+ {
+  "url": "https://groupsnest.com/urdu-poetry-whatsapp-group-links-pakistan",
+  "what": "GroupsNest Urdu poetry collection page \u2014 not fetched this run",
+  "source_team": "team16-newdirs-southasia-leads.json"
+ },
+ {
+  "url": "https://groupsnest.com/punjabi-whatsapp-group-links",
+  "what": "GroupsNest Punjabi collection page \u2014 not fetched this run",
+  "source_team": "team16-newdirs-southasia-leads.json"
+ },
+ {
+  "url": "https://groupsnest.com/karachi-whatsapp-group-links",
+  "what": "GroupsNest Karachi collection page \u2014 not fetched this run",
+  "source_team": "team16-newdirs-southasia-leads.json"
+ },
+ {
+  "url": "https://wagroupshub.com/sri-lanka-whatsapp-group-links/",
+  "what": "WAGroupsHub Sri Lanka page \u2014 wave-06 lead, not fetched this run",
+  "source_team": "team16-newdirs-southasia-leads.json"
+ },
+ {
+  "url": "https://www.imagesplatform.com/add-whatsapp-group-link",
+  "what": "ImagesPlatform \u2014 large open WhatsApp directory (200+ countries, 30+ categories), wave-06 lead, not harvested",
+  "source_team": "team16-newdirs-southasia-leads.json"
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/03/1000-active-pakistani-whatsapp-group.html",
+  "what": "GroupLinksForYou Pakistani page \u2014 wave-06 audit lead, raw-HTML pool of unmined codes",
+  "source_team": "team16-newdirs-southasia-leads.json"
+ },
+ {
+  "url": "https://groupwa.link/groups-gallery/",
+  "what": "GroupWa gallery deeper pages via wagd_more AJAX \u2014 bot-check blocked curl POST; browser leg could page through beyond page 1",
+  "source_team": "team16-newdirs-southasia-leads.json"
+ },
+ {
+  "url": "https://linktogroups.com/en/blog/top-kenyan-telegram-whatsapp-groups-dating-socialites-2026",
+  "what": "Kenya dating/socialite groups blog (Oct 15 2026); invite links behind redirects/Telegram, 0 direct chat.whatsapp.com codes via curl \u2014 needs browser pass",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://www.7hubent.com.ng/2024/09/nigerian-best-universities-whatsapp.html",
+  "what": "Nigerian university aspirant WhatsApp groups hub (all schools 2024/2025/2026); links via site pages, not direct codes on the hub",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://www.7hubent.com.ng/2024/11/futa-aspirant-whatsapp-group-links.html",
+  "what": "FUTA aspirant WhatsApp group links page (7hubent); not fetched this run",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://www.freshnote.com.ng/2025/10/36-nigerian-university-students.html",
+  "what": "36 Nigerian university student groups by state; team25 harvested 1 direct code, rest are WhatsApp channel links",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://whtsgrouplink.org/girl-whatsapp-group-links/",
+  "what": "130+ girls WhatsApp group links directory (cited by ufovpn.io roundup); not fetched this run",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://wappgrouplinks.com/girls-groups/",
+  "what": "Free WhatsApp groups for girls directory (cited by ufovpn.io roundup); not fetched this run",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://assengaonline.com/tag/tanzania-whatsapp-group-join-2025/",
+  "what": "Tanzania WhatsApp group join tag archive (assengaonline); article page links did not expose direct codes via curl",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://www.groupjoin.link/country/south-africa?page=2",
+  "what": "groupjoin South Africa page 2 returned 0 codes (anomaly \u2014 pages 1 and 3 returned ~20 each); worth a retry",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://www.groupjoin.link/country/nigeria?page=6",
+  "what": "groupjoin Nigeria further pagination beyond page 5 (not attempted this run)",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://www.groupjoin.link/country/kenya?page=4",
+  "what": "groupjoin Kenya further pagination beyond page 3 (not attempted this run)",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://www.groupjoin.link/country/ghana?page=3",
+  "what": "groupjoin Ghana further pagination beyond page 2 (not attempted this run)",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://whatslinkhub.com/african-whatsapp-group/",
+  "what": "Africa hub with Ghana/Kenya/Nigeria/South-Africa country pages; BLOCKED by JS anti-bot (empty 200 this run, same as team25) \u2014 browser-only",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://whatslinkhub.com/nigeria-whatsapp-group-links/",
+  "what": "whatslinkhub Nigeria country page; same JS anti-bot gate \u2014 browser-only",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://whatslinkhub.com/kenya-whatsapp-group-links/",
+  "what": "whatslinkhub Kenya country page; same JS anti-bot gate \u2014 browser-only",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://whatslinkhub.com/ghana-whatsapp-group-links/",
+  "what": "whatslinkhub Ghana country page; same JS anti-bot gate \u2014 browser-only",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://groupwa.com/country/zimbabwe-whatsapp-groups/",
+  "what": "groupwa Zimbabwe country page; curl returned 0 codes, JS-loaded listing \u2014 browser-only (team25)",
+  "source_team": "team17-newdirs-africa-leads.json"
+ },
+ {
+  "url": "https://www.grouplinks.app/country/indonesia",
+  "what": "grouplinks.app Indonesia country page \u2014 JS-rendered; group pages at /group/<slug> hide invite codes behind 'Loading Community'; needs browser leg. 41 SE Asia group slugs enumerated from sitemap (see team notes).",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://www.grouplinks.app/sitemaps/categories/sitemap.xml",
+  "what": "grouplinks.app category sitemaps \u2014 enumerate fresh SE Asia group slugs for browser leg.",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/feeds/posts/default?alt=json&max-results=50",
+  "what": "grouplinksforyou Blogger JSON feed \u2014 Nov 3 2026 posts incl. International Business, Free Fire, PUBG, YouTube Promotion; Indonesia business post already harvested this wave (100 codes). Other posts unharvested.",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://techsslash.com/philippines-whatsapp-group-links/",
+  "what": "Philippines list page (~27 named groups) \u2014 codes hidden behind Join outlinks; needs browser leg to resolve each. Skip Bokep (porn) and YEBOCASINO.",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://www.togather.in/",
+  "what": "Togather directory \u2014 1,794 listings, WhatsApp links behind two-step safe-redirect; needs browser exploration of search/category pages filtered to WhatsApp.",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://www.whatslinkhub.com/",
+  "what": "whatslinkhub \u2014 Malaysia/Portugal country pages; JS anti-bot gate on curl; needs browser leg.",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=Indonesia&page=16&limit=20&safeSearch=blur",
+  "what": "groupjoin.link API \u2014 Indonesia tag totals 4,381 groups; pages 1-15 harvested this run (live rate ~5-10%, mostly stale). Resume at page 16+; same for Malaysia (174 total, pages 1-9 done).",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://www.imagesplatform.com/whatsapp/country/vietnam",
+  "what": "imagesplatform Vietnam country page \u2014 returned HTTP 301 with 0 bytes on curl this run; re-check / browser leg.",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://meraonlineworld.com/new-jobs-whatsapp-group-links/",
+  "what": "meraonlineworld jobs listicle \u2014 225 direct invite codes in page text, but all SE Asia-context codes already in union; re-check on next update.",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/search?updated-max=2026-08-02T11:49:00-07:00&max-results=7",
+  "what": "grouplinksforyou search archive \u2014 older Indonesian 'Link Grup WA' posts may hold unharvested codes; feed q= search returned only the Nov 3 business post.",
+  "source_team": "team18-newdirs-seasia-leads.json"
+ },
+ {
+  "url": "https://www.gruposwats.com/",
+  "what": "NEW directory Grupos Wats (95k links, Spanish/LatAm, country subdomains ar/mx/cl/co/pe/ve/uy/py/bo/ec/cr/sv/gt/hn/ni/pa/do/pr/cu). Listing data via POST /0_portada1/ (token in homepage HTML) + detail pages /<slug>_gr_<id>; invites NOT in static HTML or masinfogrupo.php AJAX (request-to-join form only) \u2014 needs live-browser click-through to extract. AVOID adult category links on homepage (hentai/xxx/porno/sexo/onlyfans/hot).",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://www.gruposwats.com/conocer-gente_page_2",
+  "what": "Grupos Wats listing pagination (page 2 of newest groups); same invite-hidden limitation as homepage.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://tugrupo.online/whatsapp/",
+  "what": "NEW directory Tu Grupo Online (from Droiders/Sinch roundups). Cloudflare 'One moment, please' challenge blocks curl \u2014 needs live browser. Not harvested.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://freewagroup.com/wp-json/wp/v2/posts?per_page=100&page=1",
+  "what": "freewagroup WP API (28-country Spanish directory). Re-check pages 1-3 next wave for posts dated after 2026-11-06. WARNING: this wave 90 of 93 fresh codes were DEAD on verification and the 3 live ones had blocked emoji in og:title \u2014 very low yield; deprioritise.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://groupler.me/",
+  "what": "Groupler.me directory (from practical-tips roundup) \u2014 curl connection failed twice from this VM (HTTP 000); RETIRED for curl, try via browser next wave. Registration may be required to see invites.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://groupio.app/",
+  "what": "Groupio.app directory (German, from practical-tips roundup) \u2014 homepage loads (200) but is JS-driven with zero invite codes in HTML; needs browser/JS rendering. Mostly German groups.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://whts.club/deportes/",
+  "what": "whts.club sports category \u2014 same detail-page method as /amistad/ harvested this wave; not yet touched.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://whts.club/educacion/",
+  "what": "whts.club education category \u2014 same detail-page method; not yet touched.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://whts.club/trabajo/",
+  "what": "whts.club jobs category \u2014 same detail-page method; not yet touched.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://whts.club/games/",
+  "what": "whts.club gaming category \u2014 same detail-page method; not yet touched.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://whts.club/compra-venta/",
+  "what": "whts.club buy-sell category \u2014 same detail-page method; not yet touched.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://whts.club/comunidades/",
+  "what": "whts.club communities category \u2014 same detail-page method; not yet touched.",
+  "source_team": "team19-newdirs-latam-leads.json"
+ },
+ {
+  "url": "https://addwats.com/",
+  "what": "Arabic directory (groups+channels by country/category); invite codes hidden behind /go/ shortlinks, 0 direct codes in static fetch \u2014 needs browser/JS harvest; team22 (wave06) got 2 codes from it",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://www.groupslinks.com/search/label/alqrwbat-hsb-aldwltt/qrwbat-dwltt-alkwet/",
+  "what": "groupslinks.com Kuwait country listing page (same Arabic directory harvested this run, homepage+p2+p3) \u2014 not yet fetched",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://www.groupslinks.com/search/label/alqrwbat-hsb-aldwltt/qrwbat-dwltt-aljzaaer/",
+  "what": "groupslinks.com Algeria country listing page \u2014 not yet fetched",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://www.groupslinks.com/search/label/alqrwbat-hsb-aldwltt/qrwbat-dwltt-albhren/",
+  "what": "groupslinks.com Bahrain country listing page \u2014 not yet fetched",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://www.groupslinks.com/search/label/alqrwbat-hsb-aldwltt/qrwbat-dwltt-alaraq/",
+  "what": "groupslinks.com Iraq country listing page \u2014 not yet fetched",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://www.groupslinks.com/search/label/alqrwbat-hsb-aldwltt/qrwbat-dwltt-alemn/",
+  "what": "groupslinks.com Yemen country listing page \u2014 not yet fetched",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/04/saudi-arabia-jobs-whatsapp-group-links.html",
+  "what": "Saudi Arabia Jobs groups (500+ claimed, updated 2026-11-03); team22 wave06 lead, not harvested this run",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://groupwa.com/",
+  "what": "GroupWA directory index; Riyadh city page fetched this run (9 codes, all in union) \u2014 try other city pages (Dubai/Jeddah/Cairo) next wave",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://grouplink.com.in/join-uae-job-whatsapp-group-links-instant-hiring/",
+  "what": "45 UAE job groups, all 45 codes already in union this run \u2014 re-check next wave for newly added groups",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://whtspgrouplink.com/saudi-arabia-whatsapp-group-links/",
+  "what": "Saudi Arabia groups re-checked this run (28 codes, 0 fresh) \u2014 re-check next wave for new additions",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://whtspgrouplink.com/egypt-whatsapp-group-links/",
+  "what": "Egypt groups re-checked this run (22 codes, 0 fresh) \u2014 re-check next wave for new additions",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://www.whatsapplink.cazajobz.com/residential-uae-whatsapp-group-link/",
+  "what": "Residential UAE groups page; 0 invite codes in static fetch (links may be JS-hidden) \u2014 retry via browser",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://www.whatsapplink.cazajobz.com/data-entry-whatsapp-group-dubai-uae/",
+  "what": "Data Entry Dubai-UAE groups page; 0 invite codes in static fetch \u2014 retry via browser",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://www.whatsapplink.cazajobz.com/join-emirates-careers-whatsapp-group/",
+  "what": "Emirates Careers groups page; 0 invite codes in static fetch \u2014 retry via browser",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://newgrouplinks.pk/dubai-whatsapp-group-links/",
+  "what": "1000+ UAE Dubai groups; 20 codes fetched this run, all in union \u2014 re-check next wave for new additions",
+  "source_team": "team20-newdirs-mideast-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/category/education",
+  "what": "Groupizo Education category \u2014 198 group slugs across pages 1-3, updated 2026-11-07; invite links hidden behind JS join interaction (0 codes in static HTML over 80 detail pages), needs live-browser leg",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/category/jobs",
+  "what": "Groupizo Jobs category \u2014 curl gets redirect loop (30+ redirects) on all http/https/trailing-slash variants; needs live-browser leg",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://groupsgyani.org/whatsapp-group-links",
+  "what": "Groupsgyani directory \u2014 1,241 active groups, 558KB page, 0 invite codes in static HTML; JS/API-loaded, needs browser leg",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/govt-jobs-whatsapp-group-links/",
+  "what": "Govt Jobs listicle \u2014 returns 200 but only 12KB (challenge/empty page), 0 codes via curl; retry via browser or later wave",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://whtsgrouplink.com/",
+  "what": "Directory homepage \u2014 200 but only 12KB, 0 codes via curl; same challenge/empty pattern; browser leg needed",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://www.wemakescholars.com/blog/70-study-abroad-whatsapp-groups-for-students",
+  "what": "WeMakeScholars study-abroad listicle \u2014 harvested (18 new codes, all dead on verification); re-check next wave for refreshed links",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://www.upgrad.com/study-abroad/articles/whatsapp-groups-for-ms-in-usa-universities/",
+  "what": "upGrad MS in USA universities listicle \u2014 harvested (4 new codes, all dead); re-check next wave",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://77links.com/educational-whatsapp-group-links/",
+  "what": "77links Educational listicle \u2014 73 codes, 0 new vs union (saturated); re-check next wave",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://77links.com/students-whatsapp-group-links/",
+  "what": "77links Students listicle \u2014 85 codes, 0 new vs union (saturated); re-check next wave",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://activewagroup.com/",
+  "what": "Active WA Group directory \u2014 475 codes, 0 new vs union (saturated); re-check next wave",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "http://joinwagroup.link/lahore-whatsapp-group-link/",
+  "what": "JoinWA Lahore groups incl jobs/business (prior-wave lead, not harvested this wave)",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://whtspgrouplink.com/karachi-jobs-whatsapp-group-links/",
+  "what": "290+ Karachi jobs groups (prior-wave lead, not harvested this wave)",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://www.groupjoin.link/category/education?safeSearch=strict",
+  "what": "Groupjoin Education category \u2014 harvested pages 1-3 (60+ new codes this wave); page 3 yielded only 4 groups, pagination tailing off; re-check for new listings next wave",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://www.groupjoin.link/category/jobs?safeSearch=strict",
+  "what": "Groupjoin Jobs category \u2014 harvested pages 1-3; re-check for new listings next wave",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://grouplink.com.in/kota-coaching-whatsapp-group-links/",
+  "what": "Guessed grouplink Kota Coaching URL \u2014 404, do not retry; find real URL from all-india-study page links first",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://grouplink.com.in/bank-exam-whatsapp-group-links/",
+  "what": "Guessed grouplink Bank Exam URL \u2014 404, do not retry; find real URL from all-india-study page links first",
+  "source_team": "team21-listicles-study-jobs-leads.json"
+ },
+ {
+  "url": "https://www.groupjoin.link/category/Sports?limit=20&safeSearch=strict",
+  "what": "groupjoin website category page for Sports; API tags sports/football/cricket/ipl/psl/soccer/fifa harvested to page 5/3/2 \u2014 try API pages 6+ and website category page next wave.",
+  "source_team": "team22-listicles-sports-movies-leads.json"
+ },
+ {
+  "url": "https://www.groupjoin.link/category/Movies?limit=20&safeSearch=strict",
+  "what": "groupjoin website category page for Movies; API tag 'movies' only page 1 harvested \u2014 try bollywood/hollywood/netflix deeper pages and tamil-movies/dubbed-movies tag forms.",
+  "source_team": "team22-listicles-sports-movies-leads.json"
+ },
+ {
+  "url": "https://wagroupnest.com/tamil-whatsapp-group-links/",
+  "what": "Tamil WhatsApp groups incl Tamil Movies section (updated 2026-10-19); invite codes hidden behind Click Here buttons \u2014 needs per-group page fetch.",
+  "source_team": "team22-listicles-sports-movies-leads.json"
+ },
+ {
+  "url": "https://thewhatspgrouplinks.com/tamil-whatsapp-group-links/",
+  "what": "590+ Tamil WhatsApp groups incl Tamil movie, songs, news, entertainment; codes behind Join links \u2014 needs per-group page fetch.",
+  "source_team": "team22-listicles-sports-movies-leads.json"
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/04/pubg-whatsapp-group-links.html?m=1",
+  "what": "PUBG listicle, 1500+ claimed, updated 2026-11-03; harvested this wave and still yielding live groups \u2014 re-check next wave for newly added entries. NOTE: page is heavily carding/UC-seller shops; screen fraud (carding/CC) before banking.",
+  "source_team": "team22-listicles-sports-movies-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/",
+  "what": "Directory homepage \u2014 tag/category URL pattern for sports/movies/gaming/funny not confirmed this wave; discover tag URLs from homepage, then harvest new tags in slice.",
+  "source_team": "team22-listicles-sports-movies-leads.json"
+ },
+ {
+  "url": "https://grouplink.com.in/1000-best-jokers-whatsapp-group-links/",
+  "what": "Jokers/funny listicle updated 2026-10-27; harvested this wave, 0 new codes (all in union) \u2014 re-check after its next update.",
+  "source_team": "team22-listicles-sports-movies-leads.json"
+ },
+ {
+  "url": "https://whatgroups.com/cricket-whatsapp-group-links/",
+  "what": "Cricket listicle updated 2026-10-12 with new ICC T20 World Cup 2028 section; harvested this wave, all listed codes dead \u2014 re-check as the tournament approaches and the page refreshes.",
+  "source_team": "team22-listicles-sports-movies-leads.json"
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=gaming&page=1&limit=20&safeSearch=blur",
+  "what": "groupjoin API tag 'gaming' returned 0 records with limit=5 but other tags work at limit=20; re-probe tag 'gaming' at limit=20 and try tags 'esports', 'free-fire', 'bgmi' deeper pages.",
+  "source_team": "team22-listicles-sports-movies-leads.json"
+ },
+ {
+  "url": "https://groupsgyani.org/whatsapp-group-links/cryptocurrency",
+  "what": "GroupsGyani crypto category \u2014 invite codes hidden behind JS Join buttons; detail pages returned no chat.whatsapp.com code in static HTML",
+  "source_team": "team23-listicles-crypto-earning-leads.json"
+ },
+ {
+  "url": "https://groupsgyani.org/whatsapp-group-links/online-earning",
+  "what": "GroupsGyani online-earning category \u2014 same JS-gated Join flow, not harvested",
+  "source_team": "team23-listicles-crypto-earning-leads.json"
+ },
+ {
+  "url": "https://groupsgyani.org/whatsapp-group-links/business-and-advertising",
+  "what": "GroupsGyani business category \u2014 same JS-gated Join flow, not harvested",
+  "source_team": "team23-listicles-crypto-earning-leads.json"
+ },
+ {
+  "url": "https://groupsgyani.org/whatsapp-group-links/finance-and-investment",
+  "what": "GroupsGyani finance category \u2014 same JS-gated Join flow, not harvested",
+  "source_team": "team23-listicles-crypto-earning-leads.json"
+ },
+ {
+  "url": "https://groupsgyani.org/whatsapp-group-links/stock-market",
+  "what": "GroupsGyani stock-market category \u2014 same JS-gated Join flow, not harvested",
+  "source_team": "team23-listicles-crypto-earning-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/cryptocurrency-whatsapp-group-links/",
+  "what": "Crypto listicle \u2014 returned 403 on retry this run (rate-limited after earlier fetches); retry next wave",
+  "source_team": "team23-listicles-crypto-earning-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/earn-money-whatsapp-group-link/",
+  "what": "Earn-money listicle \u2014 returned 403 on retry this run; retry next wave",
+  "source_team": "team23-listicles-crypto-earning-leads.json"
+ },
+ {
+  "url": "https://whatsgroupslinkspk.com/",
+  "what": "Mega listicle, 900 codes in static HTML \u2014 section headings unreliable in static parse (poetry names landed under earning sections); needs deeper section parsing before harvest",
+  "source_team": "team23-listicles-crypto-earning-leads.json"
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/04/cryptocurrency-whatsapp-group-links.html",
+  "what": "Crypto listicle updated Nov 3 \u2014 main list codes all already in dedupe union; only fresh codes were blog-comment submissions (unreliable, not harvested)",
+  "source_team": "team23-listicles-crypto-earning-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/category/islamic",
+  "what": "Groupizo Islamic category listing \u2014 invite links hidden behind detail-page buttons in static HTML; needs JS/browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/category/friendship",
+  "what": "Groupizo Friendship category listing \u2014 invite links hidden behind detail-page buttons; needs JS/browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/category/community-and-social",
+  "what": "Groupizo Community & Social category listing \u2014 invite links hidden behind detail-page buttons; needs JS/browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/category/religious",
+  "what": "Groupizo Religious category listing \u2014 invite links hidden behind detail-page buttons; needs JS/browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/tabligh-my-work-islamic-invite-link",
+  "what": "Groupizo Islamic detail page (Tabligh My Work, checked 06 Nov 2026) \u2014 invite hidden behind button; needs browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/52/Religion",
+  "what": "Grupbul Religion (Islamic) category \u2014 invite links not in static HTML, JS-gated Join button; needs browser/API harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/group/119828",
+  "what": "Grupbul Islamic Ummah -1 detail page \u2014 invite JS-gated; needs browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/group/859677",
+  "what": "Grupbul Authentic Islamic Group detail page \u2014 invite JS-gated; needs browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/group/211894",
+  "what": "Grupbul Berbagi Video Islamic detail page \u2014 invite JS-gated; needs browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/group/121781",
+  "what": "Grupbul Islamic Videos detail page \u2014 invite JS-gated; needs browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/group/456780",
+  "what": "Grupbul Islamic youtube links detail page \u2014 invite JS-gated; needs browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/group/533799",
+  "what": "Grupbul Islamic Groups detail page \u2014 invite JS-gated; needs browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://groupda.pk/category/girls-groups/",
+  "what": "Groupda.pk Girls Groups category \u2014 0 codes in static fetch (JS/pagination); needs browser harvest",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://girlsgroup.pk/",
+  "what": "Girls WhatsApp Group Links 2026 listicle \u2014 not harvested this run; friendship/girls groups",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://joinwagroupnow.com/kerala-whatsapp-group-links/",
+  "what": "Kerala WhatsApp Group Links listicle (updated 2026-10-19) \u2014 friendship/news/community sections; not harvested this run",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://77links.com/tamil-whatsapp-group-links/",
+  "what": "77links Tamil groups \u2014 Islamic, health, cooking and news sections; not harvested this run",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/",
+  "what": "Harvested this run (235 codes) but homepage mixes many categories; unharvested sections remain for follow-up",
+  "source_team": "team24-listicles-islamic-community-leads.json"
+ }
+]

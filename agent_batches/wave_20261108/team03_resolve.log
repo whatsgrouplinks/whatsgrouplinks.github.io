@@ -1,0 +1,24 @@
+resolving 97 groupe ids
+301 403 https://groupsor.link/group/join/ElyYy9xvfXoEInKpLXbBS4 
+300 403 https://groupsor.link/group/join/Koy2VYbhBBlCd9WhWPsOh4 
+302 None  ChunkedEncodingError(ProtocolError("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLe
+303 None  ProxyError(MaxRetryError("HTTPSConnectionPool(host='groupsor.link', port=443): Max retries exceeded with url: /group/joi
+304 None  ProxyError(MaxRetryError("HTTPSConnectionPool(host='groupsor.link', port=443): Max retries exceeded with url: /group/joi
+305 403 https://groupsor.link/group/join/CpdlfYuzTqMA3sNKhZQROz ChunkedEncodingError(ProtocolError('Connection broken: IncompleteRead(545 bytes read, 2706 more expected)', IncompleteRe
+306 None  ProxyError(MaxRetryError("HTTPSConnectionPool(host='groupsor.link', port=443): Max retries exceeded with url: /group/joi
+307 None  ProxyError(MaxRetryError("HTTPSConnectionPool(host='groupsor.link', port=443): Max retries exceeded with url: /group/joi
+308 403 https://groupsor.link/group/join/KsMjZJgLfal4bShLC9zMuE ProxyError(MaxRetryError("HTTPSConnectionPool(host='groupsor.link', port=443): Max retries exceeded with url: /group/joi
+310 403 https://groupsor.link/group/join/FilRr9Ca9kK6ShTzutEvTL 
+309 403 https://groupsor.link/group/join/LZ9xQ0pRUVlBVmyHGGQEuD ChunkedEncodingError(ProtocolError('Connection broken: IncompleteRead(537 bytes read, 2712 more expected)', IncompleteRe
+311 403 https://groupsor.link/group/join/JfzwKW23g1pEDHAPhHd4uN 
+312 None  ChunkedEncodingError(ProtocolError('Connection broken: IncompleteRead(553 bytes read, 2673 more expected)', IncompleteRe
+313 403 https://groupsor.link/group/join/KmtjMm0vrcrISfpp2s7jIu ProxyError(MaxRetryError("HTTPSConnectionPool(host='groupsor.link', port=443): Max retries exceeded with url: /group/joi
+315 403 https://groupsor.link/group/join/B6e0AwQFfSn4TlhNVFLT3I 
+314 None  ChunkedEncodingError(ProtocolError("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLe
+316 None  ChunkedEncodingError(ProtocolError("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLe
+319 403 https://groupsor.link/group/join/IWwAZH0F1Sq5Y7aA1Mkt1q 
+317 None  ChunkedEncodingError(ProtocolError('Connection broken: IncompleteRead(541 bytes read, 2706 more expected)', IncompleteRe
+318 None  ProxyError(MaxRetryError("HTTPSConnectionPool(host='groupsor.link', port=443): Max retries exceeded with url: /group/joi
+321 403 https://groupsor.link/group/join/I5Y4jsRprg60XAPYSl9Fvu 
+320 None  ChunkedEncodingError(ProtocolError("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLe
+322 None  ChunkedEncodingError(ProtocolError("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLe

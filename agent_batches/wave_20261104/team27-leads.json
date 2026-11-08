@@ -1,0 +1,17 @@
+[
+ {
+  "domain": "blog.waziper.com",
+  "url": "http://blog.waziper.com/active-free-fire-whatsapp-group-links",
+  "why": "Fresh Free Fire listicle discovered via search; page timed out on direct fetch during this wave — needs a browser-leg or retry next wave."
+ },
+ {
+  "domain": "whtsgrouplink.com",
+  "url": "https://whtsgrouplink.com/movies-whatsapp-group-links/",
+  "why": "Movies listicle scraped (only 1 direct-format code; rest use /invite/ or JS-gated buttons) — rest of the directory unexamined, banked as lead."
+ },
+ {
+  "domain": "asiamediajournal.com",
+  "url": "https://www.asiamediajournal.com/gaming-whatsapp-group-links/",
+  "why": "Gaming listicle; site rewrites join buttons to chat.whatsapp.com/invite/<code> (channel format per brief) — 359 invite-format codes skipped, excluded per rule 2."
+ }
+]

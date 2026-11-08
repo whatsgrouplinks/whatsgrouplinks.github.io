@@ -1,0 +1,94 @@
+[
+ {
+  "url": "https://groupssor-api.blog-99n.workers.dev/api/groups",
+  "what": "groupssor API latest-500 endpoint — re-poll next wave; returns mixed WhatsApp/Telegram; dating category is heavily adult/spam, keep dropping it; per-link verification required, ~90% of fresh codes were dead on 2026-11-07"
+ },
+ {
+  "url": "https://groupssor.com",
+  "what": "groupssor directory homepage — check for category browse pages worth harvesting next run"
+ },
+ {
+  "url": "https://grupbul.com/en/most-popular-whatsapp-groups",
+  "what": "grupbul most-popular WhatsApp groups — mixed categories, not harvested this run; re-check for fresh entries next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship-groups",
+  "what": "grupbul Chat/Friendship category — 27 groups in Nov 2026 snapshot; re-crawl next run, most Nov links already dead or in union"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/49/earning-money",
+  "what": "grupbul Earning Money category — 8 groups in Nov 2026 snapshot; re-crawl next run for fresh entries"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/27/other",
+  "what": "grupbul Other category — 14 groups in Nov 2026 snapshot; re-crawl next run for fresh entries"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/35/student-groups",
+  "what": "grupbul Student category — 9 groups in Nov 2026 snapshot; re-crawl next run for fresh entries"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/5/game",
+  "what": "grupbul Game category — 6 groups in Nov 2026 snapshot; re-crawl next run for fresh entries"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/53/food-groups",
+  "what": "grupbul Food category — 0 groups in static HTML on 2026-11-07 (had groups on 2026-11-06); re-check next run, may need live JS"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/26/health",
+  "what": "grupbul Health category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/10/new-used",
+  "what": "grupbul New/Used category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/12/seo",
+  "what": "grupbul SEO category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/13/book",
+  "what": "grupbul Book category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/19/art-and-culture",
+  "what": "grupbul Art and Culture category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/20/research",
+  "what": "grupbul Research category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/28/paid-soldier",
+  "what": "grupbul Paid Soldier category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/31/animals",
+  "what": "grupbul Animals category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/37/holiday",
+  "what": "grupbul Holiday category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/40/start-up",
+  "what": "grupbul Start-up category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/56/solidarity",
+  "what": "grupbul Solidarity category — 0 groups in static HTML on 2026-11-07; re-check next run"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/58/18-chat",
+  "what": "grupbul +18 Chat category — NOT harvested (adult category, 15 groups); listed only so future runs know it exists and keep skipping it"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/60/adults-chat",
+  "what": "grupbul Adults Chat category — NOT harvested (adult category, 15 groups); listed only so future runs know it exists and keep skipping it"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/1/x",
+  "what": "grupbul category IDs 1,2,3,7,14,17,18,21,22,33,41-45,48 all return the same 55-group Latest list (slug ignored, ID drives page); harvest the Latest list once per run, not per ID; no static pagination — older groups need live JS load-more"
+ }
+]

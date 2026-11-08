@@ -1,0 +1,17 @@
+[
+ {
+  "domain": "chat.whatsapp.com",
+  "url": "https://chat.whatsapp.com/",
+  "why": "RESUME POINT: wave 20261104 team33 could not verify ANY invites - egress proxy read-timed-out on all HTTPS from this VM and browser.open fetch returned HTTP 403 from chat.whatsapp.com. All clean candidates banked in team33-unverified-pending.json with note transport failure; retry og:title verification next wave from a host with working egress."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/",
+  "why": "Source A provenance: team14 Nov-3 new-tag candidates. 334 records dropped for adult category/tag slugs per parent policy; 5 more dropped for pornographic titles. Resume: verify pending entries via og:title."
+ },
+ {
+  "domain": "linkado.app",
+  "url": "https://linkado.app/",
+  "why": "Source B provenance: team25R Nov-3 linkado.app detail-page codes. 9 dropped for pornographic titles (incl. emoji-flagged 18+ titles). Resume: verify pending entries via og:title."
+ }
+]

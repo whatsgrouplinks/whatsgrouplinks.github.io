@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "group-hubs.com",
+  "url": "https://group-hubs.com/group-category/universities/",
+  "why": "Fresh university-group directory with per-university pages (Boston U, Auburn, Caltech, Alabama seen), but real invite codes are hidden behind a JS-gated /verify/<slug>/ multi-step flow \u2014 server HTML only carries placeholder code AbCdEfGhIjKlMnOpQrSt. Needs a live-browser-capable agent to click through the verify steps."
+ },
+ {
+  "domain": "wagroupshub.com",
+  "url": "https://wagroupshub.com/uk-whatsapp-group-links/",
+  "why": "Same publisher family as wagroupshub.com/usa-whatsapp-group-links (all USA uni-section codes already in exclusion union). UK page may hold fresh GB university codes not yet harvested \u2014 worth a curl+regex pass."
+ },
+ {
+  "domain": "organisedchaosevents.co.uk",
+  "url": "https://organisedchaosevents.co.uk/group-chats/",
+  "why": "Sheffield Freshers 2026 chat hub yielded 2 fresh verified GB uni groups (University of Sheffield + Sheffield Hallam). Site may add 2027 groups or other city pages over time."
+ },
+ {
+  "domain": "universityapplicants.co.uk",
+  "url": "https://www.universityapplicants.co.uk/",
+  "why": "All 33 *-freshers/ city pages scraped this wave (only 1 shared 'We Love Freshers' code surfaced + Worcester). Individual per-university blog posts on the site may carry per-university WhatsApp codes \u2014 spot-check new posts next wave."
+ },
+ {
+  "domain": "qub.ac.uk",
+  "url": "https://www.qub.ac.uk/Study/international-students/your-country/usa/whatsapp/",
+  "why": "Queen's University Belfast publishes offer-holder WhatsApp invites per region (USA page found); its 2026 code is DEAD (empty og:title). Other regional pages on qub.ac.uk may carry fresh live codes \u2014 check sibling URLs next wave."
+ }
+]

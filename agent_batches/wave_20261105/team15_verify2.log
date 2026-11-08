@@ -1,0 +1,13 @@
+Candidates: 3712, already verified: 1400, todo: 2312
+  verify 200/2312
+  verify 400/2312
+  verify 600/2312
+  verify 800/2312
+  verify 1000/2312
+  verify 1200/2312
+  verify 1400/2312
+  verify 1600/2312
+  verify 1800/2312
+  verify 2000/2312
+  verify 2200/2312
+VERIFY DONE: {'candidates': 3712, 'verified': 1625, 'pending': 2077, 'blocked_on_verified_title': 10, 'pending_transport': 0}

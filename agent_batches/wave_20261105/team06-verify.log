@@ -1,0 +1,29 @@
+total pending records=2238 todo=2236 skipped_union=2 dupes=0
+resuming: already done=0 remaining=2236
+progress 100/2238 verified=27 pending=73 dropped=0
+progress 200/2238 verified=58 pending=142 dropped=0
+progress 300/2238 verified=84 pending=216 dropped=0
+progress 400/2238 verified=116 pending=284 dropped=0
+progress 500/2238 verified=161 pending=339 dropped=0
+progress 600/2238 verified=195 pending=405 dropped=0
+progress 700/2238 verified=225 pending=475 dropped=0
+progress 800/2238 verified=257 pending=543 dropped=0
+progress 900/2238 verified=288 pending=612 dropped=0
+progress 1000/2238 verified=329 pending=671 dropped=0
+progress 1100/2238 verified=364 pending=736 dropped=0
+progress 1200/2238 verified=395 pending=805 dropped=0
+progress 1300/2238 verified=432 pending=868 dropped=0
+progress 1400/2238 verified=466 pending=934 dropped=0
+progress 1500/2238 verified=500 pending=1000 dropped=0
+progress 1600/2238 verified=522 pending=1078 dropped=0
+progress 1700/2238 verified=560 pending=1140 dropped=0
+progress 1800/2238 verified=593 pending=1207 dropped=0
+progress 1900/2238 verified=623 pending=1277 dropped=0
+progress 2000/2238 verified=660 pending=1340 dropped=0
+progress 2100/2238 verified=690 pending=1409 dropped=1
+progress 2200/2238 verified=721 pending=1478 dropped=1
+DONE verified=732 pending=1503 dropped=1 skipped_union=2
+pending reasons: Counter({'empty-og:title': 1503})
+drop reasons: Counter({'blocked:name-is-url': 1})
+categories: Counter({'Community': 563, 'Sports': 26, 'Shopping': 23, 'Jobs': 20, 'Religion': 18, 'Friendship & Chat': 16, 'Business': 12, 'News': 11, 'Arts & Culture': 8, 'Gaming': 7, 'Health & Fitness': 6, 'Real Estate': 5, 'Entertainment': 5, 'Technology': 4, 'Books & Literature': 2, 'Automotive': 2, 'Travel': 2, 'Food & Cooking': 1, 'Education': 1})
+countries: Counter({'International': 705, 'SA': 25, 'EG': 2})

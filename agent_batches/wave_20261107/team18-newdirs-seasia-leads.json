@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.grouplinks.app/country/indonesia",
+    "what": "grouplinks.app Indonesia country page — JS-rendered; group pages at /group/<slug> hide invite codes behind 'Loading Community'; needs browser leg. 41 SE Asia group slugs enumerated from sitemap (see team notes)."
+  },
+  {
+    "url": "https://www.grouplinks.app/sitemaps/categories/sitemap.xml",
+    "what": "grouplinks.app category sitemaps — enumerate fresh SE Asia group slugs for browser leg."
+  },
+  {
+    "url": "https://www.grouplinksforyou.com/feeds/posts/default?alt=json&max-results=50",
+    "what": "grouplinksforyou Blogger JSON feed — Nov 3 2026 posts incl. International Business, Free Fire, PUBG, YouTube Promotion; Indonesia business post already harvested this wave (100 codes). Other posts unharvested."
+  },
+  {
+    "url": "https://techsslash.com/philippines-whatsapp-group-links/",
+    "what": "Philippines list page (~27 named groups) — codes hidden behind Join outlinks; needs browser leg to resolve each. Skip Bokep (porn) and YEBOCASINO."
+  },
+  {
+    "url": "https://www.whtsagrouplinks.com/international-whatsapp-groups-links/",
+    "what": "whtsagrouplinks international page (330+ groups, updated 2026-10-27) plus Indonesia/Thailand country pages — Thailand page fetched this run but all 16 codes already in union; needs browser leg for any new listings."
+  },
+  {
+    "url": "https://www.togather.in/",
+    "what": "Togather directory — 1,794 listings, WhatsApp links behind two-step safe-redirect; needs browser exploration of search/category pages filtered to WhatsApp."
+  },
+  {
+    "url": "https://www.whatslinkhub.com/",
+    "what": "whatslinkhub — Malaysia/Portugal country pages; JS anti-bot gate on curl; needs browser leg."
+  },
+  {
+    "url": "https://api.groupjoin.link/groups?tag=Indonesia&page=16&limit=20&safeSearch=blur",
+    "what": "groupjoin.link API — Indonesia tag totals 4,381 groups; pages 1-15 harvested this run (live rate ~5-10%, mostly stale). Resume at page 16+; same for Malaysia (174 total, pages 1-9 done)."
+  },
+  {
+    "url": "https://www.imagesplatform.com/whatsapp/country/vietnam",
+    "what": "imagesplatform Vietnam country page — returned HTTP 301 with 0 bytes on curl this run; re-check / browser leg."
+  },
+  {
+    "url": "https://groupwa.link/groups-gallery/",
+    "what": "groupwa.link gallery — 10 codes in static HTML, mostly Pakistan/global with junk names ('WhatsApp Group'); low SE Asia value, needs JS for full listing."
+  },
+  {
+    "url": "https://meraonlineworld.com/new-jobs-whatsapp-group-links/",
+    "what": "meraonlineworld jobs listicle — 225 direct invite codes in page text, but all SE Asia-context codes already in union; re-check on next update."
+  },
+  {
+    "url": "https://www.grouplinksforyou.com/search?updated-max=2026-08-02T11:49:00-07:00&max-results=7",
+    "what": "grouplinksforyou search archive — older Indonesian 'Link Grup WA' posts may hold unharvested codes; feed q= search returned only the Nov 3 business post."
+  }
+]

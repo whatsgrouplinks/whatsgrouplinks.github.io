@@ -1,0 +1,9 @@
+fetch try0 SHORT len=561
+lens 713103 319741
+raw cands 483
+filtered 147
+scam drops: 6 ['BINANCE 100% PROFIT', 'Big daddy prediction', 'Forex Account Manager', 'Colour Trading High Profit', 'Forex account manager', 'Security deposits']
+uniq 125
+fresh after union: 17 | already in union: 108
+progress 0/17 verified=0 pending=0 dead=1
+DONE verified=0 pending=0 dead=17

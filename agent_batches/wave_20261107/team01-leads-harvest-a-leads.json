@@ -1,0 +1,234 @@
+[
+ {
+  "url": "https://gruposdewats.com/",
+  "what": "gruposdewats homepage — NOT harvested: unreachable/timeout in this run; retry/browser leg next wave"
+ },
+ {
+  "url": "https://masgrupos.com/",
+  "what": "masgrupos parked domain — NOT harvested: unreachable/timeout in this run; retry/browser leg next wave"
+ },
+ {
+  "url": "https://linkado.app/sitemap.xml",
+  "what": "linkado sitemap: full /grupo/<id> pool; category pages harvested this run, sitemap ids not individually fetched"
+ },
+ {
+  "url": "https://www.whatshub.es/sitemap.xml",
+  "what": "Full enumeration: 2759 unique /grupo/<id> URLs (ids 2-3957). Start here for the browser leg. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://whatshub.es/",
+  "what": "Homepage listing (20 groups/page, Blazor load-more). No invite codes in HTML. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/c/amistad-y-planes",
+  "what": "Category listing page (amistad y planes). 20 groups/page, no invite codes in HTML. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/c/estudios-y-universidad",
+  "what": "Category listing page (estudios y universidad). — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/c/vivienda",
+  "what": "Category listing page (vivienda). — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/e/erasmus",
+  "what": "Tag listing page (erasmus). — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/e/conocer-gente",
+  "what": "Tag listing page (conocer gente). — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/e/estudiantes",
+  "what": "Tag listing page (estudiantes). — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/1025",
+  "what": "Sample group page (Erasmus en Stavanger 2026/27). Invite hidden: 'Oculto por privacidad'. Browser leg: click 'Unirse al grupo' button (Blazor Server, no href) to reveal the chat.whatsapp.com invite, then verify via curl og:title. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/2",
+  "what": "Sample group page (TechClub Malaga). Same hidden-invite pattern. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/261",
+  "what": "Sample group page (Chicas con Orgullo). Same hidden-invite pattern. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/639",
+  "what": "Sample group page (ERASMUS/SICUE GRANADA 26/27). Same hidden-invite pattern. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/1419",
+  "what": "Sample group page (Erasmus Bolonia 2026-2027). Same hidden-invite pattern. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/2140",
+  "what": "Sample group page (Amigos Sevilla). Same hidden-invite pattern. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/3957",
+  "what": "Sample group page (highest id in sitemap). Same hidden-invite pattern. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/trends",
+  "what": "Trends page — may surface popular groups; check whether it exposes invite links. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/3",
+  "what": "Sample group page (id 3). Same hidden-invite pattern. — invites hidden ('Oculto por privacidad'); browser leg only"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/5/game-groups",
+  "what": "Game category — static page shows only November 2026 snapshot; older Game groups need live JS browser (no pagination in static HTML) — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/8/news-groups",
+  "what": "News category — static page shows only November 2026 snapshot; older News groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/9/job-postings-groups",
+  "what": "Job Postings category — static page shows only November 2026 snapshot; older groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship-groups",
+  "what": "Chat/Friendship category — page 2+ / older months: static page lists 27 groups (November 2026 only), ?page=2 returns identical list, /2 returns homepage; older Chat/Friendship groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/29/trade-groups",
+  "what": "Trade category — static page shows only November 2026 snapshot; older groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/34/music-groups",
+  "what": "Music category — static page shows only November 2026 snapshot; older groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/35/student-groups",
+  "what": "Student category — static page shows only November 2026 snapshot; older groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/38/technology-groups",
+  "what": "Technology category — static page shows only November 2026 snapshot; older groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/47/series-movie-groups",
+  "what": "Series/Movie category — static page shows only November 2026 snapshot; older groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/52/religion-groups",
+  "what": "Religion category — static page shows only November 2026 snapshot; older groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/53/food-groups",
+  "what": "Food category — November 2026 snapshot is EMPTY (0 groups); any Food groups need live JS browser or search-indexed group pages — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/54/travel-groups",
+  "what": "Travel category — static page shows only November 2026 snapshot (1 group); older Travel groups need live JS browser — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://grupbul.com/en/most-popular-whatsapp-groups",
+  "what": "Most Popular page — lists 13 groups statically; cross-category, some already covered; re-check monthly for new entries in my categories — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://whatsappkanali.com/grup/pubg-mobil",
+  "what": "Detail pages /grup/<slug> hide the MAIN group code behind a /go/<goId> client-side redirect (listing cards are only similar groups). A browser leg can resolve each /go/ link to the real chat.whatsapp.com code; ~80+ slugs harvestable from listing pages. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-18-grup-linkleri",
+  "what": "SKIPPED BY RULE: adult tag; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-airdrop-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-altcoin-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-bahis-gruplari",
+  "what": "SKIPPED BY RULE: betting/gambling tag; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-bedava-hesap-gruplari",
+  "what": "SKIPPED BY RULE: money-making / free-account tag, scam-prone; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-binance-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-bist-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-bitcoin-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-canli-mac-skor-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-canli-skor-uygulama-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-canli-tv-haber-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-defi-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-ethereum-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-eurolig-basketbol-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-film-onerileri-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-iddaa-tahmin-kanallari",
+  "what": "SKIPPED BY RULE: betting/gambling tag; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-kripto-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. — not harvested this run (skipped tag rule / code behind JS redirect)"
+ },
+ {
+  "url": "https://groupsinvite.link/group/education/",
+  "what": "groupsinvite listing index (tag pages) — fetched OK via curl 2026-11-05; detail pages under /group/<tag>/ link group listings, no direct invite URLs on index — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://groupsinvite.link/add-group-link/",
+  "what": "groupsinvite submission page — possible source of newly submitted listings for future waves — not harvested: site timed out twice; retry next wave"
+ },
+ {
+  "url": "https://losgrupos.app/grupos",
+  "what": "losgrupos.app full listing - only 27 groups exist site-wide (pages 1-2 cover all; pages 3+ empty). All extracted; 18 verified, 1 already in union, 10 excluded (adult/gambling/borderline). No further groups to harvest here. — not harvested: unreachable/timeout or parked; retry next wave"
+ },
+ {
+  "url": "https://losgrupos.app/categorias",
+  "what": "losgrupos.app category index (adultos, solo-chicas, solteros, gaming, musica, etc.) - same 27-group pool, nothing beyond /grupos. — not harvested: unreachable/timeout or parked; retry next wave"
+ },
+ {
+  "url": "https://masgrupos.com",
+  "what": "DEAD - domain is parked (Sedo 'website is for sale' page, crawled 2024-09-13). No directory, no groups. Do not re-assign. — not harvested: unreachable/timeout or parked; retry next wave"
+ },
+ {
+  "url": "https://gruposdewats.com",
+  "what": "UNREACHABLE in this sandbox - curl timed out (HTTP 000) and text fetch failed with DNS/timeout error. Needs a live-browser leg to check whether the site is alive and to harvest its listings. — not harvested: unreachable/timeout or parked; retry next wave"
+ },
+ {
+  "url": "https://gruposdewats.com/categorias",
+  "what": "Resume point for live-browser leg if gruposdewats.com loads - category/listing pages (URL pattern guessed from site name; verify on load). — not harvested: unreachable/timeout or parked; retry next wave"
+ }
+]

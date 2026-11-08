@@ -1,0 +1,12 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 302 Found
+Location: https://discord.gg/gTjZ4tpF5k
+Date: Sun, 08 Nov 2026 07:04:32 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate, max-age=0
+X-Robots-Tag: noindex, nofollow
+X-Redirect-By: Grupeo
+Content-Length: 0
+

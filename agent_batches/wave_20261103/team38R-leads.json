@@ -1,0 +1,32 @@
+[
+ {
+  "domain": "anyquizi.com",
+  "url": "https://anyquizi.com/top-groups-whatsapp",
+  "why": "Large Arabic directory: 878 unique codes in 38 sections, 644 fresh vs union. This run verified a 142-code sample (67 verified). Resume: remaining ~500 fresh codes saved in _team38/anyquizi_fresh.json; continue sampling + verifying. Adults section (الكبار) and emoji-flagged groups already excluded."
+ },
+ {
+  "domain": "mxawi.com",
+  "url": "https://www.mxawi.com/1188",
+  "why": "Arabic listicle 'روابط مجموعات واتس اب نشطة' but HTTP 403 bot-block from this VM — needs live browser."
+ },
+ {
+  "domain": "scribd.com",
+  "url": "https://www.scribd.com/document/695394718/",
+  "why": "Saudi document with 100+ chat.whatsapp.com/invite/ codes (test plain form per policy); scribd is JS-gated — needs browser text extraction."
+ },
+ {
+  "domain": "mida1.com",
+  "url": "https://www.mida1.com/2023/04/oman-whatsApp-groups.html",
+  "why": "Oman student WhatsApp groups (2023, old codes) — low priority, untested."
+ },
+ {
+  "domain": "ta3lam.info",
+  "url": "https://www.ta3lam.info/2023/05/group-whatsapp-english.html",
+  "why": "Arabic English/French learning groups (2023, old codes) — low priority, untested."
+ },
+ {
+  "domain": "whtspgrouplink.com",
+  "url": "https://whtspgrouplink.com/foreign-whatsapp-group-links/",
+  "why": "22 'foreigners/international' groups; Egypt/Quran one harvested this run, rest are generic international (not Egypt/Arabic slice)."
+ }
+]

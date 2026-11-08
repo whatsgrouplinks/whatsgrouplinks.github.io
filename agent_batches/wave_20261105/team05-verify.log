@@ -1,0 +1,32 @@
+[06:57:38] slice=2741 union-skipped=80 pre-drops=2 to-verify=2659
+[06:57:38] todo this run: 2659
+[07:01:45] progress 100/2659 verified=85 pending=15 dropped=0 elapsed=247s
+[07:06:05] progress 200/2659 verified=119 pending=81 dropped=0 elapsed=506s
+[07:10:09] progress 300/2659 verified=145 pending=155 dropped=0 elapsed=751s
+[07:14:24] progress 400/2659 verified=184 pending=216 dropped=0 elapsed=1006s
+[07:18:18] progress 500/2659 verified=238 pending=262 dropped=0 elapsed=1239s
+[07:21:18] progress 600/2659 verified=304 pending=296 dropped=0 elapsed=1419s
+[07:25:20] progress 700/2659 verified=368 pending=332 dropped=0 elapsed=1661s
+[07:28:03] progress 800/2659 verified=444 pending=356 dropped=0 elapsed=1824s
+[07:29:36] progress 900/2659 verified=499 pending=401 dropped=0 elapsed=1917s
+[07:31:05] progress 1000/2659 verified=542 pending=458 dropped=0 elapsed=2006s
+[07:32:25] progress 1100/2659 verified=579 pending=521 dropped=0 elapsed=2086s
+[07:33:47] progress 1200/2659 verified=632 pending=568 dropped=0 elapsed=2169s
+[07:35:08] progress 1300/2659 verified=681 pending=619 dropped=0 elapsed=2249s
+[07:36:35] slice=2741 union-skipped=80 pre-drops=2 to-verify=2659
+[07:36:35] resumed from checkpoint: 1300 already done
+[07:36:35] todo this run: 1359
+[07:39:22] progress 1400/2659 verified=723 pending=677 dropped=0 elapsed=166s
+[07:41:53] progress 1500/2659 verified=765 pending=735 dropped=0 elapsed=318s
+[07:44:20] progress 1600/2659 verified=833 pending=767 dropped=0 elapsed=464s
+[07:46:54] progress 1700/2659 verified=920 pending=780 dropped=0 elapsed=618s
+[07:49:51] progress 1800/2659 verified=989 pending=811 dropped=0 elapsed=796s
+[07:53:08] progress 1900/2659 verified=1027 pending=873 dropped=0 elapsed=992s
+[07:55:54] progress 2000/2659 verified=1072 pending=928 dropped=0 elapsed=1158s
+[07:58:45] progress 2100/2659 verified=1108 pending=992 dropped=0 elapsed=1329s
+[08:01:39] progress 2200/2659 verified=1178 pending=1021 dropped=1 elapsed=1503s
+[08:04:18] progress 2300/2659 verified=1231 pending=1068 dropped=1 elapsed=1662s
+[08:06:49] progress 2400/2659 verified=1283 pending=1116 dropped=1 elapsed=1813s
+[08:08:07] progress 2500/2659 verified=1338 pending=1161 dropped=1 elapsed=1891s
+[08:09:26] progress 2600/2659 verified=1391 pending=1208 dropped=1 elapsed=1971s
+[08:10:12] DONE slice=2741 union-skipped=80 verified=1431 pending=1227 drops=3 elapsed=2016s

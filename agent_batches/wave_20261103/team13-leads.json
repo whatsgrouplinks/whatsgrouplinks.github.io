@@ -1,0 +1,12 @@
+[
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=money&page=1&limit=20&safeSearch=blur",
+  "why": "groupjoin.link listing pages are JS-rendered (no codes in HTML); the backend API returns 20 records/page with group_title, group_desc, country.iso2, category_slug and the /invite/<code> link - much more reliable than HTML scraping. Records on current true-tail pages: money p100-104, education p30-32, business p83-85 were harvested this run (156 candidates post-dedupe) but chat.whatsapp.com was unreachable from this VM (proxy read timeouts) so all banked as transport-failure pending."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "{\"money\": {\"pages_probed_tail\": [211, 212, 213, 214], \"records\": 0, \"true_last_page_with_records\": 104, \"api_totalPages\": 104, \"api_total\": 2079, \"tail_status\": \"EXHAUSTED - 2+ consecutive 0-record pages; true end moved from ~p.211 (Nov 2) to p.104 (site re-indexed/pruned overnight)\"}, \"education\": {\"pages_probed_tail\": [74, 75, 76, 77], \"records\": 0, \"true_last_page_with_records\": 32, \"api_totalPages\": 32, \"api_total\": 622, \"tail_status\": \"EXHAUSTED - true end moved from ~p.74 (Nov 2) to p.32\"}, \"business\": {\"pages_probed_tail\": [217, 218, 219], \"records\": 0, \"true_last_page_with_records\": 85, \"api_totalPages\": 85, \"api_total\": 1689, \"tail_status\": \"EXHAUSTED - true end moved from ~p.217 (Nov 2) to p.85\"}, \"resume_point\": \"no resume needed - tails verified empty; if re-run, re-probe api.groupjoin.link/groups?tag=<t>&page=<p> totals first (they shift daily)\"}",
+  "why": "bound discovery results for money/education/business tails (Nov 3)"
+ }
+]

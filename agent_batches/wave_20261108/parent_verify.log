@@ -1,0 +1,9 @@
+union codes: 105113 groups.json groups: 69491
+team09 load failed: [Errno 2] No such file or directory: '/home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261108/team09-groupizo-unverified-candidates.json'
+team09 normalized: 0
+candidates: 1859 (clean 1778 + pending 81 + team09 0 )
+fresh vs union: 1859 | dup vs union: 0
+to check: 1859
+PARENT VERIFY STATS {'live': 1771, 'dead': 76, 'transport': 0, 'porn': 12}
+TOTAL LIVE: 1771 -> /home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261108/parent_verified_wave20261107.json
+PENDING TRANSPORT: 0

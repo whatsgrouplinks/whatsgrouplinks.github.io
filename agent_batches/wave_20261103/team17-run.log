@@ -1,0 +1,159 @@
+union: 84400
+  caracas p1: +55
+  caracas p2: +55
+  caracas p3: +55
+  maracaibo p1: +53
+  maracaibo p2: no new, stop
+  valencia-carabobo p1: +55
+  valencia-carabobo p2: +55
+  valencia-carabobo p3: +55
+  barquisimeto p1: +55
+  barquisimeto p2: +55
+  barquisimeto p3: +55
+  maracay p1: +1
+  merida-merida p1: +55
+  merida-merida p2: +52
+  merida-merida p3: no new, stop
+  ciudad-guayana p1: +55
+  ciudad-guayana p2: +26
+  ciudad-guayana p3: no new, stop
+  maturin p1: +55
+  maturin p2: +49
+  maturin p3: no new, stop
+  la-paz p1: +55
+  la-paz p2: +55
+  la-paz p3: +42
+  santa-cruz-de-la-sierra p1: +55
+  santa-cruz-de-la-sierra p2: +55
+  santa-cruz-de-la-sierra p3: +55
+  cochabamba p1: +55
+  cochabamba p2: +37
+  cochabamba p3: no new, stop
+  el-alto p1: no new, stop
+  oruro p1: +3
+  sucre p1: +17
+  sucre p2: no new, stop
+  tarija p1: +40
+  tarija p2: no new, stop
+  asuncion p1: +55
+  asuncion p2: +55
+  asuncion p3: +55
+  ciudad-del-este p1: +55
+  ciudad-del-este p2: +43
+  ciudad-del-este p3: no new, stop
+  encarnacion p1: +55
+  encarnacion p2: +36
+  encarnacion p3: +25
+  pedro-juan-caballero p1: +10
+  pedro-juan-caballero p2: no new, stop
+  montevideo p1: +55
+  montevideo p2: +55
+  montevideo p3: +55
+  salto-salto p1: +55
+  salto-salto p2: +17
+  salto-salto p3: no new, stop
+  paysandu p1: +14
+  paysandu p2: +10
+  paysandu p3: no new, stop
+  maldonado p1: +53
+  maldonado p2: +35
+  maldonado p3: +2
+  santo-domingo p1: +55
+  santo-domingo p2: +55
+  santo-domingo p3: +55
+  santiago-de-los-caballeros p1: +55
+  santiago-de-los-caballeros p2: +55
+  santiago-de-los-caballeros p3: +55
+  la-romana p1: +55
+  la-romana p2: +55
+  la-romana p3: +55
+  puerto-plata p1: +54
+  puerto-plata p2: +55
+  puerto-plata p3: +49
+  bavaro p1: +22
+  bavaro p2: +4
+  moca-espaillat p1: no new, stop
+  mixco p1: +55
+  mixco p2: +55
+  mixco p3: +55
+  escuintla-escuintla p1: +15
+  escuintla-escuintla p2: +33
+  escuintla-escuintla p3: no new, stop
+  antigua-guatemala p1: no new, stop
+  puerto-barrios p1: +55
+  puerto-barrios p2: +55
+  puerto-barrios p3: +21
+  huehuetenango p1: +55
+  huehuetenango p2: +55
+  huehuetenango p3: +28
+  coban p1: +5
+  costa-rica p1: +1
+  cartago p1: +55
+  cartago p2: +55
+  cartago p3: +55
+  alajuela p1: +11
+  alajuela p2: +12
+  alajuela p3: no new, stop
+  heredia p1: no new, stop
+  puntarenas p1: +55
+  puntarenas p2: +50
+  puntarenas p3: no new, stop
+  liberia p1: +26
+  liberia p2: no new, stop
+  colon-colon p1: +55
+  colon-colon p2: +55
+  colon-colon p3: +55
+  la-chorrera p1: +7
+  san-miguelito p1: fetch error ReadTimeout
+  david-chiriqui p1: fetch error ReadTimeout
+  santiago-de-veraguas p1: fetch error ReadTimeout
+  la-ceiba p1: +22
+  la-ceiba p2: no new, stop
+  choloma p1: no new, stop
+  el-progreso p1: no new, stop
+  comayagua p1: +55
+  comayagua p2: +7
+  danli p1: +14
+  danli p2: +27
+  danli p3: no new, stop
+  santa-ana-santa-ana p1: +55
+  santa-ana-santa-ana p2: +55
+  santa-ana-santa-ana p3: +55
+  san-miguel-san-miguel p1: +54
+  san-miguel-san-miguel p2: +6
+  sonsonate p1: +24
+  sonsonate p2: +40
+  sonsonate p3: +9
+  usulutan p1: no new, stop
+  granada-granada p1: +55
+  granada-granada p2: +55
+  granada-granada p3: +51
+  esteli p1: +18
+  esteli p2: +9
+  matagalpa p1: no new, stop
+  chinandega p1: no new, stop
+  masaya p1: no new, stop
+total cards: 4319
+details to fetch: 1871
+details 100/1871
+details 200/1871
+details 300/1871
+details 400/1871
+details 500/1871
+details 600/1871
+details 700/1871
+details 800/1871
+details 900/1871
+details 1000/1871
+details 1100/1871
+details 1200/1871
+details 1300/1871
+details 1400/1871
+details 1500/1871
+details 1600/1871
+details 1700/1871
+details 1800/1871
+candidates: 1434 porn_drops: 5
+verify 25/1434 verified=11 pending=0
+verify 50/1434 verified=19 pending=0
+verify 75/1434 verified=26 pending=0

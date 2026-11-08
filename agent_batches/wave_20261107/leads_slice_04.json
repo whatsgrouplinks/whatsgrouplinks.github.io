@@ -1,0 +1,358 @@
+[
+ {
+  "url": "https://groupsinvite.link/education/study/english-learning/",
+  "what": "Category page: English Learning groups (names visible; invite codes NOT in page text - use /group/rules/ flow)."
+ },
+ {
+  "url": "https://groupsinvite.link/business-whatsapp-group/",
+  "what": "Category page: Business groups (same method)."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/2hz4jyoqldh2c2mx81hbbi/",
+  "what": "Sample group page. Its invite code is NOT on this page - it is on the /group/rules/ page."
+ },
+ {
+  "url": "https://groupsinvite.link/group/rules/2hz4jyoqldh2c2mx81hbbi/",
+  "what": "Sample rules page. Contains the real invite https://chat.whatsapp.com/invite/2hZ4JYOQldH2C2MX81HBbi - this is the extraction method that works."
+ },
+ {
+  "url": "https://groupsinvite.link/group/rules/{slug}/",
+  "what": "RULES-PAGE TEMPLATE: for every harvested /group/link/<slug>/, fetch this page and extract chat.whatsapp.com/invite/<CODE>. 142 of 586 harvested slugs were WhatsApp CHANNELS (channel/<id> on rules page) - excluded, groups only."
+ },
+ {
+  "url": "https://groupsinvite.link/group/{business,education,dating,gaming,chatting,friendship,learning,career,finance,entertainment,community,job}/",
+  "what": "Tag listing pages crawled this wave (12 + homepage = 586 cards). Uncrawled tags exist (sports, music, movies, news, study, language, health, fashion, travel, food, photography, books, technology, etc.) - fresh slugs live there for the next retry."
+ },
+ {
+  "url": "https://groupsinvite.link/group/rules/{slug}/",
+  "what": "RETRY: the 98 pending codes in team22-unverified-pending.json returned empty og:title on verification - re-verify later; some may be revoked links, some may be transient WhatsApp empty-title responses."
+ },
+ {
+  "url": "https://jobsocial.pt/",
+  "what": "Portugal job board (applications via rhempregos@jobsocial.pt per third-party listing) \u2014 NOT a WhatsApp group directory; no group listings found in search. Site unreachable from sandbox: curl timed out (HTTP 000, 3 attempts incl. www/http) and text fetch failed. Resume: re-check from a live browser; if it ever lists WhatsApp groups, extract codes and dedupe against dedupe_union.json."
+ },
+ {
+  "url": "https://grupos-online.com/",
+  "what": "Domain is FOR SALE (parked page, HTTP 200, no content, no invite links). Dead directory \u2014 no resume value unless the domain is re-registered as a group directory."
+ },
+ {
+  "url": "https://encontreportugal.pt/",
+  "what": "Live Portugal immigration/jobs blog (homepage fetched 2026-11-05, crawled 5h prior). NOT a group directory: site search for chat.whatsapp.com returned zero results; homepage lists job offers and emergency numbers only, no invite links. Resume: none for group extraction; do not re-crawl unless the site adds a groups section."
+ },
+ {
+  "url": "https://gruposwhats.app/group/1158779",
+  "what": "Incidental find from web search (not one of the assigned sites): 'Empregos em Portugal' WhatsApp group listed on gruposwhats.app, category Viagem e Turismo, posted 13/10/2026. Invite code NOT visible in search snippet \u2014 needs a live-browser visit to the listing page to extract the chat.whatsapp.com code, then dedupe + verify. Out of slice; left here as a resume point for a future team."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/free-fire",
+  "what": "High-volume ongrupos category (24 cards on p1), not harvested in this wave \u2014 future slice candidate"
+ },
+ {
+  "url": "https://ongrupos.com/categoria/namoro",
+  "what": "High-volume ongrupos category (24 cards on p1), not harvested in this wave \u2014 future slice candidate (dating/friendship groups allowed)"
+ },
+ {
+  "url": "https://ongrupos.com/categoria/figurinhas-e-stickers",
+  "what": "High-volume ongrupos category (24 cards on p1), not harvested in this wave \u2014 future slice candidate"
+ },
+ {
+  "url": "https://ongrupos.com/categoria/filmes-e-series",
+  "what": "High-volume ongrupos category (24 cards on p1), not harvested in this wave \u2014 future slice candidate"
+ },
+ {
+  "url": "https://ongrupos.com/categoria/jogos",
+  "what": "High-volume ongrupos category (24 cards on p1), not harvested in this wave \u2014 future slice candidate"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525963",
+  "what": "RESUME/OUT-OF-SCOPE: igrupos grupo 525963 'Lima Citas  18' is a TELEGRAM group, not WhatsApp (no chat.whatsapp.com link); ignore for WhatsApp harvests"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525952",
+  "what": "RESUME/OUT-OF-SCOPE: igrupos grupo 525952 'The Warriors' is a TELEGRAM group, not WhatsApp (no chat.whatsapp.com link); ignore for WhatsApp harvests"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525940",
+  "what": "RESUME/OUT-OF-SCOPE: igrupos grupo 525940 'Trap' is a TELEGRAM group, not WhatsApp (no chat.whatsapp.com link); ignore for WhatsApp harvests"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525935",
+  "what": "RESUME: igrupos WhatsApp group 'Salsa y bachata Valencia' (grupo 525935, tag bailar-salsa) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525929",
+  "what": "RESUME/OUT-OF-SCOPE: igrupos grupo 525929 'Reclutamiento de roleplay   18, historia adulta' is a TELEGRAM group, not WhatsApp (no chat.whatsapp.com link); ignore for WhatsApp harvests"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525924",
+  "what": "RESUME: igrupos WhatsApp group 'GRUPO MIXTO FUNCIONANDO DE MADRID M\u00c1S DE 55' (grupo 525924, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525923",
+  "what": "RESUME: igrupos WhatsApp group 'Imperio Gol Fondos y Edits HD' (grupo 525923, tag futbol) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525917",
+  "what": "RESUME: igrupos WhatsApp group 'Vintage y Fiesteros' (grupo 525917, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525895",
+  "what": "RESUME: igrupos WhatsApp group 'Planes por bizkaia 45 a 57' (grupo 525895, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525890",
+  "what": "RESUME: igrupos WhatsApp group 'Amistad y quedadas Madrid de 48 a 60 a\u00f1os' (grupo 525890, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525888",
+  "what": "RESUME: igrupos WhatsApp group 'A disfrutar de la vida' (grupo 525888, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525884",
+  "what": "RESUME: igrupos WhatsApp group 'Internet Libre Argentina' (grupo 525884, tag negocios) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525882",
+  "what": "RESUME/OUT-OF-SCOPE: igrupos grupo 525882 'CholloLatam' is a TELEGRAM group, not WhatsApp (no chat.whatsapp.com link); ignore for WhatsApp harvests"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525881",
+  "what": "RESUME/OUT-OF-SCOPE: igrupos grupo 525881 'Compras mercado libre' is a TELEGRAM group, not WhatsApp (no chat.whatsapp.com link); ignore for WhatsApp harvests"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525879",
+  "what": "RESUME: igrupos WhatsApp group '\u2728 \u00bfSin planes en Madrid? \ud83d\udcc5 \u00a1\u00danete a nuestro grupo mixto  11-26' (grupo 525879, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525872",
+  "what": "RESUME: igrupos WhatsApp group 'Sevilla@s con plan' (grupo 525872, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525856",
+  "what": "RESUME: igrupos WhatsApp group 'Tardeo ave f\u00e9nix' (grupo 525856, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525854",
+  "what": "RESUME: igrupos WhatsApp group 'Quedadas activas valencia' (grupo 525854, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525849",
+  "what": "RESUME: igrupos WhatsApp group 'La vida es una t\u00f3mbola' (grupo 525849, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525848",
+  "what": "RESUME: igrupos WhatsApp group 'La Panda' (grupo 525848, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525839",
+  "what": "RESUME: igrupos WhatsApp group 'Gij\u00f3n Me Presta' (grupo 525839, tag amistad) \u2014 invite link NOT exposed in static HTML (join button absent; likely login-gated per-group setting). Needs a logged-in browser check to extract the chat.whatsapp.com code; do not re-scrape anonymously"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525823",
+  "what": "RESUME/OUT-OF-SCOPE: igrupos grupo 525823 'Reclutamiento de roleplay' is a TELEGRAM group, not WhatsApp (no chat.whatsapp.com link); ignore for WhatsApp harvests"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525820",
+  "what": "RESUME/OUT-OF-SCOPE: igrupos grupo 525820 'Perversi\u00f3n anime' is a TELEGRAM group, not WhatsApp (no chat.whatsapp.com link); ignore for WhatsApp harvests"
+ },
+ {
+  "url": "https://ongrupos.com/categoria/amor-e-romance",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/amor-e-romance FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/bbb",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/bbb FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/cidades",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/cidades FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/compras-e-vendas",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/compras-e-vendas FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/educativo",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/educativo FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/empreendedorismo",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/empreendedorismo FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/estudos",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/estudos FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/figurinhas-e-stickers",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/figurinhas-e-stickers FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/fisica",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/fisica FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/free-fire",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/free-fire FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/ganhar-seguidores",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/ganhar-seguidores FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/geeks",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/geeks FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/lgbt",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/lgbt FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/memes",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/memes FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/musicas",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/musicas FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/negocios",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/negocios FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/profissoes",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/profissoes FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/redes-sociais",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/redes-sociais FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/status",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/status FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/vagas-de-emprego",
+  "what": "RESUME: ongrupos category page 1 https://ongrupos.com/categoria/vagas-de-emprego FAILED to fetch (egress-proxy ProxyError, alternating with successes; curl retries also timed out). Page-1 newest listings for this category were NOT checked this run; retry with a fresh session/browser. NOTE: for compras-e-vendas skip cards 1-23 (team24) and for frases-e-mensagens skip cards 2-16 (team24); animes-e-desenhos p5+ is team24's."
+ },
+ {
+  "url": "https://ongrupos.com/",
+  "what": "INFO: 401 of the 438 ongrupos page-1/homepage codes harvested this run were already banked in Nov-3/4 pending files (team39b 2929 + team39R 1947 + team39R-brazil 239 + team08 99 = 3031 unique prior codes, only 13 of which are in dedupe_union.json). Those 401 were NOT re-verified (out of this slice: new-since-Nov-4 only). The union alone is NOT sufficient dedupe for ongrupos \u2014 always dedupe against the Nov-3/4 pending files too. The 401-code overlap list is in /tmp as team25-ongrupos-prior-overlap.json (scratch, not in wave dir)."
+ },
+ {
+  "url": "https://ongrupos.com/",
+  "what": "INFO/BLOCKED (do not re-add): 4 ongrupos codes excluded by content rules this run \u2014 BZN5LcNX8vb9hiCk1jbQGn (adult pack sellers), DplN7cSiuhMAVB6Yr9haTa (18+ videos allowed), KwaLUTbN2YhDcSsX0XCNTK (explicit sexual hookup group), F4Ic9C2ZritFAcgeR4NYJc (dating group with age range starting at 17)."
+ },
+ {
+  "url": "https://www.igrupos.com/",
+  "what": "RESUME: igrupos homepage 'Ultimos grupos y canales' shows only the 40 newest (grupo IDs 525974-525820 this run). Older listing pages/tags were not crawled; any future backfill should walk tag pages (e.g. /tag/whatsapp/amistad) newest-first and dedupe against the union + team35 sets (_team35_candidates.json, 3458 codes)."
+ },
+ {
+  "url": "https://grupodewhatsapp.com/en",
+  "what": "Spanish/English WhatsApp group directory claiming 4,068 verified groups, 126 English-language communities. Homepage fetched 2026-11-05 but listing is JS-loaded: 0 chat.whatsapp.com codes in static HTML. Needs a JS-rendered/browser harvest."
+ },
+ {
+  "url": "https://whatsappgrouplink.org/",
+  "what": "Established WhatsApp group directory (50+ categories, South Asia/Africa/Middle East focus) listed as a Groupsor alternative. Homepage fetched 2026-11-05: 0 chat.whatsapp.com codes in static HTML \u2014 links are JS-loaded or behind redirects. Needs a JS-rendered/browser harvest."
+ },
+ {
+  "url": "https://wappgrouplinks.com/",
+  "what": "WhatsApp group links directory listed as a Groupsor alternative. Homepage fetched 2026-11-05: 0 chat.whatsapp.com codes in static HTML. Needs a JS-rendered/browser harvest."
+ },
+ {
+  "url": "https://whatsgroupjoinlinks.com/",
+  "what": "WhatsApp group links directory listed as a Groupsor alternative. Unreachable on 2026-11-05 (curl exit 000, 0 bytes) \u2014 site down or blocking. Retry later."
+ },
+ {
+  "url": "http://grouplink.com.in/whatsapp-channel-group-links/",
+  "what": "Indian site with 3,000+ WhatsApp Channel links (not groups). Channels are EXCLUDED per wave rules, so not harvested; listed here only so future waves do not re-check it as a group source."
+ },
+ {
+  "url": "https://www.appbrain.com/app/whatsapp-groups-find-join/com.social.whatsgroup.wtsp",
+  "what": "GroupLink Android app directory (thousands of groups, 100+ links added daily) \u2014 an app, not a harvestable website. No web listing pages to scrape."
+ },
+ {
+  "url": "https://www.edopedia.com/blog/groupsor-alternatives/",
+  "what": "Roundup article '10 Best Groupsor Alternatives' \u2014 not a directory itself, but the source that surfaced whatsappgrouplink.org, groupinvitelink.com, wappgrouplinks.com, whatsgroupjoinlinks.com and groupslink.pk for this wave. Worth re-checking for new alternatives in later waves."
+ },
+ {
+  "url": "https://groupsor.in/",
+  "what": "Groupsor.in \u2014 same brand family as retired groupssor/groupsor.link. NOT harvested (retired family). Do not mine."
+ },
+ {
+  "url": "https://groupinvitelink.com/",
+  "what": "Harvested this wave (174 codes on homepage) but yielded only 0 fresh codes after union dedupe \u2014 its link set is fully recycled from directories already in the union. Exhausted for now; re-check only after a long interval."
+ },
+ {
+  "url": "https://groupslink.pk/",
+  "what": "Harvested this wave (27 codes on homepage) but yielded only 1 fresh code (no name, empty og:title, now in pending). Link set is recycled from directories already in the union. Exhausted for now."
+ },
+ {
+  "url": "https://grupodewhatsapp.com/en",
+  "what": "WhatsApp group directory (claims 4,068 groups, categories by topic/language/country). Invite links NOT exposed in fetched HTML: homepage lists /en/group/<slug> detail pages and all 24 sampled detail pages returned titles but no chat.whatsapp.com code in the HTML (JS/click-gated). Needs browser/JS render to harvest."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/pakistani-whatsapp-group-link/",
+  "what": "Category page of whtsagrouplinks.com (homepage harvested: 57 fresh codes). This page fetch failed with IncompleteRead (partial 62KB received, unparsed); retry with curl/browser and extract chat.whatsapp.com codes the same way."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/indian-whatsapp-group-link/",
+  "what": "Category page of whtsagrouplinks.com (homepage harvested). Fetch returned HTTP 403 Forbidden to the sandbox UA; retry with browser or different headers."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/international-whatsapp-groups-links/",
+  "what": "Category page of whtsagrouplinks.com (homepage harvested). Fetch failed with IncompleteRead (partial 53KB received, unparsed); retry with curl/browser."
+ },
+ {
+  "url": "https://www.appbrain.com/app/whatsapp-groups-find-join/com.social.whatsgroup.wtsp",
+  "what": "GroupLink Android app listing (app-only directory, thousands of groups by category, refreshed daily). Not harvestable via web curl; would need the app or its API."
+ },
+ {
+  "url": "https://whatgroups.com/whatsapp-group-links-pakistan/",
+  "what": "Pakistan groups incl. jobs (Job Enabler, All Pakistan Govt Jobs); fetch returned only 12KB JS shell, 0 codes extracted \u2014 retry via browser/rendered fetch"
+ },
+ {
+  "url": "https://www.sociallykeeda.com/pakistani-whatsapp-group/",
+  "what": "425+ Pakistani groups incl. jobs (Job Enabler, All Pakistan Jobs) \u2014 found in search, not yet fetched/mined"
+ },
+ {
+  "url": "https://joinwagroup.link/lahore-whatsapp-group-link/",
+  "what": "42 Lahore groups incl. jobs (All Pak Jobs, Govt Jobs News) \u2014 found in search, not yet fetched/mined"
+ },
+ {
+  "url": "https://www.sarkarijobs.com/join-whatsapp-groups-links-for-sarkari-jobs-sarkari-result/",
+  "what": "Sarkari jobs/results groups G1-G11 + state groups \u2014 found in search, not yet fetched/mined"
+ },
+ {
+  "url": "https://appgrouplink.com/government-jobs-whatsapp-group-links/",
+  "what": "35+ government jobs groups (SSC/UPSC/banking/railway) \u2014 found in search, not yet fetched/mined"
+ },
+ {
+  "url": "https://wagroupshub.com/sports-whatsapp-group-links/",
+  "what": "839+ sports groups (cricket/football/PSL) \u2014 found in search, not yet fetched; likely overlaps wahublink copy, check for fresh codes"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=JKRIwOlro0w",
+  "what": "Study YouTube descriptions carry fresh study-group codes (e.g. Class 12 Physics group IXmkYiceHyJ...) not present on listicles \u2014 mine video descriptions for study niche"
+ },
+ {
+  "url": "https://www.youtube.com/shorts/qLyQIXTSUPY",
+  "what": "JAC Board Class 12 Arts study group code ImrY5S5k9fqLSsHXOUofjj in description \u2014 verify and add if fresh (study niche)"
+ },
+ {
+  "url": "https://whtsgrouplink.com/movies-whatsapp-group-links/",
+  "what": "330+ Movies WhatsApp Group Links 2026 listicle, ~60 join links (names incl. 2026 Movies, Movie Box Premium, ZeeFlix, GMOVIES247, CineVerse, Golden Screen); codes hidden behind Join buttons, browser text fetch shows link indices only"
+ },
+ {
+  "url": "https://whatzgrouplink.com/movies-and-drama-whatsapp-group-link/",
+  "what": "Movies and Drama WhatsApp Group Link 2026, 14 join links (Movies with Subtitles, South movie group, Netflix Movies & Series, Cinema Centre); codes hidden behind Join Link buttons"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/movies-whatsapp-group-link/",
+  "what": "30+ Movies WhatsApp Group Links 2026 (updated 2026-11-04); page Cloudflare-blocked on text fetch; one code extracted was already in union"
+ },
+ {
+  "url": "https://whtspgrouplink.com/south-indian-whatsapp-group-links/",
+  "what": "830+ South Indian WhatsApp Group Links 2026 (Tamil/Telugu/Kannada/Malayalam movie fans, Kollywood, Tollywood, Sandalwood, Mollywood groups); codes hidden behind Join buttons"
+ }
+]

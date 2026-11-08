@@ -1,0 +1,18 @@
+checking 398 codes
+  50/398 live=0 transport=5 dead=44
+  100/398 live=0 transport=16 dead=83
+  150/398 live=0 transport=41 dead=108
+  200/398 live=0 transport=48 dead=151
+  250/398 live=0 transport=48 dead=201
+  300/398 live=0 transport=48 dead=251
+  350/398 live=0 transport=51 dead=298
+pass1: live=0 transport=67 dead=331
+waiting 60s before transport retry...
+Traceback (most recent call last):
+  File "/home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261106/scratch14/verify.py", line 94, in <module>
+    main()
+  File "/home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261106/scratch14/verify.py", line 89, in main
+    json.dump([{"code": it["code"], "http": h} for it, h in dead],
+  File "/usr/lib/python3.12/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+PermissionError: [Errno 1] Operation not permitted

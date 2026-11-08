@@ -1,0 +1,57 @@
+{
+ "verified": [
+  {
+   "name": "JAMB UPDATE 2k26",
+   "code": "C0UbyNCDs5yJtnBbg3nHZw",
+   "extra": [
+    "Education",
+    "Nigerian JAMB 2027 study group for UTME preparation, tutorials and exam guidance."
+   ]
+  },
+  {
+   "name": "BBN SEASON 9",
+   "code": "DRYfEausnZjG9flizO8LvX",
+   "extra": [
+    "Entertainment",
+    "Nigerian BBNaija All Stars fan group for Big Brother Naija updates, gist and entertainment."
+   ]
+  },
+  {
+   "name": "JAMB REPRINT",
+   "code": "FAchEqgxhxgHNoMddI6B9E",
+   "extra": [
+    "Education",
+    "Nigerian JAMB 2026 group for live exam updates, registration news and admission guidance."
+   ]
+  },
+  {
+   "name": "JAMB UPDATE 2",
+   "code": "EkNNGHTuOn7IzuwuKY7WjL",
+   "extra": [
+    "Education",
+    "Nigerian JAMB 2026 forum group for candidates to discuss exams, news and preparation tips."
+   ]
+  }
+ ],
+ "pending": [
+  {
+   "name": "Naija Music WhatsApp Group",
+   "code": "CTf8i3Oj2TxAgRQizlUQWa",
+   "extra": [
+    "Music",
+    "Nigerian music lovers group sharing the latest Naija songs, videos and entertainment news."
+   ],
+   "note": "empty og:title"
+  },
+  {
+   "name": "Naija Music Hub 2025/26",
+   "code": "BP1uSGt9cmRI9B11ZD1t8g",
+   "extra": [
+    "Music",
+    "Nigerian music community for new releases, trending tracks and artist updates."
+   ],
+   "note": "empty og:title"
+  }
+ ],
+ "skipped": 0
+}

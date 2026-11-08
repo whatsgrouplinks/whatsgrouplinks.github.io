@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://appgrouplink.com/sitemap_index.xml",
+    "what": "Sitemap index: post-sitemap lastmod 2026-09-19, page-sitemap lastmod 2026-09-19. 168 posts + 5 pages; ZERO updated on/after 2026-11-04 (zero in Oct 2026 too). Newest post: acting-whatsapp-group-links (2026-09-19)."
+  },
+  {
+    "url": "https://appgrouplink.com/",
+    "what": "Homepage 'Active WhatsApp Group Links 2026' last modified 2026-08-29 (per page-sitemap); contains 272 invite codes, of which 198 are in NEITHER dedupe_union.json NOR team18-unverified-pending.json. These are OLD (Aug 29) content, NOT new since Nov 4 \u2014 backfill opportunity for a future team, not verified here (out of slice)."
+  },
+  {
+    "url": "https://appgrouplink.com/acting-whatsapp-group-links/",
+    "what": "Newest post on the site (lastmod 2026-09-19). 14 invite codes; 7 in union, 0 in team18 pending, 7 in neither. Old (Sep 19) content \u2014 backfill only, not new since Nov 4."
+  },
+  {
+    "url": "https://appgrouplink.com/music-whatsapp-group-links/",
+    "what": "Second-newest post (lastmod 2026-09-19). Not fetched; check only if a backfill of Sep content is ordered."
+  },
+  {
+    "url": "https://appgrouplink.com/ecommerce-whatsapp-group-links/",
+    "what": "Third-newest post (lastmod 2026-09-19). Not fetched; check only if a backfill of Sep content is ordered."
+  },
+  {
+    "url": "https://appgrouplink.com/",
+    "what": "'New Group Links' sidebar widget lists 10 posts, ALL last modified 2026-07-02 (audition, drama, oman-jobs, saudi-arabia-jobs, kuwait-jobs, qatar-jobs, london, amazon-deals, ielts, uttar-pradesh) \u2014 no recent-submissions feed exists on the site."
+  },
+  {
+    "url": "https://appgrouplink.com/",
+    "what": "Control verification WORKS from this sandbox (known-live code KrDwdK8EIkB6vgauHg5M7N returned non-empty og:title 'JAY - PHP & Python Full Stack Developer'), so a future appgrouplink backfill can verify normally. No verification was needed this run: zero in-slice candidates."
+  }
+]

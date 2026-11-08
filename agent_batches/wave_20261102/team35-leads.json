@@ -1,0 +1,52 @@
+[
+ {
+  "domain": "groupssor.com",
+  "url": "https://www.groupssor.com/",
+  "why": "JS-gated directory (~964 groups, 16 categories); VM curl times out, listings need JS render or API discovery"
+ },
+ {
+  "domain": "groupwhat.com",
+  "url": "https://groupwhat.com/categories",
+  "why": "scraped 36 categories (skipped 18plus/adult); only ~10 server-rendered groups per category page though pages claim 200+; /country/* pages and /groups/* detail slugs may hold more; resume: re-scrape category pages for newly added groups"
+ },
+ {
+  "domain": "newgrouplinks.pk",
+  "url": "https://newgrouplinks.pk/",
+  "why": "scraped home + 10 listing pages; /category/all-groups/ is post archive (no codes); check for new listing pages later"
+ },
+ {
+  "domain": "groupinvitelink.com",
+  "url": "https://groupinvitelink.com/",
+  "why": "scraped homepage tables (173 codes) but ALL were already in dedupe union; re-check later for fresh additions"
+ },
+ {
+  "domain": "whatgroups.com",
+  "url": "https://whatgroups.com/",
+  "why": "scraped homepage tables; site has more pages (e.g. /whatsapp-group-links-pakistan/ returned empty - may need different URL); resume: discover more listing page URLs"
+ },
+ {
+  "domain": "whtspgrouplink.com",
+  "url": "https://whtspgrouplink.com/",
+  "why": "scraped 106 rows; 215/217 codes already in dedupe union (exhausted) - re-check in later wave for fresh additions; many /invite/ channel links excluded"
+ },
+ {
+  "domain": "whatsgroupjoinlinks.com",
+  "url": "https://www.whatsgroupjoinlinks.com/",
+  "why": "scraped 89 rows; codes already in dedupe union (exhausted); re-check later for fresh additions"
+ },
+ {
+  "domain": "groupslink.pk",
+  "url": "https://groupslink.pk/",
+  "why": "scraped 27 codes; nearly all in union (exhausted); 1 new code verified dead"
+ },
+ {
+  "domain": "appgrouplink.com",
+  "url": "https://appgrouplink.com/nigeria-whatsapp-group-links/",
+  "why": "Nigeria directory but exposes only chat.whatsapp.com/invite/ CHANNEL links, no group codes - not usable per brief"
+ },
+ {
+  "domain": "7hubent.com.ng",
+  "url": "https://www.7hubent.com.ng/",
+  "why": "Nigerian business-promo platform; group access via WhatsApp contact (+2349077131487), no direct codes in HTML"
+ }
+]

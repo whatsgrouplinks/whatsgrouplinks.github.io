@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "fakera.com",
+  "url": "https://www.fakera.com/saudi-news/اسماء-قروبات-واتس-اب-للتسويق-سعودية/",
+  "why": "Saudi marketing groups page (~14 groups). Nov 1: curl from VM fails (connection fail) + no chat.whatsapp.com URLs in any fetch. JS-gated; needs browser route."
+ },
+ {
+  "domain": "mxawi.com",
+  "url": "https://www.mxawi.com/1188",
+  "why": "Arabic directory '~40 named groups, Gulf-relevant names'. Nov 1: HTTP 403 from VM; invite links JS-gated '-الرابط' buttons. Needs browser route."
+ },
+ {
+  "domain": "xn--wgbf7c.net",
+  "url": "https://xn--wgbf7c.net/",
+  "why": "Arab directory with per-country filters. Nov 1: curl connection fail; browser.open failed Oct 31. Needs browser/JS route."
+ },
+ {
+  "domain": "whtspgrouplink.com",
+  "url": "https://whtspgrouplink.com/saudi-arabia-whatsapp-group-links/",
+  "why": "EXHAUSTED Nov 1: fetched live — all 5 direct codes already in exclusion union (team35 banked); remaining ~32 links are /invite/ channel format (excluded). Qatar page (21 direct) and Kuwait page (3 direct) fully covered too. AE/OM/BH Gulf pages 404. No resume needed."
+ },
+ {
+  "domain": "groupwa.com",
+  "url": "https://groupwa.com/job/gulf-job-whatsapp-groups/",
+  "why": "RE-CHECKED Nov 1: 13 codes on page; 5 dead, 5 = team22 re-verified banked codes, 1 dup in union, 2 banked fresh (BdGE6ku8PVh0N43EBMNJRY, LPeyOp9Xpwi7uxHddNgLPX). Resume: page republished regularly; re-check in future waves for rotated codes."
+ }
+]

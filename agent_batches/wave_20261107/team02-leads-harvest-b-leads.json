@@ -1,0 +1,170 @@
+[
+  {
+    "url": "https://whatsappkanali.com/sehir/tekirdag/sohbet",
+    "what": "EXTRA CITY COVERAGE: see /sehir/kocaeli/sohbet entry; same card structure as the 36 pages read. — fetch failed this run (HTTPSConnectionPool(host='whatsappkanali.com', port=443): Max retries exceeded with url: /sehir/tekirdag/sohbet (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))), not harvested"
+  },
+  {
+    "url": "https://www.meetup.com/fr-FR/find/?source=GROUPS&keywords=Bollywood+Dance",
+    "what": "Bay Area Punjabis and Desis group — WhatsApp code truncated in search snippet (I0gAHg4jQFx756J25gGN...), full code not recoverable from snippet; needs page fetch — re-fetched this run: no chat.whatsapp.com code in raw HTML; codes hidden behind buttons/links, needs browser leg"
+  },
+  {
+    "url": "https://nextdoor.co.uk/p/fjt64wLyxXH6?view=detail",
+    "what": "Waggy Walks in Nature (Love Dogs West Dorset, Weymouth) — dog walking community group, no WhatsApp link in snippet; page may carry one — re-fetched this run: no chat.whatsapp.com code in raw HTML; codes hidden behind buttons/links, needs browser leg"
+  },
+  {
+    "url": "https://nextdoor.co.uk/p/PjSLSpytQyNH/",
+    "what": "Dog walking group at Worth Park, Crawley — enquiry post asking if a group exists, no WhatsApp link yet — fetch failed this run (HTTPSConnectionPool(host='nextdoor.co.uk', port=443): Max retries exceeded with url: /p/PjSLSpytQyNH/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links"
+  },
+  {
+    "url": "https://nextdoor.co.uk/p/Fkw8gxk8njBY?view=detail",
+    "what": "Local dog walking groups enquiry — no WhatsApp link in snippet; login-walled post — re-fetched this run: no chat.whatsapp.com code in raw HTML; codes hidden behind buttons/links, needs browser leg"
+  },
+  {
+    "url": "https://www.universityapplicants.co.uk/birmingham-freshers/",
+    "what": "Birmingham Freshers 2026 city page — READ via text fetch 2026-11-05. WhatsApp group links behind buttons for Uni of Birmingham, Birmingham City University and Aston University (codes NOT visible in page text). BROWSER LEG: resolve each university button to its chat.whatsapp.com code, dedupe vs union, then verify via og:title. — fetch failed this run (HTTPSConnectionPool(host='www.universityapplicants.co.uk', port=443): Max retries exceeded with url: /birmingham-freshers/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links"
+  },
+  {
+    "url": "https://www.universityapplicants.co.uk/lincoln-freshers/",
+    "what": "Lincoln Freshers Week 2026 city page — NOT opened in text (pattern confirmed on Brighton/Birmingham pages: codes hidden behind buttons). Page lists University of Lincoln. BROWSER LEG: resolve the WhatsApp button to its chat.whatsapp.com code, dedupe vs union, then verify via og:title. — fetch failed this run (HTTPSConnectionPool(host='www.universityapplicants.co.uk', port=443): Max retries exceeded with url: /lincoln-freshers/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links"
+  },
+  {
+    "url": "https://www.universityapplicants.co.uk/edinburgh-freshers/",
+    "what": "Edinburgh Freshers 2026 city page — NOT opened in text (pattern confirmed on Brighton/Birmingham pages: codes hidden behind buttons). Page lists Uni of Edinburgh, Napier and Heriot Watt. BROWSER LEG: resolve each university WhatsApp button to its chat.whatsapp.com code, dedupe vs union, then verify via og:title. — fetch failed this run (HTTPSConnectionPool(host='www.universityapplicants.co.uk', port=443): Max retries exceeded with url: /edinburgh-freshers/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links"
+  },
+  {
+    "url": "https://www.universityapplicants.co.uk/sussex-freshers/",
+    "what": "Sussex Freshers Week 2026 city page — NOT opened in text (pattern confirmed on Brighton/Birmingham pages: codes hidden behind buttons). Page lists University of Sussex. BROWSER LEG: resolve the WhatsApp button to its chat.whatsapp.com code, dedupe vs union, then verify via og:title. — fetch failed this run (HTTPSConnectionPool(host='www.universityapplicants.co.uk', port=443): Max retries exceeded with url: /sussex-freshers/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links"
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-memecoin-gruplari",
+    "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-milli-takim-kanallari",
+    "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-mma-ufc-kanallari",
+    "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-nft-gruplari",
+    "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-para-kazanma-kanallari",
+    "what": "SKIPPED BY RULE: money-making / free-account tag, scam-prone; do not scrape."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-sampiyonlar-ligi-kanallari",
+    "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-solana-gruplari",
+    "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-spor-haber-kanallari",
+    "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-super-lig-haber-kanallari",
+    "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-trading-gruplari",
+    "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-tv-dizi-bolum-kanallari",
+    "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-usdt-gruplari",
+    "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-web3-gruplari",
+    "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-yetiskin-sohbet-gruplari",
+    "what": "SKIPPED BY RULE: adult tag; do not scrape."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-anne-bebek-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-basketbol-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-dating-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-doktor-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-kitap-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-kosu-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-musik-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-saglik-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-voleybol-kanallari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-yapay-zeka-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-yoga-gruplari",
+    "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://chat.whatsapp.com/",
+    "what": "VERIFICATION METHOD WORKS AGAIN as of 2026-11-05: control live code KrDwdK8EIkB6vgauHg5M7N returns non-empty og:title, a fake code returns empty og:title (the opposite of the Nov 4 finding, when every code returned an empty og:title). The og:title check is usable again; 30/77 codes verified this run, 47 stayed empty on two attempts."
+  },
+  {
+    "url": "https://whatsappkanali.com/kategori/cinsel-fetis",
+    "what": "SKIPPED BY RULE (carried from team05): adult categories (cinsel-fetis, onlyfans-icerik, swinger-takas, fantezi-hikaye, cinsel-saglik) and gambling categories (iddaa, casino-canli-casino, kumar-sans-oyunlari, kumar-slot, spor-bahisleri-oran-analizi, at-yarisi) exist but are excluded per content rules. Do not scrape."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-fitness-gruplari",
+    "what": "READ 2026-11-05 via curl: this tag lists only WhatsApp CHANNELS (www.whatsapp.com/channel/...), zero group invite links; channels are excluded by rule. Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-flort-gruplari",
+    "what": "READ 2026-11-05 via curl: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://whatsappkanali.com/etiket/whatsapp-formula1-gruplari",
+    "what": "READ 2026-11-05 via curl: this tag lists only WhatsApp CHANNELS (www.whatsapp.com/channel/...), zero group invite links; channels are excluded by rule. Do not re-fetch unless the site changes."
+  },
+  {
+    "url": "https://visadb.io/blog/digital-nomad-whatsapp-groups-648bce7cfb4a1e461b7be9bc",
+    "what": "visadb.io Digital Nomad WhatsApp Groups page — FULLY HARVESTED this run via curl (page is NOT JS-gated; raw HTML contains all 97 chat.whatsapp.com hrefs next to group names/locations/categories). All 27 unique EU-section codes (Croatia 1, Cyprus 3, Czechia 1, Greece 1, Hungary 1, Italy 2, Netherlands 1, Portugal 6, Spain 12 incl. 1 code shared by 2 Barcelona groups) were already in dedupe_union.json — 0 fresh. No re-crawl needed unless the page is updated with new groups."
+  },
+  {
+    "url": "https://visadb.io/blog/digital-nomad-whatsapp-groups-648bce7cfb4a1e461b7be9bc",
+    "what": "Greece section: 'DN Meetup Community Athens' and 'Expats in Greece' have NO WhatsApp code on the page — their Join links go to l.facebook.com redirects. A browser leg could follow those Facebook links to see if a WhatsApp group code is posted there; do not fabricate a code from the page."
+  },
+  {
+    "url": "https://visadb.io/blog/digital-nomad-whatsapp-groups-648bce7cfb4a1e461b7be9bc",
+    "what": "Non-EU sections on the same page (Argentina, Brazil, Colombia, Egypt, Georgia, Guatemala, India, Indonesia, Mexico, Peru, Sri Lanka, Thailand, Turkey, Vietnam, Worldwide) were parsed but are OUT of this team's EU slice; spot-check showed their codes are also largely in the union (Worldwide '*FLAT-SWAP*' code D2X0ZDMdknnK6pkhuvXgnq already in union). If a future wave assigns those sections, the same curl+parse method works — no browser needed."
+  }
+]

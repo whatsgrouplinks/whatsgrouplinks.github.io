@@ -1,0 +1,13 @@
+to verify: 769 (pre-blocked by listing name: 11)
+RESUME: restored 2 verified, 6 pending, 496 dead; 258 left to check
+25/258 checked — verified 2, pending 6, dead 520
+50/258 checked — verified 2, pending 6, dead 545
+75/258 checked — verified 2, pending 6, dead 569
+100/258 checked — verified 2, pending 6, dead 594
+125/258 checked — verified 2, pending 6, dead 619
+150/258 checked — verified 2, pending 6, dead 644
+175/258 checked — verified 3, pending 6, dead 668
+200/258 checked — verified 4, pending 6, dead 692
+225/258 checked — verified 4, pending 6, dead 717
+250/258 checked — verified 4, pending 6, dead 742
+DONE verified=4 pending=6 dead=750 blocked_live=22 channels=0 preblocked=11

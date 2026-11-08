@@ -1,0 +1,865 @@
+{
+ "verified": {
+  "team01-leads-harvest-a.json": {
+   "file": "team01-leads-harvest-a.json",
+   "count": 42,
+   "errors": [],
+   "warnings": [
+    "item 38: betting/gambling flag (kept, parent decides): 'Grupo de WhatsApp palpite de futebol EL GATO - Esportes'"
+   ]
+  },
+  "team02-leads-harvest-b.json": {
+   "file": "team02-leads-harvest-b.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team03-leads-harvest-c.json": {
+   "file": "team03-leads-harvest-c.json",
+   "count": 1,
+   "errors": [],
+   "warnings": []
+  },
+  "team04-leads-harvest-d.json": {
+   "file": "team04-leads-harvest-d.json",
+   "count": 6,
+   "errors": [],
+   "warnings": []
+  },
+  "team05-leads-harvest-e.json": {
+   "file": "team05-leads-harvest-e.json",
+   "count": 128,
+   "errors": [],
+   "warnings": []
+  },
+  "team06-leads-harvest-f.json": {
+   "file": "team06-leads-harvest-f.json",
+   "count": 8,
+   "errors": [],
+   "warnings": [
+    "item 2: betting/gambling flag (kept, parent decides): 'Sure fixed match🪀🎯'",
+    "item 5: betting/gambling flag (kept, parent decides): 'Raj bhai satta king online'"
+   ]
+  },
+  "team07-leads-harvest-g.json": {
+   "file": "team07-leads-harvest-g.json",
+   "count": 27,
+   "errors": [],
+   "warnings": []
+  },
+  "team08-leads-harvest-h.json": {
+   "file": "team08-leads-harvest-h.json",
+   "count": 24,
+   "errors": [],
+   "warnings": []
+  },
+  "team09-groupizo.json": {
+   "file": "team09-groupizo.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team10-groupda.json": {
+   "file": "team10-groupda.json",
+   "count": 626,
+   "errors": [],
+   "warnings": [
+    "item 132: betting/gambling flag (kept, parent decides): 'AG IPL Betting😎😎🥳'",
+    "item 140: betting/gambling flag (kept, parent decides): 'IPL BETTING'",
+    "item 160: betting/gambling flag (kept, parent decides): 'THE BETTING AVENUE 🎊🎊🎊'",
+    "item 311: betting/gambling flag (kept, parent decides): '😎🤑Online Betting Games🙆\\u200d♀🛫'",
+    "item 476: betting/gambling flag (kept, parent decides): 'SATTA KING OFFICIAL'",
+    "item 510: betting/gambling flag (kept, parent decides): 'Betting tips'"
+   ]
+  },
+  "team11-groupssor-grupbul.json": {
+   "file": "team11-groupssor-grupbul.json",
+   "count": 22,
+   "errors": [],
+   "warnings": []
+  },
+  "team12-whatsappkanali-linkado.json": {
+   "file": "team12-whatsappkanali-linkado.json",
+   "count": 105,
+   "errors": [],
+   "warnings": [
+    "item 52: betting/gambling flag (kept, parent decides): 'PALPITE - CKZX ⚽'",
+    "item 53: betting/gambling flag (kept, parent decides): 'palpite de futebol EL GATO'"
+   ]
+  },
+  "team13-igrupos-ongrupos.json": {
+   "file": "team13-igrupos-ongrupos.json",
+   "count": 11,
+   "errors": [],
+   "warnings": []
+  },
+  "team14-appgrouplink-groupsinvite.json": {
+   "file": "team14-appgrouplink-groupsinvite.json",
+   "count": 27,
+   "errors": [],
+   "warnings": []
+  },
+  "team15-newdirs-global.json": {
+   "file": "team15-newdirs-global.json",
+   "count": 4,
+   "errors": [],
+   "warnings": []
+  },
+  "team16-newdirs-southasia.json": {
+   "file": "team16-newdirs-southasia.json",
+   "count": 7,
+   "errors": [],
+   "warnings": []
+  },
+  "team17-newdirs-africa.json": {
+   "file": "team17-newdirs-africa.json",
+   "count": 1,
+   "errors": [],
+   "warnings": []
+  },
+  "team18-newdirs-seasia.json": {
+   "file": "team18-newdirs-seasia.json",
+   "count": 12,
+   "errors": [],
+   "warnings": []
+  },
+  "team19-newdirs-latam.json": {
+   "file": "team19-newdirs-latam.json",
+   "count": 6,
+   "errors": [],
+   "warnings": []
+  },
+  "team20-newdirs-mideast.json": {
+   "file": "team20-newdirs-mideast.json",
+   "count": 18,
+   "errors": [],
+   "warnings": []
+  },
+  "team21-listicles-study-jobs.json": {
+   "file": "team21-listicles-study-jobs.json",
+   "count": 20,
+   "errors": [],
+   "warnings": []
+  },
+  "team22-listicles-sports-movies.json": {
+   "file": "team22-listicles-sports-movies.json",
+   "count": 51,
+   "errors": [],
+   "warnings": [
+    "item 26: betting/gambling flag (kept, parent decides): 'Satta Matka khayiwal'",
+    "item 29: betting/gambling flag (kept, parent decides): 'Trusted betting group'"
+   ]
+  },
+  "team23-listicles-crypto-earning.json": {
+   "file": "team23-listicles-crypto-earning.json",
+   "count": 9,
+   "errors": [],
+   "warnings": []
+  },
+  "team24-listicles-islamic-community.json": {
+   "file": "team24-listicles-islamic-community.json",
+   "count": 57,
+   "errors": [],
+   "warnings": []
+  }
+ },
+ "pending": {
+  "team01-leads-harvest-a-pending.json": {
+   "file": "team01-leads-harvest-a-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team02-leads-harvest-b-pending.json": {
+   "file": "team02-leads-harvest-b-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team03-leads-harvest-c-pending.json": {
+   "file": "team03-leads-harvest-c-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team04-leads-harvest-d-pending.json": {
+   "file": "team04-leads-harvest-d-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team05-leads-harvest-e-pending.json": {
+   "file": "team05-leads-harvest-e-pending.json",
+   "count": 59,
+   "errors": [],
+   "warnings": [
+    "item 14: code already VERIFIED by team22-listicles-sports-movies.json (pending superseded)"
+   ]
+  },
+  "team06-leads-harvest-f-pending.json": {
+   "file": "team06-leads-harvest-f-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team07-leads-harvest-g-pending.json": {
+   "file": "team07-leads-harvest-g-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team08-leads-harvest-h-pending.json": {
+   "file": "team08-leads-harvest-h-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team09-groupizo-pending.json": {
+   "file": "team09-groupizo-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team10-groupda-pending.json": {
+   "file": "team10-groupda-pending.json",
+   "count": 19,
+   "errors": [],
+   "warnings": []
+  },
+  "team11-groupssor-grupbul-pending.json": {
+   "file": "team11-groupssor-grupbul-pending.json",
+   "count": 3,
+   "errors": [],
+   "warnings": []
+  },
+  "team12-whatsappkanali-linkado-pending.json": {
+   "file": "team12-whatsappkanali-linkado-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team13-igrupos-ongrupos-pending.json": {
+   "file": "team13-igrupos-ongrupos-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team14-appgrouplink-groupsinvite-pending.json": {
+   "file": "team14-appgrouplink-groupsinvite-pending.json",
+   "count": 27,
+   "errors": [],
+   "warnings": []
+  },
+  "team15-newdirs-global-pending.json": {
+   "file": "team15-newdirs-global-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team16-newdirs-southasia-pending.json": {
+   "file": "team16-newdirs-southasia-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team17-newdirs-africa-pending.json": {
+   "file": "team17-newdirs-africa-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team18-newdirs-seasia-pending.json": {
+   "file": "team18-newdirs-seasia-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team19-newdirs-latam-pending.json": {
+   "file": "team19-newdirs-latam-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team20-newdirs-mideast-pending.json": {
+   "file": "team20-newdirs-mideast-pending.json",
+   "count": 2,
+   "errors": [],
+   "warnings": []
+  },
+  "team21-listicles-study-jobs-pending.json": {
+   "file": "team21-listicles-study-jobs-pending.json",
+   "count": 12,
+   "errors": [],
+   "warnings": []
+  },
+  "team22-listicles-sports-movies-pending.json": {
+   "file": "team22-listicles-sports-movies-pending.json",
+   "count": 18,
+   "errors": [],
+   "warnings": []
+  },
+  "team23-listicles-crypto-earning-pending.json": {
+   "file": "team23-listicles-crypto-earning-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team24-listicles-islamic-community-pending.json": {
+   "file": "team24-listicles-islamic-community-pending.json",
+   "count": 43,
+   "errors": [],
+   "warnings": [
+    "item 0: placeholder/empty name in pending (re-verify name later)",
+    "item 1: placeholder/empty name in pending (re-verify name later)",
+    "item 2: placeholder/empty name in pending (re-verify name later)",
+    "item 3: placeholder/empty name in pending (re-verify name later)",
+    "item 4: placeholder/empty name in pending (re-verify name later)",
+    "item 5: placeholder/empty name in pending (re-verify name later)",
+    "item 6: placeholder/empty name in pending (re-verify name later)",
+    "item 7: placeholder/empty name in pending (re-verify name later)",
+    "item 8: placeholder/empty name in pending (re-verify name later)",
+    "item 9: placeholder/empty name in pending (re-verify name later)",
+    "item 10: placeholder/empty name in pending (re-verify name later)",
+    "item 11: placeholder/empty name in pending (re-verify name later)",
+    "item 12: placeholder/empty name in pending (re-verify name later)",
+    "item 13: placeholder/empty name in pending (re-verify name later)",
+    "item 14: placeholder/empty name in pending (re-verify name later)",
+    "item 15: placeholder/empty name in pending (re-verify name later)",
+    "item 16: placeholder/empty name in pending (re-verify name later)",
+    "item 17: placeholder/empty name in pending (re-verify name later)",
+    "item 18: placeholder/empty name in pending (re-verify name later)",
+    "item 19: placeholder/empty name in pending (re-verify name later)",
+    "item 20: placeholder/empty name in pending (re-verify name later)",
+    "item 21: placeholder/empty name in pending (re-verify name later)",
+    "item 22: placeholder/empty name in pending (re-verify name later)",
+    "item 23: placeholder/empty name in pending (re-verify name later)",
+    "item 24: placeholder/empty name in pending (re-verify name later)",
+    "item 25: placeholder/empty name in pending (re-verify name later)",
+    "item 26: placeholder/empty name in pending (re-verify name later)",
+    "item 27: placeholder/empty name in pending (re-verify name later)",
+    "item 28: placeholder/empty name in pending (re-verify name later)",
+    "item 29: placeholder/empty name in pending (re-verify name later)",
+    "item 30: placeholder/empty name in pending (re-verify name later)",
+    "item 31: placeholder/empty name in pending (re-verify name later)",
+    "item 32: placeholder/empty name in pending (re-verify name later)",
+    "item 33: placeholder/empty name in pending (re-verify name later)",
+    "item 34: placeholder/empty name in pending (re-verify name later)",
+    "item 35: placeholder/empty name in pending (re-verify name later)",
+    "item 36: placeholder/empty name in pending (re-verify name later)",
+    "item 37: placeholder/empty name in pending (re-verify name later)",
+    "item 38: placeholder/empty name in pending (re-verify name later)",
+    "item 39: placeholder/empty name in pending (re-verify name later)",
+    "item 40: placeholder/empty name in pending (re-verify name later)",
+    "item 41: placeholder/empty name in pending (re-verify name later)",
+    "item 42: placeholder/empty name in pending (re-verify name later)"
+   ]
+  }
+ },
+ "leads": {
+  "team01-leads-harvest-a-leads.json": {
+   "file": "team01-leads-harvest-a-leads.json",
+   "count": 58,
+   "errors": [],
+   "warnings": []
+  },
+  "team02-leads-harvest-b-leads.json": {
+   "file": "team02-leads-harvest-b-leads.json",
+   "count": 42,
+   "errors": [],
+   "warnings": [
+    "item 34: invite URL leaked into leads: https://chat.whatsapp.com/"
+   ]
+  },
+  "team03-leads-harvest-c-leads.json": {
+   "file": "team03-leads-harvest-c-leads.json",
+   "count": 42,
+   "errors": [],
+   "warnings": []
+  },
+  "team04-leads-harvest-d-leads.json": {
+   "file": "team04-leads-harvest-d-leads.json",
+   "count": 50,
+   "errors": [],
+   "warnings": []
+  },
+  "team05-leads-harvest-e-leads.json": {
+   "file": "team05-leads-harvest-e-leads.json",
+   "count": 68,
+   "errors": [],
+   "warnings": []
+  },
+  "team06-leads-harvest-f-leads.json": {
+   "file": "team06-leads-harvest-f-leads.json",
+   "count": 72,
+   "errors": [],
+   "warnings": []
+  },
+  "team07-leads-harvest-g-leads.json": {
+   "file": "team07-leads-harvest-g-leads.json",
+   "count": 138,
+   "errors": [],
+   "warnings": []
+  },
+  "team08-leads-harvest-h-leads.json": {
+   "file": "team08-leads-harvest-h-leads.json",
+   "count": 20,
+   "errors": [],
+   "warnings": []
+  },
+  "team09-groupizo-leads.json": {
+   "file": "team09-groupizo-leads.json",
+   "count": 11,
+   "errors": [],
+   "warnings": []
+  },
+  "team10-groupda-leads.json": {
+   "file": "team10-groupda-leads.json",
+   "count": 22,
+   "errors": [],
+   "warnings": []
+  },
+  "team11-groupssor-grupbul-leads.json": {
+   "file": "team11-groupssor-grupbul-leads.json",
+   "count": 23,
+   "errors": [],
+   "warnings": []
+  },
+  "team12-whatsappkanali-linkado-leads.json": {
+   "file": "team12-whatsappkanali-linkado-leads.json",
+   "count": 12,
+   "errors": [],
+   "warnings": []
+  },
+  "team13-igrupos-ongrupos-leads.json": {
+   "file": "team13-igrupos-ongrupos-leads.json",
+   "count": 25,
+   "errors": [],
+   "warnings": []
+  },
+  "team14-appgrouplink-groupsinvite-leads.json": {
+   "file": "team14-appgrouplink-groupsinvite-leads.json",
+   "count": 197,
+   "errors": [],
+   "warnings": []
+  },
+  "team15-newdirs-global-leads.json": {
+   "file": "team15-newdirs-global-leads.json",
+   "count": 42,
+   "errors": [],
+   "warnings": []
+  },
+  "team16-newdirs-southasia-leads.json": {
+   "file": "team16-newdirs-southasia-leads.json",
+   "count": 10,
+   "errors": [],
+   "warnings": []
+  },
+  "team17-newdirs-africa-leads.json": {
+   "file": "team17-newdirs-africa-leads.json",
+   "count": 17,
+   "errors": [],
+   "warnings": []
+  },
+  "team18-newdirs-seasia-leads.json": {
+   "file": "team18-newdirs-seasia-leads.json",
+   "count": 12,
+   "errors": [],
+   "warnings": []
+  },
+  "team19-newdirs-latam-leads.json": {
+   "file": "team19-newdirs-latam-leads.json",
+   "count": 15,
+   "errors": [],
+   "warnings": []
+  },
+  "team20-newdirs-mideast-leads.json": {
+   "file": "team20-newdirs-mideast-leads.json",
+   "count": 16,
+   "errors": [],
+   "warnings": []
+  },
+  "team21-listicles-study-jobs-leads.json": {
+   "file": "team21-listicles-study-jobs-leads.json",
+   "count": 19,
+   "errors": [],
+   "warnings": []
+  },
+  "team22-listicles-sports-movies-leads.json": {
+   "file": "team22-listicles-sports-movies-leads.json",
+   "count": 12,
+   "errors": [],
+   "warnings": []
+  },
+  "team23-listicles-crypto-earning-leads.json": {
+   "file": "team23-listicles-crypto-earning-leads.json",
+   "count": 12,
+   "errors": [],
+   "warnings": []
+  },
+  "team24-listicles-islamic-community-leads.json": {
+   "file": "team24-listicles-islamic-community-leads.json",
+   "count": 19,
+   "errors": [],
+   "warnings": []
+  }
+ },
+ "cross_team_overlaps": [
+  {
+   "code": "EFUANuWN7s170WEKWxXrhi",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "Ei8ZvFsqjNA0tBteKrWYLh",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "E7T8qJa5NGcIX6ZxTQol4X",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "DjkcpExc87rD4ce2xLjOos",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "Et8kdQMF25lB6YdiR4NOfj",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "DCSNI24AxKDLjLibZhqYTB",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "F0nm9xpuNvuIK1pVr7mYXu",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "J7K765rMOIGGRbnEWU0SkN",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "GfKMJAggKg21fCTMqQm5oB",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "ICuVhWGknQqJ35oJWTafv3",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "GWJxmjtEWWlEEaiAO6pcaH",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "JieyNuw0Git52cLgw07rqR",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "LNeNtrPaSZxBvQ5CZPVhLK",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "Er5LbV20RNG5gYW9LkUAzQ",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "DXcMgK7FynK4yOvE1CRK8F",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "Cdl9R1v1oyXEbpolo0fgs0",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "Iagx1l8PX3GLiszE5iA53P",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "GLXZOuq6jVV8FSIorWO0Cc",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "IPWNQOr2Ay6KwDxU8oJ4tP",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "Hx8n22MC0Xr3soTIg7LEFC",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "Ba1iPi2yKxnCBIn6f1MaLE",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "H3dB2pzy2QpLYvtq4limMy",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "FUPzc3nU0DW2DLrDzWQWUG",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "Kdu5XqU0IRFLvz7TnbPzBF",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "KSIQl17hXu44msBbs4m78O",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "KRAEpBQmh3A6yvlmZDhQjE",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "Cxcnpwtpyw5FbOMXjMxvs9",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "IO4HxQlFvaRBJnaF4cgb5G",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "GR4IJNO9SnZDTnbJEmAFWY",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "FAlhg3F5DaT2cH5ycgSF5c",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "IEHfsfKCQ9c87D57ZjCD1L",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "KPJ8l08O1UTD8xmTsLKYcB",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "KZwCHBAqqCGEBlT4XmuiDr",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "LHd8qFpPzfIJWp7HuWRYEF",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "HimcrllqLqx9tepJQuI6Mb",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "KAhL6iRCiRvGdVHgUpK8GJ",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "EXgyE3ClkvS1dKdCiCjJHB",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "ELRUgnrpK95HOps8LwPLyy",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "FTgQTGLFbKmJmACLN19BwA",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "K5sVYV9hAqiJw49sYEzYj4",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "GX6MCoPBmTMGjMrdAysPj5",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "KLf6Dg9iBOa58ux4JesJD9",
+   "first": "team01-leads-harvest-a.json",
+   "later": "team12-whatsappkanali-linkado.json"
+  },
+  {
+   "code": "BJaA9akHqxk8Fozg1jvphc",
+   "first": "team04-leads-harvest-d.json",
+   "later": "team14-appgrouplink-groupsinvite.json"
+  },
+  {
+   "code": "L8ptz6qh1Lr0pTK7J0B1l2",
+   "first": "team04-leads-harvest-d.json",
+   "later": "team14-appgrouplink-groupsinvite.json"
+  },
+  {
+   "code": "HmY5BjKcE8oHe9wFvqeMPI",
+   "first": "team04-leads-harvest-d.json",
+   "later": "team14-appgrouplink-groupsinvite.json"
+  },
+  {
+   "code": "KyVzlX5VTPPFgYqD4KfMhf",
+   "first": "team04-leads-harvest-d.json",
+   "later": "team14-appgrouplink-groupsinvite.json"
+  },
+  {
+   "code": "KneCHZ2nOFwBNP6aSdYMJz",
+   "first": "team13-igrupos-ongrupos.json",
+   "later": "team19-newdirs-latam.json"
+  },
+  {
+   "code": "JKQjiJmBvU2LaIhmHDh50Y",
+   "first": "team13-igrupos-ongrupos.json",
+   "later": "team19-newdirs-latam.json"
+  },
+  {
+   "code": "GslxufBHsJ44f0WWV9aSSD",
+   "first": "team08-leads-harvest-h.json",
+   "later": "team20-newdirs-mideast.json"
+  },
+  {
+   "code": "LS2asej2ZxEFCI2Tas0S5C",
+   "first": "team08-leads-harvest-h.json",
+   "later": "team22-listicles-sports-movies.json"
+  },
+  {
+   "code": "4fHXcfAs4NrLC9dagkhPdC",
+   "first": "team08-leads-harvest-h.json",
+   "later": "team22-listicles-sports-movies.json"
+  },
+  {
+   "code": "Giy6D45o4NN7jLk789exZQ",
+   "first": "team10-groupda.json",
+   "later": "team24-listicles-islamic-community.json"
+  },
+  {
+   "code": "DA8jnCvpu0c9OwHnkmVQGA",
+   "first": "team10-groupda.json",
+   "later": "team24-listicles-islamic-community.json"
+  }
+ ],
+ "exclusions": [],
+ "flags": [
+  {
+   "code": "FUPzc3nU0DW2DLrDzWQWUG",
+   "team": "team01-leads-harvest-a.json",
+   "name": "Grupo de WhatsApp palpite de futebol EL GATO - Esportes",
+   "kind": "betting"
+  },
+  {
+   "code": "JO5hNupFz6nK7RoxCjZbXy",
+   "team": "team06-leads-harvest-f.json",
+   "name": "Sure fixed match🪀🎯",
+   "kind": "betting"
+  },
+  {
+   "code": "GcVI1LVulyf2JlnUWIDHPQ",
+   "team": "team06-leads-harvest-f.json",
+   "name": "Raj bhai satta king online",
+   "kind": "betting"
+  },
+  {
+   "code": "Dfd6eDMdjtm6NK97WAu2cq",
+   "team": "team10-groupda.json",
+   "name": "AG IPL Betting😎😎🥳",
+   "kind": "betting"
+  },
+  {
+   "code": "JBhFWw98gBgD1fXazNcmX7",
+   "team": "team10-groupda.json",
+   "name": "IPL BETTING",
+   "kind": "betting"
+  },
+  {
+   "code": "HsINU5oasj46jdAlSYVZkz",
+   "team": "team10-groupda.json",
+   "name": "THE BETTING AVENUE 🎊🎊🎊",
+   "kind": "betting"
+  },
+  {
+   "code": "Jc3xp58IZbzI2NSRT9cAFl",
+   "team": "team10-groupda.json",
+   "name": "😎🤑Online Betting Games🙆‍♀🛫",
+   "kind": "betting"
+  },
+  {
+   "code": "Gy9scdPDAVX6RkSs3XrUGm",
+   "team": "team10-groupda.json",
+   "name": "SATTA KING OFFICIAL",
+   "kind": "betting"
+  },
+  {
+   "code": "HqIpw8b1BGB5VCKzesTX0s",
+   "team": "team10-groupda.json",
+   "name": "Betting tips",
+   "kind": "betting"
+  },
+  {
+   "code": "JKztHSsGi58L3R70YCNN3j",
+   "team": "team12-whatsappkanali-linkado.json",
+   "name": "PALPITE - CKZX ⚽",
+   "kind": "betting"
+  },
+  {
+   "code": "FUPzc3nU0DW2DLrDzWQWUG",
+   "team": "team12-whatsappkanali-linkado.json",
+   "name": "palpite de futebol EL GATO",
+   "kind": "betting"
+  },
+  {
+   "code": "HSdA7sBUsGILMIOar07GG7",
+   "team": "team22-listicles-sports-movies.json",
+   "name": "Satta Matka khayiwal",
+   "kind": "betting"
+  },
+  {
+   "code": "KO2WdbbBPKI7clvuowZxW5",
+   "team": "team22-listicles-sports-movies.json",
+   "name": "Trusted betting group",
+   "kind": "betting"
+  }
+ ],
+ "issues": [],
+ "totals": {
+  "verified_files": 24,
+  "verified_items": 1212,
+  "pending_files": 24,
+  "pending_items": 183,
+  "leads_files": 24,
+  "leads_items": 954,
+  "unique_verified_codes": 1159,
+  "cross_team_overlap_codes": 53
+ }
+}

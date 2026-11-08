@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/5/game-groups",
+    "what": "Game category — static page shows only November 2026 snapshot; older Game groups need live JS browser (no pagination in static HTML)"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/8/news-groups",
+    "what": "News category — static page shows only November 2026 snapshot; older News groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/9/job-postings-groups",
+    "what": "Job Postings category — static page shows only November 2026 snapshot; older groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship-groups",
+    "what": "Chat/Friendship category — page 2+ / older months: static page lists 27 groups (November 2026 only), ?page=2 returns identical list, /2 returns homepage; older Chat/Friendship groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/29/trade-groups",
+    "what": "Trade category — static page shows only November 2026 snapshot; older groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/34/music-groups",
+    "what": "Music category — static page shows only November 2026 snapshot; older groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/35/student-groups",
+    "what": "Student category — static page shows only November 2026 snapshot; older groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/38/technology-groups",
+    "what": "Technology category — static page shows only November 2026 snapshot; older groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/47/series-movie-groups",
+    "what": "Series/Movie category — static page shows only November 2026 snapshot; older groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/52/religion-groups",
+    "what": "Religion category — static page shows only November 2026 snapshot; older groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/53/food-groups",
+    "what": "Food category — November 2026 snapshot is EMPTY (0 groups); any Food groups need live JS browser or search-indexed group pages"
+  },
+  {
+    "url": "https://grupbul.com/en/category/whatsapp/54/travel-groups",
+    "what": "Travel category — static page shows only November 2026 snapshot (1 group); older Travel groups need live JS browser"
+  },
+  {
+    "url": "https://grupbul.com/en/most-popular-whatsapp-groups",
+    "what": "Most Popular page — lists 13 groups statically; cross-category, some already covered; re-check monthly for new entries in my categories"
+  }
+]

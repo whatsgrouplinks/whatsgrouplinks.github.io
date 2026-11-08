@@ -1,0 +1,26 @@
+07:36:49 resume: 1213 already in progress file
+07:36:50 slice=5892 union-skip=57 pre-drop=11 todo=4611
+07:42:07 progress 200/4611
+07:47:14 progress 400/4611
+07:53:34 progress 600/4611
+07:59:12 progress 800/4611
+08:04:54 progress 1000/4611
+08:08:35 progress 1200/4611
+08:11:17 progress 1400/4611
+08:13:43 progress 1600/4611
+08:15:56 progress 1800/4611
+08:17:58 progress 2000/4611
+08:19:55 progress 2200/4611
+08:21:43 progress 2400/4611
+08:24:03 progress 2600/4611
+08:26:03 progress 2800/4611
+08:27:49 progress 3000/4611
+08:29:28 progress 3200/4611
+08:31:05 progress 3400/4611
+08:32:51 progress 3600/4611
+08:34:34 progress 3800/4611
+08:36:29 progress 4000/4611
+08:38:17 progress 4200/4611
+08:40:01 progress 4400/4611
+08:41:48 progress 4600/4611
+08:42:05 DONE attempted-this-run=4611 total-todo=4611

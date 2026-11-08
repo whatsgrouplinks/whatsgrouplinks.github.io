@@ -1,0 +1,16 @@
+loaded pending=1354 union=85731
+resuming with 0 already processed
+checkpoint 100/1354 verified=59 pending=1294 drops=1
+checkpoint 200/1354 verified=107 pending=1246 drops=1
+checkpoint 300/1354 verified=173 pending=1179 drops=2
+checkpoint 400/1354 verified=250 pending=1102 drops=2
+checkpoint 500/1354 verified=321 pending=1030 drops=3
+checkpoint 600/1354 verified=367 pending=980 drops=7
+checkpoint 700/1354 verified=420 pending=927 drops=7
+checkpoint 800/1354 verified=483 pending=864 drops=7
+checkpoint 900/1354 verified=552 pending=794 drops=8
+checkpoint 1000/1354 verified=612 pending=734 drops=8
+checkpoint 1100/1354 verified=683 pending=662 drops=9
+checkpoint 1200/1354 verified=756 pending=589 drops=9
+checkpoint 1300/1354 verified=830 pending=512 drops=12
+ATTEMPTED=1354 VERIFIED=869 PENDING=473 DROPS=12

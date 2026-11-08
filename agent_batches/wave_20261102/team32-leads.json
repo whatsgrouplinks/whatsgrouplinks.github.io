@@ -1,0 +1,17 @@
+[
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/group/700754",
+  "why": "PUBG WhatsApp Group page — invite codes hidden behind Join buttons (JS-gated), needs live-browser handling"
+ },
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/group/283879",
+  "why": "PUBG Paid Tournaments WhatsApp Group page — invite codes hidden behind Join buttons (JS-gated), needs live-browser handling"
+ },
+ {
+  "domain": "asiamediajournal.com",
+  "url": "https://www.asiamediajournal.com/gaming-whatsapp-group-links/",
+  "why": "Gaming table page with ~15 named groups (FLANKY GAMING, BGMI scrims etc.) — curl download failed this wave, retry fetch next wave"
+ }
+]

@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+    <base href="/">
+    <script src="js/origen-llegada.m5myhewe8b.js"></script>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css" />
+    <link rel="stylesheet" href="app.ta9s7nh4od.css" />
+    <link rel="stylesheet" href="WhatsHubBlazor.qu1xjlw15t.styles.css" />
+    <script type="importmap">{
+  "imports": {
+    "./js/anuncios.js": "./js/anuncios.55p3x9ph51.js",
+    "./js/charts.js": "./js/charts.8srsgo9s4r.js",
+    "./js/origen-llegada.js": "./js/origen-llegada.m5myhewe8b.js",
+    "./js/utils.js": "./js/utils.49nwglga2e.js",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.js": "./lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.min.js": "./lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js",
+    "./lib/bootstrap/dist/js/bootstrap.esm.js": "./lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js",
+    "./lib/bootstrap/dist/js/bootstrap.esm.min.js": "./lib/bootstrap/dist/js/bootstrap.esm.min.8vyfqsqgz1.js",
+    "./lib/bootstrap/dist/js/bootstrap.min.js": "./lib/bootstrap/dist/js/bootstrap.min.4d85u1mtcx.js",
+    "./lib/bootstrap/dist/js/bootstrap.js": "./lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js"
+  },
+  "integrity": {
+    "./js/anuncios.55p3x9ph51.js": "sha256-CfejCZWv9cEqgWSRAyclMrvDi9NSbDSryy+/JELbXHo=",
+    "./js/anuncios.js": "sha256-CfejCZWv9cEqgWSRAyclMrvDi9NSbDSryy+/JELbXHo=",
+    "./js/charts.8srsgo9s4r.js": "sha256-WITLjolCpXaUcl60LpiPXWupkef62H09KmjgKksjd+U=",
+    "./js/charts.js": "sha256-WITLjolCpXaUcl60LpiPXWupkef62H09KmjgKksjd+U=",
+    "./js/origen-llegada.js": "sha256-qs0uvj6jyQ8+BEcGeTjAuAhiXNeAqH1xla9rNZdJSxE=",
+    "./js/origen-llegada.m5myhewe8b.js": "sha256-qs0uvj6jyQ8+BEcGeTjAuAhiXNeAqH1xla9rNZdJSxE=",
+    "./js/utils.49nwglga2e.js": "sha256-uEGa3xMEve506zqEebTPOMSZvflGFa0r1emDThfb0NY=",
+    "./js/utils.js": "sha256-uEGa3xMEve506zqEebTPOMSZvflGFa0r1emDThfb0NY=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js": "sha256-bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.js": "sha256-bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js": "sha256-6zfk2L8R3wCgRbZzpkEi7UYC2bc6fYGIgFfNeqyOWnQ=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.min.js": "sha256-6zfk2L8R3wCgRbZzpkEi7UYC2bc6fYGIgFfNeqyOWnQ=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.js": "sha256-idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js": "sha256-idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.min.8vyfqsqgz1.js": "sha256-REjSeieVKd00nAKwd6dv7MMhuVKvKctPmLI4iDRs/cc=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.min.js": "sha256-REjSeieVKd00nAKwd6dv7MMhuVKvKctPmLI4iDRs/cc=",
+    "./lib/bootstrap/dist/js/bootstrap.js": "sha256-vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA=",
+    "./lib/bootstrap/dist/js/bootstrap.min.4d85u1mtcx.js": "sha256-aCTIqw9op0XQGYnNe1649V7fnihACD48OP3M8BP2xVM=",
+    "./lib/bootstrap/dist/js/bootstrap.min.js": "sha256-aCTIqw9op0XQGYnNe1649V7fnihACD48OP3M8BP2xVM=",
+    "./lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js": "sha256-vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA="
+  }
+}</script>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <!--Blazor:{"type":"server","prerenderId":"cf7d15b388de45ff8cf69926eba9ec70","key":{"locationHash":"77D12F14A8105320B1AAED6AE7E689DA0EC4483270A645E84079EAA0FFDF550D:22","formattedComponentKey":""},"sequence":0,"descriptor":"CfDJ8IcULnDe08ZHhKFnDd5WAe/ORi0pgSo2TKeb\u002Bznu/wGOUQgla1V50nNQIobmn1Hygpo36Znbu64/cO83T7wHAjOLoMPEwpk4qMozflg\u002B9zP/ux/WVo2D3q0T8QGQ8n5Fx7LnCcGXzzTujtoTVkV5t1Rv22OpBGNUxNOUyGwtZ39J3Z0ew1\u002BwYDHDzH65zVVSe8nKNkgE8Y4SgQbESiU85oU/FPrUg2RqOgOgziMQ1mvdf5IlVRZbjPUYIkm9V9aaDST\u002BSEGEDE3h8qq2Od8WfsGqTTU6sRK63sPxfLH3FZdN9qkDn9WH6YFfAH815Xhur2eTwPxEVkoi90aEP9xdQuVQDpOBzLA92RRzDghQMm5SXr\u002BVOrRK50szOYsjNWO1SG7DWvy5KoDMthRxA1jFA0hsuOsRjnoRP/kewsU01Lrdnh5zoXr1r6rnNeL9\u002BBRq/e1V/J40wcSYeWLKTjWTMw4XO6Mjh98VvZxXGVG6VH8l03OsxureDgctzTDyrX1PMAuKpLbq\u002BRaXrLCVB/wdyxHn9uxhE2cx2XDXs6FjM3MhI6UGl6BnM714WPNC2jG81NUy2Eowyu5IWh4K2R8t2mA="}--><title>WhatsHub Trends</title><!--Blazor:{"prerenderId":"cf7d15b388de45ff8cf69926eba9ec70"}--></head>
+
+<body><!--Blazor:{"type":"server","prerenderId":"301892a9cd2e45beb48f57fcc3515382","key":{"locationHash":"85DF2D7C6FC824EBBB3F6116F1836B8311A23A88C0954CE7CBCDFA359B055783:25","formattedComponentKey":""},"sequence":1,"descriptor":"CfDJ8IcULnDe08ZHhKFnDd5WAe9Im1YMt7Wdo/CU0sk4zOYadWs7UhLLtJXqY5Kgw4u3USO35BRpa5sEPFTqg9C725G0b8BM3frcW0UA5skkuBn2WMR7grw\u002BtUCRkjdNPhRCk5wuTVzlJvfY\u002BEqeoB06H9qs29TCcAyJzfLIKLit8OzDG43K655CUHBg37SmmxmuH/OiRwzbbpP0Ls6oPs5kZ5cimlLbuDiyTlqVL9shuUOpHM8fMThKdaJGCeQHUfQilRYDk1nECvlV0\u002BKhYlgqQJLlt\u002BwSCHCwZSTc9rYCpOYXRPcjLEzsxvr8qvOGsRvj/tpZeLBtjlCTDNLsdhf9P3xKsIRXBA9xy9TBmiI38mCnhzcmWfmIg5HsYl8oiGiU9NWVRUF5OKbWXhxSZCMvqWRqtQpWQKwzbRONgw0w3oyTEKbUyKg5Wk2TSfpa4oCe8\u002BqEMauOOI1YomACT5oqri4\u002BCyqDclLbJAC\u002Bq0KWaPCYtUqcrzA6Br7UXEvpP\u002BeLHDtbKiOblBDwIvA96CsmCZI="}-->
+<div class="app-toast-host" aria-live="polite" aria-atomic="false"></div>
+
+
+
+<div class="mobile-frame" b-qeh2i3y7fd><div b-qeh2i3y7fd><nav class="navbar navbar-white bg-white sticky-top shadow-sm" b-alqtzli1xw><div class="container-fluid d-flex align-items-center justify-content-between" b-alqtzli1xw><button class="btn btn-outline-light ms-2 wh-menu-button" type="button" aria-label="Abrir men&#xFA;" b-alqtzli1xw><span class="navbar-toggler-icon" b-alqtzli1xw></span></button>
+
+        <a class="navbar-brand m-0 p-0 text-center flex-grow-1 my-3" href="/" style="pointer-events:auto;" b-alqtzli1xw><img src="images/WhatsHubLogo.jpeg" alt="logo" style="max-height:5rem; vertical-align:middle; max-width: 80%;" b-alqtzli1xw></a>
+
+        <div class="d-flex align-items-center ms-auto" b-alqtzli1xw><a class="btn wh-header-action" href="/notificaciones" title="Notificaciones" aria-label="Notificaciones" b-alqtzli1xw><i class="bi bi-bell" aria-hidden="true" b-alqtzli1xw></i></a>
+            <button type="button" class="btn wh-header-action" aria-label="Crear nuevo grupo" title="Crear nuevo grupo" b-alqtzli1xw><i class="bi bi-plus-lg" aria-hidden="true" b-alqtzli1xw></i></button></div></div></nav><div class="offcanvas offcanvas-start wh-offcanvas-min " style="visibility:hidden" tabindex="-1" aria-labelledby="mainOffcanvasLabel" b-alqtzli1xw><div class="offcanvas-head-min d-flex" b-alqtzli1xw><div b-alqtzli1xw><div class="text-center py-3" b-alqtzli1xw><img src="images/WhatsHubShortLogo.jpeg" href="/" alt="What'sHub" class="logo-min" b-alqtzli1xw></div>
+            <div class="text-center px-3 pb-3" b-alqtzli1xw><p class="claim-min m-0" b-alqtzli1xw><span class="d-block" b-alqtzli1xw>Encuentra gente allá donde vayas</span></p></div></div>
+        <button type="button" class="btn-close ms-2 mt-2 align-items-end" aria-label="Cerrar" b-alqtzli1xw></button></div>
+
+    
+    <div class="offcanvas-body d-flex flex-column p-0" b-alqtzli1xw><a class="list-group-item list-group-item-action item-xl menu-bajo" href="/" b-alqtzli1xw><i class="bi bi-house item-icon" b-alqtzli1xw></i> Inicio
+        </a>
+
+        <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/nuevo-grupo" b-alqtzli1xw><i class="bi bi-plus item-icon" b-alqtzli1xw></i> Compartir nuevo grupo
+        </a>
+
+        <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/perfil" b-alqtzli1xw><i class="bi bi-person item-icon" b-alqtzli1xw></i> Mi perfil
+        </a>
+
+        <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/mis-grupos" b-alqtzli1xw><i class="bi bi-list-check item-icon" b-alqtzli1xw></i> Mis grupos
+        </a>
+
+        <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/mis-recompensas" b-alqtzli1xw><i class="bi bi-coin item-icon" aria-hidden="true" b-alqtzli1xw></i> Mis recompensas
+        </a><a class="list-group-item list-group-item-action item-xl menu-bajo" href="/trends" b-alqtzli1xw><i class="bi bi-stars item-icon" b-alqtzli1xw></i> WhatsHub Trends
+        </a>
+
+        <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/ads" b-alqtzli1xw><i class="bi bi-megaphone item-icon" b-alqtzli1xw></i> WhatsHub Ads
+        </a><div class="mt-auto" b-alqtzli1xw></div>
+
+        <a class="list-group-item list-group-item-action item-xl menu-bajo" b-alqtzli1xw><i class="bi bi-info-circle item-icon" b-alqtzli1xw></i> Acerca de WhatsHub
+        </a>
+
+        <a class="list-group-item list-group-item-action item-xl menu-bajo" b-alqtzli1xw><i class="bi bi-bug item-icon" b-alqtzli1xw></i> Reportar errores
+        </a>
+
+        <a class="list-group-item list-group-item-action item-xl menu-bajo" b-alqtzli1xw><i class="bi bi-lightbulb item-icon" b-alqtzli1xw></i> ¿Tienes una idea para mejorar WhatsHub?
+        </a>
+
+
+        <div class="offcanvas-foot-min" b-alqtzli1xw><div class="d-flex gap-2 flex-wrap justify-content-center icon-row" b-alqtzli1xw><a class="icon-btn m-1" target="_blank" rel="noopener" aria-label="Instagram" b-alqtzli1xw><i class="bi bi-instagram" b-alqtzli1xw></i><span class="visually-hidden" b-alqtzli1xw>Instagram</span></a>
+                <a class="icon-btn m-1" target="_blank" rel="noopener" aria-label="X" b-alqtzli1xw><i class="bi bi-twitter-x" b-alqtzli1xw></i><span class="visually-hidden" b-alqtzli1xw>X</span></a></div>
+            <div class="text-center mt-1" b-alqtzli1xw><a href="/privacidad" class="text-muted small text-decoration-none" b-alqtzli1xw>Privacidad</a></div></div></div></div>
+
+<style b-alqtzli1xw>
+    .navbar .container-fluid {
+        flex-wrap: nowrap !important;
+    }
+
+    .navbar .navbar-brand.flex-grow-1 {
+        flex: 1 1 0%;
+        min-width: 0;
+        text-align: center;
+    }
+
+    .navbar .d-flex.align-items-center {
+        flex: 0 0 auto;
+        white-space: nowrap;
+    }
+
+    .navbar .btn.me-2 {
+        flex: 0 0 auto;
+    }
+
+    .wh-menu-button {
+        position: relative;
+    }
+
+    .wh-header-action {
+        position: relative;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 44px;
+        height: 44px;
+        padding: 0;
+        color: #64bc6c;
+        font-size: 1.35rem;
+        line-height: 1;
+    }
+
+    .wh-menu-pending-dot {
+        width: .6rem;
+        height: .6rem;
+        flex: 0 0 auto;
+        border-radius: 50%;
+        background: #64bc6c;
+        position: absolute;
+        top: .2rem;
+        right: .2rem;
+        box-shadow: 0 0 0 2px #fff;
+    }
+
+    .navbar .navbar-brand img {
+        max-height: 5rem;
+        height: auto;
+        width: auto;
+    }
+
+    .wh-menu-backdrop {
+        position: fixed;
+        inset: 0;
+        z-index: 1040;
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    .offcanvas-foot-min {
+        padding: .5rem .75rem;
+    }
+
+    .offcanvas-foot-min .icon-row {
+        margin-bottom: .25rem;
+    }
+
+    .icon-btn {
+        background: none;
+        border: none;
+        padding: .25rem .4rem;
+        font-size: 1.25rem;
+        color: inherit;
+    }
+
+    .item-icon {
+        font-size: 1.15rem;
+        width: 1.4rem;
+        display: inline-block;
+        margin-right: .5rem;
+        vertical-align: -2px;
+        text-align: center;
+    }
+
+    .menu-bajo {
+        margin: .5rem;
+        margin-left: 1rem;
+    }
+
+    .admin-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: .75rem;
+        width: calc(100% - 1.5rem);
+        text-align: left;
+        padding-right: 1rem;
+    }
+
+    .admin-toggle-label {
+        display: flex;
+        align-items: center;
+        min-width: 0;
+        flex: 1 1 auto;
+    }
+
+    .admin-toggle-chevron {
+        flex: 0 0 auto;
+        margin-left: auto;
+        padding-right: .25rem;
+    }
+
+    .admin-submenu {
+        margin: 0 .5rem .5rem 1rem;
+        padding-left: .75rem;
+        border-left: 2px solid #e9ecef;
+    }
+
+    .admin-subitem {
+        margin: .25rem 0 .25rem .25rem;
+        font-size: 1rem;
+    }
+</style></div>
+
+    <main class="main-content" b-qeh2i3y7fd><article class="content app-content" b-qeh2i3y7fd>
+
+<div class="trends-header"><div class="d-flex align-items-center justify-content-between gap-2 mb-2"><h1 class="trends-title mb-0">WhatsHub Trends</h1><div class="position-relative flex-shrink-0"><select class="stripe-select rounded-pill trends-period" aria-label="Periodo de Trends" disabled value="30"><option value="7">7 d&#xED;as</option><option value="30" selected>30 d&#xED;as</option><option value="90">90 d&#xED;as</option></select>
+                <i class="bi bi-chevron-down position-absolute top-50 end-0 translate-middle-y me-2 pe-none text-muted" aria-hidden="true"></i></div></div>
+    <p class="trends-subtitle text-muted">A qu&#xE9; grupos acceden los usuarios</p>
+
+    <fieldset class="border-0 p-0 mb-3 text-start" style="min-width: 0; overflow: hidden;" disabled aria-label="Vistas de Trends"><div class="stripe-filter-container mb-0 border-0 bg-transparent p-0"><div class="stripe-filter-scroll"><button type="button" class="stripe-filter-pill active"><i class="bi bi-eye me-1" aria-hidden="true"></i>Accesos</button><button type="button" class="stripe-filter-pill "><i class="bi bi-star me-1" aria-hidden="true"></i>Karma</button><button type="button" class="stripe-filter-pill "><i class="bi bi-share me-1" aria-hidden="true"></i>Compartidos</button><button type="button" class="stripe-filter-pill "><i class="bi bi-search me-1" aria-hidden="true"></i>B&#xFA;squedas</button><button type="button" class="stripe-filter-pill "><i class="bi bi-people me-1" aria-hidden="true"></i>Grupos</button></div></div></fieldset></div><div class="text-center mt-5"><div class="spinner-border text-success" role="status"><span class="visually-hidden">Cargando...</span></div></div><style>
+    .trends-header {
+        text-align: center;
+        padding: 1.5rem 0 1rem;
+    }
+
+    .trends-title {
+        font-size: clamp(1.1rem, 5vw, 1.6rem);
+        font-weight: 700;
+        margin-bottom: .25rem;
+    }
+
+    .trends-subtitle {
+        font-size: .95rem;
+        margin-bottom: .75rem;
+    }
+
+    .trends-period {
+        width: auto;
+        padding: .4rem 1.8rem .4rem .65rem;
+        appearance: none;
+    }
+
+    .trends-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 0 0 2rem;
+    }
+
+    .trends-card {
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 1px 4px rgba(0,0,0,.08);
+        padding: 1rem 1.1rem;
+    }
+
+    .trends-card-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: .75rem;
+        margin-bottom: .55rem;
+    }
+
+    .trends-card-title {
+        font-weight: 600;
+        font-size: 1rem;
+        color: #333;
+        margin: 0;
+    }
+
+    .trend-info-btn {
+        width: 1.8rem;
+        height: 1.8rem;
+        border: 0;
+        border-radius: 999px;
+        background: #eef2f7;
+        color: #405268;
+        font-size: .82rem;
+        font-weight: 700;
+        flex: 0 0 auto;
+    }
+
+    .trend-info-panel {
+        margin-bottom: .65rem;
+        padding: .55rem .7rem;
+        border-radius: 10px;
+        background: #f8fafc;
+        color: #5a6472;
+        font-size: .78rem;
+        line-height: 1.35;
+    }
+
+    .trend-row {
+        display: flex;
+        align-items: center;
+        gap: .4rem;
+        padding: .38rem 0;
+        border-bottom: 1px solid #f0f0f0;
+    }
+
+    .trend-row-button {
+        width: 100%;
+        border: 0;
+        background: transparent;
+        text-align: left;
+        border-radius: 10px;
+        transition: background-color .15s ease;
+    }
+
+    .trend-row-button:hover,
+    .trend-row-button:focus-visible {
+        background: #f8fafc;
+        outline: none;
+    }
+
+    .trend-row:last-child {
+        border-bottom: none;
+    }
+
+    .trend-row-head {
+        padding-top: 0;
+        font-size: .72rem;
+        font-weight: 700;
+        color: #7a7a7a;
+        text-transform: uppercase;
+        letter-spacing: .02em;
+    }
+
+    .trend-rank {
+        width: 1.2rem;
+        font-size: .78rem;
+        color: #aaa;
+        flex-shrink: 0;
+        text-align: right;
+    }
+
+    .trend-name {
+        flex: 1;
+        min-width: 0;
+        font-size: .88rem;
+        overflow: visible;
+        text-overflow: clip;
+        white-space: normal;
+        overflow-wrap: anywhere;
+        line-height: 1.2;
+    }
+
+    .trend-metric {
+        width: 3.3rem;
+        font-size: .76rem;
+        color: #666;
+        flex-shrink: 0;
+        text-align: right;
+    }
+
+    .trend-opportunity-head {
+        width: 4.6rem;
+        flex-shrink: 0;
+        text-align: right;
+    }
+
+    .trend-opportunity {
+        width: 4.6rem;
+        flex-shrink: 0;
+        text-align: right;
+    }
+
+    .trend-opportunity-badge {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 4.35rem;
+        padding: .18rem .35rem;
+        border-radius: 999px;
+        font-size: .68rem;
+        font-weight: 700;
+        line-height: 1.1;
+    }
+
+    .trend-opportunity-muy-alta {
+        background: #d1fae5;
+        color: #065f46;
+    }
+
+    .trend-opportunity-alta {
+        background: #dcfce7;
+        color: #166534;
+    }
+
+    .trend-opportunity-media-alta {
+        background: #fef3c7;
+        color: #92400e;
+    }
+
+    .trend-opportunity-media {
+        background: #e0f2fe;
+        color: #075985;
+    }
+
+    .trend-opportunity-cubierta {
+        background: #f3f4f6;
+        color: #4b5563;
+    }
+
+    .small-badge {
+        font-size: 0.72rem !important;
+        font-weight: 600;
+        letter-spacing: 0.3px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    }
+
+    .trend-bar-wrap {
+        flex: 1;
+        position: relative;
+        height: 1.5rem;
+        background: #f5f5f5;
+        border-radius: 4px;
+        overflow: hidden;
+    }
+
+    .trend-bar {
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 100%;
+        background: #d4edda;
+        border-radius: 4px;
+        transition: width .3s;
+    }
+
+    .trend-name-bar {
+        position: relative;
+        z-index: 1;
+        font-size: .88rem;
+        padding: 0 .4rem;
+        line-height: 1.5rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: block;
+    }
+
+    .trend-count {
+        font-size: .8rem;
+        color: #888;
+        flex-shrink: 0;
+        min-width: 2rem;
+        text-align: right;
+    }
+
+    .trend-variation {
+        display: block;
+        font-size: .65rem;
+        line-height: 1.3;
+        overflow-wrap: anywhere;
+        text-transform: none;
+    }
+
+    .trend-variation-up { color: #18733d; }
+    .trend-variation-down { color: #b42318; }
+    .trend-variation-flat { color: #666; }
+
+    @media (min-width: 768px) {
+        .trend-metric {
+            width: 3.6rem;
+            font-size: .82rem;
+        }
+
+        .trend-opportunity,
+        .trend-opportunity-head {
+            width: 6.25rem;
+        }
+
+        .trend-opportunity-badge {
+            min-width: 5.8rem;
+            font-size: .75rem;
+        }
+    }
+</style></article></main></div>
+
+<div id="blazor-error-ui" data-nosnippet b-qeh2i3y7fd>
+    An unhandled error has occurred.
+    <a href="." class="reload" b-qeh2i3y7fd>Reload</a>
+    <span class="dismiss" b-qeh2i3y7fd>🗙</span></div>
+        <!--Blazor:{"prerenderId":"301892a9cd2e45beb48f57fcc3515382"}-->
+    <script src="js/utils.49nwglga2e.js"></script>
+    <script src="lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/charts.8srsgo9s4r.js"></script>
+    <script src="_framework/blazor.web.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/emoji-mart@5/dist/browser.css">
+    <script type="module" src="https://cdn.jsdelivr.net/npm/emoji-mart@5/dist/browser.js"></script></body></html><!--Blazor-Server-Component-State:CfDJ8IcULnDe08ZHhKFnDd5WAe9/ZI5g5xQvAYlxcpQS4Se12HCByYhGqyIkPAoFrQ2B5GLJjKGSuQYpEdG6+4daRUBpwHLhOE3SkTr7EJfpeYa4osmqV+z7+ziG2XEhfHfHqvZ1F2P15U55Af1jRV33wgBlxFlOJ29KuyJHIarv650Loa4de6KRCDQ5azbLFhaiy24i/mo9p+RMJcM1LKEb3kMdg1nah4zAwVf5CHcGZr4g8y88xEEw4ekBIEIKDDRX4ySrSE5mXaw4zdiB1PggWM+Fef5zDBwAiweGMmLFejnMALwLGNRXpxbe2vKhJGkALxSSuPs68j04ZayfNwI6xJkA00ob00BmFQqmoF0kJylrdMMwDNZz/RAXeDg1hVF1NJOZuhTjj+/esTodyPxF3Cu1vRry/jYX1b2WruNuZ3VGR6lvIru/XMMGK6z1IO+YzPd4imbX1it7Y0THYX9Z2YsFB1QS7C29ELNt/KJ6E5ewi4Y3dSM9669qMPaQOsNBwS1ut7/CPVC5NIOfBGG+P+OGndMLGrLe9EktpESXJxvX-->

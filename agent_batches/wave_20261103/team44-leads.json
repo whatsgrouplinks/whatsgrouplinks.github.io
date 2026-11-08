@@ -1,0 +1,17 @@
+[
+ {
+  "domain": "whtspgrouplinks.com",
+  "url": "https://whtspgrouplinks.com/latest-whatsapp-group-links/page/1..49",
+  "why": "Team27 lead: 49 archive pages of US city directories. Site unreachable from this VM (DNS/timeout on bare+www for both requests and browser.open). Retry next wave."
+ },
+ {
+  "domain": "thewhatspgrouplinks.com",
+  "url": "https://thewhatspgrouplinks.com/<city>-whatsapp-group-links/",
+  "why": "LA page done (22 items). Site may have more US city pages (Houston/Miami/NY/Dallas/Atlanta/SF). Sitemap fetch failed; probe more slugs next wave."
+ },
+ {
+  "domain": "newgrouplinks.pk",
+  "url": "https://newgrouplinks.pk/usa-whatsapp-group-links/",
+  "why": "Done (20 items, Kadence card layout). Page may add more groups over time; re-check next wave."
+ }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://losgrupos.app/grupos",
+    "what": "losgrupos.app full listing - only 27 groups exist site-wide (pages 1-2 cover all; pages 3+ empty). All extracted; 18 verified, 1 already in union, 10 excluded (adult/gambling/borderline). No further groups to harvest here."
+  },
+  {
+    "url": "https://losgrupos.app/categorias",
+    "what": "losgrupos.app category index (adultos, solo-chicas, solteros, gaming, musica, etc.) - same 27-group pool, nothing beyond /grupos."
+  },
+  {
+    "url": "https://grupeo.lat/comunidades/",
+    "what": "grupeo.lat full directory, 6 pages, 131 communities parsed - only 2 are WhatsApp groups (both verified here); 77 are WhatsApp channels (excluded) and 52 Discord servers (excluded). Re-check for new WhatsApp-group listings in future waves."
+  },
+  {
+    "url": "https://grupeo.lat/comunidad/animales-en-general/?unirse=1",
+    "what": "grupeo.lat join-redirect pattern: appending ?unirse=1 to a community page redirects to the real invite (chat.whatsapp.com / channel / discord). Use to resolve future grupeo listings."
+  },
+  {
+    "url": "https://masgrupos.com",
+    "what": "DEAD - domain is parked (Sedo 'website is for sale' page, crawled 2024-09-13). No directory, no groups. Do not re-assign."
+  },
+  {
+    "url": "https://gruposdewats.com",
+    "what": "UNREACHABLE in this sandbox - curl timed out (HTTP 000) and text fetch failed with DNS/timeout error. Needs a live-browser leg to check whether the site is alive and to harvest its listings."
+  },
+  {
+    "url": "https://gruposdewats.com/categorias",
+    "what": "Resume point for live-browser leg if gruposdewats.com loads - category/listing pages (URL pattern guessed from site name; verify on load)."
+  }
+]

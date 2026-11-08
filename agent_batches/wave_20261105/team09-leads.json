@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://groupsinvite.link/group/education/",
+    "what": "groupsinvite listing index (tag pages) — fetched OK via curl 2026-11-05; detail pages under /group/<tag>/ link group listings, no direct invite URLs on index"
+  },
+  {
+    "url": "https://groupsinvite.link/add-group-link/",
+    "what": "groupsinvite submission page — possible source of newly submitted listings for future waves"
+  }
+]

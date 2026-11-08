@@ -1,0 +1,78 @@
+[
+ {
+  "url": "https://groupizo.com/category/islamic",
+  "what": "Groupizo Islamic category listing — invite links hidden behind detail-page buttons in static HTML; needs JS/browser harvest"
+ },
+ {
+  "url": "https://groupizo.com/category/friendship",
+  "what": "Groupizo Friendship category listing — invite links hidden behind detail-page buttons; needs JS/browser harvest"
+ },
+ {
+  "url": "https://groupizo.com/category/community-and-social",
+  "what": "Groupizo Community & Social category listing — invite links hidden behind detail-page buttons; needs JS/browser harvest"
+ },
+ {
+  "url": "https://groupizo.com/category/religious",
+  "what": "Groupizo Religious category listing — invite links hidden behind detail-page buttons; needs JS/browser harvest"
+ },
+ {
+  "url": "https://groupizo.com/tabligh-my-work-islamic-invite-link",
+  "what": "Groupizo Islamic detail page (Tabligh My Work, checked 06 Nov 2026) — invite hidden behind button; needs browser harvest"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/52/Religion",
+  "what": "Grupbul Religion (Islamic) category — invite links not in static HTML, JS-gated Join button; needs browser/API harvest"
+ },
+ {
+  "url": "https://grupbul.com/group/119828",
+  "what": "Grupbul Islamic Ummah -1 detail page — invite JS-gated; needs browser harvest"
+ },
+ {
+  "url": "https://grupbul.com/group/859677",
+  "what": "Grupbul Authentic Islamic Group detail page — invite JS-gated; needs browser harvest"
+ },
+ {
+  "url": "https://grupbul.com/group/211894",
+  "what": "Grupbul Berbagi Video Islamic detail page — invite JS-gated; needs browser harvest"
+ },
+ {
+  "url": "https://grupbul.com/group/121781",
+  "what": "Grupbul Islamic Videos detail page — invite JS-gated; needs browser harvest"
+ },
+ {
+  "url": "https://grupbul.com/group/456780",
+  "what": "Grupbul Islamic youtube links detail page — invite JS-gated; needs browser harvest"
+ },
+ {
+  "url": "https://grupbul.com/group/533799",
+  "what": "Grupbul Islamic Groups detail page — invite JS-gated; needs browser harvest"
+ },
+ {
+  "url": "https://groupda.pk/category/girls-groups/",
+  "what": "Groupda.pk Girls Groups category — 0 codes in static fetch (JS/pagination); needs browser harvest"
+ },
+ {
+  "url": "https://groupda.pk/category/pakistani-groups/",
+  "what": "Groupda.pk Pakistani Groups category — 0 codes in static fetch; needs browser harvest"
+ },
+ {
+  "url": "https://groupda.pk/category/indian-groups/",
+  "what": "Groupda.pk Indian Groups category — 0 codes in static fetch; needs browser harvest"
+ },
+ {
+  "url": "https://girlsgroup.pk/",
+  "what": "Girls WhatsApp Group Links 2026 listicle — not harvested this run; friendship/girls groups"
+ },
+ {
+  "url": "https://joinwagroupnow.com/kerala-whatsapp-group-links/",
+  "what": "Kerala WhatsApp Group Links listicle (updated 2026-10-19) — friendship/news/community sections; not harvested this run"
+ },
+ {
+  "url": "https://77links.com/tamil-whatsapp-group-links/",
+  "what": "77links Tamil groups — Islamic, health, cooking and news sections; not harvested this run"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/",
+  "what": "Harvested this run (235 codes) but homepage mixes many categories; unharvested sections remain for follow-up"
+ }
+]

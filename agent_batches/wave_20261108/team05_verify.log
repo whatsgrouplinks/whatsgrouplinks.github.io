@@ -1,0 +1,9 @@
+cands 604 fresh-after-union 325
+progress verified=3 pending=0 dead=45 blocked=2
+progress verified=4 pending=2 dead=91 blocked=3
+progress verified=4 pending=9 dead=133 blocked=4
+progress verified=6 pending=9 dead=179 blocked=6
+progress verified=11 pending=9 dead=223 blocked=7
+progress verified=28 pending=9 dead=256 blocked=7
+FINAL verified=29 pending=9 dead=280 blocked=7
+wrote outputs

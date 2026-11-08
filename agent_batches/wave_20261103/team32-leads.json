@@ -1,0 +1,32 @@
+[
+ {
+  "domain": "joingroupslink.com",
+  "url": "https://joingroupslink.com/",
+  "why": "Fresh general directory; group codes JS-gated behind /join/<id>?t=<token> server redirect that resolves to chat.whatsapp.com (verified working); no country field and site search ignores query — needs Nigeria filtering before harvesting."
+ },
+ {
+  "domain": "lagoswiki.com.ng",
+  "url": "https://www.lagoswiki.com.ng/p/add-your-whatsapp-business-group-links.html",
+  "why": "User-submitted Nigerian group list, JS-loaded ('Loading groups...'), updated Oct 29 2026 — probe its data endpoint next wave for real codes."
+ },
+ {
+  "domain": "myuniguide.com",
+  "url": "https://myuniguide.com/jamb-whatsapp-group-link-2025-2026/",
+  "why": "Nigerian JAMB/Post-UTME group page but Cloudflare 520 from this VM — needs browser or later retry."
+ },
+ {
+  "domain": "nairaland.com",
+  "url": "https://www.nairaland.com/",
+  "why": "Nigeria's largest forum; thread codes confirmed in page HTML this run (threads 8763982 Heavenly Church, 6421430 vethro pets scraped); resume: search threads for whatsapp-group topics and regex chat.whatsapp.com codes from HTML."
+ },
+ {
+  "domain": "7hubent.com.ng",
+  "url": "https://www.7hubent.com.ng/",
+  "why": "Nigerian business blog with group funnels but no direct codes (join-via-DM to their WhatsApp number) — code extraction not possible; informational only."
+ },
+ {
+  "domain": "appgrouplink.com",
+  "url": "https://appgrouplink.com/nigeria-whatsapp-group-links/",
+  "why": "Nigeria page fully harvested this run — all 19 codes already in dedupe union; monitor for new table rows next wave."
+ }
+]

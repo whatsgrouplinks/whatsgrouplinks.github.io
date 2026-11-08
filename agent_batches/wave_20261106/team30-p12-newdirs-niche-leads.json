@@ -1,0 +1,134 @@
+[
+ {
+  "url": "https://www.grouplinks.app/categories/crypto-web3",
+  "note": "grouplinks.app crypto/web3 category — NEW directory (Next.js app); category pages 429 under parallel fetch, retry sequentially with delays; group cards link chat.whatsapp.com invites"
+ },
+ {
+  "url": "https://www.grouplinks.app/categories/gaming-esports",
+  "note": "grouplinks.app gaming/esports category — NEW directory; same 429 caveat, sequential fetch"
+ },
+ {
+  "url": "https://www.grouplinks.app/categories/education-study",
+  "note": "grouplinks.app education/study category — NEW directory; same 429 caveat, sequential fetch"
+ },
+ {
+  "url": "https://www.grouplinks.app/categories/entertainment-movies",
+  "note": "grouplinks.app entertainment/movies category — NEW directory; same 429 caveat, sequential fetch"
+ },
+ {
+  "url": "https://www.grouplinks.app/categories/finance-investing",
+  "note": "grouplinks.app finance/investing category — NEW directory; same 429 caveat, sequential fetch"
+ },
+ {
+  "url": "https://www.grouplinks.app/categories/humor-memes",
+  "note": "grouplinks.app humor/memes category — NEW directory; same 429 caveat, sequential fetch"
+ },
+ {
+  "url": "https://www.grouplinks.app/categories/dating-social",
+  "note": "grouplinks.app dating/social category — NEW directory; same 429 caveat, sequential fetch"
+ },
+ {
+  "url": "https://www.whatsgroup.in/bgmi-whatsapp-group-links/",
+  "note": "whatsgroup.in BGMI category page — www/https returns 404, http non-www times out; needs browser leg or alternate fetch"
+ },
+ {
+  "url": "https://www.whatsgroup.in/free-fire-whatsapp-group-links/",
+  "note": "whatsgroup.in Free Fire category page — same 404/timeout issue as BGMI page"
+ },
+ {
+  "url": "https://www.whatsgroup.in/forex-trading-whatsapp-group-links/",
+  "note": "whatsgroup.in forex trading category page — same 404/timeout issue"
+ },
+ {
+  "url": "https://www.whatsgroup.in/education-whatsapp-group/",
+  "note": "whatsgroup.in education category page — fetched OK but yielded 0 new codes (same set as homepage)"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/movies-whatsapp-group-link/",
+  "note": "whtsagrouplinks movies page — intermittently serves a JS 'One moment please' challenge page; retry later, 4 codes recovered this run"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/earn-money-whatsapp-group-link/",
+  "note": "whtsagrouplinks earn-money page — same intermittent JS challenge; retry later"
+ },
+ {
+  "url": "https://joingram.in/online-earning-whatsapp-group-links/",
+  "note": "joingram.in online earning page — NEW directory; fetch intermittently times out (000), retry; 17 codes extracted on first fetch, all already in union"
+ },
+ {
+  "url": "https://joingram.in/gta-6-whatsapp-group-links/",
+  "note": "joingram.in GTA 6 gaming page — links mostly Telegram channels, 0 chat.whatsapp.com codes; low priority"
+ },
+ {
+  "url": "https://newgrouplinks.pk/crypto-trading-whatsapp-group-links/",
+  "note": "newgrouplinks.pk crypto page — harvested 19 codes this run (1 fresh); other category pages on same site unharvested, worth a sweep"
+ },
+ {
+  "url": "https://wahublink.com/education-whatsapp-group-links/",
+  "note": "wahublink education page — 52 codes on earning page, all in union; education/business/college category pages unharvested"
+ },
+ {
+  "url": "https://77links.com/students-whatsapp-group-links/",
+  "note": "77links students page — NEW directory; 85 codes extracted, all already in union; other 77links category pages unharvested"
+ },
+ {
+  "url": "https://groupsgyani.org/",
+  "note": "groupsgyani.org — lists WhatsApp CHANNELS only (whatsapp.com/channel), no group invites found; skip for groups, useful only if channels ever wanted"
+ },
+ {
+  "url": "https://www.whatsgroup.in/friendship-whatsapp-group-link/",
+  "note": "whatsgroup.in friendship category page — same 404/timeout issue as other whatsgroup.in category pages"
+ },
+ {
+  "url": "https://www.whatsgroup.in/funny-whatsapp-group-links/",
+  "note": "whatsgroup.in funny category page — same 404/timeout issue"
+ },
+ {
+  "url": "https://www.whatsgroup.in/job-whatsapp-group-links/",
+  "note": "whatsgroup.in jobs category page — same 404/timeout issue"
+ },
+ {
+  "url": "https://www.whatsgroup.in/technology-whatsapp-group-links/",
+  "note": "whatsgroup.in technology category page — same 404/timeout issue"
+ },
+ {
+  "url": "https://www.whatsgroup.in/buy-and-sell-whatsapp-group-links/",
+  "note": "whatsgroup.in buy-sell category page — same 404/timeout issue"
+ },
+ {
+  "url": "https://www.whatsgroup.in/news-whatsapp-group-link/",
+  "note": "whatsgroup.in news category page — same 404/timeout issue"
+ },
+ {
+  "url": "https://www.whatsgroup.in/music-whatsapp-group-links/",
+  "note": "whatsgroup.in music category page — same 404/timeout issue"
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/04/cryptocurrency-whatsapp-group-links.html",
+  "note": "grouplinksforyou.com crypto page — NEW directory (Blogger, 1000+ crypto groups); curl fetches stall/return empty files from this VM, needs browser leg"
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/04/pubg-whatsapp-group-links.html?m=1",
+  "note": "grouplinksforyou.com PUBG page — NEW directory (1500+ PUBG groups); same curl stall issue, needs browser leg"
+ },
+ {
+  "url": "https://www.grouplinks.app/group/diwa-free-bonus",
+  "note": "grouplinks.app Diwa Free bonus — detail page hides the invite code behind a JS join button; not harvestable via text fetch"
+ },
+ {
+  "url": "https://www.sreechaitanyamahavidyalaya.ac.in/images/Notice/1664129095whatsApp Link.pdf",
+  "note": "Sree Chaitanya Mahavidyalaya college notice PDF - 22 subject study groups harvested this run; re-check for new notices"
+ },
+ {
+  "url": "https://gcoec.ac.in/gcoec/PDF/Links for first year students to join WhatsApp group.pdf",
+  "note": "GCOEC first-year engineering branch groups PDF - 6 codes harvested this run; check for newer notices"
+ },
+ {
+  "url": "http://rclucknow.ignou.ac.in/Ignou-RC-Lucknow/userfiles/file/Links for joining WhatsApp Group for the learners of2720  BSC_H_, BSCG, PGDAC, PGDAST, PGDFSQM, DDT,  DNHE, CPLT, CFN Programmes.pdf",
+  "note": "IGNOU Lucknow programme learners PDF - 9 codes harvested this run; check for newer session notices"
+ },
+ {
+  "url": "https://grouplink.com.in/1300-international-whatsapp-group-link/",
+  "note": "grouplink.com.in international page - study-abroad/scholarship groups section unharvested; page notes stale same-link entries were removed, remaining look curated"
+ }
+]

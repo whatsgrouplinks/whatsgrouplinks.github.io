@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/nigeria/?page=N&limit=20&safeSearch=blur",
+  "why": "EXHAUSTED under new scheme: tag has exactly 8 pages (~157 records). Nearly all records now list chat.whatsapp.com/invite/<code> CHANNEL links (excluded per brief). Only 11 plain group-code records found across nigeria pp.1-8 + lagos p1 + abuja p1; 9 were already in the 3-source dedupe union (75,443 codes) and 2 were hard-blocked adult content ('ABUJA HOOK UP', 'ABUJA SUGAR MUMMY LINK UP' — desc contained 'fuck'). Verified yield: 0. No resume point needed — bound confirmed empty (pp.9-10 returned 0 records)."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/lagos/?page=1&limit=20&safeSearch=blur",
+  "why": "EXHAUSTED: exactly 1 page (7 records), all /invite/ channel links or already-banked codes. 0 yield."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/abuja/?page=1&limit=20&safeSearch=blur",
+  "why": "EXHAUSTED: exactly 1 page (3 records); 2 fresh codes were adult-blocked ('ABUJA HOOK UP', 'ABUJA SUGAR MUMMY LINK UP'). 0 yield."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/kano/?page=1&limit=20&safeSearch=blur",
+  "why": "Tag does not exist / returns 0 records. Skip."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/nigeria/?page=1&limit=20&safeSearch=blur",
+  "why": "FORMAT-FLIP WARNING for other teams scraping groupjoin.link tags: the same record's 'link' field rendered as a plain chat.whatsapp.com/<code> group link in one fetch and as chat.whatsapp.com/invite/<code> minutes later (observed on PAYgO NEWS record D8bd4mofPPc3NkNkncrSTU). The site appears to be mid-migration to /invite/ links. Teams should re-fetch pages to catch plain-code variants before concluding zero group yield."
+ }
+]

@@ -1,0 +1,33 @@
+kept=3151 already_decided=559 todo=2592
+  pass1 100/2592 live=558 dead=0 transport-retry=0 empty-retry=99
+  pass1 200/2592 live=558 dead=0 transport-retry=0 empty-retry=199
+  pass1 300/2592 live=558 dead=0 transport-retry=0 empty-retry=299
+  pass1 400/2592 live=558 dead=0 transport-retry=0 empty-retry=399
+  pass1 500/2592 live=558 dead=0 transport-retry=0 empty-retry=499
+  pass1 600/2592 live=558 dead=0 transport-retry=0 empty-retry=599
+  pass1 700/2592 live=558 dead=0 transport-retry=0 empty-retry=699
+  pass1 800/2592 live=558 dead=0 transport-retry=0 empty-retry=799
+  pass1 900/2592 live=558 dead=0 transport-retry=0 empty-retry=899
+  pass1 1000/2592 live=558 dead=0 transport-retry=0 empty-retry=999
+  pass1 1100/2592 live=558 dead=0 transport-retry=0 empty-retry=1099
+  pass1 1200/2592 live=558 dead=0 transport-retry=0 empty-retry=1199
+  pass1 1300/2592 live=558 dead=0 transport-retry=0 empty-retry=1299
+  pass1 1400/2592 live=558 dead=0 transport-retry=0 empty-retry=1399
+  pass1 1500/2592 live=558 dead=0 transport-retry=0 empty-retry=1499
+  pass1 1600/2592 live=558 dead=0 transport-retry=0 empty-retry=1599
+  pass1 1700/2592 live=558 dead=0 transport-retry=0 empty-retry=1699
+  pass1 1800/2592 live=558 dead=0 transport-retry=1 empty-retry=1798
+  pass1 1900/2592 live=558 dead=0 transport-retry=1 empty-retry=1898
+  pass1 2000/2592 live=558 dead=0 transport-retry=1 empty-retry=1998
+  pass1 2100/2592 live=566 dead=0 transport-retry=1 empty-retry=2090
+  pass1 2200/2592 live=633 dead=0 transport-retry=1 empty-retry=2117
+  pass1 2300/2592 live=644 dead=0 transport-retry=1 empty-retry=2205
+  pass1 2400/2592 live=664 dead=0 transport-retry=2 empty-retry=2284
+  pass1 2500/2592 live=728 dead=0 transport-retry=2 empty-retry=2320
+PASS1 live=774 dead=0 channel=9 transport-retry=2 empty-retry=2365
+waiting 60s before transport retry...
+waiting 30s before empty-200 retry (2365)...
+FINAL live=775 pending=3 dead=2363 channel=9
+wrote /home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261108/team14-groupjoin.json n=775
+wrote /home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261108/team14-groupjoin-pending.json n=3
+VERIFY_DONE

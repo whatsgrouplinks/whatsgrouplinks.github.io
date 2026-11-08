@@ -1,0 +1,105 @@
+# WhatsGroupLinks wave 20261107 — coordinator manifest
+# Run: Sat 2026-11-07, 24 parallel teams. groups.json baseline: 68,294 groups.
+# Dedupe union: 103,916 codes (68,293 from groups.json + 103,915 .existing_codes.json).
+# Coordinator validation: 0 errors. Live spot re-check: 42/42 sampled clean codes
+# confirmed live (plain curl, browser UA, non-empty og:title) — see sample_recheck.json.
+#
+# TOTALS
+#   verified unique (clean file): 1,159   (1,212 raw team items - 53 cross-team dups)
+#   pending (transport failures): 182     (183 raw - 1 superseded by a verified code)
+#   leads (unique listing URLs):  923     (954 raw - 30 cross-team dup URLs - 1 leaked invite URL)
+#   team09 groupizo unverified candidates: 83 (preserved separately, NOT in clean)
+#
+# PER-TEAM TABLE: team | slice | verified raw | kept in clean | pending | leads
+#   01 | leads slice 1 (idx 0-88)        |  42 |  42 |  0 |  58
+#   02 | leads slice 2 (idx 89-177)      |   0 |   0 |  0 |  42
+#   03 | leads slice 3 (idx 178-266)     |   1 |   1 |  0 |  42
+#   04 | leads slice 4 (idx 267-355)     |   6 |   6 |  0 |  50
+#   05 | leads slice 5 (idx 356-444)     | 128 | 128 | 59 |  68
+#   06 | leads slice 6 (idx 445-533)     |   8 |   8 |  0 |  72
+#   07 | leads slice 7 (idx 534-622)     |  27 |  27 |  0 | 138
+#   08 | leads slice 8 (idx 623-705)     |  24 |  24 |  0 |  20
+#   09 | groupizo.com sitemaps           |   0 |   0 |  0 |  11  (+83 unverified candidates, see below)
+#   10 | groupda.com AJAX endpoint       | 626 | 626 | 19 |  22
+#   11 | groupssor API + grupbul         |  22 |  22 |  3 |  23
+#   12 | whatsappkanali + linkado        | 105 |  63 |  0 |  12  (42 lost to team01 overlap)
+#   13 | igrupos + ongrupos              |  11 |  11 |  0 |  25
+#   14 | appgrouplink + groupsinvite     |  27 |  23 | 27 | 197  (4 lost to team04 overlap)
+#   15 | new dirs — global               |   4 |   4 |  0 |  42
+#   16 | new dirs — South Asia            |   7 |   7 |  0 |  10
+#   17 | new dirs — Africa                |   1 |   1 |  0 |  17
+#   18 | new dirs — SE Asia               |  12 |  12 |  0 |  12
+#   19 | new dirs — LatAm/Spanish         |   6 |   4 |  0 |  15  (2 lost to team13 overlap)
+#   20 | new dirs — Mideast/Arabic        |  18 |  17 |  2 |  16  (1 lost to team08 overlap)
+#   21 | listicles — Education/Jobs       |  20 |  20 | 12 |  19
+#   22 | listicles — Sports/Movies        |  51 |  49 | 18 |  12  (2 lost to team08 overlap)
+#   23 | listicles — Crypto/Earning       |   9 |   9 |  0 |  12
+#   24 | listicles — Islamic/Community    |  57 |  55 | 43 |  19  (2 lost to team10 overlap)
+#
+# EXCLUSIONS (53, all cross-team duplicates — first-team-wins, team-number order):
+#   see wave_20261107_excluded.json. No porn/adult-emoji/phone-PII/union leaks found
+#   in any verified file (0 validation errors). Biggest overlap: team01 vs team12
+#   (42 shared linkado codes — both harvested linkado.app independently).
+# PENDING: 182 in wave_20261107_pending_all.json; 1 dropped to pending_bad.json
+#   (team05 code already verified by team22). 43 team24 pending items carry the
+#   placeholder name "WhatsApp Group" — re-verify to recover real names before use.
+# LEADS: 923 unique URLs in wave_20261107_leads_all.json; 1 dropped
+#   (chat.whatsapp.com invite URL leaked into team02's leads file).
+#
+# FLAGS FOR PARENT (kept in clean per task rules — only porn/xxx is blocked):
+#   13 betting/gambling groups (see validation_report.json "flags"): team01 x1,
+#   team06 x2, team10 x6, team12 x2, team22 x2. Drop at merge if betting is unwanted.
+#   NOTE: 🥰 (U+1F970) is NOT an adult emoji — 8 team10/team18 items with 🥰 were
+#   KEPT (prior wave's blocklist wrongly included it; task set is 🥵🍆🍑🔞💦👅👄💋).
+#
+# TEAM 09 / GROUPZO — UNVERIFIED CANDIDATES (83, NOT in clean):
+#   File: team09-groupizo-unverified-candidates.json. 83 unique 22-char codes,
+#   0 in union, 82/83 with pps.whatsapp.net images — but team09's rapid sequential
+#   verification returned empty og:title for ALL of them, so per the task rule they
+#   were dropped as dead. COORDINATOR CHECK: plain curl re-test of 3 known-live
+#   groups.json codes + 1 bogus code discriminated correctly (live = non-empty
+#   og:title; bogus = empty), and the 42/42 clean-sample re-check passed — so the
+#   og:title method DOES work at low concurrency and team09's all-empty result was
+#   most likely a WhatsApp rate-limit artefact of rapid fetching. The 83 are fresh
+#   Nov-2026 groupizo codes; recommend a slow sequential re-verify leg (3 workers)
+#   before discarding. Caveat: their file uses raw groupizo categories (incl.
+#   'Religious','Buy Sell','Shopping','Movies','Digital Marketing', 22 empty) and
+#   empty descriptions — needs canonical-category mapping + description fill if kept.
+#   Oct-2026 groupizo backlog (1,108 pages) still unharvested — in team09 leads.
+#
+# SOURCES / RETIRED (from team reports):
+#   Best yields: groupda.com AJAX POST /add/group/loadresult (team10, 626);
+#   tglinkhub movies (team05, 124 of its 128); linkado.app RSC payload (team12,
+#   105 raw); groupjoin.link API tags (teams 07/08/21/22); groupsinvite.link
+#   ALIVE again (teams 03/04/14 — /group/rules/<slug>/ exposes the code).
+#   Retired/dead this run: groupsinvite.link timed out for team08 (but worked for
+#   teams 03/04/14 — flaky, not dead); groupda.com apex 301s to /add/ (team03);
+#   groupler.me / everygroup.me (000 x2, team19); groupster.me (522 x2, team19);
+#   whatsappgrouplink.org + groupwhat.com + igrupos JS-gated pages + groupsgyani
+#   join pages + grupbul detail pages — all need a browser/JS leg (banked as leads).
+#   whtsagrouplinks.com Indian page 403 (team16); crypto/earn-money pages 403
+#   rate-limited (team23); logicalshout.com now bot-gated (team05).
+#   Saturated pools (0 fresh live): the WP-listicle family (whatsgroulink /
+#   whtsagrouplinks / groupinvitelink / whtspgrouplink / whatgroups / wagroupshub /
+#   wagroupnest / groupwa.link) shares one code pool now fully covered by the union;
+#   groupjoin.link tags, grouplink.com.in, 77links, activewagroup — re-harvest only
+#   genuinely new pages. groupssor 'dating' category + grupbul cats 58/60 (adult)
+#   skipped by rule, never harvested.
+#   Method notes: curl times out on some hosts where python requests works
+#   (team14) and vice versa (team11: requests timed out, curl worked). WhatsApp
+#   invite checks degrade badly above ~3-4 parallel workers (transport-error
+#   bursts) — keep verification at low concurrency with retries.
+#
+# OUTPUT FILES (wave_20261107/):
+#   wave_20261107_verified_clean.json          (1,159 — MERGE-READY)
+#   wave_20261107_verified_clean_provenance.json (code -> first team file)
+#   wave_20261107_pending_all.json             (182)
+#   wave_20261107_pending_bad.json             (1 superseded)
+#   wave_20261107_leads_all.json               (923 unique URLs)
+#   wave_20261107_leads_dropped.json           (1 leaked invite URL)
+#   wave_20261107_excluded.json                (53 cross-team dups)
+#   validation_report.json                     (0 errors, 58 warnings)
+#   sample_recheck.json                        (42/42 live)
+#   team09-groupizo-unverified-candidates.json (83, needs re-verify leg)
+#   dedupe_union.json                          (103,916 codes)
+#   coordinator_validate.py / coordinator_build_clean.py / sample_recheck.py

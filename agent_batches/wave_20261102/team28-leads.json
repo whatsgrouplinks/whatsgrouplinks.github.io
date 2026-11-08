@@ -1,0 +1,32 @@
+[
+ {
+  "domain": "group-hubs.com",
+  "url": "https://group-hubs.com/groups/canada-whatsapp-group-e-commerce-group-canada/",
+  "why": "Canada group detail pages; invite code is a JS-gated placeholder (AbCdEfGhIjKlMnOpQrSt) — needs browser investigation"
+ },
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/group/872153",
+  "why": "Canada WhatsApp group detail pages; Join button reveals the code via JS — needs browser investigation"
+ },
+ {
+  "domain": "aussiesin.com",
+  "url": "https://aussiesin.com/",
+  "why": "70+ country WhatsApp groups run by Aussies/Kiwis; curl blocked (Cloudflare/JS) — needs browser"
+ },
+ {
+  "domain": "whtspgrouplink.com",
+  "url": "https://whtspgrouplink.com/category/international-whatsapp-group-links/",
+  "why": "Country archive pages (Canada/Australia/New Zealand etc.) not yet scraped; /foreign-whatsapp-group-links/ fully in union"
+ },
+ {
+  "domain": "whatsgroupslinkspk.com",
+  "url": "https://whatsgroupslinkspk.com/canada-whatsapp-group-links/",
+  "why": "Resume point: Canada page scraped (44 codes, 10 fresh, most dead); check for /australia-whatsapp-group-links/ and /new-zealand-whatsapp-group-links/ on same domain next wave"
+ },
+ {
+  "domain": "whatgroups.com",
+  "url": "https://whatgroups.com/whatsapp-group-links-canada/",
+  "why": "Resume point: Canada page scraped (93 codes, 30 fresh, most dead); check for Australia/NZ pages on same domain next wave"
+ }
+]

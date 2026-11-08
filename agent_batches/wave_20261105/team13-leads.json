@@ -1,0 +1,70 @@
+[
+  {
+    "url": "https://www.whatshub.es/sitemap.xml",
+    "what": "Full enumeration: 2759 unique /grupo/<id> URLs (ids 2-3957). Start here for the browser leg."
+  },
+  {
+    "url": "https://whatshub.es/",
+    "what": "Homepage listing (20 groups/page, Blazor load-more). No invite codes in HTML."
+  },
+  {
+    "url": "https://www.whatshub.es/c/amistad-y-planes",
+    "what": "Category listing page (amistad y planes). 20 groups/page, no invite codes in HTML."
+  },
+  {
+    "url": "https://www.whatshub.es/c/estudios-y-universidad",
+    "what": "Category listing page (estudios y universidad)."
+  },
+  {
+    "url": "https://www.whatshub.es/c/vivienda",
+    "what": "Category listing page (vivienda)."
+  },
+  {
+    "url": "https://www.whatshub.es/e/erasmus",
+    "what": "Tag listing page (erasmus)."
+  },
+  {
+    "url": "https://www.whatshub.es/e/conocer-gente",
+    "what": "Tag listing page (conocer gente)."
+  },
+  {
+    "url": "https://www.whatshub.es/e/estudiantes",
+    "what": "Tag listing page (estudiantes)."
+  },
+  {
+    "url": "https://www.whatshub.es/grupo/1025",
+    "what": "Sample group page (Erasmus en Stavanger 2026/27). Invite hidden: 'Oculto por privacidad'. Browser leg: click 'Unirse al grupo' button (Blazor Server, no href) to reveal the chat.whatsapp.com invite, then verify via curl og:title."
+  },
+  {
+    "url": "https://www.whatshub.es/grupo/2",
+    "what": "Sample group page (TechClub Malaga). Same hidden-invite pattern."
+  },
+  {
+    "url": "https://www.whatshub.es/grupo/261",
+    "what": "Sample group page (Chicas con Orgullo). Same hidden-invite pattern."
+  },
+  {
+    "url": "https://www.whatshub.es/grupo/639",
+    "what": "Sample group page (ERASMUS/SICUE GRANADA 26/27). Same hidden-invite pattern."
+  },
+  {
+    "url": "https://www.whatshub.es/grupo/1419",
+    "what": "Sample group page (Erasmus Bolonia 2026-2027). Same hidden-invite pattern."
+  },
+  {
+    "url": "https://www.whatshub.es/grupo/2140",
+    "what": "Sample group page (Amigos Sevilla). Same hidden-invite pattern."
+  },
+  {
+    "url": "https://www.whatshub.es/grupo/3957",
+    "what": "Sample group page (highest id in sitemap). Same hidden-invite pattern."
+  },
+  {
+    "url": "https://www.whatshub.es/trends",
+    "what": "Trends page — may surface popular groups; check whether it exposes invite links."
+  },
+  {
+    "url": "https://www.whatshub.es/grupo/3",
+    "what": "Sample group page (id 3). Same hidden-invite pattern."
+  }
+]

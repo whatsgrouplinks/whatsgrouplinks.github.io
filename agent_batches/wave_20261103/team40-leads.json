@@ -1,0 +1,67 @@
+[
+ {
+  "domain": "pamplemousse-magazine.co",
+  "url": "https://www.pamplemousse-magazine.co/post/groupes-whatsapp-etudiants-droit",
+  "why": "6 French law-student WhatsApp groups (L1/L2/L3/Masters/CRFPA/Jobs); codes hidden behind a community join gate — no plain codes server-rendered"
+ },
+ {
+  "domain": "polyglotclub.com",
+  "url": "https://polyglotclub.com/GroupMarseille",
+  "why": "Marseille language-exchange WhatsApp group; behind a city-verification quiz (JS gate), no plain code"
+ },
+ {
+  "domain": "polyglotclub.com",
+  "url": "https://polyglotclub.com/GroupAix",
+  "why": "Aix-en-Provence language-exchange WhatsApp group; behind a city-verification quiz (JS gate), no plain code"
+ },
+ {
+  "domain": "polyglotclub.com",
+  "url": "https://polyglotclub.com/GroupProvence",
+  "why": "Provence excursions WhatsApp group (outlink 8 on Marseille hub page); behind quiz gate"
+ },
+ {
+  "domain": "whatsgrouplink.com",
+  "url": "https://whatsgrouplink.com/",
+  "why": "Fresh general directory, 815 codes server-rendered, NOT retired — no France filter so not my slice; general-pool team may take it"
+ },
+ {
+  "domain": "groupler.me",
+  "url": "https://groupler.me/",
+  "why": "WhatsApp directory (cited by French how-to guides); unreachable from this VM (proxy error) — retry later"
+ },
+ {
+  "domain": "groupster.me",
+  "url": "https://groupster.me/",
+  "why": "WhatsApp directory (cited by French how-to guides); HTTP 522 from this VM — retry later"
+ },
+ {
+  "domain": "everygroup.me",
+  "url": "https://everygroup.me/",
+  "why": "WhatsApp directory (cited by French how-to guides); unreachable from this VM — retry later"
+ },
+ {
+  "domain": "groupes.io",
+  "url": "https://groupes.io/",
+  "why": "French-named directory cited by journaldufreenaute.fr; unreachable from this VM — retry later"
+ },
+ {
+  "domain": "grouplinks.io",
+  "url": "https://grouplinks.io/",
+  "why": "Directory cited in French search; unreachable from this VM — retry later"
+ },
+ {
+  "domain": "toulousefc.com",
+  "url": "https://www.toulousefc.com/",
+  "why": "Official club publishes matchday WhatsApp codes in media guide PDFs (2 verified this wave: Auxerre J20, HAC J5); crawl new media-guide PDFs each matchday"
+ },
+ {
+  "domain": "mylittlecoupon.fr",
+  "url": "https://www.mylittlecoupon.fr/en/blogs/news/tous-les-groupes-couture-par-departement-en-france-my-little-coupon",
+  "why": "~95 French sewing groups by department; ALL links dead (empty og:title) this wave — recheck next wave, links may be regenerated"
+ },
+ {
+  "domain": "meetup.com",
+  "url": "https://www.meetup.com/international-football-league-paris/",
+  "why": "Paris amateur football league publishes WhatsApp codes in event pages (J37OjBT8cPhFfIT7nQImR1 already in union); watch for new codes"
+ }
+]

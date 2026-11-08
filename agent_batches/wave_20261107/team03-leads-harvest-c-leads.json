@@ -1,0 +1,170 @@
+[
+ {
+  "url": "https://groupda.com/",
+  "what": "RETIRED: apex 301s to /add/ (submit-group form page, 22KB, zero invite codes, no listings). No harvest."
+ },
+ {
+  "url": "https://groupda.pk/wp-json/wp/v2/posts?after=2026-11-03T00:00:00&per_page=100",
+  "what": "WATCH: WP API returned [] (HTTP 200) — no groupda.pk posts after 2026-11-03; newest post still 2026-09-11. Nothing to harvest."
+ },
+ {
+  "url": "https://groupsinvite.link/",
+  "what": "Homepage harvested (HTTP 200, 54 cards): 9 unique invite codes extracted via 54 detail pages; 6 already in dedupe_union, 2 dead on og:title verification, 1 verified new (H9PX9qPXxhrLoDvPqGjqnu, in harvest file)."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/fubfwizgyer0bvc6jg7o2u/",
+  "what": "groupsinvite.link card 'Mercury World Sourcing' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/fin3q6eqix62r7ssgeps5r/",
+  "what": "groupsinvite.link card 'M$A' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/gsqw2c7rtom7m8zx1hlkb5/",
+  "what": "groupsinvite.link card 'WalidStore' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/jo8kh0gjkdg5j9tpfwajtp/",
+  "what": "groupsinvite.link card 'MORNING STAR🌟🌟' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/hrfec0i6eqzamaj970xxti/",
+  "what": "groupsinvite.link card 'POETRY FOR Sᩚ ᰔᩚ Sᩚ ܔ✓❤️‍🩹🥀👀' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/jwvyj4qbzpidzpzgb2v43g/",
+  "what": "groupsinvite.link card 'Pixel Pitch Squad' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/ksh5dsi1eey89l40oulz8z/",
+  "what": "groupsinvite.link card '🔱 दिव्य दर्शन 🔱' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/gl7j0xuzrse2olo3494jya/",
+  "what": "groupsinvite.link card '𝑯𝒆𝒂𝒓𝒕 𝑯𝒂𝒗𝒆𝒏 ❤️' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/j0hboywkne86gcspkwo754/",
+  "what": "groupsinvite.link card 'Trending video' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/kjdlbvq5wdvjokmeyafbzy/",
+  "what": "groupsinvite.link card 'සිතන්නට යමක් (Chat grup) 🌝🍀' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/llomu1biz2v6vneakcydh9/",
+  "what": "groupsinvite.link card 'DVoice Media' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/f2cogxtvevq1joaqasbipc/",
+  "what": "groupsinvite.link card 'Forex Free Segnl And Demo Group' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/ferhixi0lscaouzacn1grl/",
+  "what": "groupsinvite.link card 'gℓσвαℓ ¢нαт нυв' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/j72a7wcqp3s6lomer3g6kh/",
+  "what": "groupsinvite.link card 'Website Development Community' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/i1vuy9ocuyqd55sbzuef9q/",
+  "what": "groupsinvite.link card 'AJO Contribution group. 💷' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/lsogfplm5vikicwxaap3us/",
+  "what": "groupsinvite.link card 'PUBG MOBILE' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/h0wcubldwcvephculgcul3/",
+  "what": "groupsinvite.link card 'Cricket freak' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/fqgvfmvg2st3bk32d7inab/",
+  "what": "groupsinvite.link card 'WebTech Developers Hub 🌐' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/bdtrwzebtkoic69ysb8djs/",
+  "what": "groupsinvite.link card 'Mahakal Mahakali 😇' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/f3mt1qfksfmkwmzcqkmxsf/",
+  "what": "groupsinvite.link card 'SHITPOSTIN FAM🗿' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/hsvf5x5umqf7dbkvjsskxh/",
+  "what": "groupsinvite.link card 'KAYDEE’s Clothing’s 🧢👗👕🩳' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/ihwv1pbnhznazuhin15kxs/",
+  "what": "groupsinvite.link card 'JUST CHILL' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/kuzv7ipqopr1wkfdiuyrsb/",
+  "what": "groupsinvite.link card 'WORLDWIDE' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/lpzyvrai0fv1axmyrd8oo3/",
+  "what": "groupsinvite.link card 'Hometown Jobs (only Indian People)' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/fdmntp8kgmod33kovwnnvt/",
+  "what": "groupsinvite.link card '1k subscriber free' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/k0rln1skhoh8j48il2ttt0/",
+  "what": "groupsinvite.link card 'Binance compaign alert' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/cw23wpnx0g3jim85n80pj1/",
+  "what": "groupsinvite.link card '*Hearts Without Borders* 💖🌎🌹' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/gsjpni0ukz7dpiyjxkw00r/",
+  "what": "groupsinvite.link card 'Number to all details' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/exraots1ydg1hkbsbrqqt6/",
+  "what": "groupsinvite.link card 'Jobs in delhi-ncr region' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/g8txprtwwp88usrijkuvin/",
+  "what": "groupsinvite.link card 'Verified Christian Singles Room (V1)' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/hxicibxpjjwijvhkehxlnn/",
+  "what": "groupsinvite.link card 'ДЕТЕНШЕНЫ США | ICE' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/ffrkqwz1ynndytqfw89eqp/",
+  "what": "groupsinvite.link card 'JAMAL UL QURAN ACADEMY' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/kxmzkjfhpbveeuytieya8u/",
+  "what": "groupsinvite.link card 'EARN PER O.3 MINUTES 🎲🎮' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/la04nzq0gvcdz0dsrkcpyj/",
+  "what": "groupsinvite.link card '✨🌟Karnataka Solar Group 🌟✨' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/hcfnjbxagib02dgo1lb67a/",
+  "what": "groupsinvite.link card '💞💞 AB FISHES - 1 💞💞' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/grrakjvk2g3gusloev2wev/",
+  "what": "groupsinvite.link card '『SKILL』 LINKEDIN EXPERT HUB 🌍' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/imfn034h35zcltoerozjsa/",
+  "what": "groupsinvite.link card '⤻ ᪳𝐌 𝐄 ͢𝐍 𝚪 𝟰 𝐋 𐇽⤻𝚲 𝐔͢ 𝐃 𝚰 𝚯 𝐒͢🦅￮⃝' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/fvhvktkurbsgomjm3p5mlo/",
+  "what": "groupsinvite.link card 'Instagram followers' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/c8vip5axvey29tp0bls3zb/",
+  "what": "groupsinvite.link card 'Bundlif Data Inc 🇬🇭' — detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested."
+ }
+]

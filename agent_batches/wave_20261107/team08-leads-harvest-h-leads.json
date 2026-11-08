@@ -1,0 +1,82 @@
+[
+ {
+  "url": "https://wagrouplink.com/indian/",
+  "what": "Retired: fetch failed twice (timeout) in wave 20261107 team08; retry next wave."
+ },
+ {
+  "url": "https://wagrouplink.com/ipl/",
+  "what": "Retired: fetch failed twice (timeout) in wave 20261107 team08; retry next wave."
+ },
+ {
+  "url": "https://wagrouplink.com/business/",
+  "what": "Retired: fetch failed twice (timeout) in wave 20261107 team08; retry next wave."
+ },
+ {
+  "url": "https://whatsgroupslinkspk.com/poetry-whatsapp-group-links/",
+  "what": "Retired: fetch failed twice (timeout) in wave 20261107 team08; retry next wave."
+ },
+ {
+  "url": "https://groupsinvite.link/group/rules/<slug>/",
+  "what": "Retired: literal <slug> placeholder URL, not a real listing; needs a real slug."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/movies-whatsapp-group-link/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted — possibly bot-blocked; retry via browser leg."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/news-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted — possibly bot-blocked; retry via browser leg."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/students-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted — possibly bot-blocked; retry via browser leg."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/study/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted — possibly bot-blocked; retry via browser leg."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/travel-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted — possibly bot-blocked; retry via browser leg."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/shayari-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted — possibly bot-blocked; retry via browser leg."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/urdu-poetry-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted — possibly bot-blocked; retry via browser leg."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/love-and-romance-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted — possibly bot-blocked; retry via browser leg."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=dubbed-movies&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=hindi-movies&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=english-movies&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=fan-club&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=earn-money&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=online-work&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form."
+ },
+ {
+  "url": "https://groupsinvite.link/group/<tag>/",
+  "what": "groupsinvite.link unreachable this run (timeout) — retry once next wave; 1,173 /group/<tag>/ listing pages untouched per team15 note."
+ }
+]

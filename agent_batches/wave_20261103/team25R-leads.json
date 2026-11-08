@@ -1,0 +1,12 @@
+[
+ {
+  "domain": "linkado.app",
+  "url": "https://linkado.app/categoria/amizade?page=2 (continues; amizade holds 4,763+ groups, ~48/page)",
+  "why": "Detail-page 'Entrar no Grupo' button carries the raw chat.whatsapp.com href. Page 1 of 21 categories + home p1-5 scraped; resume: paginate categories ?page=2..N, fetch /grupo/<id> detail pages, extract invite href, dedupe vs union, verify og:title."
+ },
+ {
+  "domain": "linkado.app",
+  "url": "https://linkado.app/categorias",
+  "why": "Full category listing page (timed out this run) — re-check for new categories beyond the 21 scraped."
+ }
+]

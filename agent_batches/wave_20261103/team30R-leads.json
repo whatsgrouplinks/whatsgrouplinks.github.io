@@ -1,0 +1,12 @@
+[
+ {
+  "domain": "groupsinvite.link",
+  "url": "https://groupsinvite.link/group/rules/<slug>/",
+  "why": "RESUME (wave 20261103 closed early): 2326 group-candidate slugs from sitemap (231 channel-pattern 0029v*/029v* slugs excluded as channels). classify.json covers 1800/2326 (chat=1573); verify.json covers 200 codes. Re-run: classify_rules.py (picks up remaining 526 slugs + 71 error retries) -> verify_codes.py (picks up remaining ~1373 chat codes, resumes verify.json) -> fetch_details.py (detail pages for verified slugs lacking listing metadata; improves name/category/country) -> finalize.py (rewrites team30R-*.json). 1173 /group/<tag>/ pages untouched."
+ },
+ {
+  "domain": "groupsinvite.link",
+  "url": "https://groupsinvite.link/group/<tag>/",
+  "why": "1173 tag-archive pages never crawled; sitemap /group/link/ set is authoritative so no new slugs expected, but tag pages could add metadata."
+ }
+]

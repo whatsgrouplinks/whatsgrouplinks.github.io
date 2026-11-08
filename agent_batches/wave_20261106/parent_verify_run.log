@@ -1,0 +1,7 @@
+union codes: 101978 groups.json groups: 66356
+candidates: 3492 (clean 3396 + pending 101 )
+fresh vs union: 2042 | dup vs union: 1450
+to check: 2042
+PARENT VERIFY STATS {'live': 1938, 'dead': 94, 'transport': 1}
+TOTAL LIVE: 1938 -> /home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261106/parent_verified_wave20261106.json
+PENDING TRANSPORT: 1

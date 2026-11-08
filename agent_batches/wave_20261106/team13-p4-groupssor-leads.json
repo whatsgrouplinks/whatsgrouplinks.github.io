@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://groupssor-api.blog-99n.workers.dev/api/groups",
+    "note": "groupssor API latest-500 endpoint — re-poll next wave; returns mixed WhatsApp/Telegram, heavy adult/spam content, needs strict porn/scam filtering and per-link verification"
+  },
+  {
+    "url": "https://groupssor.com",
+    "note": "groupssor directory homepage — check for category browse pages worth harvesting next run"
+  }
+]

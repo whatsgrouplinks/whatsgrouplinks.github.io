@@ -1,0 +1,9 @@
+candidates 283 already done 0 to check 283
+progress live=21 dead=4 pending=0
+progress live=27 dead=23 pending=0
+progress live=30 dead=45 pending=0
+progress live=33 dead=67 pending=0
+progress live=33 dead=92 pending=0
+progress live=33 dead=115 pending=2
+progress live=34 dead=126 pending=15
+progress live=35 dead=136 pending=29

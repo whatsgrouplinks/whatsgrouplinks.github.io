@@ -1,0 +1,26 @@
+https://groupda.pk/: total items now 101
+https://groupda.pk/page/2/: total items now 166
+https://groupda.pk/page/3/: total items now 231
+https://groupda.pk/page/4/: total items now 296
+https://groupda.pk/page/5/: total items now 361
+https://groupda.pk/page/6/: total items now 426
+https://groupda.pk/page/7/: total items now 491
+https://groupda.pk/page/8/: total items now 556
+https://groupda.pk/page/9/: total items now 621
+https://groupda.pk/page/10/: total items now 686
+https://groupda.pk/page/11/: total items now 751
+https://groupda.pk/page/12/: total items now 816
+https://groupda.pk/page/13/: total items now 881
+https://groupda.pk/page/14/: total items now 946
+https://groupda.pk/page/15/: total items now 1011
+https://groupda.pk/category/girls-groups/: total items now 1011
+empty page https://groupda.pk/category/girls-groups/page/2/
+https://groupda.pk/category/indian-groups/: total items now 1011
+  HTTP 404 https://groupda.pk/category/indian-groups/page/2/
+no more pages at https://groupda.pk/category/indian-groups/page/2/
+https://groupda.pk/category/pakistani-groups/: total items now 1011
+  HTTP 404 https://groupda.pk/category/pakistani-groups/page/2/
+no more pages at https://groupda.pk/category/pakistani-groups/page/2/
+https://groupda.pk/group-whatsapp-link/: total items now 1038
+  ERR ProxyError(MaxRetryError("HTTPSConnectionPool(host='groupda.pk', port=443): Max retries exceeded wit https://groupda.pk/group-whatsapp-link/page/2/
+  ERR ProxyError(MaxRetryError("HTTPSConnectionPool(host='groupda.pk', port=443): Max retries exceeded wit https://groupda.pk/group-whatsapp-link/page/2/

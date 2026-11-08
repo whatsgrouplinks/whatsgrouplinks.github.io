@@ -1,0 +1,345 @@
+{
+ "baseline_groups_json": 69491,
+ "dedupe_union_codes": 105112,
+ "teams": 24,
+ "verified_raw_total": 1851,
+ "verified_clean_total": 1778,
+ "pending_raw_total": 87,
+ "pending_total": 81,
+ "leads_raw_total": 1479,
+ "leads_total": 1472,
+ "excluded_total": 78,
+ "excluded_by_reason": {
+  "scam": 10,
+  "pending-porn-keyword-in-name": 4,
+  "scam-airdrop-pitch (team05 drop vs team10 keep)": 1,
+  "cross-team-dup": 60,
+  "pending-dup": 1,
+  "porn-keyword-in-name": 2
+ },
+ "per_team": {
+  "1": {
+   "slice": "leads slice 1 (idx 0-114)",
+   "verified_raw": 12,
+   "kept": 12,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 84,
+   "leads_kept": 84
+  },
+  "2": {
+   "slice": "leads slice 2 (idx 115-229)",
+   "verified_raw": 14,
+   "kept": 14,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 401,
+   "leads_kept": 401
+  },
+  "3": {
+   "slice": "leads slice 3 (idx 230-345)",
+   "verified_raw": 5,
+   "kept": 5,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 63,
+   "leads_kept": 63
+  },
+  "4": {
+   "slice": "leads slice 4 (idx 346-460)",
+   "verified_raw": 174,
+   "kept": 173,
+   "pending_raw": 3,
+   "pending_kept": 3,
+   "leads_raw": 74,
+   "leads_kept": 74
+  },
+  "5": {
+   "slice": "leads slice 5 (idx 461-575)",
+   "verified_raw": 25,
+   "kept": 25,
+   "pending_raw": 9,
+   "pending_kept": 5,
+   "leads_raw": 26,
+   "leads_kept": 26
+  },
+  "6": {
+   "slice": "leads slice 6 (idx 576-691)",
+   "verified_raw": 4,
+   "kept": 4,
+   "pending_raw": 6,
+   "pending_kept": 6,
+   "leads_raw": 43,
+   "leads_kept": 43
+  },
+  "7": {
+   "slice": "leads slice 7 (idx 692-806)",
+   "verified_raw": 11,
+   "kept": 11,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 138,
+   "leads_kept": 138
+  },
+  "8": {
+   "slice": "leads slice 8 (idx 807-922)",
+   "verified_raw": 32,
+   "kept": 32,
+   "pending_raw": 12,
+   "pending_kept": 12,
+   "leads_raw": 300,
+   "leads_kept": 300
+  },
+  "9": {
+   "slice": "groupda.com AJAX/Wayback",
+   "verified_raw": 8,
+   "kept": 8,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 38,
+   "leads_kept": 38
+  },
+  "10": {
+   "slice": "groupssor API + grupbul",
+   "verified_raw": 1,
+   "kept": 0,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 7,
+   "leads_kept": 7
+  },
+  "11": {
+   "slice": "groupizo.com sitemaps",
+   "verified_raw": 1,
+   "kept": 1,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 1,
+   "leads_kept": 1
+  },
+  "12": {
+   "slice": "igrupos + ongrupos",
+   "verified_raw": 51,
+   "kept": 43,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 90,
+   "leads_kept": 90
+  },
+  "13": {
+   "slice": "appgrouplink + groupsinvite.link",
+   "verified_raw": 64,
+   "kept": 56,
+   "pending_raw": 40,
+   "pending_kept": 38,
+   "leads_raw": 25,
+   "leads_kept": 25
+  },
+  "14": {
+   "slice": "groupjoin.link new tags",
+   "verified_raw": 775,
+   "kept": 760,
+   "pending_raw": 3,
+   "pending_kept": 3,
+   "leads_raw": 38,
+   "leads_kept": 38
+  },
+  "15": {
+   "slice": "whatsappkanali + linkado.app",
+   "verified_raw": 242,
+   "kept": 228,
+   "pending_raw": 4,
+   "pending_kept": 4,
+   "leads_raw": 9,
+   "leads_kept": 8
+  },
+  "16": {
+   "slice": "new dirs — global/Mideast",
+   "verified_raw": 54,
+   "kept": 54,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 34,
+   "leads_kept": 34
+  },
+  "17": {
+   "slice": "new dirs — South Asia",
+   "verified_raw": 184,
+   "kept": 184,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 6,
+   "leads_kept": 5
+  },
+  "18": {
+   "slice": "new dirs — Africa",
+   "verified_raw": 27,
+   "kept": 23,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 13,
+   "leads_kept": 12
+  },
+  "19": {
+   "slice": "new dirs — SE Asia",
+   "verified_raw": 4,
+   "kept": 2,
+   "pending_raw": 4,
+   "pending_kept": 4,
+   "leads_raw": 7,
+   "leads_kept": 7
+  },
+  "20": {
+   "slice": "listicles — Education/Jobs",
+   "verified_raw": 20,
+   "kept": 20,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 38,
+   "leads_kept": 38
+  },
+  "21": {
+   "slice": "listicles — Sports/Movies",
+   "verified_raw": 8,
+   "kept": 8,
+   "pending_raw": 6,
+   "pending_kept": 6,
+   "leads_raw": 12,
+   "leads_kept": 12
+  },
+  "22": {
+   "slice": "listicles — Crypto/Earning",
+   "verified_raw": 1,
+   "kept": 1,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 9,
+   "leads_kept": 7
+  },
+  "23": {
+   "slice": "listicles — Islamic/Community",
+   "verified_raw": 12,
+   "kept": 7,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 5,
+   "leads_kept": 5
+  },
+  "24": {
+   "slice": "LatAm/Spanish + Brazil + Nov-6 leads",
+   "verified_raw": 122,
+   "kept": 107,
+   "pending_raw": 0,
+   "pending_kept": 0,
+   "leads_raw": 18,
+   "leads_kept": 16
+  }
+ },
+ "schema_errors": 0,
+ "category_fixes": {},
+ "flags": [
+  {
+   "code": "JgLQTp60u3s3lvxNzaRzNI",
+   "team": 4,
+   "flag": "degenerate-name",
+   "name": "."
+  },
+  {
+   "code": "L2aKP3hdVbL0WmOksTUnyh",
+   "team": 5,
+   "flag": "pending-betting",
+   "name": "1XBET"
+  },
+  {
+   "code": "LVVlIHRCrdj0Ewd9InjQaD",
+   "team": 6,
+   "flag": "degenerate-name",
+   "name": "G"
+  },
+  {
+   "code": "G7jAbjsF70e2o17hqPgNcy",
+   "team": 6,
+   "flag": "degenerate-name",
+   "name": "."
+  },
+  {
+   "code": "CzkNkipPZOH1ggidQSkwpX",
+   "team": 6,
+   "flag": "betting",
+   "name": "FREE VIP BET TIPS ONLINE"
+  },
+  {
+   "code": "BplZDgKGnIgByvZWxD31rT",
+   "team": 8,
+   "flag": "borderline-emoji",
+   "name": "SAFADINHA ABUSADA 😈🔥"
+  },
+  {
+   "code": "ELpTLtVaIYmAZ8SWvbBqft",
+   "team": 11,
+   "flag": "borderline-emoji",
+   "name": "Tamil Talkies 🫦"
+  },
+  {
+   "code": "CiG9Kf5zwZn8hqgrvaUEKH",
+   "team": 12,
+   "flag": "ambiguous-leet-name",
+   "name": "P0lnito rico🔥(leer descripci0n)"
+  },
+  {
+   "code": "EkZ4Mhz4s8m6SL6r7KJB5m",
+   "team": 13,
+   "flag": "profanity",
+   "name": "FUCK CONNECTION"
+  },
+  {
+   "code": "JjarfLYUpb60lhV2zRM6Lc",
+   "team": 13,
+   "flag": "borderline-emoji",
+   "name": "ɢᴄ ʜʏᴘᴇʀ🫦🫦"
+  },
+  {
+   "code": "Cfs0GrsvCRXHPIvrxLG2z1",
+   "team": 14,
+   "flag": "borderline-emoji",
+   "name": "⭕𝚂𝚃𝙰𝚃𝚄𝚂 𝙷𝚄𝙱🎬 乛𝙺𝙸𝙽𝙶» 𝙳𝙴𝚅𝙸𝙻🎧𝙾𝙵𝙵𝙻𝙲𝙻𝙰𝙻...⚠😈"
+  },
+  {
+   "code": "La8BixpLhv482sldFX30Xb",
+   "team": 14,
+   "flag": "borderline-emoji",
+   "name": "🤟TikTok Account Saler🤟😈"
+  },
+  {
+   "code": "Gxtt9DCnpSB6a9gABdrLLA",
+   "team": 14,
+   "flag": "borderline-emoji",
+   "name": "ꜱʜᴏʀᴛꜱ ᴍᴀꜰɪᴀ 😈"
+  },
+  {
+   "code": "6Jl360BOaIKFvmWIYjFKoj",
+   "team": 17,
+   "flag": "borderline-adult-name",
+   "name": "Aunty Affection Junction"
+  },
+  {
+   "code": "DINUJnAxpyO6PBwKVixI9C",
+   "team": 17,
+   "flag": "cheat-sale",
+   "name": "FREE FIRE HACK"
+  },
+  {
+   "code": "JX6RvSy5TSOLCvtMA56ybO",
+   "team": 17,
+   "flag": "cheat-sale",
+   "name": "FREE FIRE PAID HACK"
+  },
+  {
+   "code": "HTtZGs5doPqGPhIrDxVLRo",
+   "team": 24,
+   "flag": "borderline-emoji",
+   "name": "🥴🤠𝐓𝐇𝐄 𝐂𝐃𝐁😈👺"
+  }
+ ],
+ "warnings": []
+}

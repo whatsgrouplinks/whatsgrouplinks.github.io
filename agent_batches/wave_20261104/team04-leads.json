@@ -1,0 +1,17 @@
+[
+ {
+  "domain": "groupchatconnect.info",
+  "url": "https://groupchatconnect.info/?page=N (N=1..71, all scraped 2026-11-04)",
+  "why": "RESUME: re-run og:title verification for the 1036 codes in team04-unverified-pending.json when egress to chat.whatsapp.com is clean (Meta bot-wall 2026-11-04). All 71 listing pages + 1417 detail pages already scraped; scratch in team04_scratch/details.json keyed by site id."
+ },
+ {
+  "domain": "groupchatconnect.info",
+  "url": "https://groupchatconnect.info/groupe/<id> (179 ids flagged is_telegram in team04_scratch/details.json)",
+  "why": "179 groups on this directory are Telegram-only (t.me links, no WhatsApp code) — out of scope for WhatsGroupLinks; skipped, not banked."
+ },
+ {
+  "domain": "groupchatconnect.info",
+  "url": "https://groupchatconnect.info/sitemap.xml (34 /channel/<id> entries)",
+  "why": "Site also lists 34 WhatsApp CHANNELS (whatsapp.com/channel/) — excluded per brief (channels don't belong); never scraped."
+ }
+]

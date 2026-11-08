@@ -1,0 +1,25 @@
+candidates: 537
+checked 50/537 live=0 dead=30 transport=20
+  checkpoint written: verified=0 pending=20
+checked 100/537 live=32 dead=35 transport=33
+  checkpoint written: verified=32 pending=33
+checked 150/537 live=49 dead=54 transport=47
+  checkpoint written: verified=49 pending=47
+checked 200/537 live=57 dead=96 transport=47
+  checkpoint written: verified=57 pending=47
+checked 250/537 live=63 dead=128 transport=59
+  checkpoint written: verified=63 pending=59
+checked 300/537 live=84 dead=154 transport=62
+  checkpoint written: verified=84 pending=62
+checked 350/537 live=98 dead=190 transport=62
+  checkpoint written: verified=98 pending=62
+checked 400/537 live=99 dead=239 transport=62
+  checkpoint written: verified=99 pending=62
+checked 450/537 live=105 dead=283 transport=62
+  checkpoint written: verified=105 pending=62
+checked 500/537 live=110 dead=327 transport=63
+  checkpoint written: verified=110 pending=63
+pass1: live=119 dead=355 transport=63
+sleeping 60s before transport retry...
+after retry: live=136 dead=401 transport=0
+WROTE verified=136 pending=0 dead=401

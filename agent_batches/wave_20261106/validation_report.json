@@ -1,0 +1,1763 @@
+{
+ "verified": {
+  "team01-p1-chunk1.json": {
+   "file": "team01-p1-chunk1.json",
+   "count": 16,
+   "errors": [],
+   "warnings": [
+    "file is a dict, normalized to values"
+   ]
+  },
+  "team02-p1-chunk2.json": {
+   "file": "team02-p1-chunk2.json",
+   "count": 20,
+   "errors": [],
+   "warnings": [
+    "file is a dict, normalized to values"
+   ]
+  },
+  "team03-p1-chunk3.json": {
+   "file": "team03-p1-chunk3.json",
+   "count": 16,
+   "errors": [],
+   "warnings": [
+    "file is a dict, normalized to values"
+   ]
+  },
+  "team04-p1-chunk4.json": {
+   "file": "team04-p1-chunk4.json",
+   "count": 16,
+   "errors": [],
+   "warnings": [
+    "file is a dict, normalized to values"
+   ]
+  },
+  "team05-p1-chunk5.json": {
+   "file": "team05-p1-chunk5.json",
+   "count": 10,
+   "errors": [],
+   "warnings": [
+    "file is a dict, normalized to values"
+   ]
+  },
+  "team06-p1-chunk6.json": {
+   "file": "team06-p1-chunk6.json",
+   "count": 15,
+   "errors": [],
+   "warnings": [
+    "file is a dict, normalized to values"
+   ]
+  },
+  "team07-p1-chunk7.json": {
+   "file": "team07-p1-chunk7.json",
+   "count": 21,
+   "errors": [],
+   "warnings": [
+    "file is a dict, normalized to values"
+   ]
+  },
+  "team08-p1-chunk8.json": {
+   "file": "team08-p1-chunk8.json",
+   "count": 15,
+   "errors": [],
+   "warnings": [
+    "file is a dict, normalized to values"
+   ]
+  },
+  "team09-p2-leads1.json": {
+   "file": "team09-p2-leads1.json",
+   "count": 45,
+   "errors": [],
+   "warnings": [
+    "item 29: adult emoji in name/desc: 'Non Custom Saler Ahmad shah🥰'"
+   ]
+  },
+  "team10-p2-leads2.json": {
+   "file": "team10-p2-leads2.json",
+   "count": 292,
+   "errors": [],
+   "warnings": [
+    "item 72: adult emoji in name/desc: 'FRIENDS FOREVER🤞🥰'",
+    "item 78: adult emoji in name/desc: 'Glamour beauty❤️🥰'",
+    "item 87: adult emoji in name/desc: 'Hot video boy or girl 😍💋'",
+    "item 111: adult emoji in name/desc: 'MALIK 𝙋𝙐𝘽𝙂 𝙎𝙃𝙊𝙋 🥰KOT SABZAL💸'",
+    "item 155: possible phone number in name: 'Refer and earn kroge? Bro par refer 100 rs number 6268031216'",
+    "item 162: adult emoji in name/desc: 'SEKSi BiDEOS 😂🔞'",
+    "item 194: adult emoji in name/desc: 'TikTok Leak Video23 🍑'",
+    "item 239: adult emoji in name/desc: 'Ⓐⓝⓨⓣⓘⓜⓔ ⓢⓣⓐⓣⓤⓢ🌺🌎🥰'",
+    "item 253: adult emoji in name/desc: '꧁ආදර කැදැල්ල 🥰꧂'"
+   ]
+  },
+  "team11-p3-grupbul-a.json": {
+   "file": "team11-p3-grupbul-a.json",
+   "count": 17,
+   "errors": [],
+   "warnings": []
+  },
+  "team12-p3-grupbul-b.json": {
+   "file": "team12-p3-grupbul-b.json",
+   "count": 20,
+   "errors": [],
+   "warnings": [
+    "item 5: adult emoji in name/desc: 'Best friends forever🥰🤍❤️🌹'"
+   ]
+  },
+  "team13-p4-groupssor.json": {
+   "file": "team13-p4-groupssor.json",
+   "count": 40,
+   "errors": [],
+   "warnings": []
+  },
+  "team14-p5-gjl-funny-health.json": {
+   "file": "team14-p5-gjl-funny-health.json",
+   "count": 257,
+   "errors": [],
+   "warnings": [
+    "item 2: adult emoji in name/desc: '-؏ــشـ❥ـہہᷭــͪــᷤــͥــق:))❥𝄞• ❥🂡্᭄͜͡♥️𝑳𝒐𝒗𝒆•❥🂡্᭄͜͡ 💋I💍 ▰▱▰▱▰▱▰▱▰▱'",
+    "item 23: adult emoji in name/desc: '💗❤\\u200d🩹❣️𝘾𝙃𝘼𝙏 𝙂𝙍𝙊𝙐𝙋 ᴬᴺᴰ 𝙁𝙍𝙄𝙀𝙉𝘿𝙎𝙃𝙄𝙋 💕😜🥰'",
+    "item 38: adult emoji in name/desc: 'All about having fun 💥💢💦👯🏻\\u200d♀️⚽🎮🏄🏻\\u200d♀️🏇🏻🏋🏻\\u200d♂️'",
+    "item 98: adult emoji in name/desc: 'ĞŘÃVÊÝĀŘĐ 😫😪😰'",
+    "item 104: adult emoji in name/desc: 'MEme HUb lk 2.0👅'",
+    "item 135: adult emoji in name/desc: '꧁༒☬චැට් 𝓰𝓻𝓸𝓾𝓹☬༒꧂'",
+    "item 201: adult emoji in name/desc: '₥₳₴₮łł ₵ⱠɄ฿😜🥰'"
+   ]
+  },
+  "team15-p5-gjl-newtags.json": {
+   "file": "team15-p5-gjl-newtags.json",
+   "count": 1820,
+   "errors": [],
+   "warnings": [
+    "item 209: adult emoji in name/desc: 'TRUST IS FRAIGLE🥰'",
+    "item 248: adult emoji in name/desc: '💡Multi-objects📗📗📗Gróup🥰🥰🥰'",
+    "item 355: adult emoji in name/desc: '😎👊Online E - money...🤝🔥🥰'",
+    "item 452: possible phone number in name: 'ऑनलाइन घर बैठे पैसे कमाए ₹500 से लेकर ₹3000 तक whatsapp me 9311368366'",
+    "item 532: adult emoji in name/desc: 'About Pakistan Army 🥰❤️'",
+    "item 607: adult emoji in name/desc: 'BHOJPURI NEWS AND SONG 🥰🥰🥰'",
+    "item 764: adult emoji in name/desc: 'THE 𝕊𝕥𝕖𝕥𝕦𝕤 🥰🤟'",
+    "item 809: adult emoji in name/desc: '🇳🇪✨New🥰YouTuber▶️ supportr🥰 🌟'",
+    "item 864: adult emoji in name/desc: 'Home..😍 movies 😍1🥰🤩'",
+    "item 1065: adult emoji in name/desc: 'AMAJON SHOPPING🥰'",
+    "item 1205: adult emoji in name/desc: '❤Baalveer Returns Season 4🥰full episode 🫶'",
+    "item 1259: adult emoji in name/desc: '🤠PUBG RUM ID🥰'",
+    "item 1384: possible phone number in name: 'YouTube Subscribe msg - 7571819968'",
+    "item 1401: adult emoji in name/desc: 'Poetry world🥰'",
+    "item 1443: adult emoji in name/desc: 'Best work from home for ladies 🥰🥰'",
+    "item 1624: adult emoji in name/desc: 'India official Doston ka mahfil 🥰'",
+    "item 1757: adult emoji in name/desc: '🥰Zindagi ka safar 🥰'"
+   ]
+  },
+  "team16-p6-whatsappkanali.json": {
+   "file": "team16-p6-whatsappkanali.json",
+   "count": 22,
+   "errors": [],
+   "warnings": []
+  },
+  "team17-p7-groupchatconnect.json": {
+   "file": "team17-p7-groupchatconnect.json",
+   "count": 9,
+   "errors": [],
+   "warnings": []
+  },
+  "team18-p8-linkado-a.json": {
+   "file": "team18-p8-linkado-a.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team19-p8-linkado-b.json": {
+   "file": "team19-p8-linkado-b.json",
+   "count": 72,
+   "errors": [],
+   "warnings": [
+    "item 4: adult emoji in name/desc: 'CUIDADO E BELEZA PESSOAL 💋💞'",
+    "item 13: adult emoji in name/desc: '☠︎ 𝙋𝙍𝙊𝙄𝘽𝙄𝘿𝙊 𝙎𝙀𝙍 𝙉𝙊𝙍𝙈𝘼𝙇 ☠︎'",
+    "item 18: adult emoji in name/desc: 'Maternidade em Oferta'",
+    "item 31: adult emoji in name/desc: 'Casa&mais 🛍️'",
+    "item 39: possible source ref in description: 'Join G8 STORE, a gaming WhatsApp group for gaming, Free Fire and online games. 🔥'"
+   ]
+  },
+  "team20-p9-igrupos.json": {
+   "file": "team20-p9-igrupos.json",
+   "count": 8,
+   "errors": [],
+   "warnings": []
+  },
+  "team21-p9-ongrupos.json": {
+   "file": "team21-p9-ongrupos.json",
+   "count": 8,
+   "errors": [],
+   "warnings": []
+  },
+  "team22-p10-arabic.json": {
+   "file": "team22-p10-arabic.json",
+   "count": 3,
+   "errors": [],
+   "warnings": [
+    "file is a dict, normalized to values"
+   ]
+  },
+  "team23-p11-groupda.json": {
+   "file": "team23-p11-groupda.json",
+   "count": 25,
+   "errors": [],
+   "warnings": [
+    "item 19: PORN-REGEX hit in name/desc: 'SHARE MARKET'",
+    "item 23: adult emoji in name/desc: 'FRIENDSHIP ALL WORLD 🌍💋👫'"
+   ]
+  },
+  "team24-p12-newdirs-southasia.json": {
+   "file": "team24-p12-newdirs-southasia.json",
+   "count": 34,
+   "errors": [],
+   "warnings": []
+  },
+  "team25-p12-newdirs-africa.json": {
+   "file": "team25-p12-newdirs-africa.json",
+   "count": 35,
+   "errors": [],
+   "warnings": []
+  },
+  "team26-p12-newdirs-seasia.json": {
+   "file": "team26-p12-newdirs-seasia.json",
+   "count": 65,
+   "errors": [],
+   "warnings": []
+  },
+  "team27-p12-newdirs-latam.json": {
+   "file": "team27-p12-newdirs-latam.json",
+   "count": 264,
+   "errors": [],
+   "warnings": [
+    "item 83: adult emoji in name/desc: 'joaninha figurinhas🥰🐞🐞'",
+    "item 141: adult emoji in name/desc: 'Engaja Girls💋'",
+    "item 149: adult emoji in name/desc: '#21 CURSO EXTENSÃO DE UNHAS DE GEL💋💅'",
+    "item 150: adult emoji in name/desc: 'Maquiagem 💄💋'",
+    "item 184: adult emoji in name/desc: 'VAGA DE EMPREGO Home Of😍🥰'",
+    "item 195: adult emoji in name/desc: 'Shein💋✨'",
+    "item 245: adult emoji in name/desc: 'Aliança com Deus 🥰'"
+   ]
+  },
+  "team28-p12-newdirs-mideast-eu.json": {
+   "file": "team28-p12-newdirs-mideast-eu.json",
+   "count": 53,
+   "errors": [],
+   "warnings": [
+    "item 23: PORN-REGEX hit in name/desc: 'Binary Options Trading'"
+   ]
+  },
+  "team29-p12-newdirs-global.json": {
+   "file": "team29-p12-newdirs-global.json",
+   "count": 53,
+   "errors": [],
+   "warnings": []
+  },
+  "team30-p12-newdirs-niche.json": {
+   "file": "team30-p12-newdirs-niche.json",
+   "count": 76,
+   "errors": [],
+   "warnings": []
+  },
+  "team31-p13-listicles-study-jobs.json": {
+   "file": "team31-p13-listicles-study-jobs.json",
+   "count": 27,
+   "errors": [],
+   "warnings": []
+  },
+  "team32-p13-listicles-sports-movies.json": {
+   "file": "team32-p13-listicles-sports-movies.json",
+   "count": 136,
+   "errors": [],
+   "warnings": [
+    "item 13: adult emoji in name/desc: '🥰Women’s Choice🛍'",
+    "item 80: adult emoji in name/desc: 'Non Custom Saler Ahmad shah🥰'"
+   ]
+  },
+  "team33-p14-groupsinvite.json": {
+   "file": "team33-p14-groupsinvite.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team34-p15-appgrouplink.json": {
+   "file": "team34-p15-appgrouplink.json",
+   "count": 17,
+   "errors": [],
+   "warnings": []
+  },
+  "team35-p16-latam-visadb.json": {
+   "file": "team35-p16-latam-visadb.json",
+   "count": 191,
+   "errors": [],
+   "warnings": [
+    "item 41: adult emoji in name/desc: 'LAVADERO \"ESPUMOSO\" DETAILING🚕🖐🏻🚗💦🫧'",
+    "item 122: adult emoji in name/desc: 'Vaciles y amistades 🔥💋'",
+    "item 141: adult emoji in name/desc: '💋👀 Vamos a la disco 🎃😈'"
+   ]
+  },
+  "team36-p17-gjl-eu.json": {
+   "file": "team36-p17-gjl-eu.json",
+   "count": 1,
+   "errors": [],
+   "warnings": []
+  }
+ },
+ "pending": {
+  "team01-p1-chunk1-pending.json": {
+   "file": "team01-p1-chunk1-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team02-p1-chunk2-pending.json": {
+   "file": "team02-p1-chunk2-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team03-p1-chunk3-pending.json": {
+   "file": "team03-p1-chunk3-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team04-p1-chunk4-pending.json": {
+   "file": "team04-p1-chunk4-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team05-p1-chunk5-pending.json": {
+   "file": "team05-p1-chunk5-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team06-p1-chunk6-pending.json": {
+   "file": "team06-p1-chunk6-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team07-p1-chunk7-pending.json": {
+   "file": "team07-p1-chunk7-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team08-p1-chunk8-pending.json": {
+   "file": "team08-p1-chunk8-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team09-p2-leads1-pending.json": {
+   "file": "team09-p2-leads1-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team10-p2-leads2-pending.json": {
+   "file": "team10-p2-leads2-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team11-p3-grupbul-a-pending.json": {
+   "file": "team11-p3-grupbul-a-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team12-p3-grupbul-b-pending.json": {
+   "file": "team12-p3-grupbul-b-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team13-p4-groupssor-pending.json": {
+   "file": "team13-p4-groupssor-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team14-p5-gjl-funny-health-pending.json": {
+   "file": "team14-p5-gjl-funny-health-pending.json",
+   "count": 92,
+   "errors": [
+    "item 56: bad code 'BFC8ukf1UxILOFZDnTWmf'"
+   ],
+   "warnings": []
+  },
+  "team15-p5-gjl-newtags-pending.json": {
+   "file": "team15-p5-gjl-newtags-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team16-p6-whatsappkanali-pending.json": {
+   "file": "team16-p6-whatsappkanali-pending.json",
+   "count": 1,
+   "errors": [],
+   "warnings": []
+  },
+  "team17-p7-groupchatconnect-pending.json": {
+   "file": "team17-p7-groupchatconnect-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team18-p8-linkado-a-pending.json": {
+   "file": "team18-p8-linkado-a-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team19-p8-linkado-b-pending.json": {
+   "file": "team19-p8-linkado-b-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team20-p9-igrupos-pending.json": {
+   "file": "team20-p9-igrupos-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team21-p9-ongrupos-pending.json": {
+   "file": "team21-p9-ongrupos-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team22-p10-arabic-pending.json": {
+   "file": "team22-p10-arabic-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team23-p11-groupda-pending.json": {
+   "file": "team23-p11-groupda-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team24-p12-newdirs-southasia-pending.json": {
+   "file": "team24-p12-newdirs-southasia-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team25-p12-newdirs-africa-pending.json": {
+   "file": "team25-p12-newdirs-africa-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team26-p12-newdirs-seasia-pending.json": {
+   "file": "team26-p12-newdirs-seasia-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team27-p12-newdirs-latam-pending.json": {
+   "file": "team27-p12-newdirs-latam-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team28-p12-newdirs-mideast-eu-pending.json": {
+   "file": "team28-p12-newdirs-mideast-eu-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team29-p12-newdirs-global-pending.json": {
+   "file": "team29-p12-newdirs-global-pending.json",
+   "count": 3,
+   "errors": [],
+   "warnings": []
+  },
+  "team30-p12-newdirs-niche-pending.json": {
+   "file": "team30-p12-newdirs-niche-pending.json",
+   "count": 6,
+   "errors": [],
+   "warnings": []
+  },
+  "team31-p13-listicles-study-jobs-pending.json": {
+   "file": "team31-p13-listicles-study-jobs-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team32-p13-listicles-sports-movies-pending.json": {
+   "file": "team32-p13-listicles-sports-movies-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team33-p14-groupsinvite-pending.json": {
+   "file": "team33-p14-groupsinvite-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team34-p15-appgrouplink-pending.json": {
+   "file": "team34-p15-appgrouplink-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team35-p16-latam-visadb-pending.json": {
+   "file": "team35-p16-latam-visadb-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team36-p17-gjl-eu-pending.json": {
+   "file": "team36-p17-gjl-eu-pending.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  }
+ },
+ "leads": {
+  "team01-p1-chunk1-leads.json": {
+   "file": "team01-p1-chunk1-leads.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team02-p1-chunk2-leads.json": {
+   "file": "team02-p1-chunk2-leads.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team03-p1-chunk3-leads.json": {
+   "file": "team03-p1-chunk3-leads.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team04-p1-chunk4-leads.json": {
+   "file": "team04-p1-chunk4-leads.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team05-p1-chunk5-leads.json": {
+   "file": "team05-p1-chunk5-leads.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team06-p1-chunk6-leads.json": {
+   "file": "team06-p1-chunk6-leads.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team07-p1-chunk7-leads.json": {
+   "file": "team07-p1-chunk7-leads.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team08-p1-chunk8-leads.json": {
+   "file": "team08-p1-chunk8-leads.json",
+   "count": 0,
+   "errors": [],
+   "warnings": []
+  },
+  "team09-p2-leads1-leads.json": {
+   "file": "team09-p2-leads1-leads.json",
+   "count": 482,
+   "errors": [],
+   "warnings": []
+  },
+  "team10-p2-leads2-leads.json": {
+   "file": "team10-p2-leads2-leads.json",
+   "count": 264,
+   "errors": [],
+   "warnings": []
+  },
+  "team11-p3-grupbul-a-leads.json": {
+   "file": "team11-p3-grupbul-a-leads.json",
+   "count": 7,
+   "errors": [],
+   "warnings": []
+  },
+  "team12-p3-grupbul-b-leads.json": {
+   "file": "team12-p3-grupbul-b-leads.json",
+   "count": 50,
+   "errors": [],
+   "warnings": []
+  },
+  "team13-p4-groupssor-leads.json": {
+   "file": "team13-p4-groupssor-leads.json",
+   "count": 2,
+   "errors": [],
+   "warnings": []
+  },
+  "team14-p5-gjl-funny-health-leads.json": {
+   "file": "team14-p5-gjl-funny-health-leads.json",
+   "count": 13,
+   "errors": [],
+   "warnings": []
+  },
+  "team15-p5-gjl-newtags-leads.json": {
+   "file": "team15-p5-gjl-newtags-leads.json",
+   "count": 26,
+   "errors": [],
+   "warnings": []
+  },
+  "team16-p6-whatsappkanali-leads.json": {
+   "file": "team16-p6-whatsappkanali-leads.json",
+   "count": 44,
+   "errors": [],
+   "warnings": []
+  },
+  "team17-p7-groupchatconnect-leads.json": {
+   "file": "team17-p7-groupchatconnect-leads.json",
+   "count": 23,
+   "errors": [],
+   "warnings": []
+  },
+  "team18-p8-linkado-a-leads.json": {
+   "file": "team18-p8-linkado-a-leads.json",
+   "count": 10,
+   "errors": [],
+   "warnings": []
+  },
+  "team19-p8-linkado-b-leads.json": {
+   "file": "team19-p8-linkado-b-leads.json",
+   "count": 23,
+   "errors": [],
+   "warnings": []
+  },
+  "team20-p9-igrupos-leads.json": {
+   "file": "team20-p9-igrupos-leads.json",
+   "count": 27,
+   "errors": [],
+   "warnings": []
+  },
+  "team21-p9-ongrupos-leads.json": {
+   "file": "team21-p9-ongrupos-leads.json",
+   "count": 25,
+   "errors": [],
+   "warnings": []
+  },
+  "team22-p10-arabic-leads.json": {
+   "file": "team22-p10-arabic-leads.json",
+   "count": 17,
+   "errors": [],
+   "warnings": []
+  },
+  "team23-p11-groupda-leads.json": {
+   "file": "team23-p11-groupda-leads.json",
+   "count": 10,
+   "errors": [],
+   "warnings": []
+  },
+  "team24-p12-newdirs-southasia-leads.json": {
+   "file": "team24-p12-newdirs-southasia-leads.json",
+   "count": 19,
+   "errors": [],
+   "warnings": []
+  },
+  "team25-p12-newdirs-africa-leads.json": {
+   "file": "team25-p12-newdirs-africa-leads.json",
+   "count": 22,
+   "errors": [],
+   "warnings": []
+  },
+  "team26-p12-newdirs-seasia-leads.json": {
+   "file": "team26-p12-newdirs-seasia-leads.json",
+   "count": 10,
+   "errors": [],
+   "warnings": []
+  },
+  "team27-p12-newdirs-latam-leads.json": {
+   "file": "team27-p12-newdirs-latam-leads.json",
+   "count": 17,
+   "errors": [],
+   "warnings": []
+  },
+  "team28-p12-newdirs-mideast-eu-leads.json": {
+   "file": "team28-p12-newdirs-mideast-eu-leads.json",
+   "count": 11,
+   "errors": [],
+   "warnings": []
+  },
+  "team29-p12-newdirs-global-leads.json": {
+   "file": "team29-p12-newdirs-global-leads.json",
+   "count": 8,
+   "errors": [],
+   "warnings": []
+  },
+  "team30-p12-newdirs-niche-leads.json": {
+   "file": "team30-p12-newdirs-niche-leads.json",
+   "count": 33,
+   "errors": [],
+   "warnings": []
+  },
+  "team31-p13-listicles-study-jobs-leads.json": {
+   "file": "team31-p13-listicles-study-jobs-leads.json",
+   "count": 30,
+   "errors": [],
+   "warnings": []
+  },
+  "team32-p13-listicles-sports-movies-leads.json": {
+   "file": "team32-p13-listicles-sports-movies-leads.json",
+   "count": 27,
+   "errors": [],
+   "warnings": []
+  },
+  "team33-p14-groupsinvite-leads.json": {
+   "file": "team33-p14-groupsinvite-leads.json",
+   "count": 1,
+   "errors": [],
+   "warnings": []
+  },
+  "team34-p15-appgrouplink-leads.json": {
+   "file": "team34-p15-appgrouplink-leads.json",
+   "count": 8,
+   "errors": [],
+   "warnings": []
+  },
+  "team35-p16-latam-visadb-leads.json": {
+   "file": "team35-p16-latam-visadb-leads.json",
+   "count": 7,
+   "errors": [],
+   "warnings": []
+  },
+  "team36-p17-gjl-eu-leads.json": {
+   "file": "team36-p17-gjl-eu-leads.json",
+   "count": 36,
+   "errors": [],
+   "warnings": []
+  }
+ },
+ "cross_team": {
+  "unique_verified_codes": 3413,
+  "overlap_count": 306,
+  "overlaps": [
+   {
+    "code": "C5ErdXbvCkqCCf2bEllvIl",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team09-p2-leads1.json"
+   },
+   {
+    "code": "2IFUyhb2QlF6eyvjPXAClH",
+    "first": "team04-p1-chunk4.json",
+    "dup_in": "team09-p2-leads1.json"
+   },
+   {
+    "code": "Cla3c3Sat7e5uCMydsp8Af",
+    "first": "team08-p1-chunk8.json",
+    "dup_in": "team09-p2-leads1.json"
+   },
+   {
+    "code": "E1CqSSnUCpP9ZudaLr8x40",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team09-p2-leads1.json"
+   },
+   {
+    "code": "G5oCot0zuU04WlDUC4LJHa",
+    "first": "team08-p1-chunk8.json",
+    "dup_in": "team09-p2-leads1.json"
+   },
+   {
+    "code": "EwhAwTjPI4GAIwZ1hQhjus",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team09-p2-leads1.json"
+   },
+   {
+    "code": "0TrO2NO6rgl1Y98rzIaaUR",
+    "first": "team09-p2-leads1.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "HQLDbkTX8tGBLeCoo417IE",
+    "first": "team03-p1-chunk3.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "6fCzZb09PDIJ1fafB4hq4b",
+    "first": "team04-p1-chunk4.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "EALS9T704ku38YfZuutqYm",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "ImrAl0jqCr5DdSqRROHBFu",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "EwhAwTjPI4GAIwZ1hQhjus",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "LZY9kJp1iYZFVajQJYoga9",
+    "first": "team09-p2-leads1.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "Hdn9RPnaG012Cs4A0i8Bhn",
+    "first": "team06-p1-chunk6.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "DpaOmS5kLgQJu0TabAPBpd",
+    "first": "team09-p2-leads1.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "I0RWujZ7vrRK0XIS9bmzd9",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "Ds10HFdHCKNJEwQQ7j0HHa",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "Jp1Yc1k2mY4Frw3G3szpy3",
+    "first": "team09-p2-leads1.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "21kjpLXmV8n7kMFWvkLpBN",
+    "first": "team09-p2-leads1.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "6dXNZVyI7pNK9CgWiX2OMu",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team10-p2-leads2.json"
+   },
+   {
+    "code": "H1CbNqXSWIO6tuzV5uyh6H",
+    "first": "team03-p1-chunk3.json",
+    "dup_in": "team13-p4-groupssor.json"
+   },
+   {
+    "code": "InNoXwZjxhzAf1ariAUADn",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team14-p5-gjl-funny-health.json"
+   },
+   {
+    "code": "EuJaFCwh4Cm63tfrPUWobz",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team14-p5-gjl-funny-health.json"
+   },
+   {
+    "code": "ERlgwZbMTk72qsUrDAveq2",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team14-p5-gjl-funny-health.json"
+   },
+   {
+    "code": "EEQfjIxhJuCGLlFvyelZ6Q",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team14-p5-gjl-funny-health.json"
+   },
+   {
+    "code": "CZ71pxYyVUj7GVQgJhSDLi",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team14-p5-gjl-funny-health.json"
+   },
+   {
+    "code": "DhNheeOpdBSJ0rfCSMSY9j",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team14-p5-gjl-funny-health.json"
+   },
+   {
+    "code": "HbH3z4M0X4MBp4oqJVJ3Sd",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Lb1h38THHfgDFWxnbTpxqV",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "CMhHZMPXTOTAJwlycxnu5f",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "DZZjsyNLQLI5NH8FWgJMDm",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "IN80XM67w1XB3YecRDNVzL",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "KSHYCg1TwYJ9VXD5aYXOdd",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "EGq2Butsux62UejeYTPIPS",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "FwLXfbMY0vcFKLE1V5rB61",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "GlGl4Y3KOq9Bzr1BtC7Myr",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "JXexIIftrWLAe6uiVSHBAb",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LxjMe1EjwmsCVIJZDXJILK",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "H16TuZtLWvkAuVKx1dcbpV",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "GknxkTzyFiKLqkey09etls",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "HMferXATmESGpTfABSSfrq",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "HTznXz793zO4XQZycu2Tie",
+    "first": "team08-p1-chunk8.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Dtq1734pNpU3KkMqkVyzO6",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "FwhirDFAQnIGl4LPutOaZT",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "I9xbBzsvQyPIkajCGZ3Bpb",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "J7Y3ETvUez04evYPpFkNvG",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "DXUXexz9bFPFYcVL41tGZc",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "C2Y1pa6Z7pnHmXJZsWjuVA",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LCVrr5LSGJc5TnpaC85cu2",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "BDYrk1nnmTzHM1qQ0J0oAZ",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "IMyqX3WzkPHJMZbYD0mpDU",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "L7P47a6YQKF9U8oYb4Ljt7",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "F1L21j4PqKmCmVig6riZ8a",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LuoWlrNmWtP6qFWJf47mnp",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "KiuQbfvHE5bDXxFm0qjODk",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "CPDzLnFZxAZEQOaUsKdi0E",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "CPzTT9C9j8FJvgZu5xNBd8",
+    "first": "team06-p1-chunk6.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "ERlgwZbMTk72qsUrDAveq2",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "GMcJoahe7cm9DdVIJsgXM9",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "IX53gxRHDkQA0N1e0RlGQo",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "HRYVFUNE40vK10zt8rCJNP",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "BDkiePrc1ct1MF1Ek4lWQj",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "IqPP84yYfeU7m23qxdmnXX",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "DsjXikTxdC2KR5SBImy1OO",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "FHvHKqzHwuWFD3ckEQ7CDi",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "HMffJZzDygIJ3WTdZfvcGp",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "DMj0mTU4DRDKsPfDgiQ3k2",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "KIvQKVZO7wUCtLFwDSEWzM",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "FJQWwPUotQTBHWjpHueUAr",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LGK7dM9SgLN1tYCWCD1CSS",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "B6qVAUYmqFd75gakID5lps",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "D0EUemjDRCd55HCf41V0MU",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "EEQfjIxhJuCGLlFvyelZ6Q",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "ISR43mfzBKZCcJ0V7wCAsc",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LhX38zi2IsQKxcfxgA52y3",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Ct6eUC3AOcR6gCDkoi1pBm",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LxjlMicENMv4KEMtpTVmVb",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Fpd0I4I2jBZEvbylK9GLiR",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "FYqnICahFldKUO2MfBXv9G",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "CZ71pxYyVUj7GVQgJhSDLi",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "KwJCuc3eK37HIjEKYIG8Vq",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "IWFfNOl9tcwIZdE4MmYAin",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "EcSmmdqA0I6JAsh2fzMQcw",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "JljvLRQCAuE3bCTGusN9yf",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LuQ11S2l2rK4UjvBWh6Yrl",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "GvVHPUTpBo8AixldpqahSZ",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "JfV686LsgTY1rxSCyhH8g2",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "IvfbuVli3Ga57xxAtx7Zwe",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "KbdxiIl8YFQ5QWhpandLe8",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LBAyvfIishYCskxxH0joBk",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "KrQyDuZzbT8IHLXa6u2cln",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Er2s66s1BlyKmUx44mLc8X",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "GEFk5I81NyCFWVQ6FoYQjt",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Ify7Yg4ymJWJ1664rEKmml",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "ES0DJszZr4U65BLFPyGQNn",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "FcIR8qiZwMFAciUySNtQd2",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "BBitiYGVDzMElaNhlm0JLa",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "IXIOFp2aNXQJFDfJeLoXwg",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "ILEo7yglOzXKHCMjuAidVC",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "GafuYPFdpkaC773ZAuws6F",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "HuulHjeE86fLakqoELa0R5",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Lt6fnDVIZJMCOzBVjvIH0e",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "L4yyUVfPOBlHre7MUV1N6L",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Dn6i2CWfwk14qo8ssceJZf",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "BAAhLFFSproHfJ9JmlV33J",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "IldDTkzmZdK63cEsWaSPbA",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "HkmU4XQIio1Crpa8RjBXu0",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "DOFHEJYvX60HfDY1OiVbpS",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "KmfakI9H1xWBD8ncNjNlin",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Cp80gbPFSPb2MP83Y0SVIB",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "DzCILmYRtSyHHsw36JCeJf",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "B8l5SPNmRe2CbGIPO88w16",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "KfvY9h6RYUw47fvFC5DMDK",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LWrOH8UsZWz1JfUxGcfbX4",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "CgLF51Awupu0SLBnt0vcX1",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "EnEe0CVkwhL7IyATt3qVlx",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "KsTYseREOVdBhgB4nn05nX",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "LZInbPIB8hH7oS4KBJUct4",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "Bn88YB8nPcdE4hwAvWoWK4",
+    "first": "team14-p5-gjl-funny-health.json",
+    "dup_in": "team15-p5-gjl-newtags.json"
+   },
+   {
+    "code": "DhwRruWhFLz1KYqv34StWp",
+    "first": "team04-p1-chunk4.json",
+    "dup_in": "team17-p7-groupchatconnect.json"
+   },
+   {
+    "code": "LrBjjyRINQPHUJHdBqbdoK",
+    "first": "team04-p1-chunk4.json",
+    "dup_in": "team17-p7-groupchatconnect.json"
+   },
+   {
+    "code": "ITy3Z7mLCLvFZwa0zBJi3H",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team20-p9-igrupos.json"
+   },
+   {
+    "code": "JtCfBiucc12GcZFAHjS8GO",
+    "first": "team06-p1-chunk6.json",
+    "dup_in": "team20-p9-igrupos.json"
+   },
+   {
+    "code": "GOGCgq6w742BNLtvihrJca",
+    "first": "team03-p1-chunk3.json",
+    "dup_in": "team20-p9-igrupos.json"
+   },
+   {
+    "code": "DjjaowBeH00EQ29iZbKUxf",
+    "first": "team06-p1-chunk6.json",
+    "dup_in": "team20-p9-igrupos.json"
+   },
+   {
+    "code": "Ks4ljleBi1l5iUq67HEVHg",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team20-p9-igrupos.json"
+   },
+   {
+    "code": "FtouNLJW8tCHKikEoaal5E",
+    "first": "team03-p1-chunk3.json",
+    "dup_in": "team20-p9-igrupos.json"
+   },
+   {
+    "code": "KLzi3Y7XxIfLYgfULzkP4i",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team20-p9-igrupos.json"
+   },
+   {
+    "code": "GdspUkh7c1X4cxobbwWiq2",
+    "first": "team06-p1-chunk6.json",
+    "dup_in": "team20-p9-igrupos.json"
+   },
+   {
+    "code": "BBvVs0RW9PXAdhY1W3HP4e",
+    "first": "team05-p1-chunk5.json",
+    "dup_in": "team21-p9-ongrupos.json"
+   },
+   {
+    "code": "C6aYSakatGsEenEsadpnuV",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team21-p9-ongrupos.json"
+   },
+   {
+    "code": "EvQJsfLG9U36m0MHGUI7fe",
+    "first": "team03-p1-chunk3.json",
+    "dup_in": "team21-p9-ongrupos.json"
+   },
+   {
+    "code": "GtTSasrCCDk7q5xvoRDBEv",
+    "first": "team04-p1-chunk4.json",
+    "dup_in": "team21-p9-ongrupos.json"
+   },
+   {
+    "code": "GtYHJ4wRFLnLBXlUVOAyQc",
+    "first": "team05-p1-chunk5.json",
+    "dup_in": "team21-p9-ongrupos.json"
+   },
+   {
+    "code": "IOji1p7Op77HfOAqJaQ5AU",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team21-p9-ongrupos.json"
+   },
+   {
+    "code": "JYm2n6C5pmjKR3fYtu6Pcn",
+    "first": "team03-p1-chunk3.json",
+    "dup_in": "team21-p9-ongrupos.json"
+   },
+   {
+    "code": "GYt9n2eU1tY0aasX1c7DHp",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "Hb4ys9dGLFK79Pg8UrFv6g",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "I0RWujZ7vrRK0XIS9bmzd9",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "EwhAwTjPI4GAIwZ1hQhjus",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "Cla3c3Sat7e5uCMydsp8Af",
+    "first": "team08-p1-chunk8.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "K3mNI21D1JsKdTCZd5FKRC",
+    "first": "team06-p1-chunk6.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "E1CqSSnUCpP9ZudaLr8x40",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "JvL4Xb5ZXLO4Qo9TLXz9iD",
+    "first": "team08-p1-chunk8.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "C5ErdXbvCkqCCf2bEllvIl",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "EALS9T704ku38YfZuutqYm",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "Ds10HFdHCKNJEwQQ7j0HHa",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "Hdn9RPnaG012Cs4A0i8Bhn",
+    "first": "team06-p1-chunk6.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "21kjpLXmV8n7kMFWvkLpBN",
+    "first": "team09-p2-leads1.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "IvzYjJmwyNTA3td2ollvot",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "2IFUyhb2QlF6eyvjPXAClH",
+    "first": "team04-p1-chunk4.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "G5oCot0zuU04WlDUC4LJHa",
+    "first": "team08-p1-chunk8.json",
+    "dup_in": "team23-p11-groupda.json"
+   },
+   {
+    "code": "IoMknUw0T21IdgfCUxGe3j",
+    "first": "team11-p3-grupbul-a.json",
+    "dup_in": "team24-p12-newdirs-southasia.json"
+   },
+   {
+    "code": "LjZNgAZNkFy3a66FywIyPl",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team24-p12-newdirs-southasia.json"
+   },
+   {
+    "code": "GoqQWZNrQ2jDUSlrcPGg8h",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team24-p12-newdirs-southasia.json"
+   },
+   {
+    "code": "HsEom9KHmfL11bcnkykJoE",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team25-p12-newdirs-africa.json"
+   },
+   {
+    "code": "FXpx3ut4QWEGEhK2ahQvPa",
+    "first": "team03-p1-chunk3.json",
+    "dup_in": "team25-p12-newdirs-africa.json"
+   },
+   {
+    "code": "CiNTmjyVF7G8ToKk1vdYt1",
+    "first": "team15-p5-gjl-newtags.json",
+    "dup_in": "team26-p12-newdirs-seasia.json"
+   },
+   {
+    "code": "EcQisWRbneLC023LyFHiQn",
+    "first": "team15-p5-gjl-newtags.json",
+    "dup_in": "team26-p12-newdirs-seasia.json"
+   },
+   {
+    "code": "H0SqhPVbmds50pkdHVb8OE",
+    "first": "team15-p5-gjl-newtags.json",
+    "dup_in": "team26-p12-newdirs-seasia.json"
+   },
+   {
+    "code": "K2iThSSOxtuA1xqXCqHW4O",
+    "first": "team15-p5-gjl-newtags.json",
+    "dup_in": "team26-p12-newdirs-seasia.json"
+   },
+   {
+    "code": "G0qNjzhkfACD7RHuz2tIht",
+    "first": "team15-p5-gjl-newtags.json",
+    "dup_in": "team26-p12-newdirs-seasia.json"
+   },
+   {
+    "code": "ABduWOE7BxNJLp4DZDPxk9",
+    "first": "team15-p5-gjl-newtags.json",
+    "dup_in": "team26-p12-newdirs-seasia.json"
+   },
+   {
+    "code": "Fx2j1qmvKPOLXMXoT9HPfy",
+    "first": "team15-p5-gjl-newtags.json",
+    "dup_in": "team26-p12-newdirs-seasia.json"
+   },
+   {
+    "code": "JHozeGfwYgH5xnqBJS2hD2",
+    "first": "team03-p1-chunk3.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "CHn25DfBUh4G5ccqQEvPfk",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "FgFg3sm0ibv4txVCYz957r",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "C3J8haRWQ7OKQUAybrYRie",
+    "first": "team04-p1-chunk4.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "EVzqD0gwRFJJs79ixXRpMe",
+    "first": "team05-p1-chunk5.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "EuILpQ6pIS7BxUKo1hNjAg",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "KJNGDnCtkqVG4bRKG42aR0",
+    "first": "team01-p1-chunk1.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "LYO3dzsxglZIE6NFU6m58p",
+    "first": "team07-p1-chunk7.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "CEUjBiVCwukDMfkeHnwQgh",
+    "first": "team08-p1-chunk8.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "FemncPxjQytLsIp1Aznq6u",
+    "first": "team08-p1-chunk8.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "LnGwjenTkHvBi9jW8DpENN",
+    "first": "team02-p1-chunk2.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "JYm2n6C5pmjKR3fYtu6Pcn",
+    "first": "team03-p1-chunk3.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "BBvVs0RW9PXAdhY1W3HP4e",
+    "first": "team05-p1-chunk5.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "GpLs6NtGLY6Lk5g1IEaWa3",
+    "first": "team08-p1-chunk8.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "I4O87Acbhf7874VyfeRNY3",
+    "first": "team21-p9-ongrupos.json",
+    "dup_in": "team27-p12-newdirs-latam.json"
+   },
+   {
+    "code": "FxmyfxBGuyuLXr3EAsMhrU",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team28-p12-newdirs-mideast-eu.json"
+   },
+   {
+    "code": "Fzy2Fcqgjzf7gK6N2NVPVI",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "Ds1t8IykVxn9vVQNEFgRrw",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "KCLrlL1MfxIBlgUX2Uyvl4",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "GTmuDy1mPwqIFVgGzmHDNr",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "Ka4znYYZtrbAgtbNmxKuXb",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "KL8PlYORxHAIu5YPvEe0Q0",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "7Xwj4Tersre3Z0oy63tzmV",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "KFCmyFbwP5TFOpaALfWLyz",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "BgQp43XJ2NrAbctGb9b4uX",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "EUwBPdDXNFODAYOMviK7HW",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "4rEoJJlPx29AQ4h1kypOE2",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "LjZNgAZNkFy3a66FywIyPl",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "DrTJNqNeYKrAXaWTzNtSQ5",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "GoqQWZNrQ2jDUSlrcPGg8h",
+    "first": "team10-p2-leads2.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "IoMknUw0T21IdgfCUxGe3j",
+    "first": "team11-p3-grupbul-a.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "FDBVslqvcnYKwF1bf1vSAK",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "3CKud2zMYY28Zg5Fe44tnp",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "5AvUTe0PKgXCEJrnKi0L5o",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "FvT2TbovCRVHEKmZUXYUQl",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team29-p12-newdirs-global.json"
+   },
+   {
+    "code": "KFCmyFbwP5TFOpaALfWLyz",
+    "first": "team24-p12-newdirs-southasia.json",
+    "dup_in": "team30-p12-newdirs-niche.json"
+   }
+  ]
+ },
+ "issues": [
+  "ZERO-BYTE file: m2.txt",
+  "ZERO-BYTE file: team34-progress.jsonl",
+  "ZERO-BYTE file: wt_1793952135424381171.txt",
+  "ZERO-BYTE file: wtest2.json"
+ ],
+ "totals": {
+  "verified_file_sum": 3719,
+  "unique_verified": 3413,
+  "pending_total": 102,
+  "leads_total": 1252,
+  "verified_files": 36,
+  "pending_files": 36,
+  "leads_files": 36
+ }
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "domain": "whatsagroupslinks.com",
+  "url": "https://whatsagroupslinks.com/gym-whatsapp-group-links/",
+  "why": "Gym/health listicle (930+ claimed) — hit Cloudflare JS challenge for curl; needs browser route. Domain is near-typo of retired whtsagrouplinks.com — check overlap before merge."
+ },
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/kategori/whatsapp/26/saglik",
+  "why": "Turkish Health (Sağlık) category page (Kasım 2026 title) — listings are JS-rendered, no static codes; needs browser route."
+ },
+ {
+  "domain": "groupsgyani.org",
+  "url": "https://groupsgyani.org/whatsapp-group-links/entertainment",
+  "why": "Entertainment category (1,235 groups claimed site-wide) — listings JS-rendered, 0 codes in static HTML; needs browser route."
+ },
+ {
+  "domain": "digitalnamanji.com",
+  "url": "https://digitalnamanji.com/whatsapp-group-link/",
+  "why": "5000+ links directory, 0 chat.whatsapp.com in static HTML — links likely JS-loaded; needs browser route."
+ },
+ {
+  "domain": "whatsshare.com",
+  "url": "https://whatsshare.com/categories",
+  "why": "Re-check categories health/entertainment/comedy/memes/music/film next wave — this wave's 8 detail groups gave 2 group codes (both dead on og:title) and rest were /invite/ channels."
+ },
+ {
+  "domain": "groupwa.link",
+  "url": "https://groupwa.link/groups-gallery/",
+  "why": "gallery shows only 10 cards statically (data-name/data-cat/data-link attrs); dynamic widget POSTs behind browser check — retry via browser route for entertainment/comedy."
+ },
+ {
+  "domain": "groupssor.com",
+  "url": "https://www.groupssor.com/categories/entertainment",
+  "why": "Entertainment category (115 groups) — detail pages resolve only to chat.whatsapp.com/invite/ channel-format links; NOT usable for group codes per brief."
+ },
+ {
+  "domain": "joinwagroup.link",
+  "url": "https://joinwagroup.link/lahore-whatsapp-group-link/",
+  "why": "42 city groups; health one ('Lahore GYM & Fitness') was DUP, 2 others fresh (sports/business — out of team29 slice); useful for city/general teams."
+ }
+]

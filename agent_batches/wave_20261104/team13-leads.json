@@ -1,0 +1,52 @@
+[
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=sri%20lanka&page=11&limit=20&safeSearch=blur",
+  "why": "tag 'sri lanka' has ~1045 results (~53 pages); team13 scraped pp.1-10 only. Resume at page 11. NOTE: tag name (space) works, slug 'sri-lanka' returns 0 records. Heavy adult skew - keep adult-slug drops."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=urdu&page=9&limit=20&safeSearch=blur",
+  "why": "tag 'urdu' (718 groups, ~36 pages); team13 scraped pp.1-8 only. Resume at page 9."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=school&page=7&limit=20&safeSearch=blur",
+  "why": "tag 'school' (395 groups, ~20 pages); team13 scraped pp.1-6. Resume at page 7. Watch for minors-targeted entries (excluded)."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=career&page=6&limit=20&safeSearch=blur",
+  "why": "tag 'career' (320 groups, ~16 pages); team13 scraped pp.1-5. Resume at page 6."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=friendship&page=5&limit=20&safeSearch=blur",
+  "why": "tag 'friendship' (287 groups, ~15 pages); team13 scraped pp.1-4. Resume at page 5."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=fashion&page=5&limit=20&safeSearch=blur",
+  "why": "tag 'fashion' (244 groups, ~13 pages); team13 scraped pp.1-4. Resume at page 5."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=clothing&page=5&limit=20&safeSearch=blur",
+  "why": "tag 'clothing' (195 groups, ~10 pages); team13 scraped pp.1-4. Resume at page 5."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=work%20from%20home&page=5&limit=20&safeSearch=blur",
+  "why": "tag 'work from home' (154 groups, ~8 pages); team13 scraped pp.1-4. Resume at page 5."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/groups?tag=youtube&page=5&limit=20&safeSearch=blur",
+  "why": "tag 'youtube' (155 groups, ~8 pages); team13 scraped pp.1-4. Resume at page 5."
+ },
+ {
+  "domain": "api.groupjoin.link",
+  "url": "https://api.groupjoin.link/tags?limit=100&offset=300",
+  "why": "tag universe enumeration (36,980 tags total, sorted by count). Team13 reviewed offsets 0-200. Fresh tag candidates NOT yet scraped (from tag counts): hindi (1931, likely adult-saturated - probe), tamil (1888, probe), malayalam (1369, probe), sinhala (770, overlaps sri lanka), film (151), love (140, dating-risk), girls (277, probe adult ratio), indianmovies (303), hollywoodmovies (302), netflixseries (253), amazonseries (253), webseries (52), hindi-movies (53), dubbed-movies (49), english-movies (49), movie (49), quotes (76), magazines (75), status (84), politics (84), quotes, tiktok (80), instagram (62), celebrities (62), anime (62), poetry (62), thoughts (61), fan-club (59), beauty (70), vehicle (93), auto (88), online-work (94), earn-money (89), forex (54), binance (65, crypto-adjacent), apps (946, spam-risk), songs (201), audio (189), online (191), free (216), viral (280), family (158), love (140), relationships (108, dating-risk), loving (100, dating-risk). AVOID: adult/18+/xxx/porn/sex/bokep-seeded tags (policy: drop on sight), PH/VN/TH/EU/Balkan/Gulf/Indonesia tags (retired), covered tags: pakistan funny jobs music movies crypto news health travel food pets football study nigeria brazil mexico money education business online-shopping entertainment gaming indonesia pubg freefire bgmi gamer kenya uk usa uganda ghana german malaysia sports-and-fitness."
+ }
+]

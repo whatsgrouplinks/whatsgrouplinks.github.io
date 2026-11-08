@@ -1,0 +1,96 @@
+WhatsGroupLinks wave 20261106 — coordinator manifest
+Wave dir: ~/workspace/whatsapp-groups-site/agent_batches/wave_20261106/
+Dedupe union at wave start: 85,731 codes (groups.json 50,109 entries + .existing_codes.json)
+Fresh pending input: 16,905 codes (16,918 wave-05 pending minus 140 already in wave-05 verified files, minus union)
+Leads input: 706 (wave-05 team*-leads.json)
+
+VERIFIED — per team (file counts, from the files themselves)
+team  slice                          verified  pending  leads
+01    P1 chunk1 (pending)                  16        0      0
+02    P1 chunk2 (pending)                  20        0      0
+03    P1 chunk3 (pending)                  16        0      0
+04    P1 chunk4 (pending)                  16        0      0
+05    P1 chunk5 (pending)                  10        0      0
+06    P1 chunk6 (pending)                  15        0      0
+07    P1 chunk7 (pending)                  21        0      0
+08    P1 chunk8 (pending)                  15        0      0
+09    P2 leads half 1                      45        0    482
+10    P2 leads half 2                     292        0    264
+11    P3 grupbul A                         17        0      7
+12    P3 grupbul B                         20        0     50
+13    P4 groupssor API                     40        0      2
+14    P5 gjl Funny/Health                 257       92     13
+15    P5 gjl new tags                    1820        0     26
+16    P6 whatsappkanali                    22        1     44
+17    P7 groupchatconnect                   9        0     23
+18    P8 linkado A                          0        0     10
+19    P8 linkado B                         72        0     23
+20    P9 igrupos                            8        0     27
+21    P9 ongrupos                           8        0     25
+22    P10 Arabic                            3        0     17
+23    P11 groupda                          25        0     10
+24    P12 new dirs South Asia              34        0     19
+25    P12 new dirs Africa                  35        0     22
+26    P12 new dirs SE Asia                 65        0     10
+27    P12 new dirs LatAm                  264        0     17
+28    P12 new dirs Mideast/EU              53        0     11
+29    P12 new dirs global                  53        3      8
+30    P12 new dirs niche                   76        6     33
+31    P13 listicles study/jobs             27        0     30
+32    P13 listicles sports/movies         136        0     27
+33    P14 groupsinvite                      0        0      1
+34    P15 appgrouplink                     17        0      8
+35    P16 LatAm/visadb                    191        0      7
+36    P17 gjl EU                            1        0     36
+TOTALS file-sum: verified 3,719 | pending 102 | leads 1,252
+
+VALIDATION (coordinator_validate.py -> validation_report.json)
+- All 36 verified files parse; ZERO schema errors (6-key schema, categories in the
+  16 allowed, invite regex ^https://chat.whatsapp.com/(invite/)?[A-Za-z0-9]{22}$).
+  Team15's claim of "20-24 char" invites was wrong: all 1,820 match the 22-char regex.
+- 9 verified files are dicts keyed by code, not lists (teams 01-08, 22) — normalized
+  to lists in the clean file.
+- Cross-team overlaps: 306 duplicate instances; unique verified codes 3,413.
+  Biggest overlap source: team15 vs team10 leads harvest (76 of team15's 92 dups).
+- Pending: 102 total (team14 92, team30 6, team29 3, team16 1). ONE bad entry:
+  team14 pending item 56 code 'BFC8ukf1UxILOFZDnTWmf' is 21 chars — excluded from
+  pending_all (see wave_20261106_pending_bad.json).
+- Leads: 1,252 total, 1,137 unique URLs (wave_20261106_leads_all.json).
+
+COORDINATOR EXCLUSIONS (17 codes removed from the clean file; see wave_20261106_excluded.json)
+- Blocked emoji in name (task rule: 🍆🍑💦👅👄💋🔞): 13 codes
+  team14: KJZepzyDBYhBeYsAncBfxb (💋), D8dlZUexrBhG8euUffZH04 (💦), Kh2vAF1lwia8JG4nsYJ7Ri (👅)
+  team19: G6L2P41O16V3dswTrwZmLz (💋), EMM6yx1z3db712G99kh2sM (🔞)
+  team23: JI8Son6NqGR4AP3HTED650 (💋)
+  team27: LOGAaik2rdZEbHr1Xr88Lh, HFZwMiBuuMmEaLLE5bX1EQ, FONKiD1Ny6C3AYV6QmeVqf, IkWEZYUsaeqEuVXsBSuoFp (all 💋)
+  team35: LEHtMMdY57b9koeVXNGr5Z (💦), Cet480NOxLs6fH0f7tV7wx (💋), IE4W5tFswkuLXKxUgUL2C8 (💋)
+- Phone number in name (PII): 2 codes — team15 EhAawChcZdx9hp67vo3gbA, ErLrUe6zkGx9KelAWs16Cg
+- Borderline sexual names (coordinator-excluded, flagged by team03): 2 codes
+  DNlyhn12f6fCq2cB7SfAIC ("femboys - tomboys hornys"), G5PSXniy1OD4qzPjU0zjzX ("FANTACIAS ESCONDIDAS")
+- NOT excluded (false positives of the raw porn regex): "anal" inside "analysis" in
+  descriptions of team23 EAnBrDYm4dp4EcTy9bHKuW (SHARE MARKET) and team28
+  9PkqmRR1nCv8UcuZK6I28P (Binary Options Trading). Both kept.
+- Flagged but KEPT (parent may drop): team12 "H" (Gandi Baat 3 fan group, clean
+  name/desc); team11 "BBC NEW SELF 1650 M", "Voice Of Nation News",
+  "Trusted Pub G Account Seller"; team16 "Yusuf Erdoğan | Güncel Portföy Paylaşımı".
+
+MERGE-READY OUTPUTS (for the parent; team files untouched)
+- wave_20261106_verified_clean.json — 3,396 unique verified groups (first team wins),
+  re-validated: 0 bad invites, 0 union overlap, 0 duplicate codes.
+- wave_20261106_verified_clean_provenance.json — code -> first team file.
+- wave_20261106_pending_all.json — 101 deduped pending codes (transport-failed only).
+- wave_20261106_leads_all.json — 1,137 unique directory URLs for next wave.
+- wave_20261106_excluded.json — the 17 excluded codes with reasons.
+- validation_report.json — full per-file validation detail.
+
+COUNTS FOR THE PARENT (verified from files, not team claims)
+- Verified file-sum: 3,719 | unique codes: 3,413 | clean merge-ready: 3,396
+- Pending total: 102 (101 valid + 1 bad 21-char code)
+- Leads total: 1,252 (1,137 unique URLs)
+- P1 revival rate: 129 live of 16,905 pending (~0.76%) — the wave-05 pending pool is ~99% dead.
+- NOTE: the parent merges Nov-5 wave (~10,600+ verified) separately; the parent must
+  re-check this wave's 3,396 against the POST-merge union before merging (per task brief).
+
+STRAY / NON-TEAM FILES IN WAVE DIR (not team outputs, left untouched)
+- Zero-byte: m2.txt, team34-progress.jsonl, wt_1793952135424381171.txt, wtest2.json
+  (EPERM write-flap artifacts from the run; see summary)

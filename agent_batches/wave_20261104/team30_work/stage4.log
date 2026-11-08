@@ -1,0 +1,4 @@
+sandbox_ca: 200 len=128902
+tuxmat_ca FAIL: ProxyError(MaxRetryError("HTTPSConnectionPool(host='go.tuxmat.com', port=443): Max retries exceeded 
+wemakescholars_70: 200 len=206155
+TOTAL: 37

@@ -1,0 +1,107 @@
+{
+ "birmingham": {
+  "final": "https://chat.whatsapp.com/KzzxNsQATpM4uJ3lFjBWKJ",
+  "status": 200,
+  "codes": [
+   "KzzxNsQATpM4uJ3lFjBWKJ"
+  ]
+ },
+ "eastmidlands": {
+  "final": "https://chat.whatsapp.com/FzspfpmvrspCMZ85y2vlh3",
+  "status": 200,
+  "codes": [
+   "FzspfpmvrspCMZ85y2vlh3"
+  ]
+ },
+ "leeds": {
+  "final": "https://chat.whatsapp.com/HHGfW2HttqQ0DRh4tsSZLD",
+  "status": 200,
+  "codes": [
+   "HHGfW2HttqQ0DRh4tsSZLD"
+  ]
+ },
+ "liverpool": {
+  "final": "https://chat.whatsapp.com/CWNKPEcaWmxEmheiMlioEg",
+  "status": 200,
+  "codes": [
+   "CWNKPEcaWmxEmheiMlioEg"
+  ]
+ },
+ "liverpoolhouse": {
+  "final": "https://chat.whatsapp.com/DL5pwQkR5HILIJ1oZ0nTjw",
+  "status": 200,
+  "codes": [
+   "DL5pwQkR5HILIJ1oZ0nTjw"
+  ]
+ },
+ "london": {
+  "final": "https://chat.whatsapp.com/L9mAjQJtjWq7Y1g1e09XvY",
+  "status": 200,
+  "codes": [
+   "L9mAjQJtjWq7Y1g1e09XvY"
+  ]
+ },
+ "londonhouse": {
+  "final": "https://chat.whatsapp.com/H9m841DhumxEYlIkPYkcah",
+  "status": 200,
+  "codes": [
+   "H9m841DhumxEYlIkPYkcah"
+  ]
+ },
+ "manchester": {
+  "final": "https://chat.whatsapp.com/GSQzMmX30mUD1KCFIt4pej",
+  "status": 200,
+  "codes": [
+   "GSQzMmX30mUD1KCFIt4pej"
+  ]
+ },
+ "manchesterhouse": {
+  "final": "https://chat.whatsapp.com/FinKWGeBrUU81uttthx4jx",
+  "status": 200,
+  "codes": [
+   "FinKWGeBrUU81uttthx4jx"
+  ]
+ },
+ "miltonkeynes": {
+  "final": "https://chat.whatsapp.com/Di6UfiBvZnjI2nKUTicQ36",
+  "status": 200,
+  "codes": [
+   "Di6UfiBvZnjI2nKUTicQ36"
+  ]
+ },
+ "reading": {
+  "final": "https://chat.whatsapp.com/HQTzMDeEnDFLMGrXniLv3S",
+  "status": 200,
+  "codes": [
+   "HQTzMDeEnDFLMGrXniLv3S"
+  ]
+ },
+ "scotland": {
+  "final": "https://chat.whatsapp.com/IbYh2gIvobu5GEYwDKyHmb",
+  "status": 200,
+  "codes": [
+   "IbYh2gIvobu5GEYwDKyHmb"
+  ]
+ },
+ "southampton": {
+  "final": "https://chat.whatsapp.com/DDUCOTGgrMdIZ60Gl1SsqF",
+  "status": 200,
+  "codes": [
+   "DDUCOTGgrMdIZ60Gl1SsqF"
+  ]
+ },
+ "southwestncardiff": {
+  "final": "https://chat.whatsapp.com/I7Fb7jYVihoIppoZaAFACH",
+  "status": 200,
+  "codes": [
+   "I7Fb7jYVihoIppoZaAFACH"
+  ]
+ },
+ "warrington": {
+  "final": "https://chat.whatsapp.com/CAEkfloYc9nDcTI92Cey0N",
+  "status": 200,
+  "codes": [
+   "CAEkfloYc9nDcTI92Cey0N"
+  ]
+ }
+}

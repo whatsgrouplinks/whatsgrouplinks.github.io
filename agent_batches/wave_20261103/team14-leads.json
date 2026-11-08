@@ -1,0 +1,37 @@
+[
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/pakistan/?page=1&limit=20&safeSearch=blur",
+  "why": "tag/pakistan fully scraped (70 pages, ~1295 recs) but only ~19% of its 1250+ deduped codes verified before wave close; resume verification on team14_merged.json codes with tag=pakistan"
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/funny/?page=1&limit=20&safeSearch=blur",
+  "why": "tag/funny fully scraped (37 pages, ~679 recs); same resume note as pakistan"
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/jobs/?page=1&limit=20&safeSearch=blur",
+  "why": "tag/jobs scraped (29 pages, ~501 recs incl. repaired p3); verify remaining codes next wave"
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/music/?page=1&limit=20&safeSearch=blur",
+  "why": "tag/music scraped (17 pages, ~277 recs); verify remaining codes next wave"
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/movies/?page=1&limit=20&safeSearch=blur",
+  "why": "tag/movies scraped (16 pages, ~271 recs incl. repaired p2); verify remaining codes next wave"
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/crypto/?page=1&limit=20&safeSearch=blur",
+  "why": "tag/crypto scraped (12 pages, ~195 recs); tag/news (15pp/~250), health (7pp/~91), travel (6pp/~68), food (4pp/~29), pets (4pp/~31), football (5pp/~50), study (6pp/~65), nigeria (10pp/~153), brazil (4pp/~32), mexico (3pp/3) also fully scraped; verify remaining codes next wave"
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/pets/?page=1&limit=20&safeSearch=blur",
+  "why": "NOTE: groupjoin.link server is slow through this egress (~20-60s per listing page, ~11s per chat.whatsapp.com og:title check). Next wave: re-run team14_verify.py (it auto-resumes from team14_verify_ckpt.jsonl) with higher WORKERS; watch for HTTP 429 on chat.whatsapp.com"
+ }
+]

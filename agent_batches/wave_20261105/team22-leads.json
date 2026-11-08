@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://groupsinvite.link/",
+  "what": "Homepage (latest-groups listing, 70 cards). RETRY POINT: re-crawl for fresh slugs; was Cloudflare-403 at start of wave, then HTTP 521 ~07:10-07:46 UTC, then 200 again."
+ },
+ {
+  "url": "https://groupsinvite.link/education/study/english-learning/",
+  "what": "Category page: English Learning groups (names visible; invite codes NOT in page text - use /group/rules/ flow)."
+ },
+ {
+  "url": "https://groupsinvite.link/business-whatsapp-group/",
+  "what": "Category page: Business groups (same method)."
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/2hz4jyoqldh2c2mx81hbbi/",
+  "what": "Sample group page. Its invite code is NOT on this page - it is on the /group/rules/ page."
+ },
+ {
+  "url": "https://groupsinvite.link/group/rules/2hz4jyoqldh2c2mx81hbbi/",
+  "what": "Sample rules page. Contains the real invite https://chat.whatsapp.com/invite/2hZ4JYOQldH2C2MX81HBbi - this is the extraction method that works."
+ },
+ {
+  "url": "https://groupsinvite.link/group/rules/{slug}/",
+  "what": "RULES-PAGE TEMPLATE: for every harvested /group/link/<slug>/, fetch this page and extract chat.whatsapp.com/invite/<CODE>. 142 of 586 harvested slugs were WhatsApp CHANNELS (channel/<id> on rules page) - excluded, groups only."
+ },
+ {
+  "url": "https://groupsinvite.link/group/{business,education,dating,gaming,chatting,friendship,learning,career,finance,entertainment,community,job}/",
+  "what": "Tag listing pages crawled this wave (12 + homepage = 586 cards). Uncrawled tags exist (sports, music, movies, news, study, language, health, fashion, travel, food, photography, books, technology, etc.) - fresh slugs live there for the next retry."
+ },
+ {
+  "url": "https://groupsinvite.link/group/rules/{slug}/",
+  "what": "RETRY: the 98 pending codes in team22-unverified-pending.json returned empty og:title on verification - re-verify later; some may be revoked links, some may be transient WhatsApp empty-title responses."
+ }
+]

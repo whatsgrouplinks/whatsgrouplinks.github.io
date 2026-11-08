@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://groupsnest.com/categories",
+    "what": "GroupsNest category index — 30+ Pakistan collection pages (Punjabi, Karachi, Urdu poetry, sports, crypto, etc.) not harvested this run; only homepage + edu/bank-jobs/news/Islamabad pages were mined"
+  },
+  {
+    "url": "https://groupsnest.com/urdu-poetry-whatsapp-group-links-pakistan",
+    "what": "GroupsNest Urdu poetry collection page — not fetched this run"
+  },
+  {
+    "url": "https://groupsnest.com/punjabi-whatsapp-group-links",
+    "what": "GroupsNest Punjabi collection page — not fetched this run"
+  },
+  {
+    "url": "https://groupsnest.com/karachi-whatsapp-group-links",
+    "what": "GroupsNest Karachi collection page — not fetched this run"
+  },
+  {
+    "url": "https://wagroupshub.com/sri-lanka-whatsapp-group-links/",
+    "what": "WAGroupsHub Sri Lanka page — wave-06 lead, not fetched this run"
+  },
+  {
+    "url": "https://www.imagesplatform.com/add-whatsapp-group-link",
+    "what": "ImagesPlatform — large open WhatsApp directory (200+ countries, 30+ categories), wave-06 lead, not harvested"
+  },
+  {
+    "url": "https://whatsappgrouplink.org/",
+    "what": "WhatsAppGroupLink.org — Groupsor-alternative directory, timed out in wave-06, not retried this run"
+  },
+  {
+    "url": "https://www.edopedia.com/blog/groupsor-alternatives/",
+    "what": "Edopedia Groupsor-alternatives listicle — names further new directories (GroupWhat, Groupsor.in, WappGroupLinks) not yet harvested"
+  },
+  {
+    "url": "https://www.grouplinksforyou.com/2023/03/1000-active-pakistani-whatsapp-group.html",
+    "what": "GroupLinksForYou Pakistani page — wave-06 audit lead, raw-HTML pool of unmined codes"
+  },
+  {
+    "url": "https://groupwa.link/groups-gallery/",
+    "what": "GroupWa gallery deeper pages via wagd_more AJAX — bot-check blocked curl POST; browser leg could page through beyond page 1"
+  }
+]

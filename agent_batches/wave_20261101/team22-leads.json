@@ -1,0 +1,42 @@
+[
+  {
+    "domain": "groupwa.link",
+    "url": "https://groupwa.link/",
+    "why": "Homepage scraped (India sections, 232 codes, mostly dupes). Site has category/country/language 'Find group' filters — deeper category pages not scraped; possible next-wave expansion."
+  },
+  {
+    "domain": "whtsagrouplinks.com",
+    "url": "https://www.whtsagrouplinks.com/",
+    "why": "Scraped homepage + Indian/Shayari/GovtJobs pages. Deeper category pages (students, forex, sub4sub, youtube) not scraped; many codes overlap harvested pools."
+  },
+  {
+    "domain": "grouplinksforyou.com",
+    "url": "https://www.grouplinksforyou.com/2023/04/join-best-indian-whatsapp-group-links.html",
+    "why": "Fresh Oct 25 2026 listicle; only 11 chat codes found (179 /invite/ channel links excluded). Page may paginate or add more groups later."
+  },
+  {
+    "domain": "newgrouplinks.pk",
+    "url": "https://newgrouplinks.pk/indian-whatsapp-group-links/",
+    "why": "Fresh Indian page (updated ~6 days ago); 17 codes scraped, card layout — more Indian pages on this domain not checked."
+  },
+  {
+    "domain": "bgmi.in",
+    "url": "https://bgmi.in/ipl-whatsapp-group-links/",
+    "why": "IPL/cricket niche; 33 chat codes scraped, 99 /invite/ channel links excluded. Domain likely has more gaming/sports pages (BGMI etc.)."
+  },
+  {
+    "domain": "grupbul.com",
+    "url": "https://grupbul.com/",
+    "why": "Group directory with Indian group detail pages (e.g. grupbul.com/group/232498 Tamilnadu Jobs, /group/989262 Way2UPSC); listing pages not crawled this wave."
+  },
+  {
+    "domain": "whtspgrouplink.com",
+    "url": "https://whtspgrouplink.com/",
+    "why": "Only SG/MY/Mekong pages retired; Indian Tamil category pages (Jobs in Tamil, Tamil job opportunities) untouched this wave."
+  },
+  {
+    "domain": "whatstele.com",
+    "url": "https://whatstele.com/whatsapp/group-links/kerala/",
+    "why": "Kerala page published 2026-10-17 but fetched HTML embeds only /invite/ channel links — verify whether group links exist behind JS."
+  }
+]

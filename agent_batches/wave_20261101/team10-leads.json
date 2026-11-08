@@ -1,0 +1,42 @@
+[
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/jobs/?page=N&limit=20&safeSearch=blur",
+  "why": "team10 slice: jobs tag bounds {'pages': '1..2', 'status': 'empty at page 3'} — all paged to empty this wave"
+ },
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/job/?page=N&limit=20&safeSearch=blur",
+  "why": "team10 slice: job tag bounds {'pages': '1..1', 'status': 'empty at page 2'} — all paged to empty this wave"
+ },
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/career/?page=N&limit=20&safeSearch=blur",
+  "why": "team10 slice: career tag bounds {'pages': '1..0', 'status': 'empty at page 1'} — all paged to empty this wave"
+ },
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/education/?page=N&limit=20&safeSearch=blur",
+  "why": "team10 slice: education tag bounds {'pages': '1..3', 'status': 'empty at page 4'} — all paged to empty this wave"
+ },
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/study/?page=N&limit=20&safeSearch=blur",
+  "why": "team10 slice: study tag bounds {'pages': '1..1', 'status': 'empty at page 2'} — all paged to empty this wave"
+ },
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/school/?page=N&limit=20&safeSearch=blur",
+  "why": "team10 slice: school tag bounds {'pages': '1..1', 'status': 'empty at page 2'} — all paged to empty this wave"
+ },
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/college/?page=N&limit=20&safeSearch=blur",
+  "why": "team10 slice: college tag bounds {'pages': '1..2', 'status': 'empty at page 3'} — all paged to empty this wave"
+ },
+ {
+  "domain": "www.groupjoin.link",
+  "url": "https://www.groupjoin.link/tag/university/?page=N&limit=20&safeSearch=blur",
+  "why": "team10 slice: university tag bounds {'pages': '1..1', 'status': 'empty at page 2'} — all paged to empty this wave"
+ }
+]

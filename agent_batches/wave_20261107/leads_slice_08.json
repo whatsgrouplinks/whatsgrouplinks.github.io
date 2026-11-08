@@ -1,0 +1,334 @@
+[
+ {
+  "url": "https://api.groupjoin.link/groups?tag=dubbed-movies&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY team32: tag 'dubbed-movies' returned 0 records via API despite a banked count of 49 \u2014 do not re-probe with the same slug; try the tags endpoint or website search for the correct tag form."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=hindi-movies&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY team32: tag 'hindi-movies' returned 0 records via API despite a banked count of 53 \u2014 same note as dubbed-movies."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=english-movies&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY team32: tag 'english-movies' returned 0 records via API despite a banked count of 49 \u2014 same note as dubbed-movies."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=fan-club&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY team32: tag 'fan-club' returned 0 records via API despite a banked count of 59 \u2014 same note as dubbed-movies."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=earn-money&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY team32: tag 'earn-money' returned 0 records via API despite a banked count of 89 \u2014 same note as dubbed-movies."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=online-work&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY team32: tag 'online-work' returned 0 records via API despite a banked count of 94 \u2014 same note as dubbed-movies."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=indianmovies&page=2&limit=20&safeSearch=blur",
+  "what": "RE-CHECK team32: tag 'indianmovies' p1 kept 20 but verified 0/20 (all empty og:title) \u2014 same pattern as webseries 0/20 and hindi 0/12. NOTE: the gjl API is non-deterministic across runs (v1 run: hollywoodmovies kept 20, indianmovies 0; v2 run: opposite). A re-run of the same tag page can surface a different 20 groups, so a 0-verified page is worth ONE re-probe, not repeated hammering."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=webseries&page=2&limit=20&safeSearch=blur",
+  "what": "RE-CHECK team32: tag 'webseries' p1 kept 20 but verified 0/20 \u2014 try p2 once; see indianmovies note on API non-determinism."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=love&page=2&limit=20&safeSearch=blur",
+  "what": "RESUME team32: tag 'love' p1 kept 6, verified 0/6 \u2014 try p2 once; dating-risk tag, keep girls/friendship/dating groups, drop only hard porn/xxx."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=tamil&page=2&limit=20&safeSearch=blur",
+  "what": "RESUME team32: tag 'tamil' p1 kept 5, verified 0/5 \u2014 try p2 once; heavy adult skew like malayalam/sinhala."
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=online&page=2&limit=20&safeSearch=blur",
+  "what": "RESUME team32: tag 'online' p1 kept 7, verified 0/7 \u2014 try p2 once."
+ },
+ {
+  "url": "https://wabotso.com/whatsapp-group-links/",
+  "what": "Wabotso parent directory \u2014 Australian page was a sub-page; parent may list other country pages."
+ },
+ {
+  "url": "https://wagrouplink.com/funny-whatsapp-group-links/",
+  "what": "Wagrouplink funny category page \u2014 homepage (idx115) yielded 92 fresh codes; category pages unmined."
+ },
+ {
+  "url": "https://wagrouplink.com/girls/",
+  "what": "Wagrouplink girls category page \u2014 girls/friendship groups allowed."
+ },
+ {
+  "url": "https://wagrouplink.com/indian/",
+  "what": "Wagrouplink Indian category page."
+ },
+ {
+  "url": "https://wagrouplink.com/ipl/",
+  "what": "Wagrouplink IPL/cricket category page."
+ },
+ {
+  "url": "https://wagrouplink.com/news-whatsapp-group-link/",
+  "what": "Wagrouplink news category page."
+ },
+ {
+  "url": "https://wagrouplink.com/pubg/",
+  "what": "Wagrouplink PUBG/gaming category page."
+ },
+ {
+  "url": "https://wagrouplink.com/study-whatsapp-group-link/",
+  "what": "Wagrouplink study/education category page."
+ },
+ {
+  "url": "https://wagrouplink.com/business/",
+  "what": "Wagrouplink business category page."
+ },
+ {
+  "url": "https://wagroupshub.com/business-whatsapp-group-links/",
+  "what": "Wagroupshub business page \u2014 homepage/drama/USA pages were all-union (0 fresh); other categories unmined."
+ },
+ {
+  "url": "https://wagroupshub.com/education-whatsapp-group-links/",
+  "what": "Wagroupshub education page."
+ },
+ {
+  "url": "https://wagroupshub.com/entertainment-whatsapp-group-links/",
+  "what": "Wagroupshub entertainment page."
+ },
+ {
+  "url": "https://wagroupshub.com/indian-whatsapp-group-links/",
+  "what": "Wagroupshub Indian page."
+ },
+ {
+  "url": "https://wagroupshub.com/islamic-whatsapp-group-links/",
+  "what": "Wagroupshub Islamic page."
+ },
+ {
+  "url": "https://wagroupshub.com/job-whatsapp-group-links/",
+  "what": "Wagroupshub jobs page."
+ },
+ {
+  "url": "https://wagroupshub.com/kerala-whatsapp-group-links/",
+  "what": "Wagroupshub Kerala regional page."
+ },
+ {
+  "url": "https://wagroupshub.com/movies-whatsapp-group-links/",
+  "what": "Wagroupshub movies page."
+ },
+ {
+  "url": "https://wagroupshub.com/news-whatsapp-group-links/",
+  "what": "Wagroupshub news page."
+ },
+ {
+  "url": "https://wagroupshub.com/pakistani-whatsapp-group-links/",
+  "what": "Wagroupshub Pakistani page."
+ },
+ {
+  "url": "https://wagroupshub.com/poetry-whatsapp-group-links/",
+  "what": "Wagroupshub poetry page."
+ },
+ {
+  "url": "https://wagroupshub.com/sri-lanka-whatsapp-group-links/",
+  "what": "Wagroupshub Sri Lanka page."
+ },
+ {
+  "url": "https://wagroupshub.com/tamil-whatsapp-group-links/",
+  "what": "Wagroupshub Tamil page."
+ },
+ {
+  "url": "https://wagroupshub.com/uae-dubai-whatsapp-group-links/",
+  "what": "Wagroupshub UAE/Dubai page."
+ },
+ {
+  "url": "https://wagroupshub.com/uk-whatsapp-group-links/",
+  "what": "Wagroupshub UK page."
+ },
+ {
+  "url": "https://wagroupshub.com/youtube-whatsapp-group-links/",
+  "what": "Wagroupshub YouTube creators page."
+ },
+ {
+  "url": "https://wahublink.com/bangladesh-whatsapp-group-links/",
+  "what": "Wahublink Bangladesh page \u2014 education/Indian/Pakistani pages were ~all-union; other country pages unmined."
+ },
+ {
+  "url": "https://wahublink.com/business-whatsapp-group-links/",
+  "what": "Wahublink business page."
+ },
+ {
+  "url": "https://wahublink.com/college-whatsapp-group-links/",
+  "what": "Wahublink college/students page."
+ },
+ {
+  "url": "https://wahublink.com/drama-whatsapp-group-links/",
+  "what": "Wahublink drama page."
+ },
+ {
+  "url": "https://wahublink.com/entertainment-whatsapp-group-links/",
+  "what": "Wahublink entertainment page."
+ },
+ {
+  "url": "https://wglfinder.com/bangalore-jobs-whatsapp-group-link/",
+  "what": "Wglfinder Bangalore jobs page \u2014 linked from the user-submitted-groups page; jobs category."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/movies-whatsapp-group-link/",
+  "what": "Whtsagrouplinks movies page \u2014 homepage/free-fire pages yielded 57 fresh codes; other categories unmined."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/news-whatsapp-group-links/",
+  "what": "Whtsagrouplinks news page."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/students-whatsapp-group-links/",
+  "what": "Whtsagrouplinks students page."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/study/",
+  "what": "Whtsagrouplinks study page."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/travel-whatsapp-group-links/",
+  "what": "Whtsagrouplinks travel page."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/shayari-whatsapp-group-links/",
+  "what": "Whtsagrouplinks shayari/poetry page."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/urdu-poetry-whatsapp-group-links/",
+  "what": "Whtsagrouplinks Urdu poetry page."
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/love-and-romance-whatsapp-group-links/",
+  "what": "Whtsagrouplinks love/romance page \u2014 dating/friendship groups allowed."
+ },
+ {
+  "url": "https://whatsgroupslinkspk.com/all-groups/",
+  "what": "Whatsgroupslinkspk all-groups index \u2014 homepage yielded 185 fresh codes; the full index page is unmined."
+ },
+ {
+  "url": "https://whatsgroupslinkspk.com/dubai-whatsapp-group-links/",
+  "what": "Whatsgroupslinkspk Dubai page \u2014 sibling of the homepage (idx152)."
+ },
+ {
+  "url": "https://whatsgroupslinkspk.com/jobs-whatsapp-group-links/",
+  "what": "Whatsgroupslinkspk jobs page \u2014 sibling of the homepage (idx152)."
+ },
+ {
+  "url": "https://whatsgroupslinkspk.com/poetry-whatsapp-group-links/",
+  "what": "Whatsgroupslinkspk poetry page \u2014 sibling of the homepage (idx152)."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/amistad",
+  "what": "RESUME: igrupos tag pages p2+ NOT harvested this run (only p1 of each tag). 71 tags harvested at p1; p2 URLs are /tag/whatsapp/<tag>/2. Re-run pipeline.py Stage A with page 2 for the same 71 tags."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/bizarro",
+  "what": "EMPTY TAG: bizarro tag page returned 200 with 0 group cards. Same for travestis (0 cards). Nothing to harvest there; recheck later in case groups appear."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/amigas",
+  "what": "NEW TAG confirmed via tag-cloud crawl (not on homepage index): amigas/amigos/de-todo/todo/zoom + 91 more tags found by crawling tag clouds to closure (138 whatsapp tags total). Harvested p1 of 39 extra tags this run; see team35_scratch/tag_cards.json for the full 138-tag list."
+ },
+ {
+  "url": "https://ongrupos.com/category.xml",
+  "what": "NO NEW ONGRUPOS CATEGORIES: category.xml lists the same 41 categories as the homepage nav, max lastmod 2024-11-17, zero with lastmod >= 2026-11-04. Tag sitemap tag.xml: 504 tags, max lastmod 2024-11-17, zero >= 2026-11-04. Nothing new on ongrupos since Nov 4; all 41 categories were already re-crawled Nov 4 by team08."
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/525974",
+  "what": "RESUME (browser leg): 511 of 1,959 harvested igrupos grupo detail pages returned no extractable chat.whatsapp.com code in static HTML (JS-gated join form). Their gids are in team35_scratch/detail_ckpt.json with code='' (note '' or fetch-fail). A live-browser pass over those gids may recover codes; dedupe any recovered code against dedupe_union.json + team35-new-tags.json + team35-unverified-pending.json first."
+ },
+ {
+  "url": "https://ongrupos.com/categoria/amor-e-romance",
+  "what": "NOT COVERED (out of slice): ongrupos new-posts / page-1 newest listings per category were NOT checked by team35 (slice was new tags only). Team25's leads note several ongrupos category p1 fetches failed this wave (egress ProxyError) \u2014 retry those separately. Do not re-harvest team24 slices (animes-e-desenhos p5+, compras-e-vendas cards 1-23, frases-e-mensagens cards 2-16)."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/apuestas-deportivas",
+  "what": "EXCLUDED TAGS (never harvest): adult/gambling/piracy tags excluded at tag level \u2014 apuestas-deportivas, hentai, hot, onlyfans, packs, porno, porno-gay, pornografia, sexo, xxx (homepage index) + adulto, adultos, amateur, anal, brazzers, caliente, cibersexo, cruising, cuckold, culonas, escorts, espiadas, fetiches, futanari, gay-xxx, horny, mamadas, morbo, nudismo, only-fans, pajas, putas, relatos-eroticos, rol-lemon, sex, sexo-duro, sexo-gratis, sexting, sexual, shemale, teen, tetas, travestis-adjacent adult, upskirt, videos-porno, cuentas-premium, libros-pdf, mega, aportes, fotos, videollamada, famosas, camaras, casadas, borrachas, maduros, maduritas, morritas, negras, pendejas, prohibido, tributos, liberal, omegaverse. Full 138-tag list with classification in team35_scratch/tag_cards.json keys + pipeline.py."
+ },
+ {
+  "url": "https://chat.whatsapp.com/KrDwdK8EIkB6vgauHg5M7N",
+  "what": "CONTROL (passed): known-live code returned non-empty og:title 'JAY - PHP & Python Full Stack Developer' via both curl and requests, so verification was possible this run. No HTTP 429 seen during verification (4 workers, 0.5-2s jitter). 644 pending are all 'empty og:title (dead/expired)' except 1 parent-call item."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/todo",
+  "what": "REBOOT NOTE: VM rebooted ~07:35 UTC mid-run, wiping /tmp (first harvest + 300/695 verifications lost). Pipeline was rebuilt resume-safe with checkpoints in team35_scratch/ (tag_cards.json, detail_ckpt.json, verify_ckpt.json, kept.json, dropped.json, recs.json). Re-running team35_scratch/pipeline.py resumes from checkpoints; do not delete team35_scratch/."
+ },
+ {
+  "url": "https://ongrupos.com/tags/amizades",
+  "what": "ONGRUPOS TAGS not harvested: /tags/<tag> pages (504 tags in tag.xml) were not crawled \u2014 all lastmods <= 2024-11-17, so none is new since Nov 4, but older tags may still hold unharvested groups. If a future slice covers them, dedupe against the union + this run's outputs first."
+ },
+ {
+  "url": "https://groupsinvite.link/group/rules/<slug>/",
+  "what": "RESUME team15 (wave_20261104): classification covers 1800/2326 grp slugs; 526 slugs unclassified, 258 not in wave_20261105 union (lowercased slugs only - re-fetch rules pages to recover exact-case codes, then verify via chat.whatsapp.com og:title)."
+ },
+ {
+  "url": "https://groupsinvite.link/group/<tag>/",
+  "what": "RESUME team15: 1173 /group/<tag>/ listing pages untouched in wave_20261104 - alternate entry point for fresh groupinvite.link slugs if rules-page pipeline stays blocked."
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/04/join-best-indian-whatsapp-group-links.html",
+  "what": "AUDIT team20 (wave_20261104): raw HTML copy held 325 unmined invite codes not in union/verified/pending (IN page); re-extract codes and verify. 61 named candidates (candidates2/3/4) never verified - 5 sampled by team36 wave_20261105."
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/03/1000-active-pakistani-whatsapp-group.html",
+  "what": "AUDIT team20: Pakistani grouplinksforyou page - same raw-HTML unmined pool as the IN page (82 unprocessed codes in local copy team20_glfy_pk.html)."
+ },
+ {
+  "url": "https://wahublink.com/indian-whatsapp-group-links/",
+  "what": "AUDIT team20: wahublink IN page - raw HTML copy team20_wahuin.html still holds unmined codes; re-extract and verify."
+ },
+ {
+  "url": "https://whatgroups.com/whatsapp-group-links-pakistan/",
+  "what": "AUDIT team20: whatgroups.com Pakistan page - raw HTML copy team20_wgpk.html still holds unmined codes; re-extract and verify."
+ },
+ {
+  "url": "https://whatzgrouplink.com/bangladesh-whatsapp-group-link/",
+  "what": "AUDIT team20: whatzgrouplink BD page - raw HTML copy team20_whatzbd.html still holds unmined codes; re-extract and verify."
+ },
+ {
+  "url": "https://wglfinder.com/active-whatsapp-group-links/",
+  "what": "AUDIT team37 (wave_20261104): 94 invite codes in saved wglfinder country pages not in union/verified/pending; 55 named candidates in team37_candidates.json never verified - 5 sampled by team36 wave_20261105. Re-extract from live pages and verify."
+ },
+ {
+  "url": "https://wglfinder.com/user-submitted-groups/",
+  "what": "AUDIT team37: wglfinder user-submitted page - 11 unmined codes in local copy team37_pages/user-submitted-groups.html; verify before banking."
+ },
+ {
+  "url": "https://whatgroups.com/whatsapp-group-links-canada/",
+  "what": "AUDIT team30 (wave_20261104): 45 raw-HTML codes unprocessed; 18 candidates never verified (8 crypto/drug/satta - excluded; 10 clean Study Abroad - 5 sampled by team36 wave_20261105). Re-extract and verify the clean remainder."
+ },
+ {
+  "url": "https://wagroups.wabotso.com/australian-whatsapp-group-links/",
+  "what": "AUDIT team30: wabotso AU page - raw HTML copy team30_work/html_wabotso_au.html still holds unmined codes; re-extract and verify."
+ },
+ {
+  "url": "https://wahublink.com/education-whatsapp-group-links/",
+  "what": "AUDIT team30: wahublink education page - raw HTML copy team30_work/html_wahublink_edu.html still holds unmined codes; re-extract and verify."
+ },
+ {
+  "url": "https://www.wemakescholars.com/blog/whatsapp-group-for-ms-in-us-fall",
+  "what": "AUDIT team30: WeMakeScholars MS-in-US page - raw HTML copy team30_work/html_wemakescholars_us.html still holds unmined codes; re-extract and verify."
+ },
+ {
+  "url": "https://www.groupjoin.link/tag/GAMING/?page=1&limit=20&safeSearch=blur",
+  "what": "AUDIT team40 (wave_20261104): 70 stageA codes never verified (team40_stageA.json, names empty, source = groupjoin.link GAMING tag pages 1-5+); 5 sampled by team36 wave_20261105. Mine further tag pages and verify."
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/04/pubg-whatsapp-group-links.html?m=1",
+  "what": "AUDIT team27 (wave_20261104): PUBG/gaming listicle source of team27_candidates.json (760 checked: 297 live, 463 dead). 20 live codes never delivered, 19 content-excluded (carding/porn/URL-names), 1 borderline re-verified by team36 wave_20261105."
+ },
+ {
+  "url": "https://www.groupwhat.com/",
+  "what": "AUDIT team16 (wave_20261104): groupwhat.com 11 category listing pages embed full group JSON (name, invite_link, image, description, updated_at) in Next.js flight data; local HTML copies in team16/ hold 104 codes, 103 already in union. Re-crawl for fresh groups; the 1 unprocessed code was a fixed-match betting tipster (excluded)."
+ },
+ {
+  "url": "https://whatsagroupslinks.com/zambia-whatsapp-group-links/",
+  "what": "CARRIED from team22-leads.json (wave_20261104): fresh ZM directory; likely NG/KE/GH country pages unmined. See team22-leads.json for the full 12-lead Africa list."
+ },
+ {
+  "url": "https://whatgroups.com/zimbabwe-whatsapp-group-links/",
+  "what": "CARRIED from team22-leads.json: fresh ZW domain; internal links to Nigeria and Kenya group pages both unmined."
+ },
+ {
+  "url": "https://whtspgrouplink.com/ghana-whatsapp-group-links/",
+  "what": "CARRIED from team22-leads.json: GH page scraped; Zimbabwe, Uganda, Angola, Cuba, Uruguay country pages unmined."
+ }
+]

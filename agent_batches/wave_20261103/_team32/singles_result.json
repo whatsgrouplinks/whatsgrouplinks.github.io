@@ -1,0 +1,41 @@
+{
+ "verified": [
+  {
+   "name": "JAMB 2027 NEWS UPDATES",
+   "code": "LU1JmdWugt2H3NXcpNSLmQ",
+   "extra": [
+    "Education",
+    "Nigerian JAMB 2027 news group for UTME registration updates, exam news, past questions and admission information."
+   ]
+  },
+  {
+   "name": "Nigerian Moms\ud83c\uddf3\ud83c\uddec\ud83c\uddf3\ud83c\uddec\ud83c\uddf3\ud83c\uddec",
+   "code": "K9Rmbz7puskJVkjOeaoxYC",
+   "extra": [
+    "Community",
+    "Support community for Nigerian moms and expectant moms to share experiences and parenting tips."
+   ]
+  }
+ ],
+ "pending": [
+  {
+   "name": "Worcester Nigerian Society",
+   "code": "FLTboUudkLR1sv7MfV0yGT",
+   "extra": [
+    "Community",
+    "Nigerian students community at the University of Worcester, sharing events, culture and support for members."
+   ],
+   "note": "empty og:title"
+  },
+  {
+   "name": "Naija Moms Active Group",
+   "code": "BRyjbbFETfs4o1JcHljiNn",
+   "extra": [
+    "Community",
+    "Active WhatsApp support group for Naija moms, new and old, connecting for friendship and advice."
+   ],
+   "note": "empty og:title"
+  }
+ ],
+ "skipped": 5
+}

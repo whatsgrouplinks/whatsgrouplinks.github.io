@@ -1,0 +1,38 @@
+verifying 752 fresh codes (igrupos + ongrupos)...
+pilot LCjcnVaBMRc6OrEqrExKsd: live (already checked)
+pilot B5j4NSW4LAUGWaV5zMQJ7M: live (already checked)
+resumed from checkpoint: 52 already verified, 700 left
+  verified 25/700 in 87s
+  verified 50/700 in 151s
+  verified 75/700 in 192s
+  verified 100/700 in 248s
+  verified 125/700 in 318s
+  verified 150/700 in 405s
+  verified 175/700 in 467s
+  verified 200/700 in 520s
+  verified 225/700 in 573s
+  verified 250/700 in 631s
+  verified 275/700 in 685s
+  verified 300/700 in 755s
+  verified 325/700 in 821s
+  verified 350/700 in 873s
+  verified 375/700 in 923s
+  verified 400/700 in 974s
+  verified 425/700 in 1024s
+  verified 450/700 in 1069s
+  verified 475/700 in 1110s
+  verified 500/700 in 1153s
+  verified 525/700 in 1196s
+  verified 550/700 in 1239s
+  verified 575/700 in 1282s
+  verified 600/700 in 1329s
+  verified 625/700 in 1373s
+  verified 650/700 in 1418s
+  verified 675/700 in 1463s
+  verified 700/700 in 1507s
+verification done: 752 codes in 1507s
+Counter({'dead': 687, 'live': 65})
+dropped: {'porn-keyword': 6, 'adult-emoji': 7}
+verified: 52, pending: 0
+leads: 90 (banked/excluded: checked against slices)
+DONE

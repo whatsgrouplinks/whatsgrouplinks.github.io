@@ -1,0 +1,30 @@
+cat business page 1: 4 posts (4 new)
+  ERR ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='groupda.com', port=443): Read timed out. (re https://groupda.com/category/business/page/2/
+cat business page 2: 7 posts (7 new)
+cat business page 3: 10 posts (10 new)
+cat buysell page 1: 0 posts (0 new)
+cat buysell page 2: 6 posts (6 new)
+  ERR ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='groupda.com', port=443): Read timed out. (re https://groupda.com/category/buysell/page/3/
+cat buysell page 3: 10 posts (10 new)
+cat dating page 1: 10 posts (10 new)
+cat dating page 2: 6 posts (6 new)
+cat dating page 3: 8 posts (8 new)
+cat education page 1: 0 posts (0 new)
+cat education page 2: 3 posts (3 new)
+cat education page 3: 5 posts (5 new)
+  ERR ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='groupda.com', port=443): Read timed out. (re https://groupda.com/category/games/
+cat games page 1: 8 posts (8 new)
+cat games page 2: 9 posts (9 new)
+cat games page 3: 9 posts (9 new)
+cat matrimonial page 1: 10 posts (10 new)
+cat matrimonial page 2: 10 posts (10 new)
+cat matrimonial page 3: 6 posts (6 new)
+cat study page 1: 2 posts (2 new)
+  HTTP 404 https://groupda.com/category/study/page/2/
+STOP cat study page 2
+TOTAL groupda.com posts (p1-3): 123
+pk cats: {166: 'girls-groups', 168: 'indian-groups', 164: 'pakistani-groups', 165: 'viral-videos', 5: 'whatsapp-blog', 167: 'worldwide-groups'}
+pk total posts: 19 pages: 1
+pk posts page 1/1: cumulative codes 645
+pk api codes: 645
+HARVEST DONE

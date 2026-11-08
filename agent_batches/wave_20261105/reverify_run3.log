@@ -1,0 +1,8 @@
+first-run state: 16439
+unique codes: 16439
+keep live: 3890 | keep porn: 36 | to re-check: 12513
+resumed reverify state: 11000
+remaining: 1513
+REVERIFY STATS {'live': 1466, 'dead': 22, 'transport': 8}
+TOTAL LIVE (run1 + reverify): 16267 -> /home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261105/parent_verified.json
+PENDING TRANSPORT: 13

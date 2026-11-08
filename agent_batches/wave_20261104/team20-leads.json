@@ -1,0 +1,81 @@
+[
+ {
+  "domain": "wahublink.com",
+  "resume": "ALREADY SCRAPED - do not action: all 182 page codes verified present in dedupe_union.json 2026-11-04 (team28/30/39 covered this domain).",
+  "url": "https://wahublink.com/pakistani-whatsapp-group-links/",
+  "why": "Pakistan directory - SUPERSEDED: fully harvested by other teams this wave; zero fresh codes remain."
+ },
+ {
+  "domain": "wahublink.com",
+  "resume": "ALREADY SCRAPED - do not action: all 85 page codes verified present in dedupe_union.json 2026-11-04 (team28/30/39 covered this domain).",
+  "url": "https://wahublink.com/indian-whatsapp-group-links/",
+  "why": "India directory - SUPERSEDED: fully harvested by other teams this wave; zero fresh codes remain."
+ },
+ {
+  "domain": "whatgroups.com",
+  "resume": "HARVESTED 2026-11-04: 101 name/code pairs parsed; 97 already in union, 4 fresh all DEAD (empty og:title). No further action.",
+  "url": "https://whatgroups.com/whatsapp-group-links-pakistan/",
+  "why": "Pakistan directory - EXHAUSTED: nothing fresh remains."
+ },
+ {
+  "domain": "whatgroups.com",
+  "resume": "HARVESTED 2026-11-04: 49 codes, all 49 already in dedupe union. No further action.",
+  "url": "https://whatgroups.com/bangladesh-whatsapp-group-links/",
+  "why": "Bangladesh directory - EXHAUSTED: fully covered."
+ },
+ {
+  "domain": "grouplinksforyou.com",
+  "resume": "HARVESTED 2026-11-04: 189 codes found but 179 are /invite/ CHANNEL format (excluded per brief); 10 group codes all in union or dead. No further action.",
+  "url": "https://www.grouplinksforyou.com/2023/04/join-best-indian-whatsapp-group-links.html",
+  "why": "India listicle - EXHAUSTED: channel-dominated, nothing fresh."
+ },
+ {
+  "domain": "grouplinksforyou.com",
+  "resume": "HARVESTED 2026-11-04: Sri Lanka post (63 name/code pairs, 59 fresh-checked), Pakistan-girls post (79 pairs), Pakistani post (80 pairs) all scraped; live ones verified into team20-southasia-dirs.json.",
+  "url": "https://www.grouplinksforyou.com/search/label/Country",
+  "why": "Country-label posts - EXHAUSTED this wave."
+ },
+ {
+  "domain": "wagroup.in",
+  "resume": "Fetch service returned DNS-unresolvable ('requires a resolvable public HTTP(S) URL'). Retry via parent browser leg next wave.",
+  "url": "https://wagroup.in/tag/lanka-whatsapp-groups/",
+  "why": "NEW Sri Lanka tag archive (names seen in search: MTFE SRI LANKA, Sri lanka government job Vacancies, SRI LANKA LIVE CRICKET NEWS, FREE FIRE SRI LANKA, Sri Lanka Friends). Domain may be down - verify reachability first."
+ },
+ {
+  "domain": "whatzgrouplink.com",
+  "resume": "HARVESTED 2026-11-04: 16 codes, all in dedupe union. No further action.",
+  "url": "https://whatzgrouplink.com/bangladesh-whatsapp-group-link/",
+  "why": "Bangladesh page - EXHAUSTED: fully covered."
+ },
+ {
+  "codes": [
+   "EID2RkEKKLn7mJECBWRlxO",
+   "EsSgJ3o1qxV8OLN4nTlZxR",
+   "JsdMljjqlaCFZWI972hpY3",
+   "HngILSEB3K7D9oTl2pAQBj",
+   "D2V0KDN7VAPBNZyR6ae5q6"
+  ],
+  "domain": "fortress786.blogspot.com",
+  "resume": "All 5 codes fresh vs dedupe union (22 chars, valid). Browser leg: fetch each invite to read og:title for group names - DEAD 2026-11-04 (HTTP 200, empty og:title on all 5; do not re-attempt).",
+  "url": "http://fortress786.blogspot.com/2026/10/whatsapp-group-links-available.html",
+  "why": "Blog listicle with 5 RAW chat.whatsapp.com codes in page text (Pakistan/India/Bangladesh country-wise groups) - names unknown, codes harvestable."
+ },
+ {
+  "domain": "wagroupslink.com",
+  "url": "https://wagroupslink.com/viral-mms-whatsapp-group-link/",
+  "why": "NEW PK/IN directory (not on retired list): viral-video/MMS group listings for Pakistan, India, Nepal, UAE. CAUTION: MMS/viral-video groups often carry non-consensual intimate content - screen every og:title against the porn blocklist before banking; recommend parent review before scraping.",
+  "resume": "Unscraped; fetch listing page HTML and extract chat.whatsapp.com codes (non-invite only)."
+ },
+ {
+  "domain": "whatsshare.com",
+  "url": "https://whatsshare.com/blog/best-whatsapp-groups-to-join-in-2026",
+  "why": "NEW directory (not on retired list): best-groups-2026 guide with category + country browsing (expat/tourist groups). Unscraped.",
+  "resume": "Unscraped; check for listing pages with direct codes."
+ },
+ {
+  "domain": "whatzgrouplink.com",
+  "url": "https://whatzgrouplink.com",
+  "why": "Homepage of the NEW BD directory already partially scraped (BD page: 16 codes, all in union). Claims 10,000+ groups across Dating/Marketing/Girls/Indian/USA/PUBG/TikTok categories - category pages may hold fresh codes.",
+  "resume": "Unscraped; enumerate category pages and extract codes."
+ }
+]

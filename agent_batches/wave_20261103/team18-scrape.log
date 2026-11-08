@@ -1,0 +1,40 @@
+union size: 84400
+FETCH pakistani-whatsapp-group-link
+  rows: 4
+FETCH indian-whatsapp-group-link
+  rows: 2
+FETCH india-whatsapp-group-link-2026
+  rows: 8
+FETCH kenya-whatsapp-group-link
+  rows: 15
+FETCH kuwait-whatsapp-group-link
+  fetch try0 fail ReadTimeout
+  rows: 10
+FETCH uk-whatsapp-group-link
+  rows: 4
+FETCH germany-whatsapp-group-link
+  rows: 2
+FETCH canada-whatsapp-group-link
+  rows: 9
+FETCH bangladesh-whatsapp-group-link
+  rows: 7
+FETCH arabic-whatsapp-group-link
+  rows: 3
+FETCH america-whatsapp-group-link
+  fetch try0 fail ProxyError
+  rows: 3
+FETCH china-whatsapp-group-link
+  rows: 5
+FETCH dubai-whatsapp-group-link
+  rows: 10
+FETCH bangalore-whatsapp-group-link
+  rows: 1
+FETCH tamil-whatsapp-group-link
+  fetch try0 fail ReadTimeout
+  rows: 6
+FETCH telegu-whatsapp-group-link
+  fetch try0 fail ReadTimeout
+  rows: 10
+FETCH kannada-whatsapp-group-link
+  rows: 3
+candidates: 18

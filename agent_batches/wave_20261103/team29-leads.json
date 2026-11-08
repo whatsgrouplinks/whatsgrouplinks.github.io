@@ -1,0 +1,17 @@
+[
+ {
+  "domain": "thewhatspgrouplinks.com",
+  "url": "https://thewhatspgrouplinks.com/page/21/",
+  "why": "Archive pagination beyond /page/20/ — homepage only linked pages 2 and 20; deeper pages may exist"
+ },
+ {
+  "domain": "thewhatspgrouplinks.com",
+  "url": "https://thewhatspgrouplinks.com/wp-sitemap.xml",
+  "why": "WP sitemap unreachable via this VM's proxy (ProxyError) — probe for recently-modified post URLs next wave"
+ },
+ {
+  "domain": "thewhatspgrouplinks.com",
+  "url": "https://thewhatspgrouplinks.com/",
+  "why": "Resume: 122 novel codes banked pending (chat.whatsapp.com verification timed out); newest posts since 2026-10-30 already covered via homepage articles"
+ }
+]

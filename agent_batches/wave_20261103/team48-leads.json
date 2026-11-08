@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "cssmcqs.com",
+  "url": "https://cssmcqs.com/active-css-dawn-news-whatsapp-group-links-2024/",
+  "why": "Pakistan CSS/PMS exam-prep listicle (FPSC screening, CSS aspirant groups) - python requests gets truncated chunked responses through the proxy and curl gets 403; codes render server-side, needs live-browser or alternate fetch next wave."
+ },
+ {
+  "domain": "appgrouplink.com",
+  "url": "https://appgrouplink.com/scholarship-whatsapp-group-links/",
+  "why": "Scholarship listicle with ~15 scholarship groups; all invites are chat.whatsapp.com/invite/<code> format - test the PLAIN form per brief policy. Host timed out twice through the proxy; retry with longer timeout or live browser."
+ },
+ {
+  "domain": "groupwa.com",
+  "url": "https://groupwa.com/study-learning/scholarship-whatsapp-groups/",
+  "why": "New domain (groupwa.com is NOT the retired groupwa.link) - 14 scholarship WhatsApp groups for study-abroad and funding updates. Host timed out through the proxy; retry next wave."
+ },
+ {
+  "domain": "whatgroups.com",
+  "url": "https://whatgroups.com/whatsapp-group-links-canada/",
+  "why": "Jobs/education rows (Canada IT jobs, study in Canada, express entry) behind a Cloudflare JS challenge for requests (india/pakistan pages scraped fine this wave); needs live browser."
+ },
+ {
+  "domain": "thewhatspgrouplinks.com",
+  "url": "https://thewhatspgrouplinks.com/assam-jobs-whatsapp-group-links/",
+  "why": "Resume point: ~20 more jobs listicles in this domain's sitemap (assam, ernakulam, dubai-hotel, kuwait, vizag-pharma, ahmedabad, tirupur, coimbatore, rajasthan-govt, guwahati-private, hotel-review-task) remain unscraped; union overlap is high but fresh codes appear on refresh - re-scrape next wave."
+ }
+]

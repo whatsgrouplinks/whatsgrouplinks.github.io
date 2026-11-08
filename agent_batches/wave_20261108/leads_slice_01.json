@@ -1,0 +1,577 @@
+[
+ {
+  "url": "https://gruposdewats.com/",
+  "what": "gruposdewats homepage \u2014 NOT harvested: unreachable/timeout in this run; retry/browser leg next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://masgrupos.com/",
+  "what": "masgrupos parked domain \u2014 NOT harvested: unreachable/timeout in this run; retry/browser leg next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://linkado.app/sitemap.xml",
+  "what": "linkado sitemap: full /grupo/<id> pool; category pages harvested this run, sitemap ids not individually fetched",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/sitemap.xml",
+  "what": "Full enumeration: 2759 unique /grupo/<id> URLs (ids 2-3957). Start here for the browser leg. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatshub.es/",
+  "what": "Homepage listing (20 groups/page, Blazor load-more). No invite codes in HTML. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/c/amistad-y-planes",
+  "what": "Category listing page (amistad y planes). 20 groups/page, no invite codes in HTML. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/c/estudios-y-universidad",
+  "what": "Category listing page (estudios y universidad). \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/c/vivienda",
+  "what": "Category listing page (vivienda). \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/e/erasmus",
+  "what": "Tag listing page (erasmus). \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/e/conocer-gente",
+  "what": "Tag listing page (conocer gente). \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/e/estudiantes",
+  "what": "Tag listing page (estudiantes). \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/1025",
+  "what": "Sample group page (Erasmus en Stavanger 2026/27). Invite hidden: 'Oculto por privacidad'. Browser leg: click 'Unirse al grupo' button (Blazor Server, no href) to reveal the chat.whatsapp.com invite, then verify via curl og:title. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/2",
+  "what": "Sample group page (TechClub Malaga). Same hidden-invite pattern. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/261",
+  "what": "Sample group page (Chicas con Orgullo). Same hidden-invite pattern. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/639",
+  "what": "Sample group page (ERASMUS/SICUE GRANADA 26/27). Same hidden-invite pattern. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/1419",
+  "what": "Sample group page (Erasmus Bolonia 2026-2027). Same hidden-invite pattern. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/2140",
+  "what": "Sample group page (Amigos Sevilla). Same hidden-invite pattern. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/3957",
+  "what": "Sample group page (highest id in sitemap). Same hidden-invite pattern. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/trends",
+  "what": "Trends page \u2014 may surface popular groups; check whether it exposes invite links. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://www.whatshub.es/grupo/3",
+  "what": "Sample group page (id 3). Same hidden-invite pattern. \u2014 invites hidden ('Oculto por privacidad'); browser leg only",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/5/game-groups",
+  "what": "Game category \u2014 static page shows only November 2026 snapshot; older Game groups need live JS browser (no pagination in static HTML) \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/8/news-groups",
+  "what": "News category \u2014 static page shows only November 2026 snapshot; older News groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/9/job-postings-groups",
+  "what": "Job Postings category \u2014 static page shows only November 2026 snapshot; older groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship-groups",
+  "what": "Chat/Friendship category \u2014 page 2+ / older months: static page lists 27 groups (November 2026 only), ?page=2 returns identical list, /2 returns homepage; older Chat/Friendship groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/29/trade-groups",
+  "what": "Trade category \u2014 static page shows only November 2026 snapshot; older groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/34/music-groups",
+  "what": "Music category \u2014 static page shows only November 2026 snapshot; older groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/35/student-groups",
+  "what": "Student category \u2014 static page shows only November 2026 snapshot; older groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/38/technology-groups",
+  "what": "Technology category \u2014 static page shows only November 2026 snapshot; older groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/47/series-movie-groups",
+  "what": "Series/Movie category \u2014 static page shows only November 2026 snapshot; older groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/52/religion-groups",
+  "what": "Religion category \u2014 static page shows only November 2026 snapshot; older groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/53/food-groups",
+  "what": "Food category \u2014 November 2026 snapshot is EMPTY (0 groups); any Food groups need live JS browser or search-indexed group pages \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/54/travel-groups",
+  "what": "Travel category \u2014 static page shows only November 2026 snapshot (1 group); older Travel groups need live JS browser \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/most-popular-whatsapp-groups",
+  "what": "Most Popular page \u2014 lists 13 groups statically; cross-category, some already covered; re-check monthly for new entries in my categories \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/grup/pubg-mobil",
+  "what": "Detail pages /grup/<slug> hide the MAIN group code behind a /go/<goId> client-side redirect (listing cards are only similar groups). A browser leg can resolve each /go/ link to the real chat.whatsapp.com code; ~80+ slugs harvestable from listing pages. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-18-grup-linkleri",
+  "what": "SKIPPED BY RULE: adult tag; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-airdrop-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-altcoin-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-bahis-gruplari",
+  "what": "SKIPPED BY RULE: betting/gambling tag; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-bedava-hesap-gruplari",
+  "what": "SKIPPED BY RULE: money-making / free-account tag, scam-prone; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-binance-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-bist-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-bitcoin-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-canli-mac-skor-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-canli-skor-uygulama-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-canli-tv-haber-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-defi-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-ethereum-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-eurolig-basketbol-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-film-onerileri-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-iddaa-tahmin-kanallari",
+  "what": "SKIPPED BY RULE: betting/gambling tag; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-kripto-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape. \u2014 not harvested this run (skipped tag rule / code behind JS redirect)",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/education/",
+  "what": "groupsinvite listing index (tag pages) \u2014 fetched OK via curl 2026-11-05; detail pages under /group/<tag>/ link group listings, no direct invite URLs on index \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/add-group-link/",
+  "what": "groupsinvite submission page \u2014 possible source of newly submitted listings for future waves \u2014 not harvested: site timed out twice; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://losgrupos.app/grupos",
+  "what": "losgrupos.app full listing - only 27 groups exist site-wide (pages 1-2 cover all; pages 3+ empty). All extracted; 18 verified, 1 already in union, 10 excluded (adult/gambling/borderline). No further groups to harvest here. \u2014 not harvested: unreachable/timeout or parked; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://losgrupos.app/categorias",
+  "what": "losgrupos.app category index (adultos, solo-chicas, solteros, gaming, musica, etc.) - same 27-group pool, nothing beyond /grupos. \u2014 not harvested: unreachable/timeout or parked; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://masgrupos.com",
+  "what": "DEAD - domain is parked (Sedo 'website is for sale' page, crawled 2024-09-13). No directory, no groups. Do not re-assign. \u2014 not harvested: unreachable/timeout or parked; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://gruposdewats.com",
+  "what": "UNREACHABLE in this sandbox - curl timed out (HTTP 000) and text fetch failed with DNS/timeout error. Needs a live-browser leg to check whether the site is alive and to harvest its listings. \u2014 not harvested: unreachable/timeout or parked; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://gruposdewats.com/categorias",
+  "what": "Resume point for live-browser leg if gruposdewats.com loads - category/listing pages (URL pattern guessed from site name; verify on load). \u2014 not harvested: unreachable/timeout or parked; retry next wave",
+  "source_team": "team01-leads-harvest-a-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/sehir/tekirdag/sohbet",
+  "what": "EXTRA CITY COVERAGE: see /sehir/kocaeli/sohbet entry; same card structure as the 36 pages read. \u2014 fetch failed this run (HTTPSConnectionPool(host='whatsappkanali.com', port=443): Max retries exceeded with url: /sehir/tekirdag/sohbet (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))), not harvested",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://www.meetup.com/fr-FR/find/?source=GROUPS&keywords=Bollywood+Dance",
+  "what": "Bay Area Punjabis and Desis group \u2014 WhatsApp code truncated in search snippet (I0gAHg4jQFx756J25gGN...), full code not recoverable from snippet; needs page fetch \u2014 re-fetched this run: no chat.whatsapp.com code in raw HTML; codes hidden behind buttons/links, needs browser leg",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://nextdoor.co.uk/p/fjt64wLyxXH6?view=detail",
+  "what": "Waggy Walks in Nature (Love Dogs West Dorset, Weymouth) \u2014 dog walking community group, no WhatsApp link in snippet; page may carry one \u2014 re-fetched this run: no chat.whatsapp.com code in raw HTML; codes hidden behind buttons/links, needs browser leg",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://nextdoor.co.uk/p/PjSLSpytQyNH/",
+  "what": "Dog walking group at Worth Park, Crawley \u2014 enquiry post asking if a group exists, no WhatsApp link yet \u2014 fetch failed this run (HTTPSConnectionPool(host='nextdoor.co.uk', port=443): Max retries exceeded with url: /p/PjSLSpytQyNH/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://nextdoor.co.uk/p/Fkw8gxk8njBY?view=detail",
+  "what": "Local dog walking groups enquiry \u2014 no WhatsApp link in snippet; login-walled post \u2014 re-fetched this run: no chat.whatsapp.com code in raw HTML; codes hidden behind buttons/links, needs browser leg",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://www.universityapplicants.co.uk/birmingham-freshers/",
+  "what": "Birmingham Freshers 2026 city page \u2014 READ via text fetch 2026-11-05. WhatsApp group links behind buttons for Uni of Birmingham, Birmingham City University and Aston University (codes NOT visible in page text). BROWSER LEG: resolve each university button to its chat.whatsapp.com code, dedupe vs union, then verify via og:title. \u2014 fetch failed this run (HTTPSConnectionPool(host='www.universityapplicants.co.uk', port=443): Max retries exceeded with url: /birmingham-freshers/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://www.universityapplicants.co.uk/lincoln-freshers/",
+  "what": "Lincoln Freshers Week 2026 city page \u2014 NOT opened in text (pattern confirmed on Brighton/Birmingham pages: codes hidden behind buttons). Page lists University of Lincoln. BROWSER LEG: resolve the WhatsApp button to its chat.whatsapp.com code, dedupe vs union, then verify via og:title. \u2014 fetch failed this run (HTTPSConnectionPool(host='www.universityapplicants.co.uk', port=443): Max retries exceeded with url: /lincoln-freshers/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://www.universityapplicants.co.uk/edinburgh-freshers/",
+  "what": "Edinburgh Freshers 2026 city page \u2014 NOT opened in text (pattern confirmed on Brighton/Birmingham pages: codes hidden behind buttons). Page lists Uni of Edinburgh, Napier and Heriot Watt. BROWSER LEG: resolve each university WhatsApp button to its chat.whatsapp.com code, dedupe vs union, then verify via og:title. \u2014 fetch failed this run (HTTPSConnectionPool(host='www.universityapplicants.co.uk', port=443): Max retries exceeded with url: /edinburgh-freshers/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://www.universityapplicants.co.uk/sussex-freshers/",
+  "what": "Sussex Freshers Week 2026 city page \u2014 NOT opened in text (pattern confirmed on Brighton/Birmingham pages: codes hidden behind buttons). Page lists University of Sussex. BROWSER LEG: resolve the WhatsApp button to its chat.whatsapp.com code, dedupe vs union, then verify via og:title. \u2014 fetch failed this run (HTTPSConnectionPool(host='www.universityapplicants.co.uk', port=443): Max retries exceeded with url: /sussex-freshers/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))); browser leg may resolve hidden links",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-memecoin-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-milli-takim-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-mma-ufc-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-nft-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-para-kazanma-kanallari",
+  "what": "SKIPPED BY RULE: money-making / free-account tag, scam-prone; do not scrape.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-sampiyonlar-ligi-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-solana-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-spor-haber-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-super-lig-haber-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-trading-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-tv-dizi-bolum-kanallari",
+  "what": "SKIPPED BY RULE: channel archive (kanallari), not groups; channels excluded.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-usdt-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-web3-gruplari",
+  "what": "SKIPPED BY RULE: crypto/finance tag, pump/scam-prone; do not scrape.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-yetiskin-sohbet-gruplari",
+  "what": "SKIPPED BY RULE: adult tag; do not scrape.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-anne-bebek-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-basketbol-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-dating-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-doktor-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-kitap-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-kosu-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-musik-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-saglik-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-voleybol-kanallari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-yapay-zeka-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-yoga-gruplari",
+  "what": "READ 2026-11-05 via curl and browser text fetch: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/kategori/cinsel-fetis",
+  "what": "SKIPPED BY RULE (carried from team05): adult categories (cinsel-fetis, onlyfans-icerik, swinger-takas, fantezi-hikaye, cinsel-saglik) and gambling categories (iddaa, casino-canli-casino, kumar-sans-oyunlari, kumar-slot, spor-bahisleri-oran-analizi, at-yarisi) exist but are excluded per content rules. Do not scrape.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-fitness-gruplari",
+  "what": "READ 2026-11-05 via curl: this tag lists only WhatsApp CHANNELS (www.whatsapp.com/channel/...), zero group invite links; channels are excluded by rule. Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-flort-gruplari",
+  "what": "READ 2026-11-05 via curl: the site itself states no active groups are listed under this tag (empty archive, not JS-gated). Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/etiket/whatsapp-formula1-gruplari",
+  "what": "READ 2026-11-05 via curl: this tag lists only WhatsApp CHANNELS (www.whatsapp.com/channel/...), zero group invite links; channels are excluded by rule. Do not re-fetch unless the site changes.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://visadb.io/blog/digital-nomad-whatsapp-groups-648bce7cfb4a1e461b7be9bc",
+  "what": "visadb.io Digital Nomad WhatsApp Groups page \u2014 FULLY HARVESTED this run via curl (page is NOT JS-gated; raw HTML contains all 97 chat.whatsapp.com hrefs next to group names/locations/categories). All 27 unique EU-section codes (Croatia 1, Cyprus 3, Czechia 1, Greece 1, Hungary 1, Italy 2, Netherlands 1, Portugal 6, Spain 12 incl. 1 code shared by 2 Barcelona groups) were already in dedupe_union.json \u2014 0 fresh. No re-crawl needed unless the page is updated with new groups.",
+  "source_team": "team02-leads-harvest-b-leads.json"
+ },
+ {
+  "url": "https://groupda.com/",
+  "what": "RETIRED: apex 301s to /add/ (submit-group form page, 22KB, zero invite codes, no listings). No harvest.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupda.pk/wp-json/wp/v2/posts?after=2026-11-03T00:00:00&per_page=100",
+  "what": "WATCH: WP API returned [] (HTTP 200) \u2014 no groupda.pk posts after 2026-11-03; newest post still 2026-09-11. Nothing to harvest.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/",
+  "what": "Homepage harvested (HTTP 200, 54 cards): 9 unique invite codes extracted via 54 detail pages; 6 already in dedupe_union, 2 dead on og:title verification, 1 verified new (H9PX9qPXxhrLoDvPqGjqnu, in harvest file).",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/fubfwizgyer0bvc6jg7o2u/",
+  "what": "groupsinvite.link card 'Mercury World Sourcing' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/fin3q6eqix62r7ssgeps5r/",
+  "what": "groupsinvite.link card 'M$A' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/gsqw2c7rtom7m8zx1hlkb5/",
+  "what": "groupsinvite.link card 'WalidStore' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/jo8kh0gjkdg5j9tpfwajtp/",
+  "what": "groupsinvite.link card 'MORNING STAR\ud83c\udf1f\ud83c\udf1f' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/hrfec0i6eqzamaj970xxti/",
+  "what": "groupsinvite.link card 'POETRY FOR S\u1a5a \u1c14\u1a5a S\u1a5a \u0714\u2713\u2764\ufe0f\u200d\ud83e\ude79\ud83e\udd40\ud83d\udc40' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/jwvyj4qbzpidzpzgb2v43g/",
+  "what": "groupsinvite.link card 'Pixel Pitch Squad' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/ksh5dsi1eey89l40oulz8z/",
+  "what": "groupsinvite.link card '\ud83d\udd31 \u0926\u093f\u0935\u094d\u092f \u0926\u0930\u094d\u0936\u0928 \ud83d\udd31' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/gl7j0xuzrse2olo3494jya/",
+  "what": "groupsinvite.link card '\ud835\udc6f\ud835\udc86\ud835\udc82\ud835\udc93\ud835\udc95 \ud835\udc6f\ud835\udc82\ud835\udc97\ud835\udc86\ud835\udc8f \u2764\ufe0f' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/j0hboywkne86gcspkwo754/",
+  "what": "groupsinvite.link card 'Trending video' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/kjdlbvq5wdvjokmeyafbzy/",
+  "what": "groupsinvite.link card '\u0dc3\u0dd2\u0dad\u0db1\u0dca\u0db1\u0da7 \u0dba\u0db8\u0d9a\u0dca (Chat grup) \ud83c\udf1d\ud83c\udf40' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/llomu1biz2v6vneakcydh9/",
+  "what": "groupsinvite.link card 'DVoice Media' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/f2cogxtvevq1joaqasbipc/",
+  "what": "groupsinvite.link card 'Forex Free Segnl And Demo Group' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/ferhixi0lscaouzacn1grl/",
+  "what": "groupsinvite.link card 'g\u2113\u03c3\u0432\u03b1\u2113 \u00a2\u043d\u03b1\u0442 \u043d\u03c5\u0432' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/j72a7wcqp3s6lomer3g6kh/",
+  "what": "groupsinvite.link card 'Website Development Community' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/link/i1vuy9ocuyqd55sbzuef9q/",
+  "what": "groupsinvite.link card 'AJO Contribution group. \ud83d\udcb7' \u2014 detail page fetched (HTTP 200) but no chat.whatsapp.com invite exposed in HTML (JS-gated join link); not harvested.",
+  "source_team": "team03-leads-harvest-c-leads.json"
+ }
+]

@@ -1,0 +1,577 @@
+[
+ {
+  "url": "https://groupchatconnect.info/groupe/2959",
+  "what": "groupchatconnect groupe page \u2014 failed twice this run (timeout / HTTP 503, site throttling); join target unknown, retry next wave",
+  "source_team": "team07-leads-harvest-g-leads.json"
+ },
+ {
+  "url": "https://groupchatconnect.info/groupe/3028",
+  "what": "groupchatconnect groupe page \u2014 failed twice this run (timeout / HTTP 503, site throttling); join target unknown, retry next wave",
+  "source_team": "team07-leads-harvest-g-leads.json"
+ },
+ {
+  "url": "https://groupchatconnect.info/groupe/3060",
+  "what": "groupchatconnect groupe page \u2014 failed twice this run (timeout / HTTP 503, site throttling); join target unknown, retry next wave",
+  "source_team": "team07-leads-harvest-g-leads.json"
+ },
+ {
+  "url": "https://groupchatconnect.info/groupe/3067",
+  "what": "groupchatconnect groupe page \u2014 failed twice this run (timeout / HTTP 503, site throttling); join target unknown, retry next wave",
+  "source_team": "team07-leads-harvest-g-leads.json"
+ },
+ {
+  "url": "https://wagrouplink.com/indian/",
+  "what": "Retired: fetch failed twice (timeout) in wave 20261107 team08; retry next wave.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://wagrouplink.com/ipl/",
+  "what": "Retired: fetch failed twice (timeout) in wave 20261107 team08; retry next wave.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://wagrouplink.com/business/",
+  "what": "Retired: fetch failed twice (timeout) in wave 20261107 team08; retry next wave.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://whatsgroupslinkspk.com/poetry-whatsapp-group-links/",
+  "what": "Retired: fetch failed twice (timeout) in wave 20261107 team08; retry next wave.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/rules/<slug>/",
+  "what": "Retired: literal <slug> placeholder URL, not a real listing; needs a real slug.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/news-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted \u2014 possibly bot-blocked; retry via browser leg.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/students-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted \u2014 possibly bot-blocked; retry via browser leg.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/study/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted \u2014 possibly bot-blocked; retry via browser leg.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/travel-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted \u2014 possibly bot-blocked; retry via browser leg.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/shayari-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted \u2014 possibly bot-blocked; retry via browser leg.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/urdu-poetry-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted \u2014 possibly bot-blocked; retry via browser leg.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/love-and-romance-whatsapp-group-links/",
+  "what": "Fetched but only ~12KB page, 0 codes extracted \u2014 possibly bot-blocked; retry via browser leg.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=dubbed-movies&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=hindi-movies&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=english-movies&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=fan-club&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=earn-money&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://api.groupjoin.link/groups?tag=online-work&page=1&limit=20&safeSearch=blur",
+  "what": "STALE/EMPTY: API returned 0 records; try tags endpoint or website search for correct tag form.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/<tag>/",
+  "what": "groupsinvite.link unreachable this run (timeout) \u2014 retry once next wave; 1,173 /group/<tag>/ listing pages untouched per team15 note.",
+  "source_team": "team08-leads-harvest-h-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-1.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-2.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-3.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-4.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-5.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-6.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-7.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-8.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-9.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-10.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupizo.com/sitemaps/sitemap-groups-11.xml",
+  "what": "groupizo sitemap \u2014 Nov 2026 entries harvested this run; Oct 2026-dated group pages inside NOT harvested (backlog for a follow-up leg)",
+  "source_team": "team09-groupizo-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find",
+  "what": "groupda.com directory search (POST /add/group/find + /add/group/loadresult, gcid/cid/lid filters); country-filtered listings (cid=Pakistan/India/Indonesia etc.) not harvested this run \u2014 category-only harvest done",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/category/adult/",
+  "what": "groupda.com Adult WP category (184 posts) \u2014 SKIPPED by content rules (adult), do not harvest",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/wp-json/wp/v2/posts?per_page=100&orderby=modified&order=desc",
+  "what": "groupda.com WP-API posts endpoint \u2014 mostly Telegram-channel posts, only 4/400 had WhatsApp codes; low yield, not the main directory",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.pk/",
+  "what": "groupda.pk homepage, paginated fresh-groups listing (prior wave lead, not harvested this wave)",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.pk/category/pakistani-groups/",
+  "what": "groupda.pk Pakistani groups category (prior wave lead)",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.pk/category/indian-groups/",
+  "what": "groupda.pk Indian groups category (prior wave lead)",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.pk/group-whatsapp-link/",
+  "what": "groupda.pk master group links listing page (prior wave lead)",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.pk/wp-json/wp/v2/posts?per_page=100&orderby=modified&order=desc",
+  "what": "groupda.pk WP-API posts endpoint, paginated by modified date (prior wave lead)",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=23, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Crypto_Bitcoin_Betting category listing \u2014 crypto/betting \u2014 scam-prone, not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=17, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com MLM_Group_Joining category listing \u2014 MLM \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=28, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Ullu_Webseries_Movies category listing \u2014 adult webseries \u2014 skipped by content rules",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=3, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com 18_Adult_Hot_Babes category listing \u2014 adult \u2014 skipped by content rules",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=32, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Roleplay_Comics category listing \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=31, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Hacking_Web_Learning category listing \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=18, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Film_Animation category listing \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=29, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Magazines_Politics category listing \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=38, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Thoughts_Quotes_Jokes category listing \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=39, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Youtube_Promotional category listing \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=14, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Fan_Club_Celebrities category listing \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=4, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Art_Design_Photography category listing \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=30, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Pets_Animals_Nature category listing \u2014 not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupda.com/add/group/find (gcid=24, via POST /add/group/loadresult group_no=0..3)",
+  "what": "groupda.com Any_Category category listing \u2014 unfiltered catch-all, not harvested this run",
+  "source_team": "team10-groupda-leads.json"
+ },
+ {
+  "url": "https://groupssor-api.blog-99n.workers.dev/api/groups",
+  "what": "groupssor API latest-500 endpoint \u2014 re-poll next wave; returns mixed WhatsApp/Telegram; dating category is heavily adult/spam, keep dropping it; per-link verification required, ~90% of fresh codes were dead on 2026-11-07",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://groupssor.com",
+  "what": "groupssor directory homepage \u2014 check for category browse pages worth harvesting next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/49/earning-money",
+  "what": "grupbul Earning Money category \u2014 8 groups in Nov 2026 snapshot; re-crawl next run for fresh entries",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/27/other",
+  "what": "grupbul Other category \u2014 14 groups in Nov 2026 snapshot; re-crawl next run for fresh entries",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/5/game",
+  "what": "grupbul Game category \u2014 6 groups in Nov 2026 snapshot; re-crawl next run for fresh entries",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/26/health",
+  "what": "grupbul Health category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/10/new-used",
+  "what": "grupbul New/Used category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/12/seo",
+  "what": "grupbul SEO category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/13/book",
+  "what": "grupbul Book category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/19/art-and-culture",
+  "what": "grupbul Art and Culture category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/20/research",
+  "what": "grupbul Research category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/28/paid-soldier",
+  "what": "grupbul Paid Soldier category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/31/animals",
+  "what": "grupbul Animals category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/37/holiday",
+  "what": "grupbul Holiday category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/40/start-up",
+  "what": "grupbul Start-up category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/56/solidarity",
+  "what": "grupbul Solidarity category \u2014 0 groups in static HTML on 2026-11-07; re-check next run",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/58/18-chat",
+  "what": "grupbul +18 Chat category \u2014 NOT harvested (adult category, 15 groups); listed only so future runs know it exists and keep skipping it",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/60/adults-chat",
+  "what": "grupbul Adults Chat category \u2014 NOT harvested (adult category, 15 groups); listed only so future runs know it exists and keep skipping it",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/1/x",
+  "what": "grupbul category IDs 1,2,3,7,14,17,18,21,22,33,41-45,48 all return the same 55-group Latest list (slug ignored, ID drives page); harvest the Latest list once per run, not per ID; no static pagination \u2014 older groups need live JS load-more",
+  "source_team": "team11-groupssor-grupbul-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/?page=4",
+  "what": "WhatsAppKanali homepage page 4 \u2014 next run; p1-p3 harvested 2026-11-07 (66 records, 39 fresh, 0 verified live \u2014 deeper pages are stale/dead-heavy).",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/kategori/sohbet?page=2",
+  "what": "WhatsAppKanali Sohbet p2 \u2014 harvested 2026-11-06 (13 new codes then); re-check only for newly added listings, do not re-harvest as fresh.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/kategori/is-ilanlari?page=2",
+  "what": "WhatsAppKanali jobs p2 \u2014 harvested 2026-11-06; re-check only for new listings.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/kategori/egitim?page=2",
+  "what": "WhatsAppKanali education p2 \u2014 harvested 2026-11-06; re-check only for new listings.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/kategori/oyun?page=3",
+  "what": "WhatsAppKanali gaming p3 \u2014 p2 returned 0 records 2026-11-07 (category may have <2 pages); low priority.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://linkado.app/?page=4",
+  "what": "Linkado homepage page 4 onward \u2014 p1-p3 harvested 2026-11-07 (886 grupo pages fetched, 801 records); each page lists 24 groups, fetch grupo pages for invite codes.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://linkado.app/?page=5",
+  "what": "Linkado homepage page 5 \u2014 same method as page 4 lead.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://linkado.app/?page=6",
+  "what": "Linkado homepage page 6 \u2014 same method as page 4 lead.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://linkado.app/categoria/amizade?page=2",
+  "what": "Linkado Amizade p2 \u2014 p1 harvested 2026-11-07; paginated listing, fresh groups daily. Same ?page=2 pattern applies to every /categoria/<slug> harvested this run (namoro, dinheiro, games, figurinhas, comprar-e-venda, trabalho, educacao, tecnologia, esportes, musica, series, fitness, religiao, links, carros, cidades, lgbt, moda-e-beleza, politica, status).",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://linkado.app/categorias",
+  "what": "Linkado full category index \u2014 check for new categories next run.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://linkado.app/grupo/6aea63a7da5f4d7d145e84e6",
+  "what": "METHOD NOTE 2026-11-07: Linkado invite codes ARE exposed \u2014 fetch /grupo/<id> with RSC:1 header (or plain page); the RSC payload carries chat.whatsapp.com/<code> plus og:title/og:description (breadcrumb JSON-LD position 4 = group name, double-escaped in RSC). Plain HTML meta og:title is truncated with '...' \u2014 prefer the og:description 'Grupo de WhatsApp <NAME>, na categoria <PT>' for the full name. RSC responses decode as latin-1 by default \u2014 decode content as UTF-8 or repair mojibake (\u00c3/\u00f0 markers). Prior runs wrongly called Linkado app-gated.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://whatsappkanali.com/",
+  "what": "METHOD NOTE 2026-11-07: WhatsAppKanali listing RSC payloads expose inviteUrl directly; parse title/categorySlug/inviteUrl from the window before each inviteUrl. ~60% of records are whatsapp.com/channel links (excluded). Use requests (not curl \u2014 curl timed out repeatedly); 8-worker parallel fetch works, site is slow under shared-proxy load. NOTE: fresh WK codes verified 0/39 live this run (35 dead + 4 transport-then-dead on recheck) \u2014 deeper pages are stale; prioritise homepage p1 + category p1s next run.",
+  "source_team": "team12-whatsappkanali-linkado-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526164",
+  "what": "igrupos group page \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526221",
+  "what": "igrupos page \u2014 OUT OF SCOPE: WhatsApp CHANNEL (whatsapp.com/channel/0029VbEIivCLo4hduoQ8911y), not a group \u2014 do not harvest as a group",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526222",
+  "what": "igrupos page \u2014 OUT OF SCOPE: WhatsApp CHANNEL (whatsapp.com/channel/0029Vb9dRW74tRrwih5pNW10), not a group \u2014 do not harvest as a group",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526224",
+  "what": "igrupos group page \u2014 join button is a self-link (login-gated, no invite exposed) \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526227",
+  "what": "igrupos group page \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526229",
+  "what": "igrupos group page \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526241",
+  "what": "igrupos group page \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526243",
+  "what": "igrupos group page \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526251",
+  "what": "igrupos group page \u2014 MANGLED invite in static HTML (join button shows 'chat.whatsapp.com/CXCZSbUSEX &XVY', truncated/corrupt, not a 22-char code) \u2014 needs browser Join-click pass; do NOT guess the code",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526258",
+  "what": "igrupos group page \u2014 join button is a self-link (login-gated, no invite exposed) \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526299",
+  "what": "igrupos group page \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526301",
+  "what": "igrupos group page \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526307",
+  "what": "igrupos group page \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526338",
+  "what": "igrupos group page \u2014 join button is a self-link (login-gated, no invite exposed) \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526342",
+  "what": "igrupos group page \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/526355",
+  "what": "igrupos group page \u2014 BROKEN invite in static HTML (join button shows 'chat.whatsapp.com /forever', no code) \u2014 needs browser Join-click pass",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/amistad",
+  "what": "igrupos amistad newest listing p1 \u2014 checked Nov 7; newest gid 526355; re-check next wave for gid>526355",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/amistad/2",
+  "what": "igrupos amistad page 2 \u2014 checked Nov 7; max gid 526007, no new groups; re-check only if p1 overflows",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/negocios",
+  "what": "igrupos negocios newest listing \u2014 checked Nov 7; max gid 526122, no new groups since Nov 6 cutoff",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/free-fire",
+  "what": "igrupos free-fire newest listing \u2014 checked Nov 7; newest gids 526304/526307 now harvested (526304 verified live, 526307 browser-lead)",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/musica",
+  "what": "igrupos musica newest listing \u2014 checked Nov 7; max gid 525956, no new groups",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/futbol",
+  "what": "igrupos futbol newest listing \u2014 checked Nov 7; newest gid 526298 verified live",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://ongrupos.com/",
+  "what": "ongrupos homepage \u2014 checked Nov 7; 24 newest cards harvested; all fresh codes verified (0 live: 552 dead + 16 dead-on-retry + 5 live-but-adult-blocked)",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://ongrupos.com/category.xml",
+  "what": "INFO: ongrupos category sitemap \u2014 all 41 category p1 pages fetched OK Nov 7 (prior wave's fetch failures resolved); 884 unique codes harvested, 573 fresh, 0 verified live; re-check next wave",
+  "source_team": "team13-igrupos-ongrupos-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/category/education-study-learning/",
+  "what": "groupsinvite category index page \u2014 not harvested this run",
+  "source_team": "team14-appgrouplink-groupsinvite-leads.json"
+ },
+ {
+  "url": "https://groupsinvite.link/group/country/pakistan/",
+  "what": "groupsinvite country page (Pakistan) \u2014 not harvested this run",
+  "source_team": "team14-appgrouplink-groupsinvite-leads.json"
+ },
+ {
+  "url": "https://appgrouplink.com/scholarship-whatsapp-group-links/",
+  "what": "appgrouplink listing page (lastmod 2026-07-12) not harvested this run \u2014 re-scrape for rotated links",
+  "source_team": "team14-appgrouplink-groupsinvite-leads.json"
+ },
+ {
+  "url": "https://appgrouplink.com/medical-whatsapp-group-links/",
+  "what": "appgrouplink listing page (lastmod 2026-07-12) not harvested this run \u2014 re-scrape for rotated links",
+  "source_team": "team14-appgrouplink-groupsinvite-leads.json"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/group/124973",
+  "why": "German WhatsApp group directory (group/<id> pages, e.g. Germany Group, New In Dortmund, Niedersachsen). Server-rendered text but invite code hidden behind join button (no chat.whatsapp.com code in HTML). JS-gated codes - needs browser leg."
+ },
+ {
+  "domain": "groupler.me",
+  "url": "https://groupler.me/",
+  "why": "German public WhatsApp group directory with search + categories. Join links require site registration - codes not visible to anonymous scraping."
+ },
+ {
+  "domain": "groupster.me",
+  "url": "https://groupster.me/",
+  "why": "App-based German WhatsApp group directory (Groupster app); codes behind registration. Banked as lead."
+ },
+ {
+  "domain": "everygroup.me",
+  "url": "https://everygroup.me/",
+  "why": "Mentioned as WhatsApp group search/listing site without registration. DNS did not resolve from this VM (browser.open: unresolvable URL) - retry from another network."
+ },
+ {
+  "domain": "groupssor.com",
+  "url": "https://www.groupssor.com/",
+  "why": "Fresh directory, 751 WhatsApp groups, server-rendered join links, no login. But 100% India-focused (no Germany content found) - useful for India slice teams, not Germany."
+ },
+ {
+  "domain": "groupmaster.app",
+  "url": "https://groupmaster.app/de/categories",
+  "why": "Scraped this wave via /de/group/<id>/join 302 redirects (server-side, no JS). 19 categories, 222 German groups, all resolved and verified this wave - exhausted for now; re-check sitemap.xml next wave for new groups."
+ }
+]

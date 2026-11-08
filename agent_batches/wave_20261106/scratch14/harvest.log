@@ -1,0 +1,48 @@
+funny p4: 20 groups
+funny p5: 20 groups
+funny p6: 20 groups
+funny p7: 20 groups
+funny p8: 20 groups
+funny p9: 20 groups
+funny p10: 20 groups
+funny p11: 20 groups
+funny p12: 20 groups
+funny p13: 20 groups
+  fetch fail https://www.groupjoin.link/tag/funny?page=14 attempt 1 rc=28 len=0
+funny p14: 20 groups
+funny p15: 20 groups
+funny p16: 19 groups
+funny p17: 20 groups
+funny p18: 20 groups
+funny p19: 20 groups
+funny p20: 20 groups
+funny p21: 20 groups
+funny p22: 20 groups
+funny p23: 20 groups
+funny p24: 20 groups
+funny p25: 20 groups
+funny p26: 20 groups
+funny p27: 20 groups
+funny p28: 20 groups
+funny p29: 20 groups
+funny p30: 20 groups
+funny p31: 20 groups
+funny p32: 20 groups
+funny p33: 20 groups
+funny p34: 20 groups
+funny p35: 13 groups
+health p2: 20 groups
+health p3: 20 groups
+health p4: 20 groups
+  fetch fail https://www.groupjoin.link/tag/health?page=5 attempt 1 rc=52 len=0
+  fetch fail https://www.groupjoin.link/tag/health?page=5 attempt 2 rc=28 len=0
+health p5: 13 groups
+TOTAL raw: 705 totals: {'funny': 693, 'health': 93}
+Traceback (most recent call last):
+  File "/home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261106/scratch14/harvest.py", line 74, in <module>
+    main()
+  File "/home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261106/scratch14/harvest.py", line 71, in main
+    json.dump({"candidates": allc, "totals": totals}, open(f"{SCRATCH}/raw.json", "w"), ensure_ascii=False, indent=1)
+  File "/usr/lib/python3.12/json/__init__.py", line 180, in dump
+    fp.write(chunk)
+PermissionError: [Errno 1] Operation not permitted

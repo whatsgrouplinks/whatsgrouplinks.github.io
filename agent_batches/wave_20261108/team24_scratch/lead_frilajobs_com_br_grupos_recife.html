@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <!-- Scripts de terceiros (GTM, gtag, Meta Pixel) carregados após o load para não bloquear o render -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      window.fbq = window.fbq || function(){ (window.fbq.queue = window.fbq.queue || []).push(arguments); };
+      // init imediato: entra primeiro na fila do stub, antes de qualquer evento (ex.: ViewContent do /postar) disparado pelo app.
+      window.fbq('init', '1144272227955081');
+
+      (function () {
+        var started = false;
+        function loadThirdParty() {
+          if (started) return;
+          started = true;
+
+          // Google Tag Manager
+          (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','GT-PZVLF5WQ');
+
+          // Google Analytics (gtag.js)
+          var g = document.createElement('script');
+          g.async = true;
+          g.src = 'https://www.googletagmanager.com/gtag/js?id=G-BYBL3GMZGK';
+          g.onload = function () {
+            gtag('js', new Date());
+            gtag('config', 'G-BYBL3GMZGK');
+          };
+          document.head.appendChild(g);
+
+          // Meta Pixel
+          !function(f,b,e,v,n,t,s)
+          {if(f.fbq&&f.fbq.loaded)return;n=f.fbq=f.fbq||function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=n.queue||[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+          fbq('track', 'PageView');
+        }
+
+        function schedule() {
+          if ('requestIdleCallback' in window) {
+            requestIdleCallback(loadThirdParty, { timeout: 3000 });
+          } else {
+            setTimeout(loadThirdParty, 1200);
+          }
+        }
+
+        if (document.readyState === 'complete') schedule();
+        else window.addEventListener('load', schedule, { once: true });
+      })();
+    </script>
+    <!-- End third-party scripts -->
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=7">
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon.png?v=7">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png?v=7">
+    <link rel="apple-touch-icon" href="/favicon.png?v=7">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <meta name="theme-color" content="#075e54">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Frila Jobs">
+    <meta name="author" content="Frila Jobs" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a62d4349-c539-454e-8dc4-7cf0e654f55e/id-preview-0eaec58a--54f83445-d197-4472-bc21-69d26cafa707.lovable.app-1771776992237.png">
+
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "FrilaJobs",
+        "url": "https://frilajobs.com.br/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://frilajobs.com.br/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "FrilaJobs",
+        "alternateName": "YouJobs",
+        "url": "https://frilajobs.com.br/",
+        "sameAs": [
+          "https://www.instagram.com/frila_jobs"
+        ]
+      }
+
+    </script>
+
+    <!-- Meta Pixel: carregado no bloco diferido acima -->
+
+    <script type="module" crossorigin src="/assets/index-CR0q1vTD.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-N_2XWHK9.css">
+      <title>Grupo de Vagas no WhatsApp em Recife | Frila Jobs</title>
+    <meta name="description" content="Grupo de WhatsApp ativo com vagas reais de emprego em Recife/PE. Vagas novas todos os dias. Entrada grátis, sem cadastro." />
+    <link rel="canonical" href="https://frilajobs.com.br/grupos/recife" />
+    <meta property="og:title" content="Grupo de Vagas no WhatsApp em Recife | Frila Jobs" />
+    <meta property="og:description" content="Grupo de WhatsApp ativo com vagas reais de emprego em Recife/PE. Vagas novas todos os dias. Entrada grátis, sem cadastro." />
+    <meta property="og:url" content="https://frilajobs.com.br/grupos/recife" />
+    <meta property="og:type" content="website" />
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"É grátis entrar no grupo de vagas de Recife?","acceptedAnswer":{"@type":"Answer","text":"Sim. O grupo de vagas de Recife/PE é 100% gratuito, sem mensalidade e sem cadastro."}},{"@type":"Question","name":"Que tipo de vaga aparece em Recife?","acceptedAnswer":{"@type":"Answer","text":"Vagas efetivas, temporárias, meio período, freelancer e estágio em Recife e região."}},{"@type":"Question","name":"Como sair do grupo?","acceptedAnswer":{"@type":"Answer","text":"Quando quiser, é só abrir o grupo no WhatsApp, tocar no nome do grupo e escolher \"Sair do grupo\"."}}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://frilajobs.com.br/"},{"@type":"ListItem","position":2,"name":"Grupos de WhatsApp","item":"https://frilajobs.com.br/grupos"},{"@type":"ListItem","position":3,"name":"Recife","item":"https://frilajobs.com.br/grupos/recife"}]}</script>
+  <script defer src="/~flock.js" data-proxy-url="/~api/analytics"></script><script defer src="/__l5e/events.270c78a44fc53e7b.js" data-artifact-kind="dwl_content_hash" data-artifact-id="9930ce46c7c9fd22e96603fb484d587c906ae740db92818eb412960ba15a7c1f" data-commit-sha="6d7b7156a33a49f3a444969ebcebec4388a8c352" data-context-token="v1.eyJwcm9qZWN0X2lkIjoibG92cF80ajg4ZWhyc2F3OThjcjY3d3lqOHpmczV2NiIsImFydGlmYWN0X2tpbmQiOiJkd2xfY29udGVudF9oYXNoIiwiYXJ0aWZhY3RfaWQiOiI5OTMwY2U0NmM3YzlmZDIyZTk2NjAzZmI0ODRkNTg3YzkwNmFlNzQwZGI5MjgxOGViNDEyOTYwYmExNWE3YzFmIiwiY29tbWl0X3NoYSI6IjZkN2I3MTU2YTMzYTQ5ZjNhNDQ0OTY5ZWJjZWJlYzQzODhhOGMzNTIiLCJleHAiOjE3OTY3MTM3NzJ9.fQ6XgLlJxIIWJwdXog-NT7jLwlUAAOcxJStTLFp2VAE" data-autocapture="1" data-consent="1"></script><meta name="twitter:title" content="Grupo de Vagas no WhatsApp em Recife | Frila Jobs"><meta name="twitter:description" content="Grupo de WhatsApp ativo com vagas reais de emprego em Recife/PE. Vagas novas todos os dias. Entrada grátis, sem cadastro."><meta name="twitter:image" content="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a62d4349-c539-454e-8dc4-7cf0e654f55e/id-preview-0eaec58a--54f83445-d197-4472-bc21-69d26cafa707.lovable.app-1771776992237.png"></head>
+
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GT-PZVLF5WQ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1144272227955081&ev=PageView&noscript=1" /></noscript>
+    <div id="root"><main>
+<h1>Grupo de WhatsApp de vagas de emprego em Recife/PE</h1>
+<p>Entre no nosso grupo de WhatsApp e receba todos os dias as vagas de emprego em Recife/PE. É gratuito, sem cadastro e sem mensalidade.</p>
+<p><a href="/g/recife">Entrar no grupo de Recife</a></p>
+<p><a href="/vagas/recife">Ver todas as 0 vagas em Recife</a></p>
+<section><h2>Perguntas frequentes</h2><h3>É grátis entrar no grupo de vagas de Recife?</h3><p>Sim. O grupo de vagas de Recife/PE é 100% gratuito, sem mensalidade e sem cadastro.</p><h3>Que tipo de vaga aparece em Recife?</h3><p>Vagas efetivas, temporárias, meio período, freelancer e estágio em Recife e região.</p><h3>Como sair do grupo?</h3><p>Quando quiser, é só abrir o grupo no WhatsApp, tocar no nome do grupo e escolher &quot;Sair do grupo&quot;.</p></section>
+<section><h2>Mais sobre vagas em Recife</h2><ul><li><a href="/vagas/recife">Todas as vagas de emprego em Recife</a></li><li><a href="/anunciar-vaga/recife">Anunciar vaga em Recife</a></li><li><a href="/publicar-vaga-gratis/recife">Publicar vaga grátis em Recife</a></li><li><a href="/onde-divulgar-vaga/recife">Onde divulgar vaga em Recife</a></li></ul></section>
+<section><h2>Grupos de vagas em cidades próximas de Recife</h2><ul><li><a href="/grupos/arapongas">Grupo de vagas de Arapongas/PR</a> · <a href="/vagas/arapongas">vagas em Arapongas</a></li><li><a href="/grupos/araquari">Grupo de vagas de Araquari/SC</a> · <a href="/vagas/araquari">vagas em Araquari</a></li><li><a href="/grupos/araucaria">Grupo de vagas de Araucária/PR</a> · <a href="/vagas/araucaria">vagas em Araucária</a></li><li><a href="/grupos/balneario-camboriu">Grupo de vagas de Balneário Camboriú/SC</a> · <a href="/vagas/balneario-camboriu">vagas em Balneário Camboriú</a></li><li><a href="/grupos/balneario-picarras">Grupo de vagas de Balneário Piçarras/SC</a> · <a href="/vagas/balneario-picarras">vagas em Balneário Piçarras</a></li><li><a href="/grupos/barra-velha">Grupo de vagas de Barra Velha/SC</a> · <a href="/vagas/barra-velha">vagas em Barra Velha</a></li><li><a href="/grupos/blumenau">Grupo de vagas de Blumenau/SC</a> · <a href="/vagas/blumenau">vagas em Blumenau</a></li><li><a href="/grupos/bombinhas">Grupo de vagas de Bombinhas/SC</a> · <a href="/vagas/bombinhas">vagas em Bombinhas</a></li></ul><p><a href="/grupos">Ver todos os grupos de vagas por cidade</a></p></section>
+</main></div>
+  </body>
+</html>

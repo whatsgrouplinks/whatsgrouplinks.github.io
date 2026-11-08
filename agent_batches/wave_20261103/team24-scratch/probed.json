@@ -1,0 +1,230 @@
+{
+ "sheffield": {
+  "status": 404
+ },
+ "bristol": {
+  "status": 404
+ },
+ "nottingham": {
+  "status": 404
+ },
+ "newcastle": {
+  "status": 404
+ },
+ "edinburgh": {
+  "status": 404
+ },
+ "glasgow": {
+  "status": 404
+ },
+ "cardiff": {
+  "status": 404
+ },
+ "oxford": {
+  "status": 404
+ },
+ "cambridge": {
+  "status": 404
+ },
+ "york": {
+  "status": 404
+ },
+ "hull": {
+  "status": 404
+ },
+ "norwich": {
+  "status": 404
+ },
+ "plymouth": {
+  "status": 404
+ },
+ "exeter": {
+  "status": 404
+ },
+ "portsmouth": {
+  "status": 404
+ },
+ "leicester": {
+  "status": 404
+ },
+ "coventry": {
+  "status": 404
+ },
+ "bradford": {
+  "status": 404
+ },
+ "derby": {
+  "status": 404
+ },
+ "sunderland": {
+  "status": 404
+ },
+ "middlesbrough": {
+  "status": 404
+ },
+ "stoke": {
+  "status": 404
+ },
+ "wolverhampton": {
+  "status": 404
+ },
+ "peterborough": {
+  "status": 404
+ },
+ "swindon": {
+  "status": 404
+ },
+ "bath": {
+  "status": 404
+ },
+ "brighton": {
+  "status": 404
+ },
+ "canterbury": {
+  "status": 404
+ },
+ "belfast": {
+  "status": 404
+ },
+ "bournemouth": {
+  "status": 404
+ },
+ "southend": {
+  "status": 404
+ },
+ "colchester": {
+  "status": 404
+ },
+ "ipswich": {
+  "status": 404
+ },
+ "luton": {
+  "status": 404
+ },
+ "watford": {
+  "status": 404
+ },
+ "slough": {
+  "status": 404
+ },
+ "croydon": {
+  "status": 404
+ },
+ "blackpool": {
+  "error": "transport failure"
+ },
+ "stoke-on-trent": {
+  "status": 404
+ },
+ "preston": {
+  "status": 404
+ },
+ "eastlondon": {
+  "status": 404
+ },
+ "westlondon": {
+  "status": 404
+ },
+ "northlondon": {
+  "status": 404
+ },
+ "southlondon": {
+  "status": 404
+ },
+ "central-london": {
+  "status": 404
+ },
+ "birminghamhouse": {
+  "status": 404
+ },
+ "leedshouse": {
+  "status": 404
+ },
+ "readinghouse": {
+  "status": 404
+ },
+ "southamptonhouse": {
+  "status": 404
+ },
+ "warringtonhouse": {
+  "status": 404
+ },
+ "miltonkeyneshouse": {
+  "status": 404
+ },
+ "edinburghhouse": {
+  "status": 404
+ },
+ "glasgowhouse": {
+  "status": 404
+ },
+ "sheffieldhouse": {
+  "status": 404
+ },
+ "cardiffhouse": {
+  "status": 404
+ },
+ "newcastlehouse": {
+  "status": 404
+ },
+ "nottinghamhouse": {
+  "status": 404
+ },
+ "eastmidlandshouse": {
+  "status": 404
+ },
+ "scotlandhouse": {
+  "status": 404
+ },
+ "southwestncardiffhouse": {
+  "status": 404
+ },
+ "kent": {
+  "status": 404
+ },
+ "essex": {
+  "status": 404
+ },
+ "surrey": {
+  "status": 404
+ },
+ "yorkshire": {
+  "status": 404
+ },
+ "wales": {
+  "status": 404
+ },
+ "merseyside": {
+  "status": 404
+ },
+ "lancashire": {
+  "status": 404
+ },
+ "cheshire": {
+  "status": 404
+ },
+ "hampshire": {
+  "status": 404
+ },
+ "devon": {
+  "status": 404
+ },
+ "cornwall": {
+  "status": 404
+ },
+ "somerset": {
+  "status": 404
+ },
+ "gloucestershire": {
+  "status": 404
+ },
+ "wiltshire": {
+  "status": 404
+ },
+ "norfolk": {
+  "status": 404
+ },
+ "suffolk": {
+  "status": 404
+ }
+}

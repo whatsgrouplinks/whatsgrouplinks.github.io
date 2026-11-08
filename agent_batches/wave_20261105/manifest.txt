@@ -1,0 +1,153 @@
+WAVE 20261105 MANIFEST
+======================
+Verified file-sum (sum of per-team counts): 17732
+Verified unique codes (after cross-team dedupe): 16440
+Cross-team duplicate copies removed by dedupe: 1292
+Pending file-sum: 18344 (unique pending codes: 16918)
+Leads file-sum: 706
+Verified codes also present in some pending file: 85
+
+Per-team verified files:
+  team01 team01-groups1-pool-a.json: count=3949 valid_json=True schema_ok=True size=1555439 dupes_in_file=0 in_union=0 bad_invite=0 | slice: groups1 pool A (codes[0:5892])
+  team02 team02-groups1-pool-b.json: count=3945 valid_json=True schema_ok=True size=1485798 dupes_in_file=0 in_union=0 bad_invite=0 | slice: groups1 pool B (codes[5892:])
+  team03 team03-igrupos.json: count=1074 valid_json=True schema_ok=True size=352832 dupes_in_file=0 in_union=0 bad_invite=0 | slice: igrupos pending
+  team04 team04-ongrupos.json: count=670 valid_json=True schema_ok=True size=210458 dupes_in_file=0 in_union=0 bad_invite=0 | slice: ongrupos pending
+  team05 team05-gjl-linkado.json: count=1431 valid_json=True schema_ok=True size=518322 dupes_in_file=0 in_union=0 bad_invite=0 | slice: gjl-newtags+linkado pending
+  team06 team06-arabic.json: count=732 valid_json=True schema_ok=True size=450724 dupes_in_file=0 in_union=0 bad_invite=0 | slice: Arabic pending
+  team07 team07-appgrouplink.json: count=869 valid_json=True schema_ok=True size=340373 dupes_in_file=0 in_union=0 bad_invite=0 | slice: appgrouplink pending
+  team08 team08-groupchatconnect.json: count=364 valid_json=True schema_ok=True size=123972 dupes_in_file=0 in_union=0 bad_invite=0 | slice: groupchatconnect pending
+  team09 team09-groupsinvite.json: count=351 valid_json=True schema_ok=True size=126094 dupes_in_file=0 in_union=0 bad_invite=0 | slice: groupsinvite recovery
+  team10 team10-small-pending.json: count=128 valid_json=True schema_ok=True size=37981 dupes_in_file=0 in_union=0 bad_invite=0 | slice: small pending bundle
+  team11 team11-groupssor.json: count=1 valid_json=True schema_ok=True size=377 dupes_in_file=0 in_union=0 bad_invite=0 | slice: groupssor API re-poll
+  team12 team12-grupbul.json: count=23 valid_json=True schema_ok=True size=8193 dupes_in_file=0 in_union=0 bad_invite=0 | slice: grupbul.com categories
+  team13 team13-whatshub.json: count=0 valid_json=True schema_ok=True size=2 dupes_in_file=0 in_union=0 bad_invite=0 | slice: whatshub.es
+  team14 team14-latam.json: count=18 valid_json=True schema_ok=True size=6987 dupes_in_file=0 in_union=0 bad_invite=0 | slice: LatAm directories
+  team15 team15-linkado.json: count=1625 valid_json=True schema_ok=True size=536844 dupes_in_file=0 in_union=0 bad_invite=0 | slice: linkado.app resume
+  team16 team16-groupjoin.json: count=407 valid_json=True schema_ok=True size=213969 dupes_in_file=0 in_union=0 bad_invite=0 | slice: groupjoin.link tags
+  team17 team17-whatsappkanali.json: count=30 valid_json=True schema_ok=True size=9192 dupes_in_file=0 in_union=0 bad_invite=0 | slice: whatsappkanali.com
+  team18 team18-visadb.json: count=0 valid_json=True schema_ok=True size=2 dupes_in_file=0 in_union=0 bad_invite=0 | slice: visadb.io EU
+  team19 team19-meetup-nextdoor.json: count=15 valid_json=True schema_ok=True size=5846 dupes_in_file=0 in_union=0 bad_invite=0 | slice: Meetup/Nextdoor
+  team20 team20-ireland-uni.json: count=0 valid_json=True schema_ok=True size=2 dupes_in_file=0 in_union=0 bad_invite=0 | slice: Ireland + universityapplicants
+  team21 team21-groupda.json: count=0 valid_json=True schema_ok=True size=2 dupes_in_file=0 in_union=0 bad_invite=0 | slice: groupda retry + groupda.pk API
+  team22 team22-groupsinvite-link.json: count=179 valid_json=True schema_ok=True size=67268 dupes_in_file=0 in_union=0 bad_invite=0 | slice: groupsinvite.link retry
+  team23 team23-portugal.json: count=0 valid_json=True schema_ok=True size=2 dupes_in_file=0 in_union=0 bad_invite=0 | slice: Portugal directories
+  team24 team24-ongrupos-slices.json: count=36 valid_json=True schema_ok=True size=17459 dupes_in_file=0 in_union=0 bad_invite=0 | slice: ongrupos slices
+  team25 team25-igrupos-ongrupos-new.json: count=22 valid_json=True schema_ok=True size=6469 dupes_in_file=0 in_union=0 bad_invite=0 | slice: igrupos+ongrupos new since Nov 4
+  team26 team26-new-dirs-a.json: count=28 valid_json=True schema_ok=True size=10972 dupes_in_file=0 in_union=0 bad_invite=0 | slice: new directories set A
+  team27 team27-new-dirs-b.json: count=55 valid_json=True schema_ok=True size=20694 dupes_in_file=0 in_union=0 bad_invite=0 | slice: new directories set B
+  team28 team28-listicles-a.json: count=16 valid_json=True schema_ok=True size=8402 dupes_in_file=0 in_union=0 bad_invite=0 | slice: listicles set A (study/jobs/sports)
+  team29 team29-listicles-b.json: count=4 valid_json=True schema_ok=True size=2142 dupes_in_file=0 in_union=0 bad_invite=0 | slice: listicles set B (movies/regional)
+  team30 team30-appgrouplink-new.json: count=0 valid_json=True schema_ok=True size=2 dupes_in_file=0 in_union=0 bad_invite=0 | slice: appgrouplink new since Nov 4
+  team31 team31-groupchatconnect.json: count=0 valid_json=True schema_ok=True size=2 dupes_in_file=0 in_union=0 bad_invite=0 | slice: groupchatconnect leads-only
+  team32 team32-gjl-tags.json: count=152 valid_json=True schema_ok=True size=79346 dupes_in_file=0 in_union=0 bad_invite=0 | slice: gjl tag candidates (team13 leads)
+  team33 team33-leads-bank-a.json: count=0 valid_json=True schema_ok=True size=2 dupes_in_file=0 in_union=0 bad_invite=0 | slice: leads bank part A
+  team34 team34-leads-bank-b.json: count=303 valid_json=True schema_ok=True size=118507 dupes_in_file=0 in_union=0 bad_invite=0 | slice: leads bank part B
+  team35 team35-new-tags.json: count=723 valid_json=True schema_ok=True size=241255 dupes_in_file=0 in_union=0 bad_invite=0 | slice: igrupos+ongrupos new tags
+  team36 team36-recovery.json: count=582 valid_json=True schema_ok=True size=208261 dupes_in_file=0 in_union=0 bad_invite=0 | slice: pending-file recovery + empty audit
+
+Per-team pending / leads:
+  team01: pending=1806 leads=0
+  team02: pending=1863 leads=0
+  team03: pending=2097 leads=0
+  team04: pending=2247 leads=0
+  team05: pending=1227 leads=0
+  team06: pending=1503 leads=0
+  team07: pending=473 leads=0
+  team08: pending=666 leads=0
+  team09: pending=167 leads=2
+  team10: pending=559 leads=0
+  team11: pending=2 leads=0
+  team12: pending=39 leads=13
+  team13: pending=0 leads=17
+  team14: pending=11 leads=7
+  team15: pending=2077 leads=10
+  team16: pending=398 leads=22
+  team17: pending=47 leads=51
+  team18: pending=0 leads=3
+  team19: pending=4 leads=5
+  team20: pending=0 leads=9
+  team21: pending=0 leads=127
+  team22: pending=98 leads=8
+  team23: pending=0 leads=4
+  team24: pending=146 leads=5
+  team25: pending=21 leads=46
+  team26: pending=179 leads=10
+  team27: pending=155 leads=5
+  team28: pending=111 leads=8
+  team29: pending=3 leads=27
+  team30: pending=0 leads=7
+  team31: pending=0 leads=213
+  team32: pending=293 leads=35
+  team33: pending=183 leads=0
+  team34: pending=1118 leads=43
+  team35: pending=644 leads=10
+  team36: pending=207 leads=19
+
+Cross-team verified-code overlaps (team pairs -> shared codes):
+  05 + 16: 242
+  09 + 36: 242
+  05 + 15: 227
+  09 + 22 + 36: 92
+  03 + 35: 55
+  10 + 36: 30
+  05 + 32: 27
+  10 + 17: 27
+  22 + 36: 21
+  01 + 07: 16
+  26 + 27 + 34: 16
+  02 + 07: 14
+  04 + 24: 12
+  02 + 34: 8
+  05 + 16 + 34: 6
+  01 + 05: 5
+  01 + 09 + 36: 5
+  02 + 36: 5
+  05 + 34: 5
+  27 + 34: 5
+  05 + 16 + 32: 4
+  07 + 36: 4
+  16 + 34: 4
+  34 + 36: 4
+  01 + 34: 3
+  01 + 05 + 16: 3
+  02 + 09 + 36: 3
+  02 + 05: 3
+  04 + 15: 3
+  05 + 32 + 34: 3
+  09 + 22: 3
+  16 + 32: 3
+  26 + 34: 3
+  01 + 36: 2
+  01 + 05 + 32: 2
+  02 + 16: 2
+  05 + 07 + 16: 2
+  05 + 07: 2
+  07 + 09 + 36: 2
+  08 + 34: 2
+  10 + 17 + 34: 2
+  01 + 27: 1
+  01 + 32: 1
+  01 + 16: 1
+  01 + 08: 1
+  01 + 05 + 07: 1
+  02 + 32: 1
+  02 + 05 + 07: 1
+  02 + 34 + 36: 1
+  02 + 05 + 16: 1
+  04 + 14: 1
+  04 + 05 + 15: 1
+  05 + 15 + 35: 1
+  07 + 32: 1
+  07 + 34: 1
+  07 + 10: 1
+  09 + 22 + 27 + 36: 1
+  10 + 24: 1
+  10 + 32: 1
+  10 + 26: 1
+  14 + 35: 1
+  22 + 27: 1
+  22 + 26 + 27 + 34: 1
+  32 + 36: 1
+
+Validation issues:
+  none

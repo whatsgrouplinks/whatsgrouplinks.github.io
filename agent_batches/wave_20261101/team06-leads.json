@@ -1,0 +1,27 @@
+[
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/money?page=1&limit=20&safeSearch=blur",
+  "why": "Category route not yet scraped under new scheme; same structure as /category/business."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/marketing?page=1&limit=20&safeSearch=blur",
+  "why": "Category route not yet scraped under new scheme; same structure as /category/business."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/online-shopping?page=1&limit=20&safeSearch=blur",
+  "why": "Category route not yet scraped under new scheme; same structure as /category/business."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/entertainment?page=1&limit=20&safeSearch=blur",
+  "why": "Category route not yet scraped under new scheme; same structure as /category/business."
+ },
+ {
+  "domain": "groupjoin.link",
+  "url": "https://www.groupjoin.link/category/gaming?page=1&limit=20&safeSearch=blur",
+  "why": "Category route not yet scraped under new scheme (only gaming TAG pages were covered); same structure as /category/business."
+ }
+]

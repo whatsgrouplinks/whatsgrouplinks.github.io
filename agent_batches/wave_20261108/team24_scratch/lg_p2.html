@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="es-MX" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grupos de WhatsApp - LosGrupos</title>
+    <meta name="description" content="Encuentra y comparte los mejores grupos de WhatsApp de Mexico. Explora miles de grupos por categoria, votalos y unete con un clic.">
+    <meta name="keywords" content="grupos de WhatsApp, grupos de WhatsApp Mexico, grupos WhatsApp mexicanos, unirse a grupos de WhatsApp, enlaces de grupos de WhatsApp, grupos de WhatsApp Mexico 2026">
+
+    <!-- Geo-Targeting Mexico -->
+    <meta name="geo.region" content="MX">
+    <meta name="geo.placename" content="Mexico">
+    <meta name="geo.position" content="23.6345;-102.5528">
+    <meta name="ICBM" content="23.6345, -102.5528">
+
+    <!-- Favicons -->
+    <link rel="icon" href="/favicon.ico" sizes="48x48">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <!-- PWA: Install-Prompt einfangen + Service Worker registrieren -->
+    <script>
+    (function () {
+        window.__deferredInstallPrompt = null;
+        window.addEventListener('beforeinstallprompt', function (e) {
+            e.preventDefault();
+            window.__deferredInstallPrompt = e;
+            window.dispatchEvent(new CustomEvent('pwa-installable'));
+        });
+        window.addEventListener('appinstalled', function () {
+            window.__deferredInstallPrompt = null;
+            window.dispatchEvent(new CustomEvent('pwa-installed'));
+        });
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('/sw.js').catch(function () {});
+            });
+        }
+    })();
+    </script>
+    <meta name="theme-color" content="#0f8f4e">
+
+    <!-- RSS Feed Auto-Discovery -->
+    <link rel="alternate" type="application/rss+xml" title="LosGrupos - Grupos de WhatsApp de Mexico RSS" href="/feed.xml?lang=es">
+
+    <link rel="canonical" href="https://losgrupos.app/grupos">
+    <link rel="alternate" hreflang="es-mx" href="https://losgrupos.app/grupos">
+    <link rel="alternate" hreflang="x-default" href="https://losgrupos.app/grupos">
+
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            50: '#e8f6ee',
+                            100: '#c6ead4',
+                            200: '#93d6ac',
+                            300: '#55bd83',
+                            400: '#23a566',
+                            500: '#0f8f4e',
+                            600: '#0b7a41',
+                            700: '#086134',
+                            800: '#064d29',
+                            900: '#04381e',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Alpine.js via CDN -->
+    <script>
+        document.addEventListener('alpine:init', () => {
+            Alpine.store('adult', {
+                confirmed: localStorage.getItem('adult_confirmed') === '1',
+                confirm() {
+                    this.confirmed = true;
+                    localStorage.setItem('adult_confirmed', '1');
+                }
+            });
+
+            Alpine.data('pwaInstall', () => ({
+                show: false,
+                guide: false,
+                platform: 'desktop',
+                init() {
+                    // Laeuft die Seite schon als installierte App? Dann Button ausblenden.
+                    const standalone = window.matchMedia('(display-mode: standalone)').matches
+                        || window.navigator.standalone === true
+                        || document.referrer.startsWith('android-app://');
+                    if (standalone) { this.show = false; return; }
+                    this.platform = this.detect();
+                    this.show = true;
+                    window.addEventListener('pwa-installable', () => { this.show = true; });
+                    window.addEventListener('pwa-installed', () => { this.show = false; this.guide = false; });
+                },
+                detect() {
+                    const ua = navigator.userAgent || '';
+                    if (/iPhone|iPad|iPod/i.test(ua)) return 'ios';
+                    if (/Android/i.test(ua)) return 'android';
+                    return 'desktop';
+                },
+                async install() {
+                    const dp = window.__deferredInstallPrompt;
+                    if (dp) {
+                        dp.prompt();
+                        try { await dp.userChoice; } catch (e) {}
+                        window.__deferredInstallPrompt = null;
+                    } else {
+                        // iOS/Safari haben keinen nativen Prompt -> Anleitung zeigen.
+                        this.guide = true;
+                    }
+                },
+            }));
+        });
+    </script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+    <!-- Custom styles + brand color fallbacks -->
+    <style>
+        [x-cloak] { display: none !important; }
+
+        /* Hide reCAPTCHA v3 badge — attribution text is in footer (allowed by Google) */
+        .grecaptcha-badge { visibility: hidden !important; }
+
+        /* Brand color fallbacks (in case Tailwind CDN config is slow) */
+        .bg-brand-50  { background-color: #e8f6ee !important; }
+        .bg-brand-100 { background-color: #c6ead4 !important; }
+        .bg-brand-200 { background-color: #93d6ac !important; }
+        .bg-brand-300 { background-color: #55bd83 !important; }
+        .bg-brand-400 { background-color: #23a566 !important; }
+        .bg-brand-500 { background-color: #0f8f4e !important; }
+        .bg-brand-600 { background-color: #0b7a41 !important; }
+        .bg-brand-700 { background-color: #086134 !important; }
+        .bg-brand-800 { background-color: #064d29 !important; }
+        .bg-brand-900 { background-color: #04381e !important; }
+        .text-brand-50  { color: #e8f6ee !important; }
+        .text-brand-100 { color: #c6ead4 !important; }
+        .text-brand-200 { color: #93d6ac !important; }
+        .text-brand-300 { color: #55bd83 !important; }
+        .text-brand-400 { color: #23a566 !important; }
+        .text-brand-500 { color: #0f8f4e !important; }
+        .text-brand-600 { color: #0b7a41 !important; }
+        .text-brand-700 { color: #086134 !important; }
+        .border-brand-200 { border-color: #93d6ac !important; }
+        .border-brand-300 { border-color: #55bd83 !important; }
+        .border-brand-500 { border-color: #0f8f4e !important; }
+        .ring-brand-500 { --tw-ring-color: #0f8f4e !important; }
+        .shadow-brand-200 { --tw-shadow-color: #93d6ac !important; }
+        .from-brand-100 { --tw-gradient-from: #c6ead4 !important; }
+        .from-brand-400 { --tw-gradient-from: #23a566 !important; }
+        .from-brand-500 { --tw-gradient-from: #0f8f4e !important; }
+        .to-brand-200 { --tw-gradient-to: #93d6ac !important; }
+        .to-brand-600 { --tw-gradient-to: #0b7a41 !important; }
+        .to-brand-700 { --tw-gradient-to: #086134 !important; }
+
+        /* Gradient background fallback */
+        .bg-gradient-to-br.from-brand-500.to-brand-700 {
+            background-image: linear-gradient(to bottom right, #0f8f4e, #086134) !important;
+        }
+        .bg-gradient-to-br.from-brand-400.to-brand-600 {
+            background-image: linear-gradient(to bottom right, #23a566, #0b7a41) !important;
+        }
+        .bg-gradient-to-br.from-brand-100.to-brand-200 {
+            background-image: linear-gradient(to bottom right, #c6ead4, #93d6ac) !important;
+        }
+
+        /* Hover variants */
+        .hover\:text-brand-500:hover { color: #0f8f4e !important; }
+        .hover\:text-brand-600:hover { color: #0b7a41 !important; }
+        .hover\:bg-brand-100:hover { background-color: #c6ead4 !important; }
+        .hover\:bg-brand-600:hover { background-color: #0b7a41 !important; }
+        .hover\:border-brand-200:hover { border-color: #93d6ac !important; }
+        .hover\:border-brand-300:hover { border-color: #55bd83 !important; }
+        .group:hover .group-hover\:text-brand-400 { color: #23a566 !important; }
+        .group:hover .group-hover\:text-brand-600 { color: #0b7a41 !important; }
+        .group:hover .group-hover\:bg-brand-100 { background-color: #c6ead4 !important; }
+
+        /* Focus variants */
+        .focus\:ring-brand-500:focus { --tw-ring-color: #0f8f4e !important; }
+        .focus\:border-brand-500:focus { border-color: #0f8f4e !important; }
+    </style>
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Grupos de WhatsApp - LosGrupos">
+    <meta property="og:description" content="Encuentra y comparte los mejores grupos de WhatsApp de Mexico. Explora miles de grupos por categoria, votalos y unete con un clic.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://losgrupos.app/grupos">
+    <meta property="og:site_name" content="LosGrupos">
+    <meta property="og:locale" content="es_MX">
+    
+    <!-- Twitter / X Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Grupos de WhatsApp - LosGrupos">
+    <meta name="twitter:description" content="Encuentra y comparte los mejores grupos de WhatsApp de Mexico. Explora miles de grupos por categoria, votalos y unete con un clic.">
+    
+    <!-- Schema.org JSON-LD -->
+    
+    
+        <!-- reCAPTCHA v3 (invisible, score-based spam protection) -->
+    <script src="https://www.google.com/recaptcha/api.js?render=6LfN-HUtAAAAAB8qDs5WSFcbsHYgznAGRFuHGqVv"></script>
+    <script>
+        /**
+         * Execute reCAPTCHA v3 and set the token in the form's hidden field.
+         * Usage: <form onsubmit="return recaptchaSubmit(event, 'action_name')">
+         *        <input type="hidden" name="g-recaptcha-response" id="recaptcha-token-FORMID">
+         */
+        function recaptchaSubmit(event, action, tokenFieldId) {
+            event.preventDefault();
+            var form = event.target;
+            grecaptcha.ready(function() {
+                grecaptcha.execute('6LfN-HUtAAAAAB8qDs5WSFcbsHYgznAGRFuHGqVv', { action: action })
+                    .then(function(token) {
+                        var field = document.getElementById(tokenFieldId);
+                        if (field) field.value = token;
+                        form.submit();
+                    });
+            });
+            return false;
+        }
+    </script>
+    </head>
+<body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
+
+    <!-- Franja tricolor mexicana -->
+    <div aria-hidden="true" class="w-full h-1.5" style="background:linear-gradient(to right,#006847 0 33.34%,#ffffff 33.34% 66.67%,#ce1126 66.67% 100%)"></div>
+
+    <header class="bg-white shadow-sm sticky top-0 z-50" x-data="{ mobileMenu: false }">
+    <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-between h-16">
+            <!-- Logo -->
+            <a href="/" class="flex items-center gap-2 text-xl font-bold text-brand-600 hover:text-brand-700 transition">
+                <svg class="w-8 h-8" viewBox="0 0 512 512" aria-hidden="true">
+                    <defs><clipPath id="hsq"><rect x="0" y="0" width="512" height="512" rx="115"/></clipPath></defs>
+                    <g clip-path="url(#hsq)">
+                        <rect x="0" y="0" width="170.67" height="512" fill="#006847"/>
+                        <rect x="170.67" y="0" width="170.67" height="512" fill="#ffffff"/>
+                        <rect x="341.33" y="0" width="170.67" height="512" fill="#ce1126"/>
+                    </g>
+                    <circle cx="256" cy="256" r="146" fill="#ffffff"/>
+                    <circle cx="256" cy="256" r="146" fill="none" stroke="#0f8f4e" stroke-width="12"/>
+                    <g transform="translate(147,147) scale(9.25)" fill="#128f52">
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/>
+                        <path d="M12 2C6.477 2 2 6.477 2 12c0 1.89.525 3.66 1.438 5.168L2 22l4.832-1.438A9.955 9.955 0 0012 22c5.523 0 10-4.477 10-10S17.523 2 12 2zm0 18a7.96 7.96 0 01-4.11-1.14l-.29-.174-3.01.79.8-2.93-.19-.3A7.963 7.963 0 014 12c0-4.411 3.589-8 8-8s8 3.589 8 8-3.589 8-8 8z"/>
+                    </g>
+                </svg>
+                <span>Los<span class="text-brand-500">Grupos</span></span>
+            </a>
+
+            <!-- Desktop Nav -->
+            <div class="hidden md:flex items-center gap-6">
+                <a href="/categorias" class="text-gray-600 hover:text-brand-500 transition font-medium">
+                    Categorias                </a>
+                <a href="/grupos" class="text-gray-600 hover:text-brand-500 transition font-medium">
+                    Grupos                </a>
+                <a href="/guia" class="text-gray-600 hover:text-brand-500 transition font-medium">
+                    Guia                </a>
+                <a href="/agregar-grupo" class="bg-brand-500 text-white px-4 py-2 rounded-lg hover:bg-brand-600 transition font-medium">
+                    + Agregar grupo                </a>
+
+                                <a href="/login" class="text-gray-600 hover:text-brand-500 transition text-sm font-medium">
+                    Iniciar sesion                </a>
+                            </div>
+
+            <!-- Mobile menu button -->
+            <button @click="mobileMenu = !mobileMenu" class="md:hidden p-2 text-gray-600">
+                <svg x-show="!mobileMenu" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+                <svg x-show="mobileMenu" x-cloak class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+            </button>
+        </div>
+
+        <!-- Mobile menu -->
+        <div x-show="mobileMenu" x-cloak x-transition class="md:hidden border-t py-4 space-y-2">
+            <a href="/categorias" class="block px-3 py-2 rounded-lg text-gray-700 hover:bg-gray-100">Categorias</a>
+            <a href="/grupos" class="block px-3 py-2 rounded-lg text-gray-700 hover:bg-gray-100">Grupos</a>
+            <a href="/guia" class="block px-3 py-2 rounded-lg text-gray-700 hover:bg-gray-100">Guia</a>
+            <a href="/agregar-grupo" class="block px-3 py-2 rounded-lg bg-brand-500 text-white text-center font-medium">+ Agregar grupo</a>
+            <div class="border-t pt-2 mt-2">
+                                <a href="/login" class="block px-3 py-2 rounded-lg text-gray-700 hover:bg-gray-100">Iniciar sesion</a>
+                <a href="/register" class="block px-3 py-2 rounded-lg text-gray-700 hover:bg-gray-100">Registrarse</a>
+                            </div>
+        </div>
+    </nav>
+</header>
+
+    
+    <main class="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        
+<!-- Ad Banner (responsive: Code steuert Sichtbarkeit via ###DESKTOP###/###MOBILE###) -->
+<div class="my-6">
+    <div class="mx-auto w-fit max-w-full flex justify-center rounded-xl bg-gray-50 border border-gray-100 px-4 py-3 overflow-x-auto">
+        <script src="https://bl-trkcdn.com/js/bn.php?token=3cb1c7b162a1976574167467ae209d53&cat=m&f=300x250"></script>    </div>
+</div>
+
+<div class="mb-8">
+        <h1 class="text-3xl font-bold text-gray-900 mb-2">
+        Grupos recientes    </h1>
+    </div>
+
+<!-- Filters -->
+<div class="flex flex-wrap items-center gap-3 mb-6">
+        <a href="/grupos?sort=newest"
+       class="px-4 py-2 rounded-lg text-sm font-medium transition bg-brand-500 text-white">
+        Recientes    </a>
+        <a href="/grupos?sort=popular"
+       class="px-4 py-2 rounded-lg text-sm font-medium transition bg-white text-gray-600 border hover:bg-gray-50">
+        Populares    </a>
+        <a href="/grupos?sort=views"
+       class="px-4 py-2 rounded-lg text-sm font-medium transition bg-white text-gray-600 border hover:bg-gray-50">
+        Mas vistos    </a>
+    </div>
+
+<!-- Groups Grid -->
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
+    <span data-wa-img="https://pps.whatsapp.net/v/t61.24694-24/239723798_965360710707258_1212975735801961147_n.jpg?ccb=11-4&amp;oh=01_Q5Aa6AHA7MDSrv6lkbLoZRgIDHfiakHf87weOb_AhUBMKFJoFA&amp;oe=6AF69D68&amp;_nc_sid=5e03e0&amp;_nc_cat=107" data-wa-group="163" class="hidden"></span>
+<article class="rounded-xl border hover:shadow-lg transition-all overflow-hidden group/card h-full bg-white border-gray-100 "
+    >
+    <a href="/grupo/163-fans-de-animes" class="flex flex-col h-full"
+           >
+        <!-- Image -->
+        <div class="relative aspect-[16/10] bg-gradient-to-br from-brand-100 to-brand-200 overflow-hidden">
+                                    <img src="/uploads/groups/6ff6078d65e5bbe79ff3c7892c1d66bf.jpg"
+                 alt="Fans de Animes"
+                 class="w-full h-full object-cover group-hover/card:scale-105 transition-transform duration-300"
+                                  loading="lazy">
+            
+                        <span class="absolute top-2 right-2 bg-brand-500 text-white text-xs px-2 py-1 rounded-full flex items-center gap-1">
+                <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                Verificado            </span>
+            
+                    </div>
+
+        <!-- Content -->
+        <div class="p-4 flex flex-col flex-1">
+            <h3 class="font-semibold text-gray-900 truncate mb-1 ">Fans de Animes</h3>
+
+                        <p class="text-gray-500 text-sm line-clamp-2 mb-3">Este espacio está pensado para reunir a todos los amantes del anime en México que buscan compartir s</p>
+            
+            <div class="flex items-center justify-between text-xs text-gray-400 mt-auto">
+                <div class="flex items-center gap-3">
+                    <span class="flex items-center gap-1">
+                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/></svg>
+                        302                    </span>
+                                    </div>
+                <span class="inline-flex items-center gap-1 bg-gray-100 text-gray-600 px-2 py-0.5 rounded-full text-xs font-medium hover:bg-brand-50 hover:text-brand-600 transition-colors"
+                      onclick="event.preventDefault(); event.stopPropagation(); window.location.href='/categoria/fans';">
+                    ⭐                    fans                </span>
+            </div>
+        </div>
+    </a>
+</article>
+<span data-wa-img="https://pps.whatsapp.net/v/t61.24694-24/589184929_29560498823548077_5582720812949187814_n.jpg?ccb=11-4&amp;oh=01_Q5Aa6AE3EcoWt9hq3gbaF3WAR5n8iRujHe-cqhDkkD5We8io8w&amp;oe=6AF939AC&amp;_nc_sid=5e03e0&amp;_nc_cat=107" data-wa-group="161" class="hidden"></span>
+<article class="rounded-xl border hover:shadow-lg transition-all overflow-hidden group/card h-full bg-white border-gray-100 "
+        x-data="{ get isBlurred() { return !$store.adult.confirmed } }"
+    >
+    <a href="/grupo/161-pizza-maid" class="flex flex-col h-full"
+              @click.prevent="if(isBlurred) { $dispatch('show-adult-modal', { returnUrl: $el.href }); } else { window.location.href = $el.href; }"
+           >
+        <!-- Image -->
+        <div class="relative aspect-[16/10] bg-gradient-to-br from-brand-100 to-brand-200 overflow-hidden">
+                                    <img src="/uploads/groups/4afaf39d1e52df2968da089084c50f37.jpg"
+                 alt="Pizza maid🤤😳🍑🍆"
+                 class="w-full h-full object-cover group-hover/card:scale-105 transition-transform duration-300"
+                 :class="isBlurred ? 'blur-xl scale-110' : ''"                 loading="lazy">
+            
+                        <span class="absolute top-2 right-2 bg-brand-500 text-white text-xs px-2 py-1 rounded-full flex items-center gap-1">
+                <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                Verificado            </span>
+            
+                        <span class="absolute bottom-2 left-2 bg-red-500 text-white text-xs px-2 py-1 rounded-full">18+</span>
+                    </div>
+
+        <!-- Content -->
+        <div class="p-4 flex flex-col flex-1">
+            <h3 class="font-semibold text-gray-900 truncate mb-1 ">Pizza maid🤤😳🍑🍆</h3>
+
+                        <p class="text-gray-500 text-sm line-clamp-2 mb-3">Este es un grupo de WhatsApp pensado para adultos en México que buscan convivir entre personas con g</p>
+            
+            <div class="flex items-center justify-between text-xs text-gray-400 mt-auto">
+                <div class="flex items-center gap-3">
+                    <span class="flex items-center gap-1">
+                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/></svg>
+                        725                    </span>
+                                        <span class="flex items-center gap-1 text-green-500">
+                        <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 20 20"><path d="M2 10.5a1.5 1.5 0 113 0v6a1.5 1.5 0 01-3 0v-6zM6 10.333v5.43a2 2 0 001.106 1.79l.05.025A4 4 0 008.943 18h5.416a2 2 0 001.962-1.608l1.2-6A2 2 0 0015.56 8H12V4a2 2 0 00-2-2 1 1 0 00-1 1v.667a4 4 0 01-.8 2.4L6.8 7.933a4 4 0 00-.8 2.4z"/></svg>
+                        +2                    </span>
+                                    </div>
+                <span class="inline-flex items-center gap-1 bg-gray-100 text-gray-600 px-2 py-0.5 rounded-full text-xs font-medium hover:bg-brand-50 hover:text-brand-600 transition-colors"
+                      onclick="event.preventDefault(); event.stopPropagation(); window.location.href='/categoria/adultos';">
+                    🔞                    adultos                </span>
+            </div>
+        </div>
+    </a>
+</article>
+</div>
+
+<!-- Pagination -->
+<nav class="flex justify-center gap-2">
+        <a href="?page=1&sort=newest"
+       class="px-4 py-2 bg-white border rounded-lg text-gray-600 hover:bg-gray-50 transition">
+        &laquo; Anterior    </a>
+    
+        <a href="?page=1&sort=newest"
+       class="px-4 py-2 rounded-lg transition bg-white border text-gray-600 hover:bg-gray-50">
+        1    </a>
+        <a href="?page=2&sort=newest"
+       class="px-4 py-2 rounded-lg transition bg-brand-500 text-white">
+        2    </a>
+    
+    </nav>
+
+    </main>
+
+    <footer class="bg-white border-t mt-12">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <!-- Brand -->
+            <div>
+                <a href="/" class="text-xl font-bold text-brand-600">Los<span class="text-brand-500">Grupos</span> <span class="text-base align-middle" aria-hidden="true">🇲🇽</span></a>
+                <p class="mt-2 text-gray-500 text-sm">La mejor plataforma para encontrar y compartir grupos de WhatsApp.</p>
+                <a href="https://t.me/losgrupos" target="_blank" rel="noopener"
+                   class="mt-4 inline-flex items-center gap-2 bg-[#229ED9] text-white text-sm font-medium px-4 py-2 rounded-lg hover:bg-[#1b8ec2] transition">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg>
+                    Síguenos en Telegram
+                </a>
+            </div>
+
+            <!-- Links -->
+            <div>
+                <h3 class="font-semibold text-gray-900 mb-3">Enlaces</h3>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="/categorias" class="text-gray-500 hover:text-brand-500 transition">Categorias</a></li>
+                    <li><a href="/agregar-grupo" class="text-gray-500 hover:text-brand-500 transition">Agregar grupo</a></li>
+                    <li><a href="/contacto" class="text-gray-500 hover:text-brand-500 transition">Contacto</a></li>
+                    <li>
+                        <a href="/rss" class="text-gray-500 hover:text-brand-500 transition inline-flex items-center gap-1.5">
+                            <svg class="w-3.5 h-3.5 text-orange-500" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
+                            RSS Feed                        </a>
+                    </li>
+                                        <li>
+                        <a href="/newsletter" class="text-gray-500 hover:text-brand-500 transition inline-flex items-center gap-1.5">
+                            <svg class="w-3.5 h-3.5 text-brand-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75"/></svg>
+                            Boletin                        </a>
+                    </li>
+                                    </ul>
+            </div>
+
+            <!-- Legal -->
+            <div>
+                <h3 class="font-semibold text-gray-900 mb-3">Legal</h3>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="/privacidad" class="text-gray-500 hover:text-brand-500 transition">Politica de privacidad</a></li>
+                    <li><a href="/terminos" class="text-gray-500 hover:text-brand-500 transition">Terminos de servicio</a></li>
+                    <li><a href="/aviso-legal" class="text-gray-500 hover:text-brand-500 transition">Aviso legal</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="mt-8 pt-6 border-t text-center text-sm text-gray-400">
+            &copy; 2026 LosGrupos. Todos los derechos reservados.                        <div class="mt-2 text-xs text-gray-500">
+                Este sitio esta protegido por reCAPTCHA. Se aplican la <a href="https://policies.google.com/privacy" target="_blank" rel="noopener" class="underline hover:text-gray-500">Politica de Privacidad</a> y los <a href="https://policies.google.com/terms" target="_blank" rel="noopener" class="underline hover:text-gray-500">Terminos de Servicio</a> de Google.            </div>
+                    </div>
+    </div>
+</footer>
+
+    <!-- Cookie Consent Banner -->
+    <div x-data="{ show: localStorage.getItem('cookies_accepted') !== '1' }"
+         x-show="show"
+         x-cloak
+         x-transition:enter="transition ease-out duration-300"
+         x-transition:enter-start="translate-y-full opacity-0"
+         x-transition:enter-end="translate-y-0 opacity-100"
+         x-transition:leave="transition ease-in duration-200"
+         x-transition:leave-start="translate-y-0 opacity-100"
+         x-transition:leave-end="translate-y-full opacity-0"
+         class="fixed bottom-0 inset-x-0 z-40 p-4">
+        <div class="max-w-4xl mx-auto bg-white rounded-2xl shadow-2xl border border-gray-100 p-4 sm:p-5 flex flex-col sm:flex-row items-center gap-4">
+            <div class="flex-1 text-sm text-gray-600">
+                🍪 Este sitio web utiliza cookies para la gestion de sesiones y funciones basicas.                <a href="/privacidad" class="text-brand-500 hover:text-brand-600 underline ml-1">Politica de privacidad</a>
+            </div>
+            <button @click="localStorage.setItem('cookies_accepted', '1'); show = false"
+                    class="px-6 py-2.5 bg-brand-500 text-white rounded-xl hover:bg-brand-600 transition text-sm font-semibold whitespace-nowrap">
+                Aceptar            </button>
+        </div>
+    </div>
+
+    <!-- Adult Content Age Verification Modal -->
+    <div x-data="{ show: false, returnUrl: null }"
+         @show-adult-modal.window="show = true; returnUrl = $event.detail?.returnUrl || null"
+         x-show="show"
+         x-cloak
+         class="fixed inset-0 z-50 flex items-center justify-center p-4"
+         x-transition:enter="transition ease-out duration-200"
+         x-transition:enter-start="opacity-0"
+         x-transition:enter-end="opacity-100"
+         x-transition:leave="transition ease-in duration-150"
+         x-transition:leave-start="opacity-100"
+         x-transition:leave-end="opacity-0">
+        <!-- Backdrop -->
+        <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" @click.stop></div>
+        <!-- Modal -->
+        <div class="relative bg-white rounded-2xl shadow-2xl max-w-md w-full p-8 text-center"
+             x-transition:enter="transition ease-out duration-200"
+             x-transition:enter-start="opacity-0 scale-95"
+             x-transition:enter-end="opacity-100 scale-100">
+            <div class="text-5xl mb-4">⚠️</div>
+            <h2 class="text-xl font-bold text-gray-900 mb-3">Verificacion de edad</h2>
+            <p class="text-gray-600 mb-6">Esta seccion puede contener contenido ofensivo. Tienes al menos 18 anos?</p>
+            <div class="flex gap-3">
+                <button @click="$store.adult.confirm(); show = false; if(returnUrl) window.location.href = returnUrl;"
+                        class="flex-1 bg-brand-500 text-white py-3 rounded-xl hover:bg-brand-600 transition font-semibold">
+                    Si, tengo 18+                </button>
+                <button @click="show = false; window.location.href = '/';"
+                        class="flex-1 border border-gray-200 text-gray-600 py-3 rounded-xl hover:bg-gray-50 transition font-medium">
+                    No, volver                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- WhatsApp Image Liveness Check (Soft-Check) -->
+    <script>
+    (function() {
+        function checkImage(groupId, url) {
+            var img = new Image();
+            img.onload = function() {
+                console.log('[Soft-Check] #' + groupId + ' image OK');
+                fetch('/api/v1/groups/' + groupId + '/image-alive', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' }
+                }).catch(function(e) { console.warn('[Soft-Check] #' + groupId + ' API error:', e); });
+            };
+            img.onerror = function() {
+                console.warn('[Soft-Check] #' + groupId + ' image DEAD');
+                fetch('/api/v1/groups/' + groupId + '/image-dead', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' }
+                }).catch(function(e) { console.warn('[Soft-Check] #' + groupId + ' API error:', e); });
+            };
+            img.src = url;
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // 1) Check visible groups on this page (max 10)
+            var checks = document.querySelectorAll('[data-wa-img]');
+            if (checks.length) {
+                console.log('[Soft-Check] Found ' + checks.length + ' group(s) on page');
+                var toCheck = Array.prototype.slice.call(checks, 0, 10);
+                toCheck.forEach(function(el) {
+                    var url = el.getAttribute('data-wa-img');
+                    var groupId = el.getAttribute('data-wa-group');
+                    if (url && groupId) checkImage(groupId, url);
+                });
+            }
+
+            // 2) Background: check stale groups not on this page
+            setTimeout(function() {
+                fetch('/api/v1/groups/stale-checks')
+                    .then(function(r) { return r.json(); })
+                    .then(function(data) {
+                        if (!data.groups || !data.groups.length) return;
+                        console.log('[Soft-Check] Background: checking ' + data.groups.length + ' stale group(s)');
+                        data.groups.forEach(function(g) {
+                            checkImage(g.id, g.url);
+                        });
+                    })
+                    .catch(function() {});
+            }, 3000);
+        });
+    })();
+    </script>
+
+                <!-- Mobile Interstitial Ad Overlay -->
+    <div id="interstitial-overlay" style="display:none; position:fixed; inset:0; z-index:9999; background:rgba(0,0,0,0.7); backdrop-filter:blur(4px);">
+        <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:#fff; border-radius:1rem; padding:1.5rem; max-width:90vw; width:360px; text-align:center; box-shadow:0 25px 50px rgba(0,0,0,0.25);">
+            <button onclick="document.getElementById('interstitial-overlay').style.display='none'" style="position:absolute; top:0.5rem; right:0.75rem; background:none; border:none; font-size:1.5rem; color:#999; cursor:pointer; line-height:1;">&times;</button>
+            <div id="interstitial-ad-slot" style="margin-top:0.5rem;"></div>
+        </div>
+    </div>
+    <script>
+    (function(){
+        if(window.innerWidth > 768) return;
+        var adCode = "\r\n\r\n";
+        var adLoaded = false;
+        var TEST_MODE = true;
+        var TRIGGER = 'swipe';
+        var KEY = 'gm_touch_count';
+        var THRESHOLD = 3;
+        var COOLDOWN = 15;
+        var SWIPE_PX = 50;
+        // Counter: 0..THRESHOLD = zählt Touches bis Anzeige
+        //          negative Werte = Cooldown läuft (z.B. -20..-1)
+        var count = parseInt(sessionStorage.getItem(KEY) || '0', 10);
+        var lastWasSwipe = false;
+        function showInterstitial(){
+            var overlay = document.getElementById('interstitial-overlay');
+            // Load ad in iframe so document.write() works
+            if(!adLoaded){
+                var slot = document.getElementById('interstitial-ad-slot');
+                var iframe = document.createElement('iframe');
+                iframe.style.cssText = 'width:100%;border:none;overflow:hidden;';
+                iframe.setAttribute('scrolling', 'no');
+                slot.appendChild(iframe);
+                var doc = iframe.contentDocument || iframe.contentWindow.document;
+                doc.open();
+                doc.write('<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width,initial-scale=1"></head><body style="margin:0;text-align:center;">' + adCode + '</body></html>');
+                doc.close();
+                // Auto-resize iframe to fit content
+                function resizeIframe(){
+                    try { iframe.style.height = doc.body.scrollHeight + 'px'; } catch(e){}
+                }
+                iframe.onload = resizeIframe;
+                setTimeout(resizeIframe, 500);
+                setTimeout(resizeIframe, 2000);
+                adLoaded = true;
+            }
+            overlay.style.display = 'block';
+        }
+        function bump(){
+            count++;
+            sessionStorage.setItem(KEY, count);
+            if(count >= THRESHOLD){
+                showInterstitial();
+                // Nach Anzeige: Cooldown starten (negative Zahl)
+                // Testmodus: kein Cooldown, sofort wieder zählen
+                count = TEST_MODE ? 0 : -COOLDOWN;
+                sessionStorage.setItem(KEY, count);
+            }
+        }
+        // Touch/Click — nur wenn es KEIN Swipe war
+        if(TRIGGER === 'touch' || TRIGGER === 'both'){
+            document.addEventListener('click', function(e){
+                if(e.target.closest('#interstitial-overlay')) return;
+                if(lastWasSwipe){ lastWasSwipe = false; return; }
+                bump();
+            }, {passive:true});
+        }
+        // Swipe detection
+        if(TRIGGER === 'swipe' || TRIGGER === 'both'){
+            var startX = 0, startY = 0;
+            document.addEventListener('touchstart', function(e){
+                startX = e.touches[0].clientX;
+                startY = e.touches[0].clientY;
+            }, {passive:true});
+            document.addEventListener('touchend', function(e){
+                if(e.target.closest('#interstitial-overlay')) return;
+                var dx = e.changedTouches[0].clientX - startX;
+                var dy = e.changedTouches[0].clientY - startY;
+                if(Math.abs(dx) > SWIPE_PX || Math.abs(dy) > SWIPE_PX){
+                    lastWasSwipe = true;
+                    bump();
+                }
+            }, {passive:true});
+        }
+    })();
+    </script>
+    
+        <!-- Custom Body Code -->
+            
+
+<!-- SlimTrade Tracking -->
+<script src="https://slimtrade.app/track.php?k=c88f6e21dee16df212a309f0fe55ffba"></script>
+<!-- /SlimTrade -->
+<!-- SlimTrade Exit-Intent -->
+<script data-st-key="c88f6e21dee16df212a309f0fe55ffba"
+        data-st-domain="losgrupos.app"
+        data-st-baseurl="https://slimtrade.app"
+        data-st-mode="button"
+        data-st-delay="2000"
+        data-st-once="1"
+        data-st-bg="#1a1d2e"
+        data-st-border="#2d3250"
+        data-st-text="#e2e8f0"
+        data-st-btnbg="#a78bfa"
+data-st-headline="¡Espera un momento!"
+data-st-subline="Echa un vistazo a nuestras recomendaciones."
+data-st-btnlabel="Ver ahora →"
+        src="https://slimtrade.app/exit_intent.php"></script>
+    
+</body>
+</html>

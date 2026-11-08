@@ -1,0 +1,17 @@
+[
+ {
+  "domain": "whtsagrouplinks.com",
+  "url": "https://www.whtsagrouplinks.com/sitemap_index.xml",
+  "why": "RESUME POINT team36 wave_20261101: 627 post URLs fetched from post-sitemap1..5.xml (list in /tmp/whts_all.txt, also saved at team36-whts-sitemap-urls.txt). Only the indonesia-whatsapp-group-links page was probed this wave (6 non-invite codes, ALL already in exclusion set). team09 wave_20261031 covered 48 priority pages + homepage (0 verified, 91 pending transport-failure). ~570+ post pages NOT scraped this wave. NOTE: bot-check challenge appears intermittently on some pages (team09); retry challenged pages next wave."
+ },
+ {
+  "domain": "linkgrupwa.com",
+  "url": "https://linkgrupwa.com/2022/06/link-grup-wa-sahabat-temukan-persahabatan-yang-sefrekuensi.html",
+  "why": "Site times out on direct curl (exit 28) but browser_open cached-crawl works. 2022-dated lists, ~35 codes scraped this wave; most pre-2024 codes are dead or already in exclusion set. Only scrape when fresher sources exhausted."
+ },
+ {
+  "domain": "agunghostkey.com",
+  "url": "https://www.agunghostkey.com/2023/07/99-link-grup-wa-cari-pacar.html",
+  "why": "99-link cari-pacar article (updated ~Sep 2026) scraped fully this wave: 52 unique codes (23 article-body + 29 user-submitted comments), 23 were already in exclusion set, 4 verified live. Article-body links are mostly exhausted; the COMMENTS section keeps getting new user-submitted links — re-scrape comments next wave for fresh submissions."
+ }
+]

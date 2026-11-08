@@ -1,0 +1,37 @@
+[
+ {
+  "domain": "GroupsWP.com",
+  "url": "https://GroupsWP.com/groups/sports-whatsapp-groups",
+  "why": "Sports category page loads but zero chat.whatsapp.com codes in server HTML — Join buttons/codes are JS-gated; no codes extractable via curl. Resume: live-browser or JS-render next wave."
+ },
+ {
+  "domain": "grupbul.com",
+  "url": "https://grupbul.com/group/535347",
+  "why": "Sports Arena group page has no invite code in HTML; join is via 'send us a message on WhatsApp'. Name-only lead; do not guess codes."
+ },
+ {
+  "domain": "fillertierlist.com",
+  "url": "https://fillertierlist.com/sports-whatsapp-group-links/",
+  "why": "412 unique codes in sports sections but ALL use chat.whatsapp.com/invite/<code> (channel format, excluded per brief). 2022-vintage list; stale."
+ },
+ {
+  "domain": "appgrouplink.com",
+  "url": "https://appgrouplink.com/sports-whatsapp-group-links/",
+  "why": "All 21 codes use /invite/ channel format (excluded). Football page yielded 1 verified live link: GVRBbh6CPp80EHGg3rRqdI, og:title 'FF ID selling' — Gaming category, handing to gaming team, NOT banked in sports file."
+ },
+ {
+  "domain": "whatgroups.com",
+  "url": "https://whatgroups.com/cricket-whatsapp-group-links/",
+  "why": "7 new codes found; ALL verified dead (HTTP 200, empty og:title). Site listings appear stale; deprioritize next wave."
+ },
+ {
+  "domain": "whatsgroupslinkspk.com",
+  "url": "https://whatsgroupslinkspk.com/",
+  "why": "Homepage has huge all-categories listing; sports sub-list items mostly already in union or /invite/ channel format. 2 non-channel sports codes (IPL 2024, CRICKET UPDATES) verified dead."
+ },
+ {
+  "domain": "newgrouplinks.pk",
+  "url": "https://newgrouplinks.pk/cricket-whatsapp-group-links/",
+  "why": "8 new codes found; ALL verified dead. Deprioritize."
+ }
+]
