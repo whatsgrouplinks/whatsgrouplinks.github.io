@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://whatgroups.com/islamic-whatsapp-group-link/",
+  "note": "NEEDS-BROWSER-LEG: JS-gated, curl returns 12KB shell with 0 invite codes; 1500+ Islamic groups listed",
+  "category": "Islamic",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://whatgroups.com/news-whatsapp-group-links/",
+  "note": "NEEDS-BROWSER-LEG: JS-gated, curl returns 12KB shell with 0 invite codes; news groups",
+  "category": "News",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://whatzgrouplink.com/pakistani-islamic-whatsapp-group-link/",
+  "note": "NEEDS-BROWSER-LEG: JS-gated, curl yields only placeholder 'invite' links; 800+ Pakistani Islamic groups",
+  "category": "Islamic",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://whtspgrouplink.com/tag/weight-whatsapp-group-link/",
+  "note": "NEEDS-BROWSER-LEG: JS-gated, curl yields 0 invite codes; weight-loss / health fitness groups, updated Oct 22 2026",
+  "category": "Health",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://www.groupor.link/group/category/news-magazines-politics",
+  "note": "Directory page; 1015 invite codes extracted via curl, mostly unverified (sample verification pending); news/politics groups",
+  "category": "News",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://hubrecipes.com/active-news-whatsapp-group-links/",
+  "note": "News listicle; codes extracted via curl, verification pending; contains some adult-category links elsewhere on page, screen carefully",
+  "category": "News",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://hubrecipes.com/active-pakistani-whatsapp-group-links/",
+  "note": "Pakistani listicle (777+ groups); codes extracted via curl, verification pending",
+  "category": "Community & Social",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://77links.com/islamic-whatsapp-group-links/",
+  "note": "Islamic listicle fetched via curl OK; codes extracted and verified this wave; re-crawl for fresh rotations",
+  "category": "Islamic",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://77links.com/karachi-whatsapp-group-links/",
+  "note": "Karachi listicle (Islamic/community sections); codes extracted via curl and verified this wave; re-crawl for fresh rotations",
+  "category": "Community & Social",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://whatstele.com/whatsapp/group-links/yoga/",
+  "note": "Yoga listicle; only 4 codes via curl, updated Oct 16 2026; re-crawl for new yoga groups",
+  "category": "Health",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://grouplink.com.in/2300-buy-sell-whatsapp-group-for-explosive-earnings/",
+  "note": "Buy & sell listicle, verified Oct/Nov 2026; codes extracted via curl and verified this wave; re-crawl for fresh rotations",
+  "category": "Buy Sell",
+  "source": "web search 20261109"
+ },
+ {
+  "url": "https://groupwa.link/",
+  "note": "Large directory (78 categories); codes extracted via curl and verified this wave; news/Islamic sections in slice",
+  "category": "Community & Social",
+  "source": "web search 20261109"
+ }
+]

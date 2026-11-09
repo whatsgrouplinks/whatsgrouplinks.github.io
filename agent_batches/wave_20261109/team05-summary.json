@@ -1,0 +1,53 @@
+{
+ "team": "team05",
+ "slice": "leads_slice_05.json (184 listing URLs)",
+ "sources": {
+  "whtspgrouplink.com": 77,
+  "www.whtsagrouplinks.com": 16,
+  "www.imagesplatform.com": 31,
+  "wagroupshub.com": 21,
+  "wagroupnest.com": 25,
+  "groupsnest.com": 14
+ },
+ "listings_fetched": 184,
+ "listings_dead_after_refetch": 38,
+ "listings_recovered_by_refetch": 5,
+ "unique_codes_extracted": 2988,
+ "fresh_codes_not_in_existing": 76,
+ "already_in_existing": 2912,
+ "verified": 76,
+ "verified_live": 26,
+ "verified_dead_empty_og_title_after_3_tries": 50,
+ "verified_transport_failed": 0,
+ "candidates": 25,
+ "screened_out": 1,
+ "screened_out_detail": "Fh7G5LnHVdg49bL6CSaPNy 'ıllıllı 𝘞𝘢𝘪𝘳𝘢𝘭 xxx ıllıllı' — banned keyword xxx",
+ "pending": 0,
+ "leads": 38,
+ "dead": 50,
+ "categories": {
+  "News": 2,
+  "Finance": 3,
+  "Buy Sell": 1,
+  "Jobs": 13,
+  "Community & Social": 1,
+  "Online Earning": 2,
+  "Technology": 3
+ },
+ "countries": {
+  "IN": 21,
+  "KE": 1,
+  "AE": 2,
+  "AU": 1
+ },
+ "notes": [
+  "First sequential fetch run died ~25 min in (session lost, no output written); re-ran with 3 parallel workers + per-page checkpoints.",
+  "Spot-check found whtsagrouplinks.com serves invite codes in curl HTML intermittently: earn-money page showed 0 codes in pass 1 but ~15 codes on manual re-fetch (likely intermittent bot-challenge). All 43 dead pages were re-fetched with Accept headers + tolerant regex; 5 pages recovered codes (5 fresh, 3 live). 38 pages still dead.",
+  "imagesplatform.com (29 of 43 dead) returns empty/short pages to curl — banked as NEEDS-BROWSER-LEG leads.",
+  "Verify method validated with controls: known-existing codes return non-empty og:title ('News Line 2', '+234..2016'); known-fake code returns empty og:title. Empty og:title after 3 tries = dead.",
+  "Code regex in pass 1 was [A-Za-z0-9] only; refetch regex added _ and - and escaped-slash handling. A few _ / - codes on live pages may have been missed in pass 1 (not re-scanned).",
+  "Discovered-pagination leads were NOT persisted (fetch script computed new_leads but never saved them); only the 38 still-dead slice URLs are banked in team05-leads.json.",
+  "Descriptions are category templates built from the verified og:title group name (listing-page context fragments were HTML-artifact garbage); no source names, no phone numbers, no personal info in any candidate.",
+  "No transport failures: every fresh code got a definitive verify outcome (200 + og:title, or 200 + empty og:title x3)."
+ ]
+}

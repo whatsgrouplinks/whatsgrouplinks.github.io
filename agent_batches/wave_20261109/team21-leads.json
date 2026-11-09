@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://grouplink.com.in/3000-indian-govt-jobs-whatsapp-group-links-group-link/",
+  "note": "NEEDS-BROWSER-LEG - govt jobs listicle, curl returned 12KB with 0 invite codes (JS-gated/blocked)",
+  "category": "Jobs"
+ },
+ {
+  "url": "https://grouplink.com.in/kota-whatsapp-group-links/",
+  "note": "NEEDS-BROWSER-LEG - Kota study listicle, curl returned 12KB with 0 invite codes (JS-gated/blocked)",
+  "category": "Education"
+ },
+ {
+  "url": "https://groupsinvite.link/education/study/english-learning/",
+  "note": "NEEDS-BROWSER-LEG - English learning listicle, 0 invite codes in fetched HTML",
+  "category": "Education"
+ },
+ {
+  "url": "https://www.notion.so/FREE-Telegram-Channel-and-WhatsApp-Group-For-Job-updates-239a8152304380fa845bd1a872d01661",
+  "note": "NEEDS-BROWSER-LEG - jobs/internships link table (Internship Alerts, Sarkari + Private Jobs, Remote + Freelance Jobs India); invite URLs hidden behind buttons",
+  "category": "Jobs"
+ },
+ {
+  "url": "https://wahublink.com/education-whatsapp-group-links/",
+  "note": "Education directory listicle, not fetched this run; likely mostly already-mined codes",
+  "category": "Education"
+ },
+ {
+  "url": "https://77links.com/educational-whatsapp-group-links/",
+  "note": "Educational listicle (1000+ links, Jan 2026), not fetched this run",
+  "category": "Education"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/",
+  "note": "General directory, Jobs section not fetched this run",
+  "category": "Jobs"
+ },
+ {
+  "url": "https://scholarshipshive.com/never-miss-an-opportunity-again-join-the-scholarships-hive-whatsapp-channel/",
+  "note": "Scholarship alerts channel page; links to a WhatsApp channel, not a group invite - check whether a group invite exists",
+  "category": "Education"
+ }
+]

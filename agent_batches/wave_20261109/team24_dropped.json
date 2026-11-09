@@ -1,0 +1,41 @@
+{
+ "dropped": [
+  {
+   "code": "JaMVR145al97YphnWD3sil",
+   "source": "groupizo",
+   "reason": "bad:nekopoi",
+   "name": "𝐍𝐄𝐊𝐎𝐏𝐎𝐈 𝐗2𝐃 🪎",
+   "title": "𝐍𝐄𝐊𝐎𝐏𝐎𝐈 𝐗2𝐃 🪎"
+  },
+  {
+   "code": "ILwGTHKNz3i7KoIANlbgg2",
+   "source": "groupizo",
+   "reason": "empty-name",
+   "title": "."
+  },
+  {
+   "code": "Ilc4uGeffgY97oMS2jVQVv",
+   "source": "groupizo",
+   "reason": "bad:social logs",
+   "name": "GIL SOCIAL LOGS",
+   "title": "GIL SOCIAL LOGS"
+  },
+  {
+   "code": "EUuEUekiuLkKIeAFc3xJII",
+   "source": "groupizo",
+   "reason": "empty-name",
+   "title": "."
+  },
+  {
+   "code": "G2RZjqRhw5H7AQKs4KJTqJ",
+   "source": "igrupos",
+   "reason": "adult-emoji",
+   "name": "𓆩 ✧ 𝑽𝑨𝑳𝑻𝑯𝑬𝑹𝑰𝑨 ✧ 𓆪 𝐋𝐀 𝐒𝐎𝐂𝐈𝐄𝐃𝐀𝐃 𝐃𝐄𝐋 𝐌𝐔𝐍𝐃𝐎 🔱",
+   "title": "𓆩 ✧ 𝑽𝑨𝑳𝑻𝑯𝑬𝑹𝑰𝑨 ✧ 𓆪 𝐋𝐀 𝐒𝐎𝐂𝐈𝐄𝐃𝐀𝐃 𝐃𝐄𝐋 𝐌𝐔𝐍𝐃𝐎 🔱"
+  }
+ ],
+ "live_by_source": {
+  "groupizo": 63,
+  "igrupos": 15
+ }
+}

@@ -1,0 +1,52 @@
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: googlebot-image
+Allow: /
+
+User-Agent: googlebot-mobile
+Allow: /
+
+User-Agent: MSNBot
+Allow: /
+
+User-Agent: Slurp
+Allow: /
+
+User-Agent: yahoo-mmcrawler
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: Claude-Web
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: anthropic-ai
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: Bard
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: YouBot
+Allow: /
+
+User-Agent: *
+Allow: /
+
+Sitemap: https://www.groupjoin.link/sitemap.xml

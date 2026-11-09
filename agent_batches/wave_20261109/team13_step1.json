@@ -1,0 +1,828 @@
+{
+ "coverage": [
+  {
+   "category": "Game",
+   "url": "https://grupbul.com/en/category/whatsapp/5/game",
+   "bytes": 38196,
+   "group_ids": [
+    "257436",
+    "548164",
+    "572603",
+    "575359",
+    "695888",
+    "820273"
+   ]
+  },
+  {
+   "category": "News",
+   "url": "https://grupbul.com/en/category/whatsapp/8/news",
+   "bytes": 31739,
+   "group_ids": [
+    "282608"
+   ]
+  },
+  {
+   "category": "Religion",
+   "url": "https://grupbul.com/en/category/whatsapp/52/religion",
+   "bytes": 34134,
+   "group_ids": [
+    "324889",
+    "481375",
+    "877853"
+   ]
+  },
+  {
+   "category": "Technology",
+   "url": "https://grupbul.com/en/category/whatsapp/38/technology",
+   "bytes": 34385,
+   "group_ids": [
+    "321670",
+    "325575",
+    "457493"
+   ]
+  },
+  {
+   "category": "Trade",
+   "url": "https://grupbul.com/en/category/whatsapp/29/trade",
+   "bytes": 31751,
+   "group_ids": [
+    "919419"
+   ]
+  },
+  {
+   "category": "Travel",
+   "url": "https://grupbul.com/en/category/whatsapp/54/travel",
+   "bytes": 31773,
+   "group_ids": [
+    "614126"
+   ]
+  },
+  {
+   "category": "Food",
+   "url": "https://grupbul.com/en/category/whatsapp/53/food",
+   "bytes": 30417,
+   "group_ids": []
+  },
+  {
+   "category": "Student",
+   "url": "https://grupbul.com/en/category/whatsapp/35/student",
+   "bytes": 42564,
+   "group_ids": [
+    "261794",
+    "278613",
+    "371346",
+    "484587",
+    "586546",
+    "595282",
+    "853723",
+    "882826",
+    "942737"
+   ]
+  },
+  {
+   "category": "Series/Movie",
+   "url": "https://grupbul.com/en/category/whatsapp/47/series-movie",
+   "bytes": 33134,
+   "group_ids": [
+    "362764",
+    "567235"
+   ]
+  },
+  {
+   "category": "Job Postings",
+   "url": "https://grupbul.com/en/category/whatsapp/9/job-postings",
+   "bytes": 34587,
+   "group_ids": [
+    "320563",
+    "503833",
+    "977190"
+   ]
+  },
+  {
+   "category": "Music",
+   "url": "https://grupbul.com/en/category/whatsapp/34/music",
+   "bytes": 35754,
+   "group_ids": [
+    "312734",
+    "497527",
+    "865713",
+    "985571"
+   ]
+  },
+  {
+   "category": "Chat/Friendship",
+   "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "bytes": 69015,
+   "group_ids": [
+    "175618",
+    "197480",
+    "223687",
+    "250882",
+    "315149",
+    "377833",
+    "380628",
+    "383637",
+    "430588",
+    "444836",
+    "593435",
+    "674364",
+    "696815",
+    "721254",
+    "743131",
+    "743954",
+    "757428",
+    "791674",
+    "791785",
+    "792999",
+    "813979",
+    "856191",
+    "913828",
+    "940418",
+    "962515",
+    "976715",
+    "982827"
+   ]
+  },
+  {
+   "category": "All-WhatsApp",
+   "url": "https://grupbul.com/en/whatsapp-groups",
+   "bytes": 130387,
+   "group_ids": [
+    "122233",
+    "139686",
+    "187780",
+    "221567",
+    "233681",
+    "259262",
+    "261794",
+    "266959",
+    "267195",
+    "307873",
+    "312734",
+    "315149",
+    "324889",
+    "340579",
+    "362764",
+    "505638",
+    "548837",
+    "555478",
+    "569448",
+    "595282",
+    "634537",
+    "639871",
+    "651988",
+    "659888",
+    "721254",
+    "725803",
+    "738627",
+    "757428",
+    "791674",
+    "791785",
+    "792999",
+    "825755",
+    "856191",
+    "857112",
+    "860786",
+    "868834",
+    "883541",
+    "918733",
+    "953505",
+    "982827"
+   ]
+  },
+  {
+   "category": "Chat/Friendship-page",
+   "url": "https://grupbul.com/en/whatsapp-chat-friendship-groups",
+   "bytes": 42811,
+   "group_ids": [
+    "377833",
+    "383637",
+    "674364",
+    "721254",
+    "757428",
+    "791674",
+    "913828",
+    "982827"
+   ]
+  },
+  {
+   "category": "Job-Postings-page",
+   "url": "https://grupbul.com/en/whatsapp-job-posting-groups",
+   "bytes": 33584,
+   "group_ids": [
+    "503833"
+   ]
+  }
+ ],
+ "groups": {
+  "324889": {
+   "gid": "324889",
+   "cat": "Religion",
+   "from": "https://grupbul.com/en/category/whatsapp/52/religion",
+   "list_name": "\u0627\u0646\u0648\u06a9\u06be\u06cc \u0648 \u0645\u0639\u0644\u0648\u0645\u0627\u062a\u06cc \u062f\u0646\u06cc\u0627 (\u0641\u0631\u06cc) Religion \u0627\u0646\u0648\u06a9\u06be\u06cc \u0648 \u0645\u0639\u0644\u0648\u0645\u0627\u062a\u06cc \u062f\u0646\u06cc\u0627 (\u067e\u06cc\u0688 \u06af\u0631\u0648\u067e \u0627\u0628 \u0641\u0631\u06cc) \ud83e\udd73 \u0645\u0627\u06c1\u0627\u0646\u06c1 150 \u274c \u0628\u0627\u0644\u06a9\u0644 \u0645\u0641...",
+   "list_desc": ""
+  },
+  "481375": {
+   "gid": "481375",
+   "cat": "Religion",
+   "from": "https://grupbul.com/en/category/whatsapp/52/religion",
+   "list_name": "Versete biblice \u0219i mesaje de \u00eencurajare Religion In a world that often feels overwhelming and chaotic, the power of fait",
+   "list_desc": "h and encouragement can serve as a guiding light. Our WhatsApp group, dedicated to sharing biblical verses and uplifting messages, is a sanctuary where you can find solace, inspiration, and a sense of community. We invite you to join us on this spiritual journey, where we not on..."
+  },
+  "877853": {
+   "gid": "877853",
+   "cat": "Religion",
+   "from": "https://grupbul.com/en/category/whatsapp/52/religion",
+   "list_name": "Roar loud ministry Religion **Roar Loud Ministry: Embracing Positive Meditations in Faith** In today\u2019s fast-paced world,",
+   "list_desc": "it can be all too easy to let negative thoughts and circumstances cloud our minds. As believers, we are called to a higher standard, one rooted in the truth and wisdom of God\u2019s Word. Pastor Malola invites you to embark on a transformative journey with ..."
+  },
+  "257436": {
+   "gid": "257436",
+   "cat": "Game",
+   "from": "https://grupbul.com/en/category/whatsapp/5/game",
+   "list_name": "P*rn Games 18+ Game Are you looking to explore a world of exciting and immersive gaming experiences tailored for adults?",
+   "list_desc": "Welcome to our exclusive WhatsApp group dedicated to sharing a curated selection of 18+ games that promise to elevate your gaming experience. Here, you can connect with like-minded individuals who share your passion for innovative gameplay and capti..."
+  },
+  "548164": {
+   "gid": "548164",
+   "cat": "Game",
+   "from": "https://grupbul.com/en/category/whatsapp/5/game",
+   "list_name": "\ud83d\udd1eS*X GAMES HQ\ud83d\udd1e Game Welcome to the ultimate destination for adult gaming enthusiasts! If you're looking to explore an ex",
+   "list_desc": "citing range of immersive experiences designed exclusively for a mature audience, you've come to the right place. Our dedicated WhatsApp group serves as a hub for sharing and discovering a variety of interactive games that cater to those aged 18 and ..."
+  },
+  "572603": {
+   "gid": "572603",
+   "cat": "Game",
+   "from": "https://grupbul.com/en/category/whatsapp/5/game",
+   "list_name": "C\uff25\uff2e\uff34\uff32\uff2f D\uff25 \uff32\uff21MP\uff21G\uff25 Game Welcome to RAMPAGE CENTRAL, the ultimate gathering place for all Magic Rampage enthusiasts! If yo",
+   "list_desc": "u're passionate about epic duels and exploring the vast world of armor sets and combos, you've found your new home. This is more than just a group; it\u2019s a community where like-minded gamers come together to share strategies, discuss their favorite gea..."
+  },
+  "575359": {
+   "gid": "575359",
+   "cat": "Game",
+   "from": "https://grupbul.com/en/category/whatsapp/5/game",
+   "list_name": "Trusted Pub G Account Seller\ud83d\udcaf Game Are you on the hunt for a reliable seller for your trusted PUBG account? Look no furt",
+   "list_desc": "her! In the bustling world of online gaming, finding a secure and reputable source for your gaming needs can be quite a challenge. That's where we come in. Welcome to your one-stop destination for top-quality PUBG accounts, where trust and satisfaction are our top ..."
+  },
+  "695888": {
+   "gid": "695888",
+   "cat": "Game",
+   "from": "https://grupbul.com/en/category/whatsapp/5/game",
+   "list_name": "PUBG mobile hack Game I\u2019m sorry, I can\u2019t assist with that.",
+   "list_desc": ""
+  },
+  "820273": {
+   "gid": "820273",
+   "cat": "Game",
+   "from": "https://grupbul.com/en/category/whatsapp/5/game",
+   "list_name": "BGMI PAID MOD Game Are you an avid gamer looking to elevate your PUBG experience to the next level? Welcome to our exclu",
+   "list_desc": "sive WhatsApp group, where you can discover and purchase the latest paid mods for BGMI (Battlegrounds Mobile India). In this vibrant community, we bring together like-minded players who share a passion for gaming and are eager to enhance their gamep..."
+  },
+  "282608": {
+   "gid": "282608",
+   "cat": "News",
+   "from": "https://grupbul.com/en/category/whatsapp/8/news",
+   "list_name": "miraculous news News In a world where news travels faster than ever, staying informed is not just beneficial\u2014it's essent",
+   "list_desc": "ial. Welcome to our \"Miraculous News\" WhatsApp group, a dedicated platform designed to bring you the latest and most impactful stories from around the globe. We're excited to invite you to join a community where information flows freely, discussions..."
+  },
+  "919419": {
+   "gid": "919419",
+   "cat": "Trade",
+   "from": "https://grupbul.com/en/category/whatsapp/29/trade",
+   "list_name": "GOLD STAR \ud83c\udf1f Trade Are you looking to elevate your trading experience and maximize your profits? Welcome to Gold Star, a ",
+   "list_desc": "dedicated trading group that focuses on providing exceptional account management services tailored to your needs. Whether you're a novice trader or an experienced investor, our community is here to support you every step of the way. In the fast-p..."
+  },
+  "321670": {
+   "gid": "321670",
+   "cat": "Technology",
+   "from": "https://grupbul.com/en/category/whatsapp/38/technology",
+   "list_name": "\u260eFreePBX Administration Technology Welcome to the FreePBX Administration group, where technology enthusiasts and profess",
+   "list_desc": "ionals gather to share their knowledge and experiences in the realms of Computer and VoIP services. This community is designed for anyone interested in enhancing their skills and understanding of FreePBX, a powerful open-source communication platform. Whether you a..."
+  },
+  "325575": {
+   "gid": "325575",
+   "cat": "Technology",
+   "from": "https://grupbul.com/en/category/whatsapp/38/technology",
+   "list_name": "android texnologiya qrupu Technology",
+   "list_desc": ""
+  },
+  "457493": {
+   "gid": "457493",
+   "cat": "Technology",
+   "from": "https://grupbul.com/en/category/whatsapp/38/technology",
+   "list_name": "Cyber Activist Technology In an increasingly interconnected world, the power of collective action has never been more ev",
+   "list_desc": "ident. We are proud to introduce ourselves as a vibrant and dynamic global community of cyber activists, united by a shared vision of creating positive change through the digital realm. Our mission is to harness the power of the internet to raise awareness..."
+  },
+  "614126": {
+   "gid": "614126",
+   "cat": "Travel",
+   "from": "https://grupbul.com/en/category/whatsapp/54/travel",
+   "list_name": "International Traveler Travel Are you passionate about exploring new destinations and uncovering the hidden gems of the ",
+   "list_desc": "world? Do you love sharing your travel experiences with like-minded individuals? If the answer is yes, then we have the perfect opportunity for you! We are excited to invite you to join our exclusive WhatsApp group dedicated to international travelers. This vi..."
+  },
+  "261794": {
+   "gid": "261794",
+   "cat": "Student",
+   "from": "https://grupbul.com/en/category/whatsapp/35/student",
+   "list_name": "TIME TO LEARN WITH \u00dcSK\u00dcDAR AMERICAN CULTURE! \ud83c\uddec\ud83c\udde7\u2728 Student Welcome to the vibrant and engaging world of English language l",
+   "list_desc": "earning at \u00dcsk\u00fcdar American Culture Language School! Here, we believe that learning English is not just a task, but an exciting journey that opens doors to new opportunities and experiences. Our WhatsApp group is specifically designed for students who are eager to enhance their langua..."
+  },
+  "278613": {
+   "gid": "278613",
+   "cat": "Student",
+   "from": "https://grupbul.com/en/category/whatsapp/35/student",
+   "list_name": "\u0130NG\u0130L\u0130ZCE \u00d6\u011eREN & KONU\u015e Student Are you ready to embark on an exciting journey of language learning? Imagine being able ",
+   "list_desc": "to converse fluently in English in just three months, equipped with the skills to communicate effectively in both casual and professional settings. Our English Learning & Speaking group is designed specifically for those who are eager to improve their language p..."
+  },
+  "371346": {
+   "gid": "371346",
+   "cat": "Student",
+   "from": "https://grupbul.com/en/category/whatsapp/35/student",
+   "list_name": "Russian/English Language&Movie Discussion Student Are you passionate about languages and movies? Do you want to enhance ",
+   "list_desc": "your English or Russian language skills while diving into engaging film discussions? If so, our WhatsApp group dedicated to Russian and English language exchange and movie discussions is the perfect space for you! In this group, we aim to create a vibrant community of language ..."
+  },
+  "484587": {
+   "gid": "484587",
+   "cat": "Student",
+   "from": "https://grupbul.com/en/category/whatsapp/35/student",
+   "list_name": "English chat Student Are you looking to enhance your English language skills in a relaxed and friendly environment?",
+   "list_desc": ""
+  },
+  "586546": {
+   "gid": "586546",
+   "cat": "Student",
+   "from": "https://grupbul.com/en/category/whatsapp/35/student",
+   "list_name": "Learn Turkish & English Student Are you eager to learn Turkish or English? If so, you\u2019ve come to the right place! We are",
+   "list_desc": "excited to invite you to join our vibrant WhatsApp group, where language enthusiasts come together to enhance their communication skills in both Turkish and English. This group is designed for learners of all levels, whether you are a beginner just starting y..."
+  },
+  "595282": {
+   "gid": "595282",
+   "cat": "Student",
+   "from": "https://grupbul.com/en/category/whatsapp/35/student",
+   "list_name": "Udemy Free Courses Student Unlock your potential with Udemy, the leading online course platform that has transformed the",
+   "list_desc": "way individuals learn and develop professionally. With a staggering 52 million students enrolled and over 196,000 courses available, Udemy provides a vast array of learning opportunities across various disciplines. Whether you\u2019re looking to enhance your ..."
+  },
+  "853723": {
+   "gid": "853723",
+   "cat": "Student",
+   "from": "https://grupbul.com/en/category/whatsapp/35/student",
+   "list_name": "English Student Are you eager to enhance your English language skills while connecting with like-minded individuals? Loo",
+   "list_desc": "k no further! We are excited to invite you to join our dynamic English learning and practicing group on WhatsApp. This vibrant community is designed specifically for those who wish to improve their English proficiency in a friendly and supportive..."
+  },
+  "882826": {
+   "gid": "882826",
+   "cat": "Student",
+   "from": "https://grupbul.com/en/category/whatsapp/35/student",
+   "list_name": "Looking for friends Student Are you looking to expand your social circle and meet new friends? If so, you've landed in t",
+   "list_desc": "he right place! We are excited to invite you to join our vibrant WhatsApp group designed specifically for students who are eager to connect with like-minded individuals. In today's fast-paced world, it can be challenging to form genuine friendships, especial..."
+  },
+  "942737": {
+   "gid": "942737",
+   "cat": "Student",
+   "from": "https://grupbul.com/en/category/whatsapp/35/student",
+   "list_name": "English Practice Club \u269c Student **",
+   "list_desc": ""
+  },
+  "362764": {
+   "gid": "362764",
+   "cat": "Series/Movie",
+   "from": "https://grupbul.com/en/category/whatsapp/47/series-movie",
+   "list_name": "Alien Stage \u2728\u2728 Series/Movie Welcome to Alien Stage, an imaginative community designed for those who are passionate about",
+   "list_desc": "art, discussion, and the captivating realms of science fiction! Here, we invite you to embark on a journey where creativity meets camaraderie, and every conversation can spark inspiration. Whether you're a seasoned artist, a budding writer, or simply someon..."
+  },
+  "567235": {
+   "gid": "567235",
+   "cat": "Series/Movie",
+   "from": "https://grupbul.com/en/category/whatsapp/47/series-movie",
+   "list_name": "Latest Movies Series/Movie Are you a movie enthusiast always on the lookout for the latest releases?",
+   "list_desc": ""
+  },
+  "312734": {
+   "gid": "312734",
+   "cat": "Music",
+   "from": "https://grupbul.com/en/category/whatsapp/34/music",
+   "list_name": "\ud83d\udc41kons's fresh chips Music Welcome to the vibrant world of Katseye, where music and community come together to create a u",
+   "list_desc": "nique haven for fans! If you have a passion for Katseye and want to connect with like-minded individuals from all corners of the globe, you've stumbled upon the perfect place. Our WhatsApp group, \"\ud83d\udc41kons's Fresh Chips,\" is dedicated to celebrating everyt..."
+  },
+  "497527": {
+   "gid": "497527",
+   "cat": "Music",
+   "from": "https://grupbul.com/en/category/whatsapp/34/music",
+   "list_name": "Justin Bieber Music",
+   "list_desc": ""
+  },
+  "865713": {
+   "gid": "865713",
+   "cat": "Music",
+   "from": "https://grupbul.com/en/category/whatsapp/34/music",
+   "list_name": "For The Sake Of Music Music **For The Sake Of Music:",
+   "list_desc": ""
+  },
+  "985571": {
+   "gid": "985571",
+   "cat": "Music",
+   "from": "https://grupbul.com/en/category/whatsapp/34/music",
+   "list_name": "A.s Studio Music Welcome to A.S. Studio, a vibrant and engaging WhatsApp group that brings together music enthusiasts fr",
+   "list_desc": "om diverse backgrounds, including both international and Turkish individuals. In this space, we celebrate the universal language of music and the joy of conversation, fostering a community where everyone is welcome and encouraged to participate. W..."
+  },
+  "320563": {
+   "gid": "320563",
+   "cat": "Job Postings",
+   "from": "https://grupbul.com/en/category/whatsapp/9/job-postings",
+   "list_name": "Refer and Earn Job Postings Are you looking for a simple way to earn extra income from the comfort of your home? Look no",
+   "list_desc": "further! We are excited to introduce our exclusive referral program, which allows you to earn \u20b950 for every successful referral you make. This is not just another scheme; it\u2019s a genuine opportunity that has already helped countless individuals boost the..."
+  },
+  "503833": {
+   "gid": "503833",
+   "cat": "Job Postings",
+   "from": "https://grupbul.com/en/category/whatsapp/9/job-postings",
+   "list_name": "JobJob housemaid \ud83c\udde6\ud83c\uddea uae Job Postings Are you looking for a rewarding opportunity in the United Arab Emirates? We have an",
+   "list_desc": "exciting position available for a dedicated housemaid to join a welcoming household in this vibrant region. UAE, known for its rich culture, stunning architecture, and luxurious lifestyle, is the perfect place for individuals seeking personal and professional growth..."
+  },
+  "977190": {
+   "gid": "977190",
+   "cat": "Job Postings",
+   "from": "https://grupbul.com/en/category/whatsapp/9/job-postings",
+   "list_name": "Yacht Jobs & Opportunities Job Postings Are you ready to set sail on your next career adventure in the maritime industry",
+   "list_desc": "? If you have a passion for the ocean and the skills to thrive on luxury yachts, then look no further! Our dedicated WhatsApp group, \"Yacht Jobs & Opportunities,\" is designed specifically for individuals like you\u2014yacht captains, crew members, and maritime professional..."
+  },
+  "175618": {
+   "gid": "175618",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Girls Fun Masti Chat / Friendship Welcome to Girls Fun Masti, a vibrant community where girls can come together to unwin",
+   "list_desc": "d, share experiences, and enjoy each other\u2019s company in a fun and friendly environment. This exclusive WhatsApp group is designed specifically for girls who are eager to connect, engage, and have a good time. If you\u2019re looking for a place where you can express..."
+  },
+  "197480": {
+   "gid": "197480",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "\ua9c1\u1b0a\u1b01 \ud83d\udc51\ud835\udc72\ud835\udc70\ud835\udc75\ud835\udc6e \ud835\udc7a\ud835\udc7b\ud835\udc70\ud835\udc6a\ud835\udc72\ud835\udc6c\ud835\udc79 Chat / Friendship Welcome to the ultimate destination for sticker enthusiasts! If you\u2019re someone who l",
+   "list_desc": "oves to express emotions, share laughter, or simply add a bit of flair to your conversations, you've come to the right place. Our group, aptly named \"King Stickers,\" is dedicated to all things stickers. Here, you\u2019ll discover an extensive collection of stickers t..."
+  },
+  "223687": {
+   "gid": "223687",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Conoce gente Chat / Friendship Are you looking to expand your social circle and connect with new people? If so, you\u2019ve c",
+   "list_desc": "ome to the right place! Welcome to our vibrant Spanish-speaking community, where the primary goal is to foster friendships and engage in delightful conversations. This WhatsApp group is designed for individuals who are eager to meet new friends and discuss a ..."
+  },
+  "250882": {
+   "gid": "250882",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Amizade Central Chat / Friendship **Welcome to Amizade Central: Your New Friendship Hub!** Hello, friends! We are thrill",
+   "list_desc": "ed to introduce you to Amizade Central, a vibrant community designed for individuals looking to forge genuine friendships and create lasting connections. In today\u2019s fast-paced world, it's easy to feel isolated, but here, we believe in the power of camaraderie a..."
+  },
+  "315149": {
+   "gid": "315149",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "\ud83d\udd25 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddda\ud835\udddf\ud835\udde2\ud835\uddd5\ud835\uddd4\ud835\udddf \ud835\uddd9\ud835\uddd4\ud835\udde0\ud835\udddc Chat / Friendship Welcome to The Global Family, a place where hearts connect and friendships flourish ",
+   "list_desc": "in a vibrant, supportive environment. In a world filled with noise and distractions, we invite you to experience a unique space designed not just for conversations, but for meaningful connections that transcend geographical boundaries. Here, you are not merely joini..."
+  },
+  "377833": {
+   "gid": "377833",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "English gossip Chat / Friendship Are you looking for a vibrant space to improve your English skills while having fun?",
+   "list_desc": ""
+  },
+  "380628": {
+   "gid": "380628",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "\ua9c1\u1b0a\u1b01\ud83c\udf80 \ud835\udc7a\ud835\udc7b\ud835\udc70\ud835\udc6a\ud835\udc72\ud835\udc6c\ud835\udc79\ud835\udc7a \ud835\udc68\ud835\udc73\ud835\udc77 Chat / Friendship Welcome to the enchanting world of stickers! If you\u2019re a sticker enthusiast or simpl",
+   "list_desc": "y looking for a fun way to express your emotions through colorful visuals, you've landed in the right place. Our \"Sticker Alphabet\" group is a vibrant community dedicated to sharing an extensive collection of stickers that cater to all tastes and preferences. Whet..."
+  },
+  "383637": {
+   "gid": "383637",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "\u2694\ufe0fROYAL?GROUP\u2694\ufe0f Chat / Friendship Welcome to the exciting world of ROYAL?GROUP, where camaraderie and connection flouris",
+   "list_desc": "h! Whether you're seeking engaging conversations, new friendships, or simply a fun escape from your daily routine, our WhatsApp group is the perfect destination for all Royal and Loyal members. In today\u2019s fast-paced digital age, finding a community that resona..."
+  },
+  "430588": {
+   "gid": "430588",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "iTalk International / Uluslararas\u0131 Yabanc\u0131 Dil Grubu \ud83c\udf0e Chat / Friendship Welcome to iTalk International, a vibrant globa",
+   "list_desc": "l community for language enthusiasts and culture lovers! \ud83c\udf0d If you've ever dreamed of connecting with people from every corner of the world while honing your language skills, you're in the right place. Our group is designed for individuals aged 18 to 30 who are eager to engage in meaningful conversat..."
+  },
+  "444836": {
+   "gid": "444836",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Romantic Chat / Friendship Are you ready to embark on a journey filled with romance, friendship, and heartfelt connectio",
+   "list_desc": "ns? Welcome to a vibrant WhatsApp group where love and companionship await you! In this inviting space, we believe that every conversation can spark a new friendship, and every friendship has the potential to blossom into something beautiful. In today\u2019s..."
+  },
+  "593435": {
+   "gid": "593435",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "\ua9c1\u1b0a\u1b01\u26a1\ufe0f \ud835\udc16\ud835\udc0e\ud835\udc11\ud835\udc0b\ud835\udc03 \ud835\udc0e\ud835\udc05 \ud835\udc12\ud835\udc13\ud835\udc08 Chat / Friendship Welcome to the vibrant and exciting **World of Stickers**! If you are someone who l",
+   "list_desc": "oves to express yourself through colorful and creative stickers, you've landed in the right place. Our WhatsApp group is dedicated to bringing together sticker enthusiasts from every corner of the globe. Here, you\u2019ll find a daily treasure trove of stickers that cat..."
+  },
+  "674364": {
+   "gid": "674364",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Girls' WhatsApp Video Chat / Friendship",
+   "list_desc": ""
+  },
+  "696815": {
+   "gid": "696815",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Skyward Whispers Chat / Friendship **Skyward Whispers: A Celestial Anime Community Awaits You** Welcome to Skyward Whisp",
+   "list_desc": "ers, where the magic of anime comes alive in a vibrant community that thrives on the whispers of our shared passions. Imagine a place where every anime enthusiast, whether a seasoned veteran or a curious newcomer, can come together to discuss beloved characters, p..."
+  },
+  "721254": {
+   "gid": "721254",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Dating \ud83d\ude09G\u0280\u1d0f\u1d1c\u1d18 Chat / Friendship Are you ready to embark on an exciting journey towards finding meaningful connections an",
+   "list_desc": "d companionship? If so, we invite you to join our vibrant and engaging dating group on WhatsApp! In today\u2019s fast-paced world, where genuine connections can sometimes feel elusive, our community aims to bring like-minded individuals together in a friendly and w..."
+  },
+  "743131": {
+   "gid": "743131",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Hi friends Chat / Friendship Are you looking for a space where meaningful connections can blossom? Welcome to our vibran",
+   "list_desc": "t WhatsApp group, where friends, love, and life come together in a harmonious blend. In today\u2019s fast-paced world, it can often feel challenging to establish genuine relationships. Yet, it is through shared conversations and experiences that we can forge bon..."
+  },
+  "743954": {
+   "gid": "743954",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Blabla Conversations - Connect with World Chat / Friendship Welcome to Blabla Conversations \u2013 your gateway to a vibrant ",
+   "list_desc": "multicultural community! In an increasingly interconnected world, the importance of understanding and connecting with diverse cultures has never been more vital. This WhatsApp group is designed for individuals who are eager to engage in meaningful conversations, share experiences, and fo..."
+  },
+  "757428": {
+   "gid": "757428",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Arkadas tanisma Chat / Friendship Are you looking to expand your social circle and meet new friends? Look no further! We",
+   "list_desc": "invite you to join our vibrant WhatsApp group dedicated to friendship and social interaction. In this welcoming space, you will have the opportunity to connect with like-minded individuals from diverse backgrounds, share experiences, and cultivate meaningful frie..."
+  },
+  "791674": {
+   "gid": "791674",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Sohbete gel Chat / Friendship Are you looking for a vibrant community where friendships blossom, and conversations flow ",
+   "list_desc": "freely? Welcome to our WhatsApp group, a dedicated space designed for those who seek genuine connections without any distractions. Whether you're searching for a potential romantic partner or simply want to expand your social circle, our group offers a welcomi..."
+  },
+  "791785": {
+   "gid": "791785",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "\ud83c\udf0d THE GLOBAL FAMILY \ud83c\udf0d Chat / Friendship Welcome to THE GLOBAL FAMILY! Here, we believe in the power of connection, under",
+   "list_desc": "standing, and love that transcends borders. Imagine a space where individuals from every corner of the world come together, not just as participants in a chat group, but as members of a vibrant family. Our mission is simple: to create a nurturing environment where every..."
+  },
+  "792999": {
+   "gid": "792999",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Chill chat gruppe \ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\uddf8 Chat / Friendship Welcome to the Chill Chat Group, a vibrant and welcoming community where indivi",
+   "list_desc": "duals from diverse backgrounds can come together to share ideas, engage in meaningful conversations, and foster new friendships. Our group is designed for those who seek a relaxed atmosphere where they can express themselves freely and connect with like-minded people fro..."
+  },
+  "813979": {
+   "gid": "813979",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "\u3010 \u9ed2\uff5cKuro Mugen\uff5c\u7121\u9650 \u3011 Chat / Friendship Are you seeking a vibrant community where you can connect with like-minded individ",
+   "list_desc": "uals? Look no further! Welcome to the \u3010\u9ed2\uff5cKuro Mugen\uff5c\u7121\u9650\u3011 WhatsApp group, a space designed for those eager to forge friendships and share experiences in a friendly and welcoming environment. With our diverse range of members, you\u2019ll find that there\u2019s a..."
+  },
+  "856191": {
+   "gid": "856191",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "English chat Chat / Friendship Are you looking to enhance your English language skills while having fun and making new f",
+   "list_desc": "riends?"
+  },
+  "913828": {
+   "gid": "913828",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "English Chat / Friendship Welcome to our vibrant English conversation group on WhatsApp, where language enthusiasts gath",
+   "list_desc": "er to enhance their fluency and connect with like-minded individuals from around the globe. This group is designed for anyone looking to practice their English skills in a friendly and supportive environment. Whether you are a beginner or a fluent speaker,..."
+  },
+  "940418": {
+   "gid": "940418",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "Hashira Squad Chat / Friendship **",
+   "list_desc": ""
+  },
+  "962515": {
+   "gid": "962515",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "\ua9c1\u1b0a\u1b01 \ud835\udc11\ud835\udc0e\ud835\udc0c\ud835\udc00\ud835\udc0d\ud835\udc13\ud835\udc08\ud835\udc02 \ud835\udc12\ud835\udc13\ud835\udc08\ud835\udc02 Chat / Friendship Welcome to the enchanting world of romance! If you find joy in expressing your feeli",
+   "list_desc": "ngs through stickers and love to connect with others who share your passion for all things romantic, you\u2019ve landed in the perfect place. Our WhatsApp group, dedicated exclusively to romantic stickers, is a haven for those who yearn to sprinkle a little love into t..."
+  },
+  "976715": {
+   "gid": "976715",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "\ud83c\udf39ROMANT\u0130K\ud83c\udf39 Chat / Friendship Welcome to the enchanting world of romance! If you have a passion for heartfelt connections",
+   "list_desc": ", captivating stories, and the beauty of relationships, you have found your haven. Our Kinam group is dedicated to those who cherish the art of romance and seek to engage with like-minded individuals who share the same enthusiasm. Whether you're a romantic at..."
+  },
+  "982827": {
+   "gid": "982827",
+   "cat": "Chat/Friendship",
+   "from": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "list_name": "open to women only Chat / Friendship Are you looking for a safe and welcoming space to connect with other women?",
+   "list_desc": ""
+  },
+  "122233": {
+   "gid": "122233",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "139686": {
+   "gid": "139686",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "187780": {
+   "gid": "187780",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "221567": {
+   "gid": "221567",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "233681": {
+   "gid": "233681",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "259262": {
+   "gid": "259262",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "266959": {
+   "gid": "266959",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "267195": {
+   "gid": "267195",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "307873": {
+   "gid": "307873",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "340579": {
+   "gid": "340579",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "505638": {
+   "gid": "505638",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "548837": {
+   "gid": "548837",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "555478": {
+   "gid": "555478",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "569448": {
+   "gid": "569448",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "634537": {
+   "gid": "634537",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "639871": {
+   "gid": "639871",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "651988": {
+   "gid": "651988",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "659888": {
+   "gid": "659888",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "725803": {
+   "gid": "725803",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "738627": {
+   "gid": "738627",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "825755": {
+   "gid": "825755",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "857112": {
+   "gid": "857112",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "860786": {
+   "gid": "860786",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "868834": {
+   "gid": "868834",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "883541": {
+   "gid": "883541",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "918733": {
+   "gid": "918733",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  },
+  "953505": {
+   "gid": "953505",
+   "cat": "Unknown",
+   "from": "https://grupbul.com/en/whatsapp-groups",
+   "list_name": "",
+   "list_desc": ""
+  }
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "team": "team11",
+ "slice": "groupsinvite.link entries 1001-2671 (enum indices 1000-2670, 1671 entries, site order = newest first)",
+ "sources": [
+  "groupsinvite.link"
+ ],
+ "verified": 74,
+ "pending": 0,
+ "leads": 65,
+ "dead": 78,
+ "notes": {
+  "entries_covered": "1001-2671 (all 1671 entries fetched via /group/rules/<slug>/; first 1000 already mined Nov 8 by team13)",
+  "rules_fetch": {
+   "slice_total": 1671,
+   "fetched": 1671,
+   "with_code": 1419,
+   "channel": 47,
+   "no_code": 205,
+   "dup_existing": 1264,
+   "dup_nov8": 0,
+   "dup_batch": 0,
+   "fresh": 155
+  },
+  "verify": {
+   "fresh_codes_checked": 155,
+   "live": 77,
+   "dead": 78,
+   "pending_transport": 0,
+   "method": "curl only, max 3 parallel, 0.7s pacing; live = HTTP 200 + non-empty og:title; empty og:title retried up to 2 more times"
+  },
+  "screen_blocked_from_live": {
+   "adult-emoji": 2,
+   "porn-sex-escort": 1,
+   "total": 3,
+   "blocked_names": [
+    "Full masti (adult emoji)",
+    "Earn Money With Porn",
+    "VIP වැල් සංවිධානය (adult emoji)"
+   ]
+  },
+  "channels_excluded": 47,
+  "no_code_disabled_join_link": 205,
+  "dup_vs_existing_codes": 1264,
+  "by_category": {
+   "Finance": 8,
+   "Buy Sell": 4,
+   "News": 3,
+   "Technology": 3,
+   "Friendship": 12,
+   "Jobs": 12,
+   "Education": 4,
+   "Entertainment": 4,
+   "Online Earning": 10,
+   "Business": 7,
+   "Sports": 5,
+   "Community & Social": 2
+  },
+  "by_country": {
+   "IN": 63,
+   "PK": 2,
+   "US": 3,
+   "CO": 2,
+   "GB": 1,
+   "ID": 1,
+   "CA": 1,
+   "OM": 1
+  },
+  "category_pages_mined": 34,
+  "category_pages_new_slugs": 30,
+  "category_new_slugs_banked_as_leads": true,
+  "lessons_applied": [
+   "GroupID from /group/rules/<slug>/ used in ORIGINAL CASE (invite codes are case-sensitive; lowercase slug is dead)",
+   "Rules pages also publish chat.whatsapp.com/invite/<CODE> form - regex fixed mid-run to capture it (pre-fix no-code entries re-fetched)",
+   "WhatsApp Channels (whatsapp.com/channel/) excluded - only chat.whatsapp.com invites count",
+   "No-code rules pages have a disabled Join button (group removed/expired on the site) - legitimately no invite",
+   "Prohibition sentences stripped before screening so rule text is not mistaken for content",
+   "Betting groups kept; B-Love/Forsage/SHEYI-style airdrop/free-money pitches dropped",
+   "python requests NOT used on chat.whatsapp.com (stalls) - curl only for verification"
+  ],
+  "files": [
+   "team11-candidates.json",
+   "team11-pending.json",
+   "team11-leads.json",
+   "team11-summary.json",
+   "team11_gi_rules.json",
+   "team11_fresh_codes.json",
+   "team11_live.json",
+   "team11_dead.json",
+   "team11_pending_raw.json",
+   "team11_cat_slugs.json",
+   "team11_cat_new_slugs.json",
+   "team11_fetch_rules.py",
+   "team11_verify.py",
+   "team11_assemble.py",
+   "team11_build_fresh.py",
+   "team11_catmine2.py"
+  ]
+ }
+}

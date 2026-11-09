@@ -1,0 +1,42 @@
+[
+ {
+  "code": "CbN82VrG8IO7NMDL2b1jby",
+  "invite": "https://chat.whatsapp.com/CbN82VrG8IO7NMDL2b1jby",
+  "reason": "transport failed (curl timeout/no HTTP status after 3 tries)",
+  "sources": [
+   "https://joinnchat.com/"
+  ]
+ },
+ {
+  "code": "Cu6lLRprBIB8CVrOdh34QV",
+  "invite": "https://chat.whatsapp.com/Cu6lLRprBIB8CVrOdh34QV",
+  "reason": "transport failed (curl timeout/no HTTP status after 3 tries)",
+  "sources": [
+   "https://joinnchat.com/"
+  ]
+ },
+ {
+  "code": "DRNrGCUKw7pF8iInr4bhMG",
+  "invite": "https://chat.whatsapp.com/DRNrGCUKw7pF8iInr4bhMG",
+  "reason": "transport failed (curl timeout/no HTTP status after 3 tries)",
+  "sources": [
+   "https://joinnchat.com/"
+  ]
+ },
+ {
+  "code": "Hz3GDWIpC1M9HVsPTkOdFP",
+  "invite": "https://chat.whatsapp.com/Hz3GDWIpC1M9HVsPTkOdFP",
+  "reason": "transport failed (curl timeout/no HTTP status after 3 tries)",
+  "sources": [
+   "https://www.whatsgroup.in/"
+  ]
+ },
+ {
+  "code": "KcBpDdz2nXm9e0ay1ksggb",
+  "invite": "https://chat.whatsapp.com/KcBpDdz2nXm9e0ay1ksggb",
+  "reason": "transport failed (curl timeout/no HTTP status after 3 tries)",
+  "sources": [
+   "https://www.whatsgroup.in/"
+  ]
+ }
+]

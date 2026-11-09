@@ -1,0 +1,42 @@
+{
+ "team": "team01",
+ "slice": "leads_slice_01.json",
+ "slice_urls": 184,
+ "slice_breakdown": {
+  "whatsappkanali.com": 61,
+  "linkado.app": 23,
+  "groupsinvite.link": 100
+ },
+ "sources": [
+  "whatsappkanali.com (Turkish city/subcategory listings)",
+  "linkado.app (Brazilian directory: sitemap + category pages + 870 grupo detail pages)",
+  "groupsinvite.link (single-group pages)"
+ ],
+ "verified": 330,
+ "verified_breakdown": {
+  "whatsappkanali_fresh_codes": 27,
+  "linkado_fresh_codes": 303
+ },
+ "live": 32,
+ "dead": 298,
+ "screened_out": 9,
+ "candidates": 23,
+ "pending": 0,
+ "leads": 939,
+ "leads_breakdown": {
+  "groupsinvite_slice_js_gated": 100,
+  "linkado_nocode_detail_pages": 88,
+  "groupsinvite_related_discovered": 592,
+  "whatsappkanali_discovered_listings": 258,
+  "linkado_sitemap_master": 1
+ },
+ "notes": [
+  "whatsappkanali.com: all 27 fresh codes DEAD (HTTP 200, empty og:title after 3 attempts each). Turkish directory listings are stale; several codes were truncated variants of the same invite (e.g. E51zHCiU0i / E51zHCiU0ib1 / E51zHCiU0ib1MBwZQ0LZU7). 9 listing pages yielded 0 codes (group cards JS-gated).",
+  "linkado.app: category pages embed few invites; fetched all 870 /grupo/ detail URLs found on them (3-parallel curl). 782 yielded codes, 88 button-gated (leads). 303 fresh codes vs union; 32 live (10.6%). Live rate split sharply by ObjectID age: first 245 codes (oldest IDs) only 8 live (3%), last 58 codes (newest IDs) 24 live (41%).",
+  "groupsinvite.link: all 100 slice pages fetched OK (HTTP 200) but NONE expose the invite in static HTML (JS/click-gated); only 1 already-known code surfaced via a related-group card. All 100 banked as NEEDS-BROWSER-LEG leads, plus 592 related group pages discovered inside them.",
+  "Screened out 9 of 32 live: 7 adult/18+/hookup (incl. 'CHUDAI' + 'novinhos', dark-web 18+, 'No Sigilo' 18+, Flerte & Curticao hookup, Amizade Colorida FWB, 18+ boate, resenha masculina 18+), 1 free-money scam (register energy account, earn money), 0 porn-xxx by keyword. 'Boate LGBTQIAP+' dropped on its 18+ marker (borderline social/nightclub group).",
+  "Checker calibrated mid-run: 2 known-live union codes still returned og:titles while dead codes returned empty, so the high dead rate is real, not throttling.",
+  "All 23 candidates are Brazilian (BR), verified live with non-empty og:title, deduped vs the 106,883-code union. No transport failures; pending file is empty.",
+  "No files outside the wave dir were touched; groups.json / generate.py / deploy dir untouched."
+ ]
+}

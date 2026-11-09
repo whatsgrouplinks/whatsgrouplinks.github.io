@@ -1,0 +1,65 @@
+{
+ "team": 22,
+ "slice": "Listicles - Sports / Movies / Entertainment",
+ "sources": [
+  "whatgroups.com (cricket, entertainment)",
+  "newgrouplinks.pk (cricket, drama)",
+  "whtsagrouplinks.com (movies, sports, pakistani)",
+  "wahublink.com (entertainment, sports)",
+  "grouplink.com.in (sports, jokers)",
+  "appgrouplink.com (football)",
+  "techpuran.in (viral video, entertainment)",
+  "wagrouplinks.net (messi fans)",
+  "wagroupshub.com (sports)",
+  "whatzgrouplink.com (movies-drama, latest)",
+  "whatsgroup.in (music)",
+  "whtspgrouplink.com (1000-members, home)",
+  "whatstele.com (memes-stickers)",
+  "logicalshout.com (funny)",
+  "joinnchat.com",
+  "groupjoin.link (netflix tag)",
+  "groupwa.link (gallery)",
+  "whtsgrouplink.com",
+  "youtube.com/shorts (music group)"
+ ],
+ "extracted_total": 1525,
+ "fresh_checked": 219,
+ "verified": 1,
+ "pending": 5,
+ "leads": 22,
+ "dead": 209,
+ "screened_out": [
+  {
+   "code": "Fh7G5LnHVdg49bL6CSaPNy",
+   "title": "ıllıllı  𝘞𝘢𝘪𝘳𝘢𝘭 xxx  ıllıllı",
+   "reason": "porn/sex"
+  },
+  {
+   "code": "KOlCyFUsXPOLwJvwpb1aAB",
+   "title": "JOGOS DE SEXO 3D",
+   "reason": "porn/sex"
+  }
+ ],
+ "off_slice_live": [
+  {
+   "code": "JX1G4anCVhi1qACilocbHT",
+   "title": "बिहारी लाल प्राकृतिक आरोग्य सदन",
+   "reason": "off-slice topic (not sports/movies/entertainment)"
+  },
+  {
+   "code": "KCvXxFD0zucBgMD7fLyJnP",
+   "title": "علم و آدب اور اصلاح 1",
+   "reason": "off-slice topic (not sports/movies/entertainment)"
+  }
+ ],
+ "notes": [
+  "1525 unique codes extracted (437 batch-1 + 1111 batch-2, 23 in both); 1307 already in the 106,883-code union; 218 fresh.",
+  "218 fresh codes extracted (48 batch1 + 170 batch2); +1 music code from a YouTube description = 219 total fresh.",
+  "Verification: curl with browser UA, max 3 parallel, og:title required; empty og:title retried 2 more times before marking dead.",
+  "Calibration: known-live union codes returned og:title ('News Line 2', '+234..2016'); empty og:title + default og:image = revoked/expired invite.",
+  "WhatsApp TTFB ~6-8s per check; some connections stall to the 10s curl cap, which made verification slow.",
+  "No crypto/earning listicles mined (saturated, per instructions).",
+  "All 219 fresh codes were verified (100% coverage); nothing left unverified.",
+  "1 candidate only: listicle codes in this slice are heavily recycled - 209/219 fresh codes were dead (empty og:title after 3 tries) and 2 live ones were porn/sex drops."
+ ]
+}

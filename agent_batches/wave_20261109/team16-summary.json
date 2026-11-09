@@ -1,0 +1,27 @@
+{
+ "team": 16,
+ "slice": "whatsgroupslinkspk.com homepage + category pages (jobs, poetry, dubai) + groupjoin.link newest (sitemap-groups-1, lastmod>=2026-11-08)",
+ "sources": [
+  "https://whatsgroupslinkspk.com/ (homepage, 736 unique codes)",
+  "https://whatsgroupslinkspk.com/jobs-whatsapp-group-links/ (66 codes)",
+  "https://whatsgroupslinkspk.com/poetry-whatsapp-group-links/ (42 codes)",
+  "https://whatsgroupslinkspk.com/dubai-whatsapp-group-links/ (19 codes)",
+  "https://whatsgroupslinkspk.com/all-groups/ (0 codes in HTML - paginated post index, no invite links on page 1)",
+  "https://www.groupjoin.link/public/sitemaps/sitemap-groups-1.xml (12 submissions with lastmod 2026-11-08..2026-11-09; sitemap-groups-2 had 0 in range)",
+  "https://www.groupjoin.link/recent-groups (text fetch: JS-gated, only first 3 groups visible - banked as lead)"
+ ],
+ "verified": 0,
+ "pending": 0,
+ "leads": 7,
+ "dead": 178,
+ "notes": [
+  "Mined 853 unique codes from whatsgroupslinkspk.com pages; 167 were fresh vs .existing_codes.json (106,883 codes); 1 bogus code 'invite' (from a /invite/ URL path) excluded; 166 wglpk + 12 groupjoin = 178 codes slow-checked.",
+  "Slow checker: curl with browser UA, 3 parallel workers, >=0.5s gap. Every one of the 178 returned HTTP 200 with EMPTY og:title on pass 1, retry pass 2 AND retry pass 3 (spaced apart, different UA on passes 2-3). Per task rule, all 178 marked dead after 3 empty-title attempts.",
+  "Checker validated as working: known-live existing code 00CHZw0BFnP6ZLQVROVo0Y returned og:title '+234..2016'; spot-checked 5 other existing codes from the same homepage and 2/5 returned real titles (Arabic group name; 'TENSPORTS (Sony Pictures)'). So empty titles are genuine dead/revoked invites, not a checker failure. Empty-title pages are the generic 'WhatsApp Group Invite' shell with no group data.",
+  "Interpretation: the unharvested remainder of whatsgroupslinkspk.com is overwhelmingly stale/revoked - prior waves appear to have already taken the live ones. The site's '181 fresh' count does not mean live; 0/178 fresh codes verified live.",
+  "groupjoin.link: only 12 submissions since 2026-11-08 in its newest sitemap file; all 12 dead on 3 checks. Two were visibly porn on the listing itself ('Videos Group' ry1a0pkpmuivt2ldwnv8r, 'KPS' 1kmn08aqnbdqujnpz0tir) - dead anyway, no screen decision needed. groupjoin.link listing pages are JS-gated (text fetch shows ~3 groups); banked as leads for a browser leg.",
+  "Pending is 0: the only transport failures (LEyIIp5vtJ7HOJfrOtTevu in pass 2; bik19di8iocfsvqpwb3ec in pass 3) both returned HTTP 200 empty-title on their other attempts, so both are dead, not pending.",
+  "Candidates file is an empty list [] - honest zero result. No groups passed verification, so no screening decisions were needed. No source names/links, phone numbers or personal info in any output.",
+  "All-groups page is a paginated index of 53 category posts (page/2/...) with no invite links in its HTML; banked as lead rather than mined further."
+ ]
+}

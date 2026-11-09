@@ -1,0 +1,20 @@
+{
+ "team": "02",
+ "slice": "leads_slice_02.json (184 groupsinvite.link related-group listing URLs)",
+ "sources": [
+  "groupsinvite.link"
+ ],
+ "verified": 1,
+ "pending": 1,
+ "leads": 219,
+ "dead": 60,
+ "notes": [
+  "Fetched all 184 listing pages + their /group/rules/ pages (real invite sits on rules page).",
+  "Extracted 169 invite codes: 121 already in .existing_codes.json, 48 new, 0 dup-in-slice.",
+  "Slow-checked all 48 new codes with curl (3 attempts spaced apart for empty og:title): only 2 live (HTTP 200 + non-empty og:title); 46 returned HTTP 200 with empty og:title on all 3 attempts and were marked dead per spec. Manual inspection of one empty case showed WhatsApp's generic invite page with no group name anywhere in the HTML — consistent with revoked/expired invites from old (Jul 2025-era) listings.",
+  "Screened the 2 live: 1 kept (Web development, Technology, IN); 1 dropped — 'ONLY MLM NEW PLAN COME' (network-marketing new-plan pitch, Forsage-family free-money scheme).",
+  "14 listings had no invite code on the rules page (counted in dead); 1 transport failure (rules page curl timeout rc=28) banked in team02-pending.json for retry.",
+  "Discovered 632 related-group listing URLs; 219 are genuinely new leads after removing slice URLs and ids already in the union.",
+  "No source names/links, phone numbers or personal info in any candidate."
+ ]
+}

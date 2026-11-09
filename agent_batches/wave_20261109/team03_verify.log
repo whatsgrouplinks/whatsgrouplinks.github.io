@@ -1,0 +1,10 @@
+verifying 122 codes
+... 20/122 live-so-far=2
+... 40/122 live-so-far=2
+... 60/122 live-so-far=2
+... 80/122 live-so-far=6
+... 100/122 live-so-far=9
+... 120/122 live-so-far=15
+retry round 1: 107 ambiguous
+retry round 2: 107 ambiguous
+DONE live=15 ambiguous-still-empty=107 dead(http!=200)=0 transport-fail=0

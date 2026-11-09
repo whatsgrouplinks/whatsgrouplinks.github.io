@@ -1,0 +1,37 @@
+{
+ "team": "team21",
+ "slice": "Listicles - Education / Jobs",
+ "sources": [
+  "https://grouplink.com.in/all-india-study-whatsapp-group-links/",
+  "https://grouplink.com.in/3200-indian-job-whatsapp-group-links/",
+  "https://whgroups.link/pakistan-jobs-whatsapp-group-links/",
+  "https://result-pedia.net/mdcat-whatsapp-group/",
+  "https://wtgrouplinks.com/bihar-board-10th-whatsapp-group-link/",
+  "https://www.bestdelhi.in/delhi-university-whatsapp-group-link/",
+  "https://grouplink.com.in/bank-jobs-whatsapp-group-links/",
+  "https://grouplink.com.in/join-private-bank-jobs-whatsapp-group-links-today/",
+  "https://grouplink.com.in/kota-university-whatsapp-group-links-for-students/",
+  "https://appgrouplink.com/government-jobs-whatsapp-group-links/",
+  "https://groupwa.link/",
+  "https://wagroupshub.com/",
+  "https://newgrouplinks.pk/english-learning-whatsapp-group-links/",
+  "https://newgrouplinks.pk/jobs-whatsapp-group-links/",
+  "https://groupsinvite.link/education/study/english-learning/",
+  "https://activewagroup.com/pakistani-whatsapp-group-links/",
+  "https://www.sarvgyan.com/articles/best-whatsapp-group-for-neet-preparation",
+  "web search snippets (scholarship/NEET/college-notice results)"
+ ],
+ "verified": 9,
+ "pending": 0,
+ "leads": 8,
+ "dead": 5,
+ "notes": [
+  "Extracted ~800 unique invite codes across 17 fetched pages; all but 15 were already in .existing_codes.json (106,883 codes) - the big directories (grouplink, groupwa, wagroupshub, whgroups, activewagroup) are fully mined for this slice.",
+  "15 new codes slow-verified with curl (browser UA, sequential, 1s gap, up to 3 attempts for empty og:title): 10 live (HTTP 200 + non-empty og:title), 5 dead (HTTP 200 but empty og:title after 3 attempts - all 5 from newgrouplinks.pk English Learning page).",
+  "Screened out 1 verified-live group: '10th Viral Paper 2025' (J1VAqLHReQkJD4lFqu4fOb) - Bihar board leaked-exam-paper group, not a legitimate study group.",
+  "No transport failures: every check returned HTTP 200, so pending is empty.",
+  "Two MDCAT groups share near-identical og:titles ('MDCAT - Mbbs.Com.Pk' vs 'MDCAT -Mbbs.Com.Pk') but are distinct live groups with different invite codes; both kept.",
+  "No porn/scam/crypto content found among verified names; og:description was generic 'WhatsApp Group Invite' for all, so descriptions were written from listing context. No source names/links or phone numbers in candidates.",
+  "Raw page HTML kept in team21_raw/; verify pool in team21_verify_pool.json; verify results in team21_verify_results.json."
+ ]
+}

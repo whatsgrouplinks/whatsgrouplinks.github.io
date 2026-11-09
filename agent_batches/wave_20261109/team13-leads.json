@@ -1,0 +1,22 @@
+[
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/53/food",
+  "source": "team13-grupbul",
+  "note": "Food category page returned 0 group ids in static HTML — needs browser leg / recheck"
+ },
+ {
+  "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+  "source": "team13-grupbul",
+  "note": "Chat/Friendship category page 1 fetched (27 groups); site ignores ?page=2 (returns same content) — deeper pages need browser leg"
+ },
+ {
+  "url": "https://grupbul.com/en/whatsapp-groups",
+  "source": "team13-grupbul",
+  "note": "All-WhatsApp latest listing (40 groups) — recheck next wave; ?page=2 returns same 40"
+ },
+ {
+  "url": "https://grupbul.com/group/868834",
+  "source": "team13-grupbul",
+  "note": "NEEDS-BROWSER-LEG: redirect returned no chat code after retry"
+ }
+]

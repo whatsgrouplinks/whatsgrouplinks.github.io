@@ -1,0 +1,33 @@
+{
+ "team": "team06",
+ "slice": "leads_slice_06.json",
+ "sources": {
+  "www.groupjoin.link": 59,
+  "www.grouplinksforyou.com": 52,
+  "groupsnest.com": 35,
+  "www.imagesplatform.com": 23,
+  "wagroupshub.com": 8,
+  "assengaonline.com": 6,
+  "linktogroups.com": 1
+ },
+ "leads_fetched": 184,
+ "verified": 2662,
+ "live": 790,
+ "dead": 1870,
+ "pending": 2,
+ "candidates": 758,
+ "screen_dropped": 32,
+ "leads": 94,
+ "notes": [
+  "184 slice URLs fetched via curl (browser UA); 154 pages yielded codes, 30 yielded none.",
+  "5,996 unique invite codes on slice pages; 2,526 fresh vs .existing_codes.json (106,883). 123 sub-post pages mined from zero-code label/category pages yielded 136 more fresh codes (4,751 codes on those pages, mostly already known). Total verified 2,662.",
+  "Verification: curl --parallel-max 2, --http2, --compressed, --rate 2/s, browser UA; LIVE = HTTP 200 + non-empty og:title. Empty og:title retried twice more, spaced apart (attempts 2 and 3); 0 ambiguous codes flipped to live on retry, confirming empty title is stable for dead/revoked links.",
+  "Live 790 = 736 main + 54 sub-post. Dead 1,870 = HTTP 200 with empty og:title after 3 attempts. Pending 2 = HTTP 429 on all 3 attempts (FDl5Vh4qtql1ccWOoyyKLD, FEbZKlL3QMf7UH4dwpFS9d) - transport-failed only, listed in team06-pending.json.",
+  "Screening dropped 32 of 790 live: 18 scam (Forsage/B-Love/airdrop), 14 adult (xxx/sex/nude). Betting and girls/friendship groups kept per brief. 5 live titles were junk ('.', bare URLs) - listing-page names used instead.",
+  "Zero-code pages: grouplinksforyou label pages are Blogger label views (post links extracted, 37 posts fetched as sub-posts); wagroupshub category page likewise (14 posts fetched); assengaonline category pages (72 article links fetched, mostly non-group articles); linktogroups.com/en/whatsapp-groups is a JS Next.js app - NEEDS-BROWSER-LEG (in leads); groupjoin.link/country/kenya and /category/Entertainment?safeSearch=blur embed no group data in static HTML - NEEDS-BROWSER-LEG (in leads).",
+  "Non-listing slice URLs, no codes expected: groupsnest contact-us x2, wagroupshub oembed x2, imagesplatform jpg x1, assengaonline tag feed x1.",
+  "groupjoin.link country pages (united-states/nigeria/malaysia/united-kingdom) timed out on first curl (40s) but succeeded on retry and yielded 19-20 codes each.",
+  "Method note: per-URL -w flags are ignored by curl --parallel (last -w wins for all transfers); fixed by using one global -w with %{url_effective}. An early buggy run's 270 records were discarded and re-verified. Also: nohup background jobs launched from exec get reaped - long runs were done as foreground execs that the runtime backgrounds.",
+  "Category/country are best guesses from listing context and group name; default country IN where unknown. Descriptions use listing-page text where clean, else category templates; no source names/links, no phone numbers anywhere in candidates."
+ ]
+}

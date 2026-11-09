@@ -1,0 +1,31 @@
+{
+ "team": 12,
+ "slice": "tglinkhub mega-page",
+ "sources": [
+  "https://tglinkhub.com/whatsapp-group-links/ (9680+ mega page; 554 unique codes extracted from full HTML fetch)",
+  "https://tglinkhub.com/malayalam-whatsapp/ (2400+ Malayalam page; 146 unique codes via WP REST API post 1937 — direct curl hit Cloudflare challenge, API bypassed it)"
+ ],
+ "pages_covered": [
+  "https://tglinkhub.com/whatsapp-group-links/",
+  "https://tglinkhub.com/malayalam-whatsapp/"
+ ],
+ "extracted_unique_codes": 668,
+ "already_in_union": 255,
+ "fresh_checked": 413,
+ "verified": 182,
+ "pending": 5,
+ "leads": 25,
+ "dead": 219,
+ "screen_dropped_live": 7,
+ "notes": [
+  "Mega page yielded 554 unique codes (Nov 8 reported 553); Malayalam page added 114 more unique codes; union overlap 255; fresh 413.",
+  "Slow checker: curl with browser UA, max 3 parallel, 0.2s dispatch stagger, 15s max-time. 189 returned HTTP 200 + non-empty og:title; 219 returned HTTP 200 with persistently EMPTY og:title after retries (re-checked minutes apart, still empty; og:image was the generic WhatsApp placeholder) and are counted dead per the task rule. 5 transport failures (empty/short curl response) are pending.",
+  "2 codes flipped empty->live on retry during the resumed run, confirming retries were worthwhile.",
+  "Screen drops among live (7): Forsage Kenya & SA Team (scam), Radeon Airdrop (airdrop scam), ALL TYPES OF SEX VIDEOS, malayalam girl online live sex, Malayalam kambi PhoneCall, Call girl service Mlp (adult), and one group whose name is a phone number (9083695293...). Betting/money groups and girls/friendship groups kept.",
+  "Category bug caught and fixed: 'app' substring matched 'WhatsApp' in section text and mislabeled 21 groups as Technology; re-ran with word-boundary matching (Technology now 1).",
+  "Verifier died once mid-run (no error in log) and was restarted detached with setsid; it resumed from the checkpoint file, no codes lost.",
+  "Malayalam page direct HTML fetch was Cloudflare-challenged; codes extracted from wp-json wp/v2/posts/1937 instead.",
+  "Country is best guess from group/section names (Kerala/Malayalam->IN default); 91 IN, 15 BD, 13 GB, 13 KE, 13 TZ, 10 US, 9 ZW, 8 PK, 7 LK, 2 CA, 1 AE.",
+  "No files outside the wave dir were edited; groups.json untouched."
+ ]
+}

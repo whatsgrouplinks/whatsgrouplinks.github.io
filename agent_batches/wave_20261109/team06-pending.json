@@ -1,0 +1,14 @@
+[
+ {
+  "code": "FDl5Vh4qtql1ccWOoyyKLD",
+  "http": 429,
+  "attempts": 3,
+  "last_attempt": 3
+ },
+ {
+  "code": "FEbZKlL3QMf7UH4dwpFS9d",
+  "http": 429,
+  "attempts": 3,
+  "last_attempt": 3
+ }
+]

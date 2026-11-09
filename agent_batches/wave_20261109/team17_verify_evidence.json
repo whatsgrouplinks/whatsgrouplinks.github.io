@@ -1,0 +1,12 @@
+{
+  "conclusion": "curl-based og:title verification cannot discriminate live vs dead from this VM on 2026-11-09",
+  "controls": [
+    {"code": "LsogFpLM5viKiCwXaap3US", "known": "live candidate in wave_20261108 team02-candidates.json (PUBG MOBILE)", "curl_result": "HTTP 200, 7.5s, og:title empty, og:description 'WhatsApp Group Invite', og:image generic WhatsApp logo", "variants_tested": ["desktop Chrome 126 UA", "mobile iPhone UA", "cookie round-trip + Accept-Language + compressed"]},
+    {"code": "Ei5y4yo1SH7DXnCiMueg6D", "known": "fresh code from whatsgroup.in homepage Nov 9 (BGMI Paid Tournaments)", "curl_result": "HTTP 200, 8.4s, og:title empty (two fetches)"},
+    {"code": "ZZZZZZZZZZZZZZZZZZZZZZ", "known": "garbage control code, cannot be a real group", "curl_result": "HTTP 200, 7.8s, og:title empty, og:description 'WhatsApp Group Invite' — IDENTICAL shell to the known-live code (67 code occurrences in each, no group name/subject/error strings, normalized diff is only nonces/page-IDs/timestamps)"},
+    {"tool": "browser.open", "url": "https://chat.whatsapp.com/LsogFpLM5viKiCwXaap3US", "result": "HTTP 403 upstream access denied — cannot use as verification path either"}
+  ],
+  "corroboration": "team15 same wave verified 76 pending codes with the identical curl method and found 0 live (20 dead-empty, 1 transport) — consistent with a systematic environment failure, not per-group death.",
+  "implication": "Per task rule, HTTP 200 + empty og:title after retries would mark codes dead — but the garbage-code control proves empty title does NOT imply dead. All 307 pool codes are therefore pending (verification-unavailable), none dead, none claimed verified. A browser leg (real browser rendering the invite page) is required to verify this batch.",
+  "verifier_run": "team17_verify.py started on 248 codes, killed after ~15 min with 0 completions in first 25 (each curl ~8s, ambiguous retries 3x) once the control tests proved the signal void; no partial results file was produced."
+}

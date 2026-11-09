@@ -1,0 +1,31 @@
+{
+ "team": "team03",
+ "slice": "leads_slice_03.json (184 listing URLs)",
+ "sources": {
+  "groupsinvite.link": 93,
+  "groupchatconnect.info": 63,
+  "ongrupos.com": 24,
+  "groupjoin.link API (team04-page2)": 4
+ },
+ "listings_processed": 184,
+ "records_extracted": 240,
+ "codes_with_invite": 223,
+ "dup_codes_skipped": 101,
+ "fresh_codes_checked": 122,
+ "verified": 12,
+ "pending": 0,
+ "leads": 571,
+ "dead": 107,
+ "screened_dropped": 3,
+ "notes": [
+  "groupsinvite.link: detail page has no invite; real code is on /group/rules/<slug>/ (verified pattern). 1 listing (kdo0bov5zsn7wu9y1s8s0z, Delhi group) has a rules page with NO join link at all = dead listing.",
+  "groupchatconnect.info: two join flows exist — /go/<token> (token IS the invite code) and /go.php?id=N -> /join.php?id=N -> groupsor.link /group/join/<token> -> /group/rules/<token> (token == code, verified on 7 pages). 9 go.php groupe pages recovered; for 266/368 the groupsor rules page returned empty bodies repeatedly, so the token was used as the code (pattern verified on siblings; WhatsApp check arbitrated — both 266/368 came back dead/empty, so no harm).",
+  "groupchatconnect.info /channel/* (16 of 63): ALL verified channel-only pages (WhatsApp/Telegram channels, no group invite) — excluded, annotated in leads file.",
+  "ongrupos.com: path segment IS the invite code; /join-group/<code> 301s to chat.whatsapp.com/<code>. All 18 fresh ongrupos codes dead (200 + empty og:title after retries).",
+  "groupjoin.link API: link field carries chat.whatsapp.com/invite/<code>; 60 rows from 4 tag pages, 51 fresh, 10 live.",
+  "Verification: curl slow checker, max 3 parallel, >=0.6s gap. 15 live first pass; 107 ambiguous (HTTP 200 + empty og:title = WhatsApp generic landing page) retried twice spaced 60s/120s — 0 resolved, all marked dead. 0 transport failures, 0 non-200.",
+  "Screen: 3 live codes dropped — all source-classified Adult by groupjoin (category=Adult, nsfw=1): Chtsx36WdKxH1jRW83xkkY (GB ISIANN BY ZEUSS), GHoufrxcM99KD55HPl70Zb (JB ALL GAME NUR4You), G31D9HB13F94AHbbQ6BMez (Viral Videos, PK). nsfw=1 alone did NOT drop others — groupjoin flags most JB trading groups nsfw=1; only the Adult category did. DokQLBtzuTaF4JpeGwpLiJ kept: its desc contains a PROHIBITION sentence against sharing porn ('DILARANG SHARE ... pronO'), stripped per rule.",
+  "Low yield cause: slice is old listings (groupjoin rows created 2024, updated Sep 2025; groupsinvite/ongrupos slugs old) — most invites revoked/expired, not a checker fault: live titles were returned steadily through the run (2,2,2,6,9,15) and manual curl spot-checks returned the same empty-title generic page.",
+  "Discovered leads: 571 new listing URLs (groupsinvite related groups, GCC related groupes, ongrupos related grupos); channel URLs annotated channel-only."
+ ]
+}

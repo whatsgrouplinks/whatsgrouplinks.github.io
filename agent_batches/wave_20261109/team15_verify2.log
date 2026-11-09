@@ -1,0 +1,41 @@
+resuming: done=14 remaining=67
+[1/67] IIaDfIyr9iCCD5nWnuNwD7 dead http=200 title=''
+[2/67] GkEvnpieBB6IHGDXeAMRWM dead http=200 title=''
+[3/67] HjJ8jAXNG53F80zJk6PaUi dead http=200 title=''
+[4/67] IavU8Eynvy21aovpG9neNo dead http=200 title=''
+[5/67] 32MLnGgSMfvD1fGX0bAbsm dead http=200 title=''
+[6/67] JZqlM2LHdq1IRYUNmeZ5IR dead http=200 title=''
+[7/67] AQvXUouoCWj5o0dkmHKYiB dead http=200 title=''
+[8/67] 6ibjlsPg8y61C5AgNYDUY1 dead http=200 title=''
+[9/67] 3ozE2cIYTC69Km2ExJN2uS dead http=200 title=''
+[10/67] FJUl01zf8wR0vAcyBDI8Ey dead http=200 title=''
+[11/67] GqS6E8xe1TkELCmfqcUShT dead http=200 title=''
+[12/67] IFxfNfCe3bREs3ggN5DR8E dead http=200 title=''
+Traceback (most recent call last):
+  File "/home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261109/team15_verify2.py", line 67, in <module>
+    list(ex.map(run, todo))
+  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 619, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 317, in _result_or_cancel
+    return fut.result(timeout)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261109/team15_verify2.py", line 64, in run
+    json.dump({'results':results,'skipped':skipped}, open(BASE+'team15_verify_progress.json','w'), ensure_ascii=False, indent=1)
+  File "/usr/lib/python3.12/json/__init__.py", line 179, in dump
+    for chunk in iterable:
+  File "/usr/lib/python3.12/json/encoder.py", line 432, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/usr/lib/python3.12/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/lib/python3.12/json/encoder.py", line 357, in _iterencode_dict
+    for key, value in items:
+RuntimeError: dictionary changed size during iteration

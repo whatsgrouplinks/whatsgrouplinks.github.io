@@ -1,0 +1,32 @@
+{
+ "team": "team19",
+ "slice": "Fresh web search for NEW WhatsApp group directories — SE Asia + global focus (groupssor API, groupwa.link, wglfinder, grouplinksforyou Free Fire, freewagroup LatAm, visadb, wagroupshub, instantgrouplink, whtspgrouplink, groupwhat)",
+ "sources": [
+  "groupssor-api",
+  "groupwa.link",
+  "wglfinder",
+  "grouplinksforyou",
+  "freewagroup",
+  "visadb",
+  "wagroupshub",
+  "instantgrouplink",
+  "whtspgrouplink",
+  "groupwhat"
+ ],
+ "verified": 408,
+ "pending": 0,
+ "leads": 24,
+ "dead": 357,
+ "candidates": 46,
+ "notes": [
+  "Extracted 897 unique codes pass 1 + 301 freewagroup codes; 368 + 110 = 478 fresh vs 106,883-code union; prescreen dropped 70 (porn/xxx/sex/hookup, SHEYI/B-Love-style scams); slow-verified 408 codes with curl (3 parallel, 3 attempts on empty og:title).",
+  "Verified live (HTTP 200 + non-empty og:title): 50 pre-final-screen; 4 more dropped on og:title screening (disguised 'FREAKY ẞEX' 18+, Hindi vulgar names, 'Pakistani Leaks Hub', phone-number title) -> 46 candidates.",
+  "Dead = 357: all HTTP 200 but empty og:title after 3 spaced retries. Control check: fake code also returns HTTP 200 + empty og:title, while 5/6 random existing-union codes return real titles — so empty-title is treated as dead per task rule.",
+  "Zero transport failures (pending=0): every one of the 408 checks returned HTTP 200.",
+  "New directories actually yielding fresh codes: groupssor API (217 fresh), grouplinksforyou Free Fire (100), wglfinder (44), freewagroup (110). groupwa.link homepage (230), visadb (97), wagroupshub (390), instantgrouplink (289), whtspgrouplink (167) contributed 0 fresh — already fully in union.",
+  "groupwhat.com dead this wave: homepage curl HTTP 000, api.groupwhat.com/wa-groups/public empty on all paths.",
+  "groupwa.link /groups/ directory and tglinkhub are JS/bot-gated via text fetch — banked as NEEDS-BROWSER-LEG leads.",
+  "Freewagroup country defaults: LatAm post slugs often carry no country; country left at task default IN where no evidence — flagged, not guessed.",
+  "Live-rate was low (46/408 = 11%): user-submitted directories (groupsor) and old Free Fire lists are mostly dead/revoked links."
+ ]
+}

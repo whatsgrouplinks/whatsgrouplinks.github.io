@@ -1,0 +1,44 @@
+{
+ "team": "team13",
+ "slice": "grupbul.com remaining categories: Game, News, Religion, Technology, Trade, Travel, Food, Student, Series/Movie, Job Postings, Music, Chat/Friendship page 2+",
+ "sources": [
+  "https://grupbul.com/en/category/whatsapp/5/game",
+  "https://grupbul.com/en/category/whatsapp/8/news",
+  "https://grupbul.com/en/category/whatsapp/52/religion",
+  "https://grupbul.com/en/category/whatsapp/38/technology",
+  "https://grupbul.com/en/category/whatsapp/29/trade",
+  "https://grupbul.com/en/category/whatsapp/54/travel",
+  "https://grupbul.com/en/category/whatsapp/53/food",
+  "https://grupbul.com/en/category/whatsapp/35/student",
+  "https://grupbul.com/en/category/whatsapp/47/series-movie",
+  "https://grupbul.com/en/category/whatsapp/9/job-postings",
+  "https://grupbul.com/en/category/whatsapp/34/music",
+  "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+  "https://grupbul.com/en/whatsapp-groups",
+  "https://grupbul.com/en/whatsapp-chat-friendship-groups",
+  "https://grupbul.com/en/whatsapp-job-posting-groups"
+ ],
+ "verified": 97,
+ "pending": 1,
+ "leads": 4,
+ "dead": 4,
+ "counts": {
+  "category_pages_fetched": 12,
+  "group_ids_from_listings": 87,
+  "group_pages_parsed": 147,
+  "codes_resolved_via_redirect": 146,
+  "codes_dup_vs_existing": 45,
+  "fresh_unique_codes": 101,
+  "screen_dropped": 4,
+  "verify_pending": 0,
+  "redirect_unresolved": 1
+ },
+ "notes": [
+  "grupbul.com hides invites behind /redirect/<gid>/<n> which 302/refresh-redirects to chat.whatsapp.com/<code> (some use /invite/<code> form — regex must allow optional invite/ prefix; first pass missed 70 codes for this reason, fixed on retry: 146/147 resolved).",
+  "Category pages show only the latest few groups each (Game 6, News 1, Religion 3, Technology 3, Trade 1, Travel 1, Food 0, Student 9, Series/Movie 2, Job Postings 3, Music 4, Chat/Friendship 27); site ignores ?page=N (page 2 returns identical content). Expanded via Similar-groups carousel on group pages (+60 group pages, capped).",
+  "VERIFICATION DEVIATION: og:title is EMPTY for every chat.whatsapp.com invite fetched via curl, including known-good control code 1SC01MVjkok1mIv1NHZwO3 ('Happy Life', already in .existing_codes.json), tested with desktop/mobile/facebookexternalhit/Twitterbot/WhatsApp UAs and both /<code> and /invite/<code> paths. Valid and fake codes return indistinguishable JS shells (HTTP 200, same og:image/og:description, group name nowhere in HTML). The literal non-empty-og:title rule cannot currently be satisfied by any code. Candidates are therefore verified by HTTP 200 from chat.whatsapp.com (2 attempts) + live grupbul /redirect/ resolution this run + current Nov-2026 grupbul listing; og_title recorded as '' and verification method noted per candidate. A revoked/expired invite cannot be distinguished from a live one by curl at present — merger should treat these as HTTP-verified, not og-title-verified.",
+  "Screening applied on grupbul name+description after stripping prohibition sentences (rules like 'inappropriate content share na karein'). Dropped counts as dead in summary.",
+  "One earlier step2 run was lost when its background session ended before writing output; group pages were cached on disk so step2b re-parsed from cache and re-resolved redirects with incremental saves — no data lost.",
+  "Post-verification audit: 3 more dropped — S*X GAMES HQ (leet spelling evaded first regex; listing text confirms 18+ adult games), Dani Daniels Best (porn-performer fan group), Feet (bare name, no description, suspected fetish — precautionary drop). Fuckedup kept (profanity only, University category, no sexual content); Girls Videos kept (no adult evidence, common status-video group name)."
+ ]
+}

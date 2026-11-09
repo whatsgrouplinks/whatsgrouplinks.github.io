@@ -1,0 +1,49 @@
+{
+ "team": 18,
+ "slice": "Fresh web search for NEW WhatsApp group directories — Africa + Middle East focus (groupssor API, groupjoin.link NG/ZA/DZ, wglfinder, groupsnest, wagroupshub, groupwa.com ZW/Jeddah, 77links Arabic, Dubai, Kenya)",
+ "sources": [
+  "groupssor.com API",
+  "groupjoin.link",
+  "wglfinder.com",
+  "groupsnest.com",
+  "wagroupshub.com",
+  "groupwa.com",
+  "77links.com",
+  "grouplinksforyou.com (Dubai)",
+  "techsslash.com (Kenya)",
+  "search snippets (Kaapjag PDF, ATEA, Likoni TVC, FlexiFunnels, YouTube)"
+ ],
+ "fresh_codes_found": 329,
+ "prescreen_dropped": 122,
+ "cross_source_dupes": 1,
+ "verified": 208,
+ "verified_live_with_title": 14,
+ "postscreen_dropped": 4,
+ "pending": 0,
+ "leads": 32,
+ "dead": 194,
+ "candidates_by_category": {
+  "Friendship": 1,
+  "Community & Social": 4,
+  "Health": 5
+ },
+ "candidates_by_country": {
+  "EG": 1,
+  "US": 6,
+  "PK": 1,
+  "DZ": 1,
+  "FR": 1
+ },
+ "notes": [
+  "New directories mined for the first time this wave: groupssor.com (public JSON API, latest 500 only, ignores limit/offset), groupjoin.link country pages (NG 573 / ZA 149 / DZ 210 claimed), wglfinder.com (Arab focus), groupsgyani.org and groupwa.link gallery are JS-gated and banked as NEEDS-BROWSER-LEG leads.",
+  "wagroupshub.com (390 codes) and 77links.com Arabic (72 codes) and techsslash Kenya (10 codes) yielded ZERO fresh codes — already fully harvested; skip in future waves.",
+  "groupjoin.link pagination repeats page-1 codes (NG p2 = 0 fresh); detail pages /group/<slug> are the unmined remainder.",
+  "Slow-check finding: all 208 invites returned HTTP 200, but only 13 had a non-empty og:title on first pass and only 1 more recovered across 2 spaced retry rounds (195 + 192 checks). The 200+empty pages are the bare WhatsApp shell (og:description 'WhatsApp Group Invite', no name/title anywhere) — treated as dead per the ambiguous rule after 2 retries. Yield is honestly low: 10/208.",
+  "Post-verify screen caught 4 adult groups the listing screen missed because og:title differed from the listing name (leet spellings s3x / ẞEX, 'video call girl', peach/eggplant emoji). Lesson: always screen on og:title, and add leet/emoji patterns to the screen list.",
+  "Pre-verify screen dropped 122 codes (mostly porn/sex/hookup in groupssor dating category, plus SHEYI, crypto-airdrop and free-money pitches). Prohibition sentences were stripped before screening as instructed.",
+  "Borderline kept: 'GMAILS WORK' (DZ, Community & Social) — possibly Gmail-account trading; not in the mandatory drop list, flagged here for the merger to judge.",
+  "groupslinks.com resolves to adult-heavy groupslinks.pk — banked as a lead with DO-NOT-MINE note.",
+  "No transport failures: pending is empty. No files outside the wave dir were edited; groups.json untouched."
+ ],
+ "candidates": 10
+}

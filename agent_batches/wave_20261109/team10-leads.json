@@ -1,0 +1,117 @@
+[
+ {
+  "url": "https://linkado.app/categoria/dinheiro",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/amizade",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/namoro",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/carros",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/links",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/lgbt",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/figurinhas",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/status",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/comprar-e-venda",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/trabalho",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/games",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/musica",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/religiao",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/esportes",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/series",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/moda-e-beleza",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/tecnologia",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/cidades",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/educacao",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/categoria/politica",
+  "source": "linkado.app sitemap",
+  "note": "category listing page; group detail pages are fetchable by curl, paginated listings may need browser"
+ },
+ {
+  "url": "https://linkado.app/populares",
+  "source": "linkado.app sitemap",
+  "note": "popular groups listing; paginated, may need browser leg"
+ },
+ {
+  "url": "https://linkado.app/categorias",
+  "source": "linkado.app sitemap",
+  "note": "category index"
+ },
+ {
+  "url": "https://linkado.app/busca",
+  "source": "linkado.app sitemap",
+  "note": "search page; JS-gated, NEEDS-BROWSER-LEG"
+ }
+]

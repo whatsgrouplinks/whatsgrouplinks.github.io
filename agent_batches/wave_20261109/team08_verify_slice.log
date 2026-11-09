@@ -1,0 +1,22 @@
+mode slice to verify: 715
+resuming, already done: 250
+todo: 465
+checked 275/715 live so far: 62
+checked 300/715 live so far: 69
+checked 325/715 live so far: 77
+checked 350/715 live so far: 84
+checked 375/715 live so far: 87
+checked 400/715 live so far: 92
+checked 425/715 live so far: 102
+checked 450/715 live so far: 106
+checked 475/715 live so far: 110
+checked 500/715 live so far: 118
+checked 525/715 live so far: 124
+checked 550/715 live so far: 129
+checked 575/715 live so far: 137
+checked 600/715 live so far: 147
+checked 625/715 live so far: 152
+checked 650/715 live so far: 158
+checked 675/715 live so far: 167
+checked 700/715 live so far: 174
+DONE mode=slice total=715 live=176 ambiguous200=537 non200=1 transport0=1

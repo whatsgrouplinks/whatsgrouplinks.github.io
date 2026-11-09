@@ -1,0 +1,22 @@
+[
+ {
+  "code": "BKY40okQLtt6SOnTOr3BpS",
+  "invite": "https://chat.whatsapp.com/BKY40okQLtt6SOnTOr3BpS",
+  "reason": "transport failed (curl error/timeout) on last attempt; attempts=2; never returned a group title"
+ },
+ {
+  "code": "BMLPpaQN6OMCvZi70FZbkX",
+  "invite": "https://chat.whatsapp.com/BMLPpaQN6OMCvZi70FZbkX",
+  "reason": "transport failed (curl error/timeout) on last attempt; attempts=2; never returned a group title"
+ },
+ {
+  "code": "BOpk0GO2LL2BikcSjEPAJg",
+  "invite": "https://chat.whatsapp.com/BOpk0GO2LL2BikcSjEPAJg",
+  "reason": "transport failed (curl error/timeout) on last attempt; attempts=2; never returned a group title"
+ },
+ {
+  "code": "HMDGID4THhP8hgRhzP8lpu",
+  "invite": "https://chat.whatsapp.com/HMDGID4THhP8hgRhzP8lpu",
+  "reason": "transport failed (curl error/timeout) on last attempt; attempts=1; never returned a group title"
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "url": "https://www.groupssor.com/",
+  "source": "groupssor",
+  "note": "JS app; public API https://groupssor-api.blog-99n.workers.dev/api/groups returns latest 500 only, ignores pagination/query params; mined this wave (302 unique WA codes, 217 fresh pre-screen)"
+ },
+ {
+  "url": "https://groupssor-api.blog-99n.workers.dev/api/groups",
+  "source": "groupssor-api",
+  "note": "Returns same latest 500 on every query; older groups (grp-001..964) not reachable via API; detail pages /group/grp-NNN 308-redirect, JS-only"
+ },
+ {
+  "url": "https://groupwa.link/",
+  "source": "groupwa.link",
+  "note": "Mined static homepage lists (230 codes, all already in union). Category browser at /groups/ is JS-gated (admin-ajax wagd_find/wagd_more, bot-check page via curl) — NEEDS-BROWSER-LEG"
+ },
+ {
+  "url": "https://groupwa.link/groups/",
+  "source": "groupwa.link",
+  "note": "JS-gated directory (wagd widget) — NEEDS-BROWSER-LEG"
+ },
+ {
+  "url": "https://groupwa.link/general-whatsapp-groups/",
+  "source": "groupwa.link",
+  "note": "JS-gated, 0 codes via text fetch — NEEDS-BROWSER-LEG"
+ },
+ {
+  "url": "https://groupwa.link/upsc-whatsapp-groups/",
+  "source": "groupwa.link",
+  "note": "Post page from post-sitemap.xml, not yet fetched"
+ },
+ {
+  "url": "https://groupwa.link/german-language-whatsapp-groups/",
+  "source": "groupwa.link",
+  "note": "Post page from post-sitemap.xml, not yet fetched"
+ },
+ {
+  "url": "https://groupwa.link/whatsapp-group-directory-find-category/",
+  "source": "groupwa.link",
+  "note": "Post page from post-sitemap.xml, not yet fetched"
+ },
+ {
+  "url": "https://wglfinder.com/active-whatsapp-group-links/",
+  "source": "wglfinder",
+  "note": "Mined this wave (50 codes)"
+ },
+ {
+  "url": "https://wglfinder.com/user-submitted-groups/",
+  "source": "wglfinder",
+  "note": "Mined this wave (19 codes, 18 fresh)"
+ },
+ {
+  "url": "https://wglfinder.com/america-whatsapp-group-link/",
+  "source": "wglfinder",
+  "note": "Mined this wave (3 codes)"
+ },
+ {
+  "url": "https://wglfinder.com/china-whatsapp-group-link/",
+  "source": "wglfinder",
+  "note": "Mined this wave (6 codes)"
+ },
+ {
+  "url": "https://www.grouplinksforyou.com/2023/04/free-fire-whatsapp-group-link.html",
+  "source": "grouplinksforyou",
+  "note": "Free Fire page mined this wave (161 unique codes, 100 fresh pre-screen); site also has Link Grup WA Bisnis Indonesia post — bank for next wave"
+ },
+ {
+  "url": "https://freewagroup.com/",
+  "source": "freewagroup",
+  "note": "Spanish WordPress LatAm directory; all 313 post pages fetched + mined this wave (301 unique codes, 110 fresh). Post sitemaps: /post-sitemap1.xml + /post-sitemap2.xml; category sitemap lists more listing pages"
+ },
+ {
+  "url": "https://freewagroup.com/post-sitemap1.xml",
+  "source": "freewagroup",
+  "note": "200 LatAm group post URLs, all fetched this wave"
+ },
+ {
+  "url": "https://freewagroup.com/post-sitemap2.xml",
+  "source": "freewagroup",
+  "note": "113 LatAm group post URLs, all fetched this wave"
+ },
+ {
+  "url": "https://visadb.io/blog/digital-nomad-whatsapp-groups-648bce7cfb4a1e461b7be9bc",
+  "source": "visadb",
+  "note": "Digital-nomad groups by city (97 codes) — all already in union, 0 fresh"
+ },
+ {
+  "url": "https://wagroupshub.com/",
+  "source": "wagroupshub",
+  "note": "390 codes — all already in union, 0 fresh; category pages (single-girl, tamil, usa, jobs, business, indian) banked in leads_slice_05 already"
+ },
+ {
+  "url": "https://instantgrouplink.com/",
+  "source": "instantgrouplink",
+  "note": "289 codes — all already in union, 0 fresh"
+ },
+ {
+  "url": "https://whtspgrouplink.com/",
+  "source": "whtspgrouplink",
+  "note": "167 codes — all already in union, 0 fresh"
+ },
+ {
+  "url": "https://groupwhat.com/",
+  "source": "groupwhat",
+  "note": "Homepage unreachable via curl (HTTP 000); API api.groupwhat.com/wa-groups/public returns empty body on all tried paths — dead for now, recheck next wave"
+ },
+ {
+  "url": "https://app.grupodewhatsapp.com/en/stickers",
+  "source": "grupodewhatsapp",
+  "note": "Brazilian directory (250+ verified sticker groups, categories incl. friendship/love/anime/games/jobs) — NOT mined this wave, bank for next wave"
+ },
+ {
+  "url": "https://tglinkhub.com/whatsapp-group-links/",
+  "source": "tglinkhub",
+  "note": "Fetched: 0 invite codes in text (JS-gated) — NEEDS-BROWSER-LEG"
+ },
+ {
+  "url": "https://www.whtsagrouplinks.com/international-whatsapp-groups-links/",
+  "source": "whtsagrouplinks",
+  "note": "Search hit, not fetched this wave — bank for next wave"
+ }
+]

@@ -1,0 +1,58 @@
+{
+  "team": "team24",
+  "slice": "Cleanup + tail sources (groupizo sitemap-12, ongrupos Nov 8-9 slugs, igrupos gids >526564, YouTube truncated invites)",
+  "sources": {
+    "groupizo": {
+      "range": "sitemap-groups-12.xml: 110 URLs, lastmod 2026-11-01 (44) + 2026-11-02 (64) + 2026-10-27 (2)",
+      "method": "listing pages expose NO invite in static HTML; invite extracted from /verify/<slug> step (110/110 fetched, 110 codes)",
+      "codes_extracted": 110,
+      "fresh_vs_existing_codes": 99,
+      "already_in_existing": 11,
+      "verified_live": 63,
+      "verified_dead_empty_ogtitle": 35,
+      "transport_failed": 1,
+      "dropped_after_screen": 4,
+      "kept": 59
+    },
+    "ongrupos": {
+      "range": "homepage + all 41 category p1 pages, 2026-11-09; 884 unique slugs; 263 new vs Nov 8 team12 harvest",
+      "codes_fresh_vs_existing_codes": 0,
+      "note": "All 263 newly-rotated-into-p1 slugs already in .existing_codes.json (263/263) - zero to verify. Nov 8 team12 verified codes are 49/51 in the same file, so the file is current through the Nov 8 wave.",
+      "verified_live": 0,
+      "kept": 0
+    },
+    "igrupos": {
+      "range": "gids 526565-526723; home + /whatsapp p1/p2 cards gave 46 new gids above Nov 8 newest 526564",
+      "detail_pages_fetched": 46,
+      "detail_pages_with_invite_code": 19,
+      "detail_pages_without_code_banked_as_leads": 27,
+      "fresh_vs_existing_codes": 19,
+      "verified_live": 15,
+      "verified_dead_empty_ogtitle": 4,
+      "transport_failed": 0,
+      "dropped_after_screen": 1,
+      "kept": 14
+    },
+    "youtube_truncated": {
+      "codes_attempted": [
+        "JKRIwOlro0w",
+        "qkKqgJEn3P4",
+        "eaArhRLk754"
+      ],
+      "result": "unresolvable - web search for each truncated 12-char fragment returned no matching full invite link; none included"
+    }
+  },
+  "verified": 73,
+  "pending": 1,
+  "leads": 29,
+  "dead": 39,
+  "notes": [
+    "Verify: sequential curl, browser UA, HTTP 200 + non-empty og:title = live; empty og:title retried 3x spaced 6s; 118 checked: 78 live, 39 dead-empty, 1 transport.",
+    "Dropped after screen (5): 2 live codes with og:title '.' (empty name); NEKOPOI X2D (adult anime brand, caught after NFKD unicode folding); GIL SOCIAL LOGS (stolen social-account logs market); igrupos 526651 VALTHERIA (detail desc carries kiss emoji + hookup wording).",
+    "Screening: NFKD-normalized name+og:title+description; prohibition sentences stripped before screening; betting groups kept; no B-Love/Forsage/SHEYI seen.",
+    "Pending (transport only, 1): Bhakti with history JtRFwk7Bx5NDkYxlTnJjT1 - curl failed to connect on all 3 attempts (http 000) while neighbouring codes returned 200.",
+    "Leads (29): 27 igrupos detail pages with no invite in static HTML (NEEDS-BROWSER-LEG) + groupizo sitemap-12 re-check + ongrupos home re-check pointer.",
+    "Category mapping fixed mid-run: word-boundary keyword match (was substring: 'pun' matched Punjabi, 'bet' matched ABETUNDA, 'trading' misrouted game-item trading to Finance).",
+    "No files outside the wave dir touched; groups.json / generate.py / merge scripts / wgl-deploy untouched."
+  ]
+}

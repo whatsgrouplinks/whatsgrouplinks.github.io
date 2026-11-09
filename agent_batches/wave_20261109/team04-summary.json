@@ -1,0 +1,41 @@
+{
+ "team": "team04",
+ "slice": "leads_slice_04.json (184 listing URLs)",
+ "sources": {
+  "api.groupjoin.link": 70,
+  "whtspgrouplink.com": 45,
+  "appgrouplink.com": 43,
+  "linkado.app": 21,
+  "www.igrupos.com": 4,
+  "groupizo.com": 1
+ },
+ "listings_fetched": 184,
+ "listings_dead_or_codeless": 27,
+ "codes_extracted_unique": 3070,
+ "codes_already_in_existing": 1974,
+ "codes_fresh": 1096,
+ "prescreen_dropped": 355,
+ "verified": 144,
+ "verify_status": {
+  "dead-empty-title": 584,
+  "live": 154,
+  "transport-fail": 1,
+  "dead-http": 2
+ },
+ "pending": 1,
+ "leads": 1375,
+ "dead": 586,
+ "notes": [
+  "groupjoin API + appgrouplink links use /invite/<code> format - first-pass regex missed them; re-extracted with corrected regex from saved page bodies.",
+  "groupjoin 'Adult' category (346 fresh codes) dropped wholesale: sampled titles/descs were uniformly porn/sex services, incl. child-sexual content ('14 years old' offer) - all dropped, none verified.",
+  "Also dropped pre-screen: 5 adult-keyword + 4 scam-keyword (B-Love/Forsage/SHEYI-type) entries; 2 more dropped in quality pass (pure-digit name '2023', fraud 'Carding UC BGMI').",
+  "8 live groups dropped post-verify on og:title/desc screen.",
+  "584 dead = HTTP 200 with EMPTY og:title after 3 attempts (WhatsApp serves generic placeholder page for revoked/full/expired invites); 2 dead on non-200 HTTP.",
+  "1 transport-fail (curl timeout) in pending - retry later, not counted dead.",
+  "igrupos tag pages + linkado category pages + groupizo sitemap are JS-gated (0 codes via text fetch) - banked in leads as NEEDS-BROWSER-LEG.",
+  "Names NFKC-normalized (fancy Unicode bold/italic -> plain ASCII); ALL-CAPS shout descriptions sentence-cased; thin/rule-fragment descriptions replaced with generic topic text.",
+  "First fetch pass was killed by a session reap at ~24min with no output (piped tail buffering); re-ran with 5 workers + per-URL checkpointing.",
+  "No source names/links in candidates; no phone numbers or personal info in name/description (checked).",
+  "Borderline kept: generic 'refer and earn' / 'free income without investment' Online Earning groups (not B-Love/Forsage/SHEYI); parent merge may apply stricter scam rule."
+ ]
+}

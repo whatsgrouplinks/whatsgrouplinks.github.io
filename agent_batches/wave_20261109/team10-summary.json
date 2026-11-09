@@ -1,0 +1,63 @@
+{
+ "team": "team10",
+ "slice": "linkado.app sitemap mining, sitemap group indices 1500-1899 (sitemap order = lastmod desc)",
+ "sources": [
+  "linkado.app sitemap (https://linkado.app/sitemap.xml, 19,706 grupo URLs, fetched 2026-11-09)"
+ ],
+ "verified": 55,
+ "pending": 0,
+ "leads": 23,
+ "dead": 215,
+ "notes": {
+  "sitemap_total_grupo_urls": 19706,
+  "resume_next_index": 1900,
+  "resume_next_url": "https://linkado.app/grupo/6a26da1fb49c0e4672104c0b",
+  "resume_next_lastmod": "2026-06-09T10:39:54.312Z",
+  "mined_index_range": [
+   1500,
+   1899
+  ],
+  "mined_first_url": "https://linkado.app/grupo/6a62901be23989897b640a25",
+  "mined_first_lastmod": "2026-07-24T10:31:56.261Z",
+  "mined_last_url": "https://linkado.app/grupo/6a285e74bd91001e037c57ce",
+  "mined_last_lastmod": "2026-06-10T09:22:37.102Z",
+  "pages_fetched": 400,
+  "pages_with_codes": 371,
+  "distinct_codes_found": 384,
+  "already_in_existing_codes": 96,
+  "fresh_codes_checked": 288,
+  "live": 73,
+  "dead_invites": 215,
+  "transport_pending": 0,
+  "screened_out_live": 18,
+  "screened_out_reasons": {
+   "scam/money-pitch": 11,
+   "fraud": 2,
+   "scam/money-app": 1,
+   "scam": 1,
+   "fraud-adjacent": 1,
+   "adult": 2
+  },
+  "categories": {
+   "Buy Sell": 44,
+   "Community & Social": 4,
+   "Technology": 2,
+   "Entertainment": 2,
+   "Finance": 2,
+   "Business": 1
+  },
+  "countries": {
+   "BR": 54,
+   "AO": 1
+  },
+  "verification": "curl to chat.whatsapp.com, max 3 parallel, HTTP 200 + non-empty og:title = live; empty og:title retried once (2 attempts total) then dead; 0 transport failures",
+  "caveats": [
+   "Nov 8 did NOT mine the newest 1500 IDs contiguously (team01 sampled ~49 pages across the sitemap; team24 mined 223 homepage/category links), so indices 0-1499 were NOT fully covered by this team; this run mined exactly 1500-1899 per the assignment.",
+   "Live rate only 25% (73/288) - these are older groups (lastmod Jul 2026 and older); most invites expired.",
+   "Slice is heavily shopping/offers groups (44/55 Buy Sell); linkado Dinheiro category is dominated by money pitches, 18 of 73 live were dropped as scams/fraud/adult.",
+   "Descriptions kept in original Portuguese from linkado meta descriptions (1-2 sentences); names are the real WhatsApp og:title group names.",
+   "One candidate country AO (Barão do Zap, Angola flag in name); rest BR.",
+   "WhatsApp checks ran ~6-7s each under wave-wide concurrent load; verification of 288 codes took ~35 min."
+  ]
+ }
+}

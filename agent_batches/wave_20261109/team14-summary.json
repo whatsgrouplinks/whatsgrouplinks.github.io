@@ -1,0 +1,12 @@
+{
+ "team": 14,
+ "slice": "groupssor.com API — latest-500 only, re-poll for new submissions since Nov 8",
+ "sources": [
+  "https://groupssor-api.blog-99n.workers.dev/api/groups"
+ ],
+ "verified": 93,
+ "pending": 0,
+ "leads": 2,
+ "dead": 84,
+ "notes": "API returned HTTP 200, fixed 500 entries (ignores limit/page params; limit=1000 still 500, page=2 timed out). Newest entry 2026-11-08T19:28:51Z; no submissions newer than that in this poll. Of 500 rows: 182 Telegram (excluded), 13 WhatsApp Channels (whatsapp.com/channel/..., not group invites, excluded), 318 WhatsApp invites; 87 dup vs .existing_codes.json (106,883 codes); 216 fresh unique codes. Pre-screen dropped 123 of 216 (98 porn/sex, 12 scam-crypto/airdrop incl. SHEYI/airdrops/carding/KYC-data, 13 junk). Slow-verified 93 via curl (max 3 parallel, >=0.5s spacing; ambiguous 200+empty-og:title retried up to 3 attempts). All 93 returned HTTP 200 — dead links also return 200 with empty og:title, so dead=84 (empty title after 3 attempts), live=9. Post-screen on og:title dropped 1 live link (J6yVkaaOraRGBnzYLxuApi, og:title adult 🔞🍑 despite clean listing name). Final candidates=8, ALL created 2026-11-08; older fresh entries were almost all dead. Pending=0 (no transport failures). Verification was slow (~40 min) — many other wave teams were hitting chat.whatsapp.com concurrently."
+}
