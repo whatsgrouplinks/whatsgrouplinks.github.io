@@ -1,0 +1,151 @@
+# WhatsGroupLinks wave 20261109 — coordinator manifest
+# Run: Mon 2026-11-09, 24 parallel teams. groups.json baseline: 71,261 groups.
+# Dedupe union: 106,883 codes (.existing_codes.json already contains every groups.json code).
+# Coordinator validation: 0 schema errors. Live spot re-check: 35/35 sampled clean
+# codes confirmed live (parent-verify clean-spot set, sequential curl, browser UA,
+# non-empty og:title) — see parent_verify_state.json.
+#
+# TOTALS
+#   verified unique (clean file): 1,482  (1,805 raw team items - 214 cross-team dups
+#                                            - 25 coordinator-screen drops + 19 restores
+#                                            - 83 team13 parent-verify failures
+#                                            - 1 merge-script porn-regex drop)
+#   merged into groups.json:      1,481  (71,261 -> 72,742)
+#   pending (transport failures):    27  (wave_20261109_pending_all.json, excl. team17)
+#   pending (team17 verification-unavailable, sampled 0/30 live): 307 — treated as
+#     dead, NOT merged; kept in pending_all for a future browser-leg re-check only.
+#   leads (unique listing URLs):  4,596  (wave_20261109_leads_all.json)
+#   excluded (coordinator screen):   25  (wave_20261109_excluded.json; 19 false
+#     positives restored — see wave_20261109_restored.json)
+#   deploy commit: e46a89aa18 (11f9004962..e46a89aa18)
+#
+# PER-TEAM TABLE: team | slice | verified raw | kept in clean* | pending | leads
+#   01 | leads slice 1                |   23 |   23 |  0 |  939
+#   02 | leads slice 2                |    1 |    1 |  1 |  219
+#   03 | leads slice 3                |   12 |   12 |  0 |  571
+#   04 | leads slice 4                |  144 |  142 |  1 | 1375
+#   05 | leads slice 5                |   25 |   25 |  0 |   38
+#   06 | leads slice 6                |  758 |  727 |  2 |   94
+#   07 | leads slice 7                |   46 |   44 |  1 |  456
+#   08 | leads slice 8                |  165 |  161 |  4 | 1229
+#   09 | team08-codes (704) verify    |   32 |   17 |  7 |    0
+#   10 | linkado sitemap 1500-1899    |   55 |   55 |  0 |   23
+#   11 | groupsinvite 1001-2671       |   74 |   70 |  0 |   65
+#   12 | tglinkhub mega-page          |  182 |   39 |  5 |   25
+#   13 | grupbul remaining cats       |   97 |   14 |  1 |    4  (parent-verified: 17 og-live, 3 porn-on-title dropped, 79 dead)
+#   14 | groupssor API latest-500     |    8 |    8 |  0 |    2
+#   15 | re-verify 81 Nov-8 pending   |    0 |    0 |  2 |    0
+#   16 | wglpk + groupjoin new        |    0 |    0 |  0 |    7
+#   17 | new dirs South Asia          |    0 |    0 | 307 |   25  (0 verified; checker dispute resolved — see below)
+#   18 | new dirs Africa/Mideast      |   10 |    2 |  0 |   32
+#   19 | new dirs SE Asia             |   46 |   19 |  0 |   24
+#   20 | LatAm/Brazil igrupos+tugrupo |   12 |   12 |  0 |   15
+#   21 | listicles Education/Jobs     |    9 |    9 |  0 |    8
+#   22 | listicles Sports/Movies      |    1 |    1 |  5 |   22
+#   23 | listicles Islamic/Community  |   32 |   32 |  0 |   12
+#   24 | groupizo/ongrupos/igrupos    |   73 |   59 |  1 |   29
+#   * kept-in-clean counts are after cross-team first-team-wins dedupe (team-number
+#     order) and coordinator screening; the groupssor API was mined independently by
+#     teams 14/18/19 — all 8 codes identical, first-team-wins kept team14's.
+#     team12 lost 143 to earlier teams (tglinkhub codes also in leads slices 6/8);
+#     team18 lost 8, team19 lost 27 to the same overlap.
+#
+# PARENT-VERIFY (coordinator, slow curl, 189 checks — parent_verify_state.json):
+#   team13 all 97: 17 og-title live, 79 dead (200-empty after 2 spaced attempts),
+#     3 live-but-porn on og:title dropped ("Play boy job", "PLAY BOY", "World sex").
+#     team13's "known-good" control code was NOT in groups.json (only in the union
+#     pool), so its claim that "no code can return og:title" was invalid — the
+#     checker discriminates fine (my own controls: 3/3 groups.json codes returned
+#     titles in the same window team13's sample returned empty).
+#   transport-pending 27: only 1 new live code, dropped on og:title (🔞 adult);
+#     the 6 team09 pending codes are duplicates of team06 candidates already in
+#     clean ("Xxxx left" titles). Net pending adds: 0.
+#   team17 sample (30 random of 307): 0 live — its "checker is broken" claim is
+#     refuted the same way (its control code LsogFpLM5viKiCwXaap3US was never a
+#     verified-live Nov-8 candidate). The 307 stay pending for a browser leg only.
+#   clean spot-check 35/35 live.
+#
+# EXCLUSIONS / RESTORES (25 excluded, 19 restored — see wave_20261109_restored.json):
+#   Restored (false-positive screens): FUCK CONNECTION + Fuckedup (profanity only;
+#     Nov-8 precedent kept FUCK CONNECTION in clean — NOTE: merge_wave_oct25.py's
+#     \bfuck\b regex dropped FUCK CONNECTION at merge anyway, same as Nov 8);
+#     GB ISIAN HANIP (18+ only in a rules sentence PROHIBITING 18+ shares);
+#     12x "Xxxx"/"Xxxx left" placeholder names (no porn evidence; og:image present);
+#     FREE FIRE LEAKS (gaming leaks); "Get your leaked questions" (exam leaks,
+#     not porn per narrow block rule); LeSbIaNaS y BiSeXuAlES (LGBTQ friendship;
+#     "sex" matched inside "bisexual"); NURSING STUDENT ("mms" matched inside a
+#     random hash in its description).
+#   Kept dropped: carding/UC sellers, USDT/BTC-flash, airdrops, Unick Forex,
+#     Holiverse, binary options, OnlyFans/🔞/🍆 adult markers, bokep, "Israel Pussy",
+#     "VIRAL LEAK AND SCANDALS", "Desi mahool leaks", "All mix leak girl".
+#   Dropped from pending: D914yMtMMzH57FwW1wPK9E (listing ctx = adult videos).
+#   Flags kept per rule (live, in clean): betting groups; "👻" (team20, emoji-only
+#   name); "2019" (team22); "GMAILS WORK 💀" (team18, possible Gmail trading);
+#   "SUBMUNDO 24 HORAS" (team01); generic refer-and-earn Online Earning groups.
+#
+# DEPLOY GATE (all passed, same run):
+#   (a) groups/*.html deploy 72,742 == build 72,742.
+#   (b) sitemap group URLs 40,000 + 32,742 = 72,742 == groups.json 72,742.
+#   (c) live curl after push: homepage + 5 newest + 5 sitemap-2 samples = 11/11
+#       HTTP 200; homepage shows "Browse 72742+ active".
+#   Deploy: cp-sync of 2,923 changed files (1,481 group pages + 965 category pages
+#     + index/categories/sitemaps/groups.json + 467 wave files), commit e46a89aa18.
+#     Raw HTML dump dirs (team*_raw, ~511MB) NOT pushed — kept in build dir only.
+#
+# SOURCES / RETIRED (from team reports):
+#   Best yields: tglinkhub mega-page (182 raw, 413 fresh checked); linkado sitemap
+#     1500-1899 (55; resume at index 1900, ~18,306 URLs left; NOTE Nov 8 did NOT
+#     contiguously mine indices 0-1499 — worth a sweep); leads slice 6 (758 raw);
+#     groupizo /verify/ step cracked (59 kept); groupsinvite catalog now CLOSED
+#     (entries 1-2671 all mined); ongrupos fully inside union (263/263).
+#   Retired/exhausted: whatsappkanali 0/27 live (dead source); whatsgroupslinkspk
+#     remainder 0/178 live; groupjoin.link only 12 new submissions since Nov 8, all
+#     dead; groupizo sitemap-12 done; appgrouplink ~96% dead (72/76 pending dead);
+#     groupjoin Adult category dropped wholesale (346 codes, incl. child-sexual
+#     content in sampled titles — never verified, never banked).
+#   Method notes: igrupos detail pages are server-side GEO-GATED (join button
+#     hidden when visitor country mismatches; needs LatAm-IP browser leg);
+#     groupda.com fully Cloudflare-403 (38 posts banked NEEDS-BROWSER-LEG);
+#     groupsinvite rules pages expose original-case GroupID (case-sensitive);
+#     grupbul invites behind /redirect/ (146/147 resolved); groupssor API ignores
+#     pagination (latest 500 only); linkado newest codes 41% live vs oldest 3%.
+#   New directories found: walink.pk (adult-heavy), grouplinksforyou.com,
+#     groupsnest.com, wglfinder.com, 77links.com (Karachi/Islamic batch 43% live),
+#     groupwa.link, freewagroup.com (LatAm, 313 posts), groupwhat.com API dead.
+#   Dead/parked: groupwhat.com API empty, groupslinks.com -> adult groupslinks.pk
+#     (DO-NOT-MINE lead), whatsappgrouplink.org parked.
+#
+# INCIDENTS:
+#   Team11 showed "interrupted" twice; resumed once, then completed from disk
+#     (74 candidates, files verified — its handoff never arrived, files used).
+#   Multiple verifier processes were reaped mid-run (teams 02/04/05/06/07/08/09/
+#     12/14/19); all resumed from checkpoints and completed — no data lost.
+#   A stray inspect.py in wave_20261108 still shadows stdlib inspect for scripts
+#     run from that cwd (Nov-8 note, still true).
+#
+# RESUME POINTS FOR NEXT WAVE:
+#   leads_all 4,596 URLs (wave_20261109_leads_all.json) — slice into 8 for teams 01-08.
+#   pending_all 334 codes (wave_20261109_pending_all.json): 27 transport (re-check
+#     with slow checker) + 307 team17 codes (browser leg only — 0/30 sampled live).
+#   linkado sitemap from index 1900 (~18,306 URLs) + sweep indices 0-1499 (never
+#     contiguously mined); groupjoin.link /group/<slug> detail pages (unmined
+#     remainder); 77links Karachi/Islamic; tugrupo chat pagination pp.2-10;
+#     igrupos new gids above 526723 (geo-gated — browser leg); groupda AJAX
+#     (residential IP/browser leg); grupbul Food category + Chat/Friendship deeper
+#     pages; team05's missed _ / - codes (pass-1 regex was [A-Za-z0-9] only).
+#   Google Search Console: STILL BLOCKED at device verification (human gate, 11 runs
+#     running) — not attempted this run per task; silent-wait rule applies.
+#
+# OUTPUT FILES (wave_20261109/):
+#   wave_20261109_verified_clean.json  (1,482 — MERGED: 1,481 added, 1 dropped by merge script)
+#   wave_20261109_verified_clean_prelim.json (1,564, pre parent-verify)
+#   wave_20261109_pending_all.json     (334)
+#   wave_20261109_leads_all.json       (4,596 unique URLs)
+#   wave_20261109_excluded.json        (25, with reasons)
+#   wave_20261109_restored.json        (19, with reasons)
+#   wave_20261109_cross_dups.json      (214)
+#   validation: parent_verify_jobs.json / parent_verify_state.json (189 checks)
+#   deploy_changes_20261109.json / cp_sync_20261109.py / build_changeset_20261109.py
+#   coordinator_build_clean.py / parent_verify_wave20261109.py
+#   leads_slice_01..08.json (1,472 Nov-8 leads, re-sliced for this wave)
+#   teamNN-candidates.json / -pending.json / -leads.json / -summary.json (24 teams)
