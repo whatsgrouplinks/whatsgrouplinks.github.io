@@ -1,0 +1,45 @@
+{
+  "team": 28,
+  "slice": "new dirs LatAm/Brazil/Gulf",
+  "sources": [
+    "gruposwapp.net (44 listings via WP REST API wp/v2/gw_listing; codes via /ir/<id>/ 302 redirects)",
+    "alarabinet.com Saudi groups page (2021/11/Saudi-group-links.html, 5 inline codes)",
+    "trustgroup-egy.com JobPost/3716 (Saudi technician jobs page, 4 inline codes from search snippet)"
+  ],
+  "verified": 15,
+  "pending": 0,
+  "leads": 8,
+  "dead": 24,
+  "exclusions": [
+    {
+      "code": "FpQnCPfqgSv24dLYmKpBKV",
+      "reason": "LIVE but dropped: swinger/erotic couples community (og:title 'Parejas Sw y Mujeres, lesbianas y unicornio de Bogotá y Colombia'; description explicitly erotic)."
+    },
+    {
+      "code": "KzCloVu8DVe7aZXjmasGxW",
+      "reason": "LIVE but dropped: same erotic swinger/lesbian community as above (og:title 'Chicas lesbianas, unicornio y parejas sw de Bogotá y Colombia')."
+    },
+    {
+      "code": "GnCpLynhLSb9puDlPtU1c4",
+      "reason": "LIVE but dropped: directory description states group shares adult content and is 18+ ('Aportes suculentos y amistad'); og:title is generic 'Data/Multimedia'."
+    },
+    {
+      "code": "FTBFH6NntT0ApNS22mCwmF",
+      "reason": "LIVE but dropped (safeguarding): directory description explicitly recruits ages 15-30 and asks members to present with a real photo."
+    },
+    {
+      "code": "IA4KzX28OwS1rCmVLDHHTh",
+      "reason": "Dropped on content (also DEAD, empty og:title): porn group 'XNXX SOLO PARA VALIENTES', description says porn videos 24/7."
+    },
+    {
+      "code": "LY2rKfcri7jHk2wVhxl78T",
+      "reason": "Dropped on content (also DEAD, empty og:title): 'Cornudos' group, description promises a 'picante' (sexually charged) time."
+    },
+    {
+      "code": "428-gruposwapp-channel",
+      "reason": "Listing 428 'EMPLEOS EN ESPAÑA' /ir/ redirects to a whatsapp.com/channel link, not a group — excluded per channel rule."
+    }
+  ],
+  "resume": "gruposwapp.net fully enumerated (44 listings, WP REST API). Re-run /ir/ resolution for listings 426 (Freefire) and 416 (OfertasYa) via browser; mine groupslinks.com Gulf country pages; retry losgrupos.app / grupeo.lat / gruposdewats.com / groupler.me via browser. Do NOT re-mine gruposwapp.net listings 1-44 or alarabinet Saudi page (all codes resolved/verified).",
+  "notes": "gruposwapp.net /ir/ endpoint is flaky: 10 of 44 listings returned HTTP 200 with no redirect on first pass; retries resolved 8 of them (2 codes were already in the union, 6 fresh). 3 codes first showed curl 000 (no HTTP response) during verification but were LIVE with real og:titles on spaced re-check — transient transport failures, not dead links. All 5 alarabinet Saudi codes and all 4 trustgroup-egy codes are DEAD (HTTP 200, empty og:title = expired invites). No fresh codes found on any Gulf directory this run: grouplinksforyou/whtspgrouplink/hubrecipes Gulf pages are already mined/banned, masgrupos.com is parked (302 to surveymrs.com), groupslinks.com Gulf pages remain the best unmined Gulf lead. Judgement call kept: 'Torneos de Free Fire' carries a hot-face emoji in gaming-hype context with a clean gaming description — kept as Gaming, not treated as an adult-sexual signal. gruposwapp listing 499's detail page 404s (listing deleted) and its code is dead; listing 374 is an intra-site duplicate of 375 (same code). No Brazil-only directory yielded codes this run; Brazil coverage came via LATAM-wide gruposwapp listings."
+}

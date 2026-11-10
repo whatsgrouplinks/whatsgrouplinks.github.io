@@ -1,0 +1,27 @@
+{
+  "team": 12,
+  "slice": "linkado sitemap 500-999",
+  "sources": [
+    "https://linkado.app/sitemap.xml (fetched 2026-11-10 ~11:57 PKT; 19,731 grupo URLs; slice = grupo indices 500-999 in sitemap order)"
+  ],
+  "verified": 3,
+  "pending": 0,
+  "leads": 0,
+  "dead": 159,
+  "exclusions": [
+    {
+      "code": "FLZckue0Pq09Klt0zLIJQb",
+      "reason": "adult: name contains 🔞 (Boate LGBTQIAP+) — dropped at screening"
+    },
+    {
+      "code": "Kw31YygZS6T21YEKFnYk4P",
+      "reason": "adult: description 'Grupo de conversas quentes 🔞' (hot conversations, 18+) — dropped at screening"
+    },
+    {
+      "code": "IMfuyRPx7q0DJjuzaHQsXg",
+      "reason": "adult: live og:title is 'Xerecasardentes2.0 🥵🔞🥵' (vulgar sexual slang + 🔞/🥵) even though directory name 'Porão' looked clean — dropped at og:title screen; directory name/desc were a decoy"
+    }
+  ],
+  "resume": "next index 1000 — URL https://linkado.app/grupo/6aa3d4c0bf95182c584a579a lastmod 2026-09-11T10:16:36.355Z (last mined: index 999 https://linkado.app/grupo/6aa3d4fdbf95182c584a579b lastmod 2026-09-11T10:16:38.257Z)",
+  "notes": "500/500 grupo pages fetched. Parse: 165 fresh codes, 285 already in dedupe union (108,364 codes), 50 pages with no invite link on the directory page (removed/expired on linkado, not counted as dead/pending). 163 fresh codes verified via curl: 4 live, 159 dead (HTTP 200 + empty og:title after 2 spaced retries, per rule), 0 transport failures. 4 items reinstated after screening review: their descriptions say porn/dirty content is PROHIBITED in the group ('proibido pornografia/putaria'), names clean — not adult content; all 4 were dead on verification (DGJBmiVVZTRHTxgjZD9OXo, IEIcKKFSZOS14k1ZpqN7Rw, ElMJwtkoZrQHEWt25JNFh5, JpcUCgWheRe3R3pL2v5L4F). 'PROJETO GLÚTEOS PERFEITOS' kept as Health: glute-workout fitness group, 🍑 used in fitness context, description is workout content. Site was very slow (15-23s/page; 188 pages failed on first parallel pass, all recovered on retry at lower parallelism). Dedupe union built from .existing_codes.json (108,364) + groups.json invite codes (subset, union stays 108,364)."
+}

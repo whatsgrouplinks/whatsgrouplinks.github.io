@@ -1,0 +1,24 @@
+{
+ "chat": [],
+ "food": [],
+ "extra": [
+  {
+   "gid": "207356",
+   "name": "BAR DO CUSCUZ É FAMÍLIA✅",
+   "catlabel": "Food",
+   "desc": "Bar do Cuscuz food and family group sharing recipes and culinary tips."
+  },
+  {
+   "gid": "187582",
+   "name": "Nasi Lemak Bitcoin",
+   "catlabel": "Food",
+   "desc": "Nasi Lemak Bitcoin group."
+  },
+  {
+   "gid": "638413",
+   "name": "HomeCookingShow",
+   "catlabel": "Food",
+   "desc": "HomeCookingShow WhatsApp Channel."
+  }
+ ]
+}

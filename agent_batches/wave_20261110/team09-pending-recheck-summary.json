@@ -1,0 +1,43 @@
+{
+  "team": 9,
+  "slice": "pending re-check",
+  "sources": [
+    "wave_20261109_pending_all.json (334 entries: 27 non-team-17 transport re-checks + 307 team-17 verification-unavailable carried forward)"
+  ],
+  "verified": 0,
+  "pending": 309,
+  "leads": 0,
+  "dead": 18,
+  "exclusions": [
+    {
+      "code": "32rM2QuFaZr2kyr1c7zNsL",
+      "reason": "duplicate: code already in dedupe union (.existing_codes.json + groups.json invites, 108365 codes)"
+    },
+    {
+      "code": "3CfbCyxu6KqH6XCulriI06",
+      "reason": "duplicate: code already in dedupe union (.existing_codes.json + groups.json invites, 108365 codes)"
+    },
+    {
+      "code": "5UjlBVf5jL6CO4hITbEyd3",
+      "reason": "duplicate: code already in dedupe union (.existing_codes.json + groups.json invites, 108365 codes)"
+    },
+    {
+      "code": "Ag0DZDYMkQ06tjyt8ysWak",
+      "reason": "duplicate: code already in dedupe union (.existing_codes.json + groups.json invites, 108365 codes)"
+    },
+    {
+      "code": "FZuAUYhjsIV4B2xKwoj5Wj",
+      "reason": "duplicate: code already in dedupe union (.existing_codes.json + groups.json invites, 108365 codes)"
+    },
+    {
+      "code": "LQEF1wSeHXAJXUAHRMbYCo",
+      "reason": "duplicate: code already in dedupe union (.existing_codes.json + groups.json invites, 108365 codes)"
+    },
+    {
+      "code": "BUF2hIyo9qX7nwBfbPg03o",
+      "reason": "adult-sexual signal in live og:title 'Kidumangani Ultra 🔞' (drop on sight)"
+    }
+  ],
+  "resume": "No resume needed for this slice: all 27 non-team-17 entries resolved (18 dead, 2 still transport-failed, 6 duplicates, 1 adult-title exclusion). The 307 team-17 entries in team09-pending-recheck-pending.json remain browser-leg only (verification-unavailable); the 2 still-transport-failed codes (BMLPpaQN6OMCvZi70FZbkX, BOpk0GO2LL2BikcSjEPAJg) can be retried by curl in a later wave or by the browser leg.",
+  "notes": "Dedupe union verified: 108364 codes in .existing_codes.json + 72713 invite codes in groups.json = 108365 union (1 groups-only code). 6 of the 27 re-check candidates were already in the union and were excluded as duplicates without curling. Verification calibrated first against 3 known-live groups.json codes (all returned non-empty og:title via the same curl), so HTTP 200 + empty og:title after 2 spaced retries was treated as DEAD. Only 1 of the 21 fresh codes was live (BUF2hIyo9qX7nwBfbPg03o) and it was excluded for the adult 🔞 signal in its og:title. No listing URLs discovered; leads file is empty. No writes outside the wave_20261110 work dir; groups.json untouched; generate.py not run; no deploy."
+}

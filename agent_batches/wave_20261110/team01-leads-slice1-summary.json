@@ -1,0 +1,41 @@
+{
+ "team": 1,
+ "slice": "leads slice 1",
+ "sources": [
+  "whatsappkanali.com (61 Turkish city/subcategory listing pages)",
+  "linkado.app (23 pages: sitemap + categorias + populares + 20 category pages; plus 142 grupo detail pages fetched from those listings)",
+  "groupsinvite.link (100 single-group detail pages)"
+ ],
+ "verified": 11,
+ "pending": 0,
+ "leads": 20601,
+ "dead": 56,
+ "exclusions": [
+  {
+   "code": "BLwtFQt47paJqiQcZDN44W",
+   "reason": "adult-signal in listing name (🔞) — not verified, not banked"
+  },
+  {
+   "code": "E51zHCiU0i",
+   "reason": "truncated invite-code artifact from whatsappkanali RSC payload (no 22-char full form in any raw file) — not verified, not banked"
+  },
+  {
+   "code": "E51zHCiU0ib1",
+   "reason": "truncated invite-code artifact from whatsappkanali RSC payload (no 22-char full form in any raw file) — not verified, not banked"
+  },
+  {
+   "code": "E51zHCiU0ib1M",
+   "reason": "truncated invite-code artifact from whatsappkanali RSC payload (no 22-char full form in any raw file) — not verified, not banked"
+  },
+  {
+   "code": "KogmBdn7zKfGGb8zGaG",
+   "reason": "truncated prefix of already-banked code KogmBdn7zKfGGb8zGaGt7g — not verified, not banked"
+  },
+  {
+   "code": "KogmBdn7zKfGGb8zGaGt",
+   "reason": "truncated prefix of already-banked code KogmBdn7zKfGGb8zGaGt7g — not verified, not banked"
+  }
+ ],
+ "resume": "Slice pages all fetched (184/184, 15 transient-000 retries all recovered). Remaining yield: 719 unfetched linkado /grupo/ detail pages found on the slice category/populares pages (150 fetched, 142 processed — their URLs are in the leads file via the sitemap set); 19,731 linkado sitemap grupo URLs banked as leads. Groupinvite own-codes NOT extractable via curl: detail HTML has no chat.whatsapp.com link and the /group/rules/<id>/ interstitial sampled (SHOESKARTEL) links to a WhatsApp CHANNEL (www.whatsapp.com/channel/0029VaB1bJF9WtC2mcjdng1m) — channels are dropped per rules; a browser leg would be needed to confirm whether any of the 100 resolve to real group invites. Whatsappkanali /grup/<slug> detail pages (e.g. girgir-samata, whose invite is truncated in listing JSON) are banked as leads for future waves.",
+ "notes": "Checked 67 fresh codes in total: 23 from the 184 slice pages (all DEAD — HTTP 200 with empty og:title after spaced retries; control check on a known-live code returned a proper og:title, so the method is sound) + 44 from 142 linkado grupo detail pages (11 LIVE, 33 dead). 0 transport-pending. whatsappkanali listings are stale (same finding as wave 20261109 team01: its 27 fresh codes were all dead then too) and its RSC payload truncates invite URLs, producing prefix artifacts. Linkado category pages carry no invite codes themselves — codes live on /grupo/ detail pages. Network was heavily congested during the run (many wave teams fetching concurrently; single requests took 7-27s, several 000 timeouts that recovered on retry). Union dedupe base: 108,364 codes (.existing_codes.json + groups.json; groups.json codes are a subset, so union equals the .existing_codes.json count — the task brief said 108,365, off by one). No groupjoin.link Adult items in this slice."
+}

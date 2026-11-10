@@ -1,0 +1,108 @@
+{
+  "team": 30,
+  "slice": "listicles Sports/Movies/Islamic/Community/Finance",
+  "sources": [
+    "https://grouplink.com.in/active-sports-whatsapp-group-links-2026/",
+    "https://whatgroups.com/cricket-whatsapp-group-links/",
+    "https://www.whtsagrouplinks.com/movies-whatsapp-group-link/",
+    "https://77links.com/islamic-whatsapp-group-links/",
+    "http://grouplink.com.in/malayalam-islamic-whatsapp-group-links/",
+    "https://www.whtsagrouplinks.com/forex-trading-whatsapp-group-links/",
+    "http://hubrecipes.com/stock-market-whatsapp-group-links/",
+    "https://groupwa.link/",
+    "https://activewagroup.com/",
+    "https://www.whtsagrouplinks.com/friendship-whatsapp-group-links/",
+    "https://pkwhatsgrouplinks.com/movies-whatsapp-group-links/",
+    "https://whatgroups.com/",
+    "https://newgrouplinks.pk/friendship-whatsapp-group-links/",
+    "https://wagroupshub.com/"
+  ],
+  "verified": 3,
+  "pending": 0,
+  "leads": 12,
+  "dead": 155,
+  "exclusions": [
+    {
+      "code": "HCXuh6rrhuD7tBBre3PHdb",
+      "reason": "scam/signal-selling pattern: pips\\s+(hunter|killer|profit) in name \"Pips Profit free learning education –\""
+    },
+    {
+      "code": "ENMmOLa08JLCk4IX5AJnAn",
+      "reason": "scam/signal-selling pattern: sure\\s+(short|shot|trade|profit) in name \"BANKNIFTY sure short trade –\""
+    },
+    {
+      "code": "Bscahrf2X4u3un2Fsq06Y9",
+      "reason": "scam/signal-selling pattern: gold\\s+pips in name \"✅GOLD PIPS KILLER 💯✅ –\""
+    },
+    {
+      "code": "DsYFkasVe2e7R1IpUviS9R",
+      "reason": "scam/signal-selling pattern: vip\\s+(gold\\s+)?signals? in name \"GOLD VIP SIGNALS👍👍 –\""
+    },
+    {
+      "code": "IuL2XwKgF4ZKi8VXTsPEkG",
+      "reason": "scam/signal-selling pattern: vip\\s+(gold\\s+)?signals? in name \"Vip Gold Signals –\""
+    },
+    {
+      "code": "GXITbyAPmy697QI7CWDhfE",
+      "reason": "scam/signal-selling pattern: forex.*king.*scalper in name \"FOREX KING SCALPER💰 –\""
+    },
+    {
+      "code": "BjRMWexuSSdG4VtH2yKaTR",
+      "reason": "scam/signal-selling pattern: paid\\s+netflix in name \"Paid netflix movie websites\""
+    },
+    {
+      "code": "LOPcbSunVsqGq3ZZxE0lUR",
+      "reason": "scam/signal-selling pattern: cheap.*subscription in name \"Netflix Cheap price Subscription\""
+    },
+    {
+      "code": "G9UTShzvecH2aX8mAjOatc",
+      "reason": "scam/signal-selling pattern: free.*subscription in name \"Netflix Free Movies Subscription\""
+    },
+    {
+      "code": "JgXfAbPmneN4Qhe49ByYA7",
+      "reason": "scam/signal-selling pattern: make\\s+money\\s+online in name \"Tips To Make Money Online\""
+    },
+    {
+      "code": "EL5BW52JuqLGbSIoJqLbTO",
+      "reason": "scam/signal-selling pattern: usa\\s+earners in name \"USA Earners\""
+    },
+    {
+      "code": "FBA9OO1Wv8s2YYArM8zV3w",
+      "reason": "scam/signal-selling pattern: paytm\\s+guru in name \"PayTM Guru\""
+    },
+    {
+      "code": "JKnrlsh2DTz7ztWu5otj7y",
+      "reason": "scam/signal-selling pattern: earning\\s+method in name \"Real Earning Method\""
+    },
+    {
+      "code": "ECOykZCmJn9A3MrWhjcQhC",
+      "reason": "scam/signal-selling pattern: crypto\\s*signal in name \"CRYPTO SIGNALS\""
+    },
+    {
+      "code": "C9CWm01oOrz5BkCL3iK5Ye",
+      "reason": "scam/signal-selling pattern: free.*signal in name \"Crypto Free Perfect Signal\""
+    },
+    {
+      "code": "IyQbw07V3t3HSl3kcluanA",
+      "reason": "scam/signal-selling pattern: binance.*signal in name \"FREE BINANCE Future Signals\""
+    },
+    {
+      "code": "DEQNk7Mjtm5LkyQIfIf7Za",
+      "reason": "scam/signal-selling pattern: earn\\s+money in name \"Just Ads Watching & Earn Money\""
+    },
+    {
+      "code": "FHjfAYJJSlW0XRHS99RfIe",
+      "reason": "scam/signal-selling pattern: online\\s+earning in name \"ONLINE EARNING IN PAKISTAN\""
+    },
+    {
+      "code": "1LppAANrAKl3EJolsce16A",
+      "reason": "scam/signal-selling pattern: unlimited\\s+income in name \"USA Unlimited Income\""
+    },
+    {
+      "code": "3lohPQEvuOi69sFDUOmtBQ",
+      "reason": "adult-sexual signal in og:title \"This group hack exit this group quickly 👺 xxx\""
+    }
+  ],
+  "resume": "All 159 screened candidates verified (155 dead, 4 live; 1 live excluded for xxx in og:title, 3 banked). Pending queue empty: a retry pass resolved all 26 transport failures as dead. Next wave: mine the 12 lead listicles; wahublink sports/entertainment and whtsagrouplinks sports need browser fetch (Cloudflare-blocked via curl). Re-check any new codes against the updated union before verifying.",
+  "notes": "Low yield is real, not a method error: only 178 of ~2,100 extracted invite codes were fresh vs the 108,364-code union, and 155 of 159 screened candidates were dead (HTTP 200 with empty og:title; control test on known-live codes from groups.json returned non-empty og:titles, so empty title = revoked/expired). 19 candidates pre-screened out as signal-selling/earning scams. Work dir /tmp was wiped mid-run, so all fetching/parsing/verification moved to team30_scratch under the wave dir; verification checkpoints (verify_ckpt.jsonl, verify_retry.jsonl) kept there. One kept live item (The Hangouts) carries a sweat-drop emoji in its og:title; judged decorative, not an adult signal, and the name was cleaned to plain text."
+}

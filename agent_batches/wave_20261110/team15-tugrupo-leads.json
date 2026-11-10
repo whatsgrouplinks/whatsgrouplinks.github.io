@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://igrupos.com",
+    "note": "OUT-OF-SLICE alternate: live sister directory (same author network, Alex Mora). Homepage returned HTTP 200, ~210KB, 2026-11-10. NOT scraped — belongs to a different slice; needs parent reassignment if wanted."
+  },
+  {
+    "url": "https://tugrupo.online",
+    "note": "OUT-OF-SLICE alternate: appears to be the current home of the 'TuGrupo' WhatsApp directory (blog pages reference joining groups via Tugrupo.online). NOT scraped — different domain from assigned https://tugrupo.com; needs parent reassignment if wanted."
+  }
+]

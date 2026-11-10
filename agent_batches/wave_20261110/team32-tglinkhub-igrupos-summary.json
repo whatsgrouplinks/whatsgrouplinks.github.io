@@ -1,0 +1,383 @@
+{
+ "team": 32,
+ "slice": "tglinkhub other pages + igrupos leads",
+ "sources": [
+  "tglinkhub.com WP REST API: all 410 posts + 7 pages (wp-json/wp/v2/posts, per_page=100, 5 pages; pages endpoint) - 17,125 unique chat.whatsapp.com codes found site-wide",
+  "igrupos.com: geo-gated from this VM (curl to homepage/sitemap/robots.txt all timed out, no HTTP status) - 14 listing/detail URLs banked as LEADS only from web search, never fetched or verified",
+  "Dedupe union: .existing_codes.json (108,364) + groups.json invite codes (subset) = 108,364 unique codes; 13,154 fresh tglinkhub candidates"
+ ],
+ "verified": 349,
+ "pending": 6,
+ "leads": 14,
+ "dead": 484,
+ "checked_total": 923,
+ "fresh_pool_total": 13154,
+ "exclusions": [
+  {
+   "code": "KMPCo287Qb3GqGc5wa21hQ",
+   "reason": "scam signal in directory name: Maham Carding"
+  },
+  {
+   "code": "IYSE8qdzpJwJR9TyInZDY9",
+   "reason": "scam signal in directory name: Forsage Global Team"
+  },
+  {
+   "code": "FsYLKSIBH2iHQxe8IFRJcE",
+   "reason": "scam signal in directory name: Carding And Legit Account & Uc"
+  },
+  {
+   "code": "HXpipleAZmVCz7zRxlnQQo",
+   "reason": "scam signal in directory name: Amazon Airdrop"
+  },
+  {
+   "code": "3EvZx578PQ6EwZtEdNnpnP",
+   "reason": "name looks like a phone number fragment"
+  },
+  {
+   "code": "FUsUrmCo6Io4XtJPDmqAtt",
+   "reason": "scam signal in directory name: Free Crypto Airdrop"
+  },
+  {
+   "code": "KilgsNKL3aBEZGMvPYrK26",
+   "reason": "scam signal in directory name: Airdrop International"
+  },
+  {
+   "code": "EXiYk9swoifEMiuiMVJQ1W",
+   "reason": "name looks like a phone number/personal info: 9083695293 1k sub 400 taka"
+  },
+  {
+   "code": "JvKQf1cbUfRKWrtUVFHGgP",
+   "reason": "adult-sexual signal in og:title/name: ✊💦💋Hot Sexy 💋✊💦"
+  },
+  {
+   "code": "HbPjuGafkHdGfv0Vf1du0C",
+   "reason": "unsure-adult: ambiguous og:title, dropped per rule: Lesbian Babies 🥰😍"
+  },
+  {
+   "code": "IkJPADmSVZc9uagZBWdddP",
+   "reason": "adult-sexual signal in og:title/name: Sexy"
+  },
+  {
+   "code": "KmDm5HdCfSz2Y6vED1XUt9",
+   "reason": "unsure-adult: suggestive og:title, dropped per rule: MIAMI💓 BEACH 💖HOT SEAT❤️💋"
+  },
+  {
+   "code": "IrMs1vtyWhT2VD4ADKotFV",
+   "reason": "unsure: og:title reads like betting/odds spam, dropped per rule: sscm*10 & ss*3-10%+$ Grp4"
+  },
+  {
+   "code": "JEtJk9cwx8V7MZxHKeQpyz",
+   "reason": "hacked/virus warning in title; unusable group: Virus in group left ⚠️⚠️💣💣"
+  },
+  {
+   "code": "J7NIVZnPIN8Gp6Ppt6R8HX",
+   "reason": "betting/match-fixing tipster group: Match&toss_report's_ipl 👇"
+  },
+  {
+   "code": "DDGJQSUvSjwChg3qVMS6hn",
+   "reason": "betting/match-fixing tipster group: IPL REAL BET ✅"
+  },
+  {
+   "code": "I5L2XDqbAFaCDfcVzyNSQl",
+   "reason": "betting/match-fixing tipster group: 🏏IPL 👉TOSS🧙🏼‍♂️ KILLER👁️"
+  },
+  {
+   "code": "Br3yzuHphFh6Wkcl8Jci18",
+   "reason": "betting/match-fixing tipster group: Ipl tipper"
+  },
+  {
+   "code": "CufIX6up5MoJA1f3DxX6ON",
+   "reason": "betting/match-fixing tipster group: IPL Match Fixing🤑🤑"
+  },
+  {
+   "code": "EihRJr90APW1EmMIpcqeYT",
+   "reason": "betting/match-fixing tipster group: 👑IPL MATCH & TOSS KINGS 👑"
+  },
+  {
+   "code": "FVnD3QtbYuG8qCGr5CtO4b",
+   "reason": "betting/match-fixing tipster group: ipl Match report 2022"
+  },
+  {
+   "code": "LO27n4yz4NQ18NBaOHk2Bk",
+   "reason": "betting/match-fixing tipster group: 🏆ipl fix report🏆💯"
+  },
+  {
+   "code": "KTf6qJaJT3yEXcAGSvpVrc",
+   "reason": "hacked/virus warning in title; unusable group: ⚠️This ⚠️ group📵 is☠️ hacked ⚠️ leve 👾this ⚠️ group☠️ virus📵 attacking."
+  },
+  {
+   "code": "BNecqnO4zkIH6BCPvUy47H",
+   "reason": "betting/match-fixing tipster group: IPL FIX TOSS MATCH REPORT"
+  },
+  {
+   "code": "JwtkTwzMzHr5WX7T2wRrdV",
+   "reason": "hacked/virus warning in title; unusable group: ⚠️This ⚠️ group📵 is☠️ hacked ⚠️ leve 👾this ⚠️ group☠️ virus📵 attacking."
+  },
+  {
+   "code": "GYpSSeY4p2w3toANzNstzc",
+   "reason": "betting/match-fixing tipster group: IPL 2022 FULL FIX REPORT"
+  },
+  {
+   "code": "BVheRqGXC7u6TfSfzFl0GH",
+   "reason": "unsure: steroid/drug signal in title, dropped per rule: CLUB DOS MONSTROS 💪💉💉♦️♦️"
+  },
+  {
+   "code": "JB4wtCoh9Lz2ijeF4li3BI",
+   "reason": "get-rich-scheme title: A maneira de ficar rico"
+  },
+  {
+   "code": "Cw9dSfhX2Wi8Rtb71DPzhR",
+   "reason": "scam signal in og:title/name: Free crypto airdrop"
+  },
+  {
+   "code": "GzakIWtKMtPDhcAYNVf3Sb",
+   "reason": "get-rich-scheme title: HOW TO MAKE 200K WITH AFFILIATE MARKETING MONTHLY INTENSIVE \"MASTER CLASS\""
+  },
+  {
+   "code": "H1NltEXXke1D3NhA6IdsrR",
+   "reason": "get-rich-scheme title: \"Monthly Millionaire Blueprint Circle\""
+  },
+  {
+   "code": "DhjzSBHoPJ562IvR0Ps8FN",
+   "reason": "get-rich-scheme title: 100k-500k monthly affiliate marketing program (newbie)"
+  },
+  {
+   "code": "GRs2Aipm6bv4PGtpoYJhmz",
+   "reason": "shares girls phone numbers (personal info): Girls numbers Malaysia"
+  },
+  {
+   "code": "DehfpzliQ2tKsr7mzqC2fx",
+   "reason": "adult-sexual signal in og:title/name: Malaysia sexy girls numbers 🔞"
+  },
+  {
+   "code": "KTMa2CWyEzP7EP6EpsSwhT",
+   "reason": "hacked/virus warning in title; unusable group: 😈 Left all group is hacked 😈"
+  },
+  {
+   "code": "J7IXXa61HCL2GQSoCFE3NR",
+   "reason": "scam signal in og:title/name: *SL MONEY DROP🤑*"
+  },
+  {
+   "code": "COkuxqM3L401Pxefd5qL3J",
+   "reason": "adult-sexual signal in og:title/name: BRA PANTY LOVE 👙"
+  },
+  {
+   "code": "KIuM85ls6HsK5Q1ZscQriQ",
+   "reason": "unsure-adult: ambiguous slang in og:title, dropped per rule: Actress അടി"
+  },
+  {
+   "code": "Lno9NPSzsJm2INWTUKlXln",
+   "reason": "adult-sexual signal in og:title/name: Tamil actress boobs🍅🍅"
+  },
+  {
+   "code": "BxVRUfG84Da41disv9bwAR",
+   "reason": "adult-sexual signal in og:title/name: Actress Navel Fans"
+  },
+  {
+   "code": "LAIAdIjEX19B7JpFv52MpR",
+   "reason": "adult-sexual signal in og:title/name: Full sexxxxx"
+  },
+  {
+   "code": "BMMtraKi5NyIK0FMK2EhIa",
+   "reason": "shares girls phone numbers (personal info): Aunty Number Want Freetyp"
+  },
+  {
+   "code": "Cjws3dLoYomIhH1zp0jSvs",
+   "reason": "adult-sexual signal in og:title/name: Telugu sex videos"
+  },
+  {
+   "code": "JtOZWmGTQSlEbtzh5WNpH0",
+   "reason": "adult-sexual signal in og:title/name: ACTRESS LEAKES"
+  },
+  {
+   "code": "KRXzPZs3I0c3EXG5T1f10Z",
+   "reason": "unsure-adult: bold-celebrity title, dropped per rule: Bold Indian celebs Group 3"
+  },
+  {
+   "code": "EfHTwCPF7vm1L0bnLRCa5n",
+   "reason": "adult-sexual signal in og:title/name: 🥵Actress Veriyans💦"
+  },
+  {
+   "code": "GJgWYff7SMCC4XNf4ogAqD",
+   "reason": "adult-sexual signal in og:title/name: TAMIL ACTRESS HOT🥰💋😘"
+  },
+  {
+   "code": "EynFjKOXwWP2JMEW7tBimv",
+   "reason": "adult-sexual signal in og:title/name: Actress Shaggers🍆✊🏽💦💦💦"
+  },
+  {
+   "code": "EZchnql7gxB6dEz7xRjdZb",
+   "reason": "adult-sexual signal in og:title/name: Porn watching"
+  },
+  {
+   "code": "Ex6bgZE6plIHWKA2zahApP",
+   "reason": "adult-sexual signal in og:title/name: Tamil actress  sex🤗🤗"
+  },
+  {
+   "code": "E5MepWfBAGt13pWWjbrikL",
+   "reason": "adult-sexual signal in og:title/name: Hot bollywood actress sex"
+  },
+  {
+   "code": "HycUit0eXnR4FufAQtshM8",
+   "reason": "adult-sexual signal in og:title/name: Hot and Sexy Actress😍💋🍌💦💦"
+  },
+  {
+   "code": "LUTXeNaUbOLFZ4t5RXC4Z3",
+   "reason": "adult-sexual signal in og:title/name: 😍 Actress hot gallery 🔥"
+  },
+  {
+   "code": "Ejz09FW4z2K8wClVGq1WJS",
+   "reason": "adult-sexual signal in og:title/name: Dating and sex 🥰😍😍😍😍🥳"
+  },
+  {
+   "code": "KE0QZFJvVvz4gq0JMZePQO",
+   "reason": "adult-sexual signal in og:title/name: ACTRESS വെടികൾ😚"
+  },
+  {
+   "code": "FGgB2TFCoF846sc4qH77S4",
+   "reason": "adult-sexual signal in og:title/name: ✨ACTRESS HOT ED ❤️✨"
+  },
+  {
+   "code": "DR514HTq0EJDdkXevTWxFE",
+   "reason": "adult-sexual signal in og:title/name: 🔥💞💋Actress hot sex💋💋🔥"
+  },
+  {
+   "code": "JSazDTwWIKkAuIsPOpqiwR",
+   "reason": "adult-sexual signal in og:title/name: Hotness girl💖🧏‍♀️"
+  },
+  {
+   "code": "By3PZJ0Ybfk8ZYqseNVNf3",
+   "reason": "adult-sexual signal in og:title/name: Actress hot  Photos 😍😂😍😂"
+  },
+  {
+   "code": "BgG5ozgEBz76jcL0dFtaLh",
+   "reason": "adult-sexual signal in og:title/name: Bhanu puku Chimpi dengutha"
+  },
+  {
+   "code": "F5qT5FlHEgs89HMVfNDp19",
+   "reason": "adult-sexual signal in og:title/name: Actress Molai and iduppu"
+  },
+  {
+   "code": "BC5PZq7yZqP6XqavDDSe3I",
+   "reason": "adult-sexual signal in og:title/name: Bollywood actress hot 💋💋💋"
+  },
+  {
+   "code": "DzYAgeWqJGzJCZxFTkj0jt",
+   "reason": "adult-sexual signal in og:title/name: Tollywood actress fu_k👙"
+  },
+  {
+   "code": "LENNG8UwzBNL6bO5YIWorR",
+   "reason": "adult-sexual signal in og:title/name: Actress Malavika Hot"
+  },
+  {
+   "code": "CvJTmyrw4iH0KR1B1GBHWs",
+   "reason": "adult-sexual signal in og:title/name: Indian actress and sex"
+  },
+  {
+   "code": "KYJ0f7rj6mjLvIea72kK75",
+   "reason": "adult-sexual signal in og:title/name: Actress Par Muth Maro"
+  },
+  {
+   "code": "Dlu5RycnuA33lXiPYkx7TY",
+   "reason": "adult-sexual signal in og:title/name: Actress Porn 🩱"
+  },
+  {
+   "code": "HcYX1W5XE60DtvSQAMXzpK",
+   "reason": "adult-sexual signal in og:title/name: Actress ✊🏻✊🏻💦💦"
+  },
+  {
+   "code": "JmSeJvrqJsTH3qaK1lMkQ7",
+   "reason": "adult-sexual signal in og:title/name: Actress sex and nude"
+  },
+  {
+   "code": "C9xBQ9AjkBf6FEvtP0uJGU",
+   "reason": "betting/match-fixing tipster group: 🎾Opportunités paris⚽"
+  },
+  {
+   "code": "1cWLWtAcy2E9S5Zv9SBlgX",
+   "reason": "adult-sexual signal in og:title/name: 🧜‍♀️💦👙NUDE ACTRESS👙💦🧜‍♀️"
+  },
+  {
+   "code": "E7eNOPelhMDAHMLRz3bziR",
+   "reason": "adult-sexual signal in og:title/name: Vijay tv actress hot"
+  },
+  {
+   "code": "KATabh5sR2k8IvcjuerS89",
+   "reason": "adult-sexual signal in og:title/name: Desi Randi"
+  },
+  {
+   "code": "HdM15l41XqD7braIyk74d5",
+   "reason": "adult-sexual signal in og:title/name: Bollywood actress nude"
+  },
+  {
+   "code": "GJE5sAGLTfj80QODS4qfTG",
+   "reason": "adult-sexual signal in og:title/name: ACTRESS BOOBS CUM👙"
+  },
+  {
+   "code": "DiJ2JyK6x96JGyPwAtsJuB",
+   "reason": "betting/match-fixing tipster group: 1XBET AGENT"
+  },
+  {
+   "code": "FqMWZdXcHXKK0OhlAJsIgl",
+   "reason": "scam signal in og:title/name: FORSAGE/METAFORCE 📌💰"
+  },
+  {
+   "code": "EmoCx18NtaaLwVgdGMT0RU",
+   "reason": "scam signal in og:title/name: FORSAGE (Dreams come true)"
+  },
+  {
+   "code": "J4Ile5ADi3f4DsLiDoxdWr",
+   "reason": "adult-sexual signal in og:title/name: American hot sax.."
+  },
+  {
+   "code": "BhFyOpw2WhM2zJIjEKqBTR",
+   "reason": "adult-sexual signal in og:title/name: American Sex only"
+  },
+  {
+   "code": "LXnuVWubNj0HeMOHnK1lSm",
+   "reason": "adult-sexual signal in og:title/name: American boobs and video"
+  },
+  {
+   "code": "Irjyo2aDqeYK6cvn4bsL7z",
+   "reason": "adult-sexual signal in og:title/name: Naughty America"
+  },
+  {
+   "code": "Dpumv6JDaVp0bIIsrmLp2U",
+   "reason": "adult-sexual signal in og:title/name: American message 👙"
+  },
+  {
+   "code": "L8URLFaG4QG3DjGqLS3UPs",
+   "reason": "adult-sexual signal in og:title/name: People crazy mother fuck sons of the bitch"
+  },
+  {
+   "code": "LHP6flqxBpG8GNgCHl1XvY",
+   "reason": "adult-sexual signal in og:title/name: Sexy America Latine🔞🥰🇧🇷🇦🇷🇨🇴"
+  },
+  {
+   "code": "I1VT2trXMtF0BDbviMnOPB",
+   "reason": "adult-sexual signal in og:title/name: HD Porn"
+  },
+  {
+   "code": "JhlSCPK1uiv0P3FSqgtGgH",
+   "reason": "adult-sexual signal in og:title/name: Hot Girls USA"
+  },
+  {
+   "code": "40BCFWfOmdD6oHyZLgerQZ",
+   "reason": "adult-sexual signal in og:title/name: Cartoon sex xxx"
+  },
+  {
+   "code": "HwZJWrI6UWzB8jYTgzkdAb",
+   "reason": "adult-sexual signal in og:title/name: NSFW#1"
+  },
+  {
+   "code": "He5xy3o9nH3EJDHgi43mG4",
+   "reason": "adult-sexual signal in og:title/name: XXNX Vdieos"
+  },
+  {
+   "code": "KieMHAblxNr8aShOsx5xZA",
+   "reason": "adult-sexual signal in og:title/name: @hookup sugamum -kenya"
+  }
+ ],
+ "resume": "Verification is INCOMPLETE: 923 of 13,154 fresh codes checked (433 live / 484 dead / 6 pending). To continue, run: cd /home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261110 && python3 team32_raw/verify2.py (it resumes from team32_raw/verify2_results.jsonl, same deterministic order: non-Nov-9 pages first, whatsapp-group-links + kerala-group last) then python3 team32_raw/assemble.py to rebuild the 4 output files. Remaining to verify: 12,224 codes. Raw tglinkhub fetch (posts/pages/cats/dates), code->post map, fresh list and verifier/assembler scripts are all in team32_raw/.",
+ "notes": "WhatsApp invite checks from this VM are very slow (TTFB 7-11s, frequent 30s timeouts; many wave teams verifying concurrently from the same egress IP). First verifier pass with 15s timeout produced false transport-pendings and was replaced by verify2.py (30s timeout). Control check confirmed the LIVE rule works: known-live codes return non-empty og:title (e.g. 'Alicante Activities 2'), so empty og:title after retries = dead. tglinkhub mega-page (whatsapp-group-links) and Kerala/Malayalam page were mined Nov 9, so their leftover fresh codes were deprioritized - first 50 checked there were all dead. The unmined list-style posts (SSC, Entertainment, IPL, Portugal, Motivational) had a ~50-58% live rate. 310 fresh codes had no table-row name (list-style posts); their names come from og:title, with junk titles (Xxxx left / Xxxxxxx / Gg) renamed from the source post title. igrupos.com fully unreachable from this VM; no curl budget spent beyond 3 timed-out probes. No merges into groups.json, no generate.py, no deploy - outputs only."
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://gruposwapp.net/grupo/freefire/",
+    "domain": "gruposwapp.net",
+    "note": "Listing 426 'Freefire': /ir/ redirect returned 302 with no chat.whatsapp.com target on 2 attempts; join button may resolve in a live browser."
+  },
+  {
+    "url": "https://gruposwapp.net/grupo/ofertasya-es-ofertas-chollos-amazon-espana/",
+    "domain": "gruposwapp.net",
+    "note": "Listing 416 'OfertasYa.es | Ofertas y Chollos de Amazon España': /ir/ redirect returned 302 with no chat.whatsapp.com target on 2 attempts; browser may resolve it."
+  },
+  {
+    "url": "https://losgrupos.app/",
+    "domain": "losgrupos.app",
+    "note": "Mexico-focused directory, JS-rendered, zero invite codes in static HTML; codes behind JS join buttons. Heavy adult (18+) content on homepage — browser leg must screen hard."
+  },
+  {
+    "url": "https://grupeo.lat/",
+    "domain": "grupeo.lat",
+    "note": "LatAm WhatsApp+Discord directory; serves a bot-challenge 'One moment, please...' page to curl (JS reload loop). Browser-only."
+  },
+  {
+    "url": "https://gruposdewats.com/",
+    "domain": "gruposdewats.com",
+    "note": "Reported ~95k links, same operator as gruposwats.com; unreachable from this VM (curl error 52, empty reply). Retry via browser."
+  },
+  {
+    "url": "https://groupler.me/",
+    "domain": "groupler.me",
+    "note": "WhatsApp group directory named in roundups; empty reply from this VM (curl error 52). Retry via browser."
+  },
+  {
+    "url": "https://www.groupslinks.com/",
+    "domain": "groupslinks.com",
+    "note": "Arabic directory (Qroup Lank), 30k+ groups; only search/label pages touched in wave 20261109. Mine SA/AE/QA/KW/OM/BH country and category pages next wave."
+  },
+  {
+    "url": "https://www.alarabinet.com/2022/05/WhatsApp-groups-dating-Iraq.html",
+    "domain": "alarabinet.com",
+    "note": "Alarabinet Iraq dating-groups listicle, unmined; sibling of the Saudi page mined this run (all 5 codes dead)."
+  }
+]

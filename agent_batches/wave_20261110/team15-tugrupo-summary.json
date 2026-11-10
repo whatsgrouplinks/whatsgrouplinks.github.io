@@ -1,0 +1,19 @@
+{
+  "team": 15,
+  "slice": "tugrupo pp.2-10",
+  "sources": [
+    "https://tugrupo.com",
+    "https://www.tugrupo.com",
+    "https://tugrupo.com/chat",
+    "https://tugrupo.com/grupos",
+    "https://tugrupo.com/groups",
+    "https://tugrupo.com/grupos-whatsapp"
+  ],
+  "verified": 0,
+  "pending": 0,
+  "leads": 2,
+  "dead": 0,
+  "exclusions": [],
+  "resume": "SOURCE DEAD — do not reassign tugrupo.com pp.2-10. https://tugrupo.com is a parked domain ('This domain may be for sale'), confirmed live 2026-11-10 via curl (990-byte AboveDomains parking page) and via independent text fetch. No /chat or /grupos listing pages exist; Wayback CDX shows zero tugrupo.com/chat* snapshots ever and only parking assets since 2020. 0 candidates extracted, 0 verified, 0 pending, 0 dead codes.",
+  "notes": "Evidence: (1) curl https://tugrupo.com returned HTTP 200 with 990-byte parking page ('Find information, resources and relevant links for tugrupo.com. This domain may be for sale.'); subsequent curls to /, /chat, /grupos, /groups, /grupos-whatsapp and www host returned HTTP 000 (connection reset by the flaky parking server). (2) Independent text fetch of https://tugrupo.com (2026-11-10 06:59 UTC) shows the same parked page. (3) Wayback CDX: no tugrupo.com/chat* snapshots; wildcard listing shows only parking pages/assets (Epik parking, parking2.css, domain_pay images) back to 2020. Dedupe files were inspected but no union computation was needed (zero candidates): .existing_codes.json holds 108,364 codes; groups.json holds 72,742 entries. No invite codes were extracted from any source, so nothing was verified, banked, or excluded. Leads file holds 2 OUT-OF-SLICE alternates only (igrupos.com live, tugrupo.online apparent current home of the TuGrupo directory) — neither was scraped; parent should reassign them as a new slice if wanted, since they may already belong to another team. Recommendation: retire the tugrupo.com slice from future waves."
+}

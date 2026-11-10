@@ -1,0 +1,14 @@
+{
+ "team": 2,
+ "slice": "leads slice 2",
+ "sources": [
+  "groupsinvite.link"
+ ],
+ "verified": 0,
+ "pending": 0,
+ "leads": 224,
+ "dead": 60,
+ "exclusions": [],
+ "resume": "Re-ran wave_20261109 leads_slice_02.json (184 groupsinvite.link listing pages) fresh for wave 20261110: fetched each listing page + its /group/rules/ page, extracted invite codes, deduped against the 108,364-code union (.existing_codes.json + groups.json invites), verified fresh codes with curl (HTTP 200 + non-empty og:title, 2 spaced retries).",
+ "notes": "Fetched 184/184 listing pages. Extracted invite codes from 170 listings: 46 fresh vs union, 124 already in union. Verified 46 fresh codes: 0 live, 46 dead (HTTP 200 with empty og:title on all attempts = revoked/expired invites), 0 transport-pending at verify stage. 14 listings had no invite code on the rules page; 0 listing/rules fetch transport failures. Screened live codes: 0 kept, 0 excluded (see exclusions). Note: wave-09's 2 live codes (Web development 76CAcBHxNRQ32Fx0oTecPs and the MLM one) are now in the union, so neither is fresh this run. Discovered 639 related listing URLs; 224 are genuinely new leads after removing slice URLs and ids already in the union. No source names/links, phone numbers or personal info in any banked item."
+}

@@ -1,0 +1,35 @@
+retry targets: 33
+OK   https://groupsinvite.link/group/link/ju4m3sniliaf1qk69oqkxq/ | JU4M3sNILiaF1qK69OqKxq
+OK   https://groupsinvite.link/group/link/jwvyj4qbzpidzpzgb2v43g/ | JwVyj4qbzPiDzpZgB2v43G
+OK   https://groupsinvite.link/group/link/km4vonwpjxlbajz0wq2gkk/ | Km4vonwPjXLBAjz0Wq2GkK
+OK   https://groupsinvite.link/group/link/kmkwuwxdhoj3n5rgp8lygr/ | KMkwUWXdhoJ3n5rgP8lYGR
+OK   https://groupsinvite.link/group/link/kqrqhc2c4m01ntthq8ee8r/ | KQRQHC2c4m01nTthq8ee8R
+OK   https://groupsinvite.link/group/link/kryn11xxgdze0oxk3gqtko/ | KrYn11xXgdZE0oxK3gQTKO
+OK   https://groupsinvite.link/group/link/ksh5dsi1eey89l40oulz8z/ | KSh5DSI1eey89l40ouLz8Z
+OK   https://groupsinvite.link/group/link/kv91f3kizpvjyzwsawi0kx/ | KV91F3KIZpVJYzWSawI0KX
+OK   https://groupsinvite.link/group/link/kwkailjk0ddhgh0jrbjeu0/ | KWKAiLJK0DdHGH0JrBJEu0
+OK   https://groupsinvite.link/group/link/kwncywrbgoyflh7d6opz13/ | KWNCyWrbgOyFlh7d6Opz13
+OK   https://groupsinvite.link/group/link/kxpwb2iyfd1ee3hwrxh5ba/ | KXpwb2iYfD1Ee3HwRXH5Ba
+OK   https://groupsinvite.link/group/link/kyo1dg3rhmvgyeq1aj53ng/ | KYo1dG3rHmVGyeq1Aj53Ng
+OK   https://groupsinvite.link/group/link/l4tj9wqetcjhjcblzpejgo/ | L4tJ9wqeTcJHJCBlZpeJgO
+FAIL https://groupsinvite.link/group/link/l6pl5mgk3bw7fbk9rffjri/ | ; no code on rules page
+OK   https://groupsinvite.link/group/link/lbf8hzfhglwanijro3pfb3/ | LBf8HZFhgLwAnIjro3PfB3
+FAIL https://groupsinvite.link/group/link/lc69d37op8kfnvl0j85ptf/ | detail fetch failed
+FAIL https://groupsinvite.link/group/link/lcja35pz3fo7fwmnkmvykc/ | detail fetch failed
+FAIL https://groupsinvite.link/group/link/ld6ipjc4ep2hwl5wvysfy6/ | detail fetch failed
+FAIL https://groupsinvite.link/group/link/legxbg0kpzvhustja7oxjg/ | detail fetch failed
+FAIL https://groupsinvite.link/group/link/lel96j1qn9efyt2keh87jj/ | detail fetch failed
+FAIL https://groupsinvite.link/group/link/lf8kc5nnkzj0f434p6ogjy/ | ; no code on rules page
+FAIL https://groupsinvite.link/group/link/lfimqsaxi73jtkjscqegkd/ | detail fetch failed
+FAIL https://groupsinvite.link/group/link/lgvo3s5owf1bsz3lmivxg4/ | detail fetch failed
+FAIL https://groupsinvite.link/group/link/lhfgylnhnnukpxd7pw01iz/ | detail fetch failed
+FAIL https://groupchatconnect.info/groupe/266 | go.php recovery failed: join.php/go.php did not resolve to groupsor or chat link
+FAIL https://groupchatconnect.info/groupe/368 | go.php recovery failed: join.php/go.php did not resolve to groupsor or chat link
+FAIL https://groupchatconnect.info/groupe/371 | go.php recovery failed: join.php/go.php did not resolve to groupsor or chat link
+FAIL https://groupchatconnect.info/groupe/377 | go.php recovery failed: join.php/go.php did not resolve to groupsor or chat link
+FAIL https://groupchatconnect.info/groupe/379 | go.php recovery failed: join.php/go.php did not resolve to groupsor or chat link
+FAIL https://groupchatconnect.info/groupe/381 | go.php recovery failed: join.php/go.php did not resolve to groupsor or chat link
+FAIL https://groupchatconnect.info/groupe/387 | go.php recovery failed: join.php/go.php did not resolve to groupsor or chat link
+FAIL https://groupchatconnect.info/groupe/407 | go.php recovery failed: join.php/go.php did not resolve to groupsor or chat link
+FAIL https://groupchatconnect.info/groupe/413 | go.php recovery failed: join.php/go.php did not resolve to groupsor or chat link
+after retry: records=184 fresh_unique=60 discovered=584

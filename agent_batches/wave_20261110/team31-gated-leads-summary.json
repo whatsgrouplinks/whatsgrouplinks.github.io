@@ -1,0 +1,18 @@
+{
+  "team": 31,
+  "slice": "gated dirs leads-only (groupda, grupodewhatsapp)",
+  "sources": [
+    "groupda.com",
+    "grupodewhatsapp.com"
+  ],
+  "verified": 0,
+  "pending": 0,
+  "leads": 19,
+  "dead": 0,
+  "exclusions": [
+    "groupda.com group-bokep page (hard-porn/xxx) dropped on sight, not banked",
+    "groupda.com android bio pages are not group listings, not banked"
+  ],
+  "resume": "Browser leg: open each lead URL in a live browser (Cloudflare 403 on groupda.com, Turnstile on grupodewhatsapp.com), harvest group cards per page, verify invite links, and stage verified groups per schema. Start with app.grupodewhatsapp.com/en/jobs, /en/friendship, /en/studies, /en/religion (English-language groups visible in text fetch); groupda.com listing pages are older (2021 bulk list, 2026-06-29 entertainment page) so expect stale invites. groupda.pk gate status unverified.",
+  "notes": "Leads-only leg as assigned: no curl/AJAX against groupda.com, no Turnstile/verification attempts on grupodewhatsapp.com. All 19 lead URLs are verbatim from web search results or text fetches on 2026-11-10; no URLs guessed. Text fetches of app.grupodewhatsapp.com category pages DID render (search-engine cache) and showed English-language group cards (e.g. Jobs: 6 groups; Friendship: 13; Studies: 2; Religion: 14; Games: 8; Technology: 4; Sports: 2; Fitness: 0), but invite codes were not exposed in the text, so nothing was banked as verified or pending. No other Cloudflare/Turnstile-gated directory listing URLs surfaced via search. groupda.com homepage text fetch returned only a stale Dec-2024 shell with no category nav."
+}

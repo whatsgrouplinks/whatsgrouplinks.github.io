@@ -1,0 +1,86 @@
+[
+ {
+  "url": "https://www.igrupos.com/",
+  "source": "igrupos.com",
+  "kind": "hub",
+  "note": "Homepage directory; geo-gated from this VM (curl timed out, no HTTP status). Needs browser leg."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/rap",
+  "source": "igrupos.com",
+  "kind": "listing",
+  "note": "Rap/freestyle WhatsApp groups listing, page 1."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/rap/2",
+  "source": "igrupos.com",
+  "kind": "listing",
+  "note": "Rap/freestyle WhatsApp groups listing, page 2."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/clash-royale",
+  "source": "igrupos.com",
+  "kind": "listing",
+  "note": "Clash Royale gaming groups listing."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/apuestas-deportivas/4",
+  "source": "igrupos.com",
+  "kind": "listing",
+  "note": "Sports-betting groups listing, page 4. Screen for gambling/scam content before banking any group."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/intercambio-idiomas",
+  "source": "igrupos.com",
+  "kind": "listing",
+  "note": "Language-exchange groups listing."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/femboy",
+  "source": "igrupos.com",
+  "kind": "listing",
+  "note": "Femboy community groups listing."
+ },
+ {
+  "url": "https://www.igrupos.com/tag/whatsapp/onlyfans/2",
+  "source": "igrupos.com",
+  "kind": "listing",
+  "note": "ADULT SIGNAL: OnlyFans groups listing, page 2. Browser leg must screen every group for adult-sexual signals (18+/porn/xxx/escort) and drop on sight; do not bank blindly."
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/267961",
+  "source": "igrupos.com",
+  "kind": "detail",
+  "note": "Detail page: Alma shinobi."
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/90173",
+  "source": "igrupos.com",
+  "kind": "detail",
+  "note": "Detail page: Snorkel en Torrevieja (activity group, Spain)."
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/9088",
+  "source": "igrupos.com",
+  "kind": "detail",
+  "note": "Detail page: English group (learn/practice English, international)."
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/471629",
+  "source": "igrupos.com",
+  "kind": "detail",
+  "note": "Detail page: Grupo multi fandom rol."
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/237673",
+  "source": "igrupos.com",
+  "kind": "detail",
+  "note": "Detail page: Compes bien Rappas (rap/freestyle)."
+ },
+ {
+  "url": "https://www.igrupos.com/grupo/329935",
+  "source": "igrupos.com",
+  "kind": "detail",
+  "note": "Detail page: Amistad y mas (friendship)."
+ }
+]

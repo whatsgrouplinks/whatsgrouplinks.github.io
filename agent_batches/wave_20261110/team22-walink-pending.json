@@ -1,0 +1,29 @@
+[
+  {
+    "name": "WhatsApp Group Girl",
+    "category": "Community & Social",
+    "country": "PK",
+    "description": "A WhatsApp group for girls in Pakistan to chat and make new friends.",
+    "invite": "https://chat.whatsapp.com/KzwO6LVoaS8DT0LBwqu16S",
+    "code": "KzwO6LVoaS8DT0LBwqu16S",
+    "reason": "Transport failure on 2nd verification attempt: curl rc 28 timeout, partial 16KB body, no og:title captured (after 1 completed HTTP 200 with empty og:title). Not confirmed dead; retry later."
+  },
+  {
+    "name": "College Girls",
+    "category": "Community & Social",
+    "country": "PK",
+    "description": "A friendship group for college girls in Pakistan to chat and share college life.",
+    "invite": "https://chat.whatsapp.com/Fp53YAbEUa78T4zAZcCjRZ",
+    "code": "Fp53YAbEUa78T4zAZcCjRZ",
+    "reason": "Transport failure on 2nd verification attempt: curl rc 28 timeout, HTTP 000, 0 bytes (after 1 completed HTTP 200 with empty og:title). Not confirmed dead; retry later."
+  },
+  {
+    "name": "Punjab Group girls",
+    "category": "Community & Social",
+    "country": "PK",
+    "description": "A girls friendship group for members from Punjab, Pakistan.",
+    "invite": "https://chat.whatsapp.com/KR7gWco4iCw3aRB8JtcI70",
+    "code": "KR7gWco4iCw3aRB8JtcI70",
+    "reason": "Transport failure on 2nd verification attempt: curl rc 28 timeout, HTTP 000, 0 bytes (after 1 completed HTTP 200 with empty og:title). Not confirmed dead; retry later."
+  }
+]

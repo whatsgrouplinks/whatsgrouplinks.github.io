@@ -1,0 +1,21 @@
+{
+ "team": 23,
+ "slice": "groupsinvite 2672-4500",
+ "sources": [
+  "https://groupsinvite.link/sitemap.xml (sitemap-1.xml .. sitemap-11.xml, fetched 2026-11-10)",
+  "https://groupsinvite.link/group/category/* (all 34 category pages, fetched 2026-11-10)",
+  "https://groupsinvite.link/group/find/ (totalCount check)"
+ ],
+ "verified": 4,
+ "pending": 0,
+ "leads": 61,
+ "dead": 13,
+ "exclusions": [
+  {
+   "code": "FJYk5VTUqVQLxAl5SVwVwt",
+   "reason": "KYC works — offers KYC identity-verification work (selling/bypassing KYC checks), a fraud/money-mule vector; no legitimate reading in title/description"
+  }
+ ],
+ "resume": "Mined queue items 1-454 of 2447 (sitemap positions 2672-2715, 8 post-sitemap URLs, then descending unmined positions 2671 down to 2261). Next: continue queue from item 455 (1993 listing pages remain, sitemap positions below 2261 descending). Also re-check 61 no-code listing pages with a live browser (JS-gated codes) and 16 channel listing pages were dropped (channels, not groups).",
+ "notes": "Processed 454 listing pages in a 40-min fetch window (site is slow, ~5s/page amortized at 3 workers): 375 extracted with codes (18 fresh, 357 dup-existing), 59 no-code (JS-gated, banked as leads), 16 channels dropped, 0 fetch transport failures after retrying the 3 initial ones (2 recovered as dups, 1 no-code). Verification of the 18 fresh codes: 5 live, 13 dead (HTTP 200 + empty og:title after 3 spaced attempts), 0 transport-pending. Of the 5 live, 1 excluded (KYC works, fraud vector) leaving 4 verified. SLICE NUMBERING CAVEAT: the live site has only 2,722 entries total (find-page totalCount=2722; sitemap lists 2,715 /group/link/ pages), so 'entries 2672-4500' exceeds the site — entries 2672-2722 are the oldest 51 pages and were fully covered (44 sitemap tail + 8 post-sitemap URLs, 1 already mined); the continuation below position 2672 is older entries in descending sitemap order. Category pages cap at 70 groups each (1,294 visible) and /page/2/ 404s / ?page=2 repeats page 1, so the sitemap is the only complete enumeration. The find page shuffles results (shuffleSeed), so it is not site order. Fresh-code yield in this tail is low (~4%: 18/454) — most old groups' codes are already in the 108,365-code union. Gambling/earning-named fresh codes found (Loot@casino, Luck 55 Game, Online Earning) were all verification-dead, so no exclusion decision was needed for them. Country fix applied: listing country slug 'united-kingdom' mapped to ISO 'GB' (was 'UK' in the raw extract). 4 fetch-log tail items (451-454) were lost to the timeout kill before checkpoint; the 2 no-code ones were recovered into leads from the log, the 2 dup-existing ones need no action."
+}

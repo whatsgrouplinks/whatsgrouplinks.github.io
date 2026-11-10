@@ -1,0 +1,8 @@
+{"gid": "791674", "verify": "PENDING", "og_title": "", "http": "000", "reason": "transport failure (curl error/timeout, no HTTP status) after 3 spaced attempts"}
+{"gid": "757428", "verify": "PENDING", "og_title": "", "http": "000", "reason": "transport failure (curl error/timeout, no HTTP status) after 3 spaced attempts"}
+{"gid": "175618", "verify": "PENDING", "og_title": "", "http": "000", "reason": "transport failure (curl error/timeout, no HTTP status) after 3 spaced attempts"}
+{"gid": "856191", "verify": "DEAD", "og_title": "", "http": "200", "reason": ""}
+{"gid": "976715", "verify": "DEAD", "og_title": "", "http": "200", "reason": ""}
+{"gid": "792999", "verify": "DEAD", "og_title": "", "http": "200", "reason": ""}
+{"gid": "813979", "verify": "DEAD", "og_title": "", "http": "200", "reason": ""}
+{"gid": "444836", "verify": "PENDING", "og_title": "", "http": "000", "reason": "transport failure (curl error/timeout, no HTTP status) after 3 spaced attempts"}

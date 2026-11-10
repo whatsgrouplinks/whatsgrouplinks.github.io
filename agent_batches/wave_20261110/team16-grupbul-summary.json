@@ -1,0 +1,26 @@
+{
+  "team": 16,
+  "slice": "grupbul Food + Chat/Friendship",
+  "sources": [
+    "https://grupbul.com/en/category/whatsapp/53/food",
+    "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+    "https://grupbul.com/en/category/whatsapp/15/chat-friendship?page=2",
+    "https://grupbul.com/en/category/whatsapp/53/food?page=2"
+  ],
+  "verified": 0,
+  "pending": 4,
+  "leads": 7,
+  "dead": 13,
+  "exclusions": [
+    {
+      "code": "GDwNBN7zwR0GEflcaDUDz3",
+      "reason": "og:title is 'Xxx group' (adult-sexual signal) + crypto-investment content"
+    },
+    {
+      "code": "638413",
+      "reason": "HomeCookingShow is a WhatsApp channel (whatsapp.com/channel), not a group — no invite code; grupbul group id 638413"
+    }
+  ],
+  "resume": "Food category page returns an EMPTY listing on every fetch (page 1, ?page=2, /2, Turkish /tr/category/whatsapp/53/yemek) — no Food groups are listed there as of 2026-11-10; do not re-mine without re-checking the page. Chat/Friendship page 1 yields 27 groups; ?page=2 returns the IDENTICAL 27 (pagination param ignored) and /2 returns an empty template — no deeper pages reachable. 4 codes remain transport-only PENDING (791674 Sohbete gel, 757428 Arkadas tanisma, 175618 Girls Fun Masti, 444836 Romantic); re-verify them with a fresh slow pass, they never returned an HTTP status. 11 of 30 codes were already in the 108,365-code union (dupes). 0 verified live.",
+  "notes": "Dedupe union was 108,365 codes (.existing_codes.json 108,364 + groups.json). All 30 candidate codes extracted via /group/<id> detail pages -> /redirect/<id>/<n> (HTTP refresh: header, 7s) -> chat.whatsapp.com code. Method validated against a known-live dupe code (Koak6SWE6Nf1QhaTV5vCtL returned og:title 'THE GLOBAL FAMILY'). 13 codes DEAD: HTTP 200 but empty og:title after >=2 spaced retries (WhatsApp's revoked/expired-invite response). WhatsApp verification was flaky throughout: frequent curl 000 (no HTTP status) — likely rate-limiting after many checks; 3 verification passes run (initial 3-parallel, retry, final slow sequential). One /tmp wipe mid-run lost intermediate state; all state was rebuilt and checkpointed in the work dir. Excluded: 187582 Nasi Lemak Bitcoin (og:title 'Xxx group' + crypto-investment pitch) and 638413 HomeCookingShow (WhatsApp channel, not a group). No Food groups found at all — the 3 food-ish candidates came from web search, not the category page."
+}

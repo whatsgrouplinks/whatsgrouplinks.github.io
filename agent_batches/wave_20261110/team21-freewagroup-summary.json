@@ -1,0 +1,18 @@
+{
+ "team": 21,
+ "slice": "freewagroup.com",
+ "sources": [
+  "https://freewagroup.com/sitemap.xml",
+  "https://freewagroup.com/post-sitemap1.xml",
+  "https://freewagroup.com/post-sitemap2.xml",
+  "https://freewagroup.com/wp-json/wp/v2/posts?per_page=100 (pages 1-4)",
+  "https://freewagroup.com/wp-json/wp/v2/categories?per_page=100"
+ ],
+ "verified": 0,
+ "pending": 0,
+ "leads": 38,
+ "dead": 106,
+ "exclusions": [],
+ "resume": "Slice fully mined; nothing to resume. All 313 posts enumerated via the WP REST API (newest first: 2026-11-08 back to 2026-10-26). 197 of 303 invite codes were already in the 108,364-code union; the other 106 were all verified DEAD. No verified or pending items remain. Only re-run if the directory publishes new posts (sitemap lastmod 2026-11-08).",
+ "notes": "0 verified: every one of the 106 fresh codes returned HTTP 200 with EMPTY og:title on 2 spaced fetches (dead/reset WhatsApp invite links); the 17 that first timed out were re-checked in a retry pass (up to 3 attempts each) and all resolved DEAD too, so pending=0. Detector sanity-checked: known-live code Gs2YArMZSPG2hTUmkzqWCE from groups.json returned og:title \"International Manpower Solutions @ 20\"; dead codes F9Vgqc9PSZX0trsy9yksNq and IKTH3CsUUP16goKZDUxIQv cross-checked with curl (HTTP 200, empty og:title, full ~223KB body). Direct curl to freewagroup.com fails from this VM (TLS/proxy 000), so the site was mined via its WP REST API instead; browser text-fetch also confirmed the site is live. 10 sitemap posts are theme listing pages with no invite link (grupos-de-whatsapp-de-*) and are banked as leads. In-slice duplicate: code BcHmQ6SWxcI4zYGZIVOZxk is shared by posts clanfecco and 503-clan-fecco; it was already in the union so both are dups. Content screening: 0 exclusions among the 106 fresh names/descriptions (no adult-sexual or scam signals); borderline-checked \"Demencia, 0 Enamoramiento Aqui\" and \"Entre Copas y Conversa\" (\"para adultos\" = adults-only social chat, non-sexual) were not excluded and then verified dead anyway. No channels found (0 whatsapp.com/channel links)."
+}

@@ -1,0 +1,107 @@
+[
+ {
+  "url": "https://groupwa.link/jobs/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta - filter SE Asia countries"
+ },
+ {
+  "url": "https://groupwa.link/education/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta"
+ },
+ {
+  "url": "https://groupwa.link/gaming/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta"
+ },
+ {
+  "url": "https://groupwa.link/news/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta"
+ },
+ {
+  "url": "https://groupwa.link/islamic/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta"
+ },
+ {
+  "url": "https://groupwa.link/sports/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta"
+ },
+ {
+  "url": "https://groupwa.link/health/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta"
+ },
+ {
+  "url": "https://groupwa.link/movies/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta"
+ },
+ {
+  "url": "https://groupwa.link/cricket/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta"
+ },
+ {
+  "url": "https://groupwa.link/online-earning/",
+  "source": "groupwa.link",
+  "note": "Unmined category page; cards carry country in meta"
+ },
+ {
+  "url": "https://groupwa.link/groups-gallery/",
+  "source": "groupwa.link",
+  "note": "Unmined gallery page linked from groupwa.link homepage nav"
+ },
+ {
+  "url": "https://groupwa.link/whatsapp-group-directory-find-category/",
+  "source": "groupwa.link",
+  "note": "Directory search page; widget is Cloudflare-challenged for POSTs via curl, may work in a live browser"
+ },
+ {
+  "url": "https://whtsgrouplink.com/travel-whatsapp-group-links/",
+  "source": "whtsgrouplink.com",
+  "note": "Travel listing page; Cloudflare 'One moment please' challenge on both curl attempts - retry later"
+ },
+ {
+  "url": "https://whtsgrouplink.com/category/country/",
+  "source": "whtsgrouplink.com",
+  "note": "Country category index (USA/UK/China/Dubai/South Africa pages so far; watch for SE Asia country pages)"
+ },
+ {
+  "url": "https://whtsgrouplink.com/all-groups/",
+  "source": "whtsgrouplink.com",
+  "note": "Hub page linking category pages; no invite codes in static HTML"
+ },
+ {
+  "url": "https://www.meetup.com/malaysia-drink-talk-meet-up/events/317031746/",
+  "source": "meetup.com",
+  "note": "Kuala Lumpur meetup event page; description text carries 2 chat.whatsapp.com codes (MY) - unmined"
+ },
+ {
+  "url": "https://www.meetup.com/manila-hangout-activities/events/knmpztyjcnbwb/",
+  "source": "meetup.com",
+  "note": "Manila hangout event page; description text carries a chat.whatsapp.com code (PH) - unmined"
+ },
+ {
+  "url": "https://whatzgrouplink.com/whatsapp-groups/",
+  "source": "whatzgrouplink.com",
+  "note": "Directory hub page on whatzgrouplink.com - unmined"
+ },
+ {
+  "url": "https://whatzgrouplink.com/foreign-whatsapp-group-link/",
+  "source": "whatzgrouplink.com",
+  "note": "Foreign groups listicle on whatzgrouplink.com - unmined"
+ },
+ {
+  "url": "https://www.britsconnect.com/brits-in-indonesia/",
+  "source": "britsconnect.com",
+  "note": "Indonesia country hub; its Bali subpage links to the same /go/indonesia/ group already banked"
+ },
+ {
+  "url": "https://www.britsconnect.com/brits-in-thailand/",
+  "source": "britsconnect.com",
+  "note": "Thailand country hub; its Bangkok subpage links to the same /go/thailand/ group already banked"
+ }
+]

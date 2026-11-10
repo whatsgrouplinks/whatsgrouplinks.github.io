@@ -1,0 +1,38 @@
+{
+ "team": 27,
+ "slice": "new dirs SE Asia",
+ "sources": [
+  "britsconnect.com (British expat/travel groups: /go/indonesia/, /go/thailand/)",
+  "groupwa.link (homepage International section; business + friends category cards checked, 0 SE Asia countries)",
+  "whatzgrouplink.com (Indonesia page, International page, homepage Foreign International section)",
+  "whtsgrouplink.com (International page)"
+ ],
+ "verified": 6,
+ "pending": 0,
+ "leads": 21,
+ "dead": 21,
+ "exclusions": [
+  {
+   "code": "LU09sZEHVbpKkpitNUFFlx",
+   "reason": "LIVE og:title 'GRUP BOKEP INDO' - bokep is Indonesian porn; hard adult-sexual drop"
+  },
+  {
+   "code": "E5UTxRT07rQ6vhpoaSoFjG",
+   "reason": "LIVE og:title 'OLYMP TRADE INTERNATIONAL' - Olymp Trade binary-options broker; binary-options/scam-adjacent drop"
+  },
+  {
+   "code": "IpumtP18jco90IgBajqgdV",
+   "reason": "LIVE og:title 'Youtag Business' - Youtag is an MLM/direct-selling scheme; MLM/scam-adjacent drop"
+  }
+ ],
+ "resume": "Mine groupwa.link category pages (jobs/education/gaming/news/islamic/sports/health/movies/cricket/online-earning) via wagd cards (country sits in card meta spans) - 10 cards per page, fetchable statically; the wagd_find admin-ajax country filter is Cloudflare-challenged for curl POSTs and needs a live browser or clearance. Retry whtsgrouplink.com travel page (CF-challenged twice). Mine the two Meetup.com SE Asia event pages banked as leads (Kuala Lumpur + Manila, codes visible in event text). whatzgrouplink.com Indonesia page is thin (17 items, mostly dead) - low priority.",
+ "notes": [
+  "Dedupe: pool 88 codes from 4 fresh directories; 58 already in the 108,364-code union, 30 fresh sent to verification.",
+  "Verification: curl with browser UA, max 3 parallel, 15s timeout, 3 spaced attempts. LIVE = HTTP 200 + non-empty og:title. Dead-invite signature confirmed on saved pages: empty og:title + default WhatsApp logo og:image.",
+  "Dead (21): all returned HTTP 200 with empty og:title on two spaced attempts; 6 of them also empty on a 3rd attempt. The other 15 hit transport errors (000, likely rate-limiting after ~90 WhatsApp fetches) on the 3rd attempt only, so they are counted dead on the two spaced 200+empty responses, not pending.",
+  "Pending is empty: every fresh code got a definitive HTTP 200 at least once; no transport-only code.",
+  "Avoided as instructed: groupizo, groupda, whatsappkanali, whatsgroupslinkspk, groupjoin.link, groupssor, grupbul, linkado, 77links, groupsinvite, tglinkhub, grouplinksforyou, groupsnest, wglfinder, freewagroup, walink.pk, whtspgrouplink.com. Also avoided: grouplinks.app (already mined wave 20261109 team08, 165 verified) and whtsagrouplinks.com (bot-blocked with 0 codes in wave 20261109). groupwa.link / whatzgrouplink.com / whtsgrouplink.com were only ever leads/partial mentions in earlier waves, never fully mined; groupwa.link /sex/ /sexy/ /xxx/ category pages were never visited.",
+  "Names are og:title values with stylised unicode normalised to plain letters; 'Britsconnect' brand stripped from the two britsconnect group names per the no-source-name rule. Descriptions are plain 1-2 sentence texts, no source names/links, no personal info.",
+  "Raw fetches and verification evidence kept in team27_raw/ (homepages, sitemaps, ajax attempts, verify_<code>.html); pool/dedupe/verification logs: team27_pool.json, team27_fresh.json, team27_verify_pass1.tsv, team27_verify_pass2.txt, team27_verify_pass3.txt."
+ ]
+}

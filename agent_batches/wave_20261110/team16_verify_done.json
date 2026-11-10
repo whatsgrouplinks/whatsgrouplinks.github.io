@@ -1,0 +1,127 @@
+{
+ "187582": {
+  "gid": "187582",
+  "verify": "EXCLUDED",
+  "og_title": "Xxx group",
+  "http": "200"
+ },
+ "315149": {
+  "gid": "315149",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "207356": {
+  "gid": "207356",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "856191": {
+  "gid": "856191",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "976715": {
+  "gid": "976715",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "792999": {
+  "gid": "792999",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "813979": {
+  "gid": "813979",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "444836": {
+  "gid": "444836",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "962515": {
+  "gid": "962515",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "380628": {
+  "gid": "380628",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "593435": {
+  "gid": "593435",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "197480": {
+  "gid": "197480",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "696815": {
+  "gid": "696815",
+  "verify": "DEAD",
+  "og_title": "",
+  "http": "200",
+  "reason": ""
+ },
+ "430588": {
+  "gid": "430588",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "377833": {
+  "gid": "377833",
+  "verify": "DEAD",
+  "og_title": "",
+  "http": "200",
+  "reason": ""
+ },
+ "791674": {
+  "gid": "791674",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "757428": {
+  "gid": "757428",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ },
+ "175618": {
+  "gid": "175618",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (curl error/timeout, no HTTP status)"
+ }
+}

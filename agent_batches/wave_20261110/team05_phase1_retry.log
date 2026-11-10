@@ -1,0 +1,16 @@
+input 184 already done 125
+todo 59
+fetched 20/59
+fetched 40/59
+pages 200: 176 of 184 raw code occurrences: 5018
+unique codes: 3853
+discovered new listing urls: 3395
+failed pages: 8
+('https://www.whtsagrouplinks.com/share-market-whatsapp-group-links', 403, 'HTTP 403')
+('https://www.imagesplatform.com/category/motivation', 0, "HTTPSConnectionPool(host='www.imagesplatform.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Un")
+('https://www.imagesplatform.com/whatsapp/country/pakistan', 500, 'HTTP 500')
+('https://www.imagesplatform.com/whatsapp/country/nigeria', 500, 'HTTP 500')
+('https://www.imagesplatform.com/group/country/Pakistan', 404, 'HTTP 404')
+('https://www.imagesplatform.com/group/country/Nigeria', 404, 'HTTP 404')
+('https://www.imagesplatform.com/group/country/Sri Lanka', 404, 'HTTP 404')
+('https://www.imagesplatform.com/group/country/', 0, "HTTPSConnectionPool(host='www.imagesplatform.com', port=443): Max retries exceeded with url: /group/country (Caused by P")

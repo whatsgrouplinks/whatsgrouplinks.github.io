@@ -1,0 +1,31 @@
+{
+ "team": 11,
+ "slice": "linkado sitemap 0-499",
+ "sources": [
+  "https://linkado.app/sitemap.xml"
+ ],
+ "verified": 30,
+ "pending": 6,
+ "leads": 0,
+ "dead": 82,
+ "exclusions": [
+  {
+   "code": "By63cTZEueZH9N65uiTwJV",
+   "reason": "adult-sexual signals: Grupo de WhatsApp RESENHA 24HRS🔞🔥 - Amizade"
+  },
+  {
+   "code": "BT5lEoVolBhIgEd3H4gkjU",
+   "reason": "adult-sexual signals: Grupo de WhatsApp Resenha masculina 😏🔞 - LGBT"
+  },
+  {
+   "code": "LhBkzM6ntB0Jvoq0oia9AR",
+   "reason": "screened on 'porn' substring in description ('Proibido pornografia' = porn forbidden, prohibition context); re-checked live: HTTP 200 but empty og:title twice = DEAD, nothing lost"
+  },
+  {
+   "code": "BXehOXa7FC5JXK1bKGir8A",
+   "reason": "screened on 'conteudo adulto' substring in description ('SEM CONTEUDO ADULTO' = no adult content, prohibition context); re-checked live: HTTP 200 but empty og:title twice = DEAD, nothing lost"
+  }
+ ],
+ "resume": "next index 500 / https://linkado.app/grupo/6ad06f226058553072e75536 / lastmod 2026-10-15T09:26:33.284Z (mined through index 499, https://linkado.app/grupo/6ad06bb86058553072e75535, 2026-10-15T09:26:33.284Z)",
+ "notes": "Mined 500 newest grupo pages from linkado sitemap (19,731 grupo URLs total; fetch failures: 3). Fresh candidates after dedupe vs 108,364-code union: 118. Live rate among fresh candidates: 30/118 (25%). Site is very slow from this VM (~15-20s/page; urllib hung under concurrency, curl with 3-5 workers worked; 5 workers + curl was ~3x faster than 3 workers). Categories re-mapped from linkado raw categories (comprar e venda->Buy Sell, dinheiro->Finance, trabalho->Jobs, figurinhas->Entertainment)."
+}

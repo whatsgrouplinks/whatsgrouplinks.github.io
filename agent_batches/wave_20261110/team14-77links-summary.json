@@ -1,0 +1,20 @@
+{
+  "team": 14,
+  "slice": "77links.com Karachi/Islamic",
+  "sources": [
+    "https://77links.com/karachi-whatsapp-group-links/",
+    "https://77links.com/islamic-whatsapp-group-links/"
+  ],
+  "verified": 8,
+  "pending": 26,
+  "leads": 15,
+  "dead": 24,
+  "exclusions": [
+    {
+      "code": "FCbiWsm1ckM4vhdLIzQ63X",
+      "reason": "og:title is 'گروپ ختم' (group ended) — live HTTP 200 but title signals the group has ended; dropped rather than banked"
+    }
+  ],
+  "resume": "Karachi page + Islamic page re-fetched 2026-11-10 ~12:00 PKT; 199 codes extracted, 140 already in existing set, 59 fresh verified. 26 pending codes need re-verification (transport failures); re-run team14_run.py checkpoint logic or re-curl the pending invites.",
+  "notes": "77links.com was UP (both target pages HTTP 200). Karachi page: 97 codes; Islamic page: 102 codes; 199 combined, 140 already in existing set (70%), 59 fresh. Of 59 fresh: 9 live by HTTP 200 + non-empty og:title, 24 dead (empty og:title after retries), 26 pending (curl 000 / no HTTP status after 2 spaced attempts — chat.whatsapp.com is very slow/unreliable from this VM, many 15s timeouts). Islamic page yielded 0 fresh codes at all (all 102 of its codes were already in the existing set); all 59 fresh codes came from the Karachi page. First verification run was lost to a runtime restart (/tmp cleared); re-ran with per-code checkpointing in the work dir (team14_verify_ckpt.jsonl). 'Trusted Zone' and 'Raja Money Earn Group' kept: no listed scam keywords in their og:titles. One live title contained a phone number (03341259587) — banked with sanitized name '2011 WhatsApp Group', number not stored in any field. Directory labels often mismatch the live og:title, so names were taken from og:title where usable, labels otherwise."
+}

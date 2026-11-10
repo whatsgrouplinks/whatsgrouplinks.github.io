@@ -1,0 +1,1137 @@
+{
+ "team": 6,
+ "slice": "leads slice 6",
+ "sources": [
+  "assengaonline.com",
+  "groupsnest.com",
+  "linktogroups.com",
+  "wagroupshub.com",
+  "www.groupjoin.link",
+  "www.grouplinksforyou.com",
+  "www.imagesplatform.com"
+ ],
+ "verified": 0,
+ "pending": 0,
+ "leads": 740,
+ "dead": 881,
+ "exclusions": [
+  {
+   "code": "CSXwwOaOfgHF8w5GlC8Y8Z",
+   "reason": "prescreen scam: name='Forsage Earning 💰'"
+  },
+  {
+   "code": "KZJUHCI4d8dLJpwSQWZuFO",
+   "reason": "prescreen adult: name='Video Call Girls'"
+  },
+  {
+   "code": "BmDWQPBsIgCFN1AvUoZzTq",
+   "reason": "prescreen adult: name='Friendship with Call Girl'"
+  },
+  {
+   "code": "JTj5Epj6whGBwWKtTJV5ed",
+   "reason": "prescreen adult: name='WhatsApp Call Girl'"
+  },
+  {
+   "code": "CJMAOBkq8fG2FjJdtWzCzY",
+   "reason": "prescreen adult: name='Call Girl Friendship'"
+  },
+  {
+   "code": "J1bwud7sgIp7z9IJUKJ3ci",
+   "reason": "prescreen adult: name='Pakistan Call Girl 2026'"
+  },
+  {
+   "code": "IoSggcQwI3eI9TC1v9uMPT",
+   "reason": "prescreen adult: name='New WhatsApp Call Girl'"
+  },
+  {
+   "code": "E3qBbH8azYQ1fiQwWpDnNh",
+   "reason": "prescreen adult: name='Video Call Girls 😘'"
+  },
+  {
+   "code": "BFnLYJWaUMWFc3Coi8pdpZ",
+   "reason": "prescreen adult: name='Call Girl In Pakistan'"
+  },
+  {
+   "code": "Hku2FX9e1O22Bgb4iJZIWj",
+   "reason": "prescreen scam: name='Forsage Busd Earning'"
+  },
+  {
+   "code": "EOk3eTpU9J709veFoppipV",
+   "reason": "prescreen scam: name='Forsage BUSD Online'"
+  },
+  {
+   "code": "BqXLAeaPFpKISfqcJbZGhM",
+   "reason": "prescreen scam: name='Pubg Carding Uc 💯 Trusted'"
+  },
+  {
+   "code": "HWn0UVbUsL0Dca0M16CXZA",
+   "reason": "prescreen adult: name=\"Nadeem's Adult Group\""
+  },
+  {
+   "code": "JaEKW4pwR8G9WfxaDTkNYe",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "K3tiBzb181BCTmi3sJvCAy",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KCxfYVfL4mN4hhwdipF82M",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CEKL9axfaauBg07baOxkWi",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IcmGFAzG5tlLQPOszKZXKo",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KtJ2o1HoedrBvHwxIusbQ1",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CWnZyN2UUPn4EDt8QItyUs",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DlmCzUnjl6q4oUByJxAJ7z",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Hp9SdzGGE5DLarxOjIu3qJ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DChMtCY9QGWFZ5cUuIZNZA",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "JktNYzgTAFtHW7NH5BH739",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EhsFkzmcD8NDd0TlfJtZkr",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IcTGkDgeZTlIDmMKJIpRZB",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IWOpoUfa9CJ0UHOs46PMpH",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HEYVf77wsUE9RtYkXZDPC5",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Dz8ekJLqmdxImJdmrfatXL",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GeSohhhglIN3ZA4WsL4Dho",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KaULYMdszH86naH5q7gtGL",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Hp8b03UeJOnBZKmkfjOe55",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HAhzoiiXDfzL5eed0EVAwx",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "D9S7hgzzJkaBaWDNJfaptW",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DwWvVBG33BEA2dio0f5Hsw",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HYxIXc2kv6CJG7TW5CrHSn",
+   "reason": "prescreen scam: name='SHEYI LEGIT ONLINE UPDATE 🤑💸💥'"
+  },
+  {
+   "code": "IV5DGc1a1Ce7ybReDpIWGS",
+   "reason": "prescreen adult: name='Sex'"
+  },
+  {
+   "code": "GFhwuP8Z4IX8xIC4qKDyYL",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EfNskUm0IT0BtVekL0P4Ro",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "ICc2LriYiF62yAfooYZDLB",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IcV7mJlJ3YdGfdf2YugGsz",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "J5Vecm703im6tigxT4eZsX",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "F8HXCivY19WKFEJHXmbEFS",
+   "reason": "prescreen adult: name='Masuk Sini💦🥵'"
+  },
+  {
+   "code": "L1LP5HDIiBfKAUdZZwVMkI",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DTtQvr0M0uk6HnPxRNwlcz",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GwH022l0OEJJynMHiTcdq9",
+   "reason": "prescreen adult: name='bokep viral indo 18+💦💦'"
+  },
+  {
+   "code": "L3Jskh68ARoHtRt9PTCEib",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "J6XebZwIYoe5jLJDiE1xu5",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IefggWfsGkQ5QBRkRGlg6N",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IVAhf2YFgEuDyef0ujJ5yA",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CMKnSvlCBXJJAmNyNw4uDE",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GJmiVXfaln644TrNr1pzhh",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "FKTVRfSgB9sEctgaZg52pM",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KEcY0kZSfCa71idZuBWz80",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IA6lWijPrrQ7dzG0uxmXTZ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KHZcob7aIc2CJGVqQfHBWo",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EmCn1pKnd55G3Ijb5jOp6W",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BlhZutYXbIi1Jtg9s0ywHM",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HcjuJ3Tz51wK9cy6CAtSOf",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "L22XxsyUDwMC6hltlM9Snm",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Eq0NlMbG6zFGUri5ayLd1o",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DCT8v2PbSWUKN6CcsMQyT9",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KwBd0VcCsjJJzjOntLRRcP",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LNoZphsgHH89icj5CS5F1R",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DwpFZl7wKbi6y1dvGrHaf5",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HnDM3z8XqsW6pxS9nb8kzd",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LEkv7KYeZv0JB30jrvYE0d",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HovsWbP38Zr9jKEnvl4gq9",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GZqrH4UH9m6CRTR6dBv9ZT",
+   "reason": "prescreen adult: name='All sexual'"
+  },
+  {
+   "code": "J1v78dTKkdC1HGsMUoGfsd",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Lrr8qPhf4gSCptGomckjfy",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CjWYtkcQWruA9yiZqYpgpW",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Ck29XJng8LX4BIKjey6bcs",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Cv1xpomThgwChzomjrLRWR",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Bnw9bBH2aSz7Jjh4VRujAf",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GV76AAhULnc1BOjMf6MZae",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EbbEvxwDvl30Lu6wVEFHd9",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LlJqJiTuyoB49148iQDsBJ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DPd61tG8kOmG9VZAwKaU9J",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IhPnuzWVgUsLsaTsUNifkJ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EP2daahji3SHeGkqZtbYhY",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CaUkzsb1Bch1ECrXcVRYaX",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Lc70uW6q6rrK40kfObeqkc",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BddtyUEkhDwB0Vi4vD77W8",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CQtcrdGi5dr266y1w3LnO2",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BtJiB0yk2aO84Vq9HeXRpH",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EtnLsliOPri7UZ0IEB4zhJ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GVBCVRZlGksCvrHqgnR3hy",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EhSIRuISR0XLhqKpMDBb74",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "FBdE2Guc33p5Vj3u44qAhY",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KOicVjd1EAr1wbAa9JKdtH",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DOODYrIFjbW2aWtklvBR9s",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KkKEjnr6SWuKEMIqPLSfCD",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IgG8eShTuqD0PY2FkntAII",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HY69Y4s2GX7LSMHVEau1w0",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Ba6RjZgo7nRHDSRci6fyld",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LtmnKETlsoDHLdqI9uEPG2",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Jo5zT4FcHie7OD8xenIbVH",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Coj0We658zZ8hIRm64GnI6",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "B4k8OmMSr1461JCWqrwmm7",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EG82JKV7JDmDiubUOcQ5JH",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "H8diVtMTNXdKUr6O1iZMpf",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "FrZCFjas0DvIXowHAe7kAL",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Iy3yfmXRDAF0lRYDR5RJFv",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "FaxRkFSK2mkHeVHsRT0JV5",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "D914yMtMMzH57FwW1wPK9E",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LeoF5qFw9BZ6KxMHWhc0SU",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KR2vxGQ2cY0FmUvkkErmdm",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Gj69WFWPGQK5ptXtsKQPaS",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "JNDHRtXjSE12rcyWrIGSdc",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "ClwarL0xQaaF4pjpqdduKp",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KGICV1c3N0k28LSbTOTVuO",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KffndyWN0gBIG4rpTo54SY",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "C1yc1isqSooDIGdBRu8ehZ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Bj319nOCA9a74AItfAKv57",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EqOiUMEmZcy4bJx0Ul2ALc",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DV5RFpztr1g6t4EeMpIdpJ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "G0PHph9N8bN7qeHLLm7WU9",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "B7Igo7tJSzK461GqDxTJAg",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Ltla26NNd5u3ugaOBPsQQ7",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Hd4QFAbRP0KHyadTivP57y",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GGSWDIe97XtB17hOeWojis",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CJGGTGGPm1GHB9U5X8ZlRV",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Con6qRhvinR4Rtm3VfJS2W",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GUJvc3j3hnQDdBBjY6bktm",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IJ5kQM2Af5dEMP7lTS6GJ1",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "B6w8e8KCmyjE2CWgu1dvCH",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KRPSBm0ZQJf1NMsTqJc8nZ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IwXRA1CNwRI9TtM5kkonSi",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "ICuozzVXy566VoeOfDIi7e",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KVRx05BP4M87WkZyO8KFWI",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GIjBJ71tA2k9V6n7rYohgb",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BWIAN5jCmTX2BTzRo4qf3Q",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CuCbEbCK4IH6bImQ9BlQho",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Dqo1dmUBpYh6ZMfZlDHv42",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "JfG2ybdi7AY1Q0c8cSBqlT",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Hyl14wzdHo3DZ4Q7GHndvA",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CNgvulN67tm8yVW5ZX1qkq",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Kucs1YzkztO5t9Ac7fKJm7",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BAObTz3D4yOKDUY4fN7zb2",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Lf2OlgRYwiKFj8mREyeg6j",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "G7Gm0wEmRwVCKgvdbpATmC",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "ExzJwT24p073OJvdQr5m9y",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LUCuB6tMYqqHaFkw0NeT0D",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GUQ5sh1QTy8AoiYg8v0nT8",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LkyWMQR6nvMJ87YRB2QHvi",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BsorGtR1TOmHVTOMX2ZYXP",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CuezcbwqMwWL3M8qYc73wi",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DfU0vPO2J9tCIBI1RYp11X",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CSltLpOnNLbBEBMXBUYSUa",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "J5nkdOTR8PR7jO1DRzuvYh",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KuiurZ4YqBEE8Yc3DPd2wF",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "I9g0wWBfLpU6FaxorAvm8O",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IOa7rnNWcua3SxhafsW4SX",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EGs50ir251ZJf9uJNTXrzb",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BibeClCgSIa1bDFe6OSko5",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KcqVjbBGzLP7vdmLuBC9LF",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "I4lu6LDU29g15O9R2tzoxy",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "JaseiOxXKsUDa3SxaN5h1Q",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KwsS3Mt7w7B3YmRfl41aqf",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GlHcYcufwWW82b7TZ41Ij4",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LDhRqCY9LNbBBy62QZtf1f",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BTZnB22bFG89K72Wa7mQTp",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "C1WOninjb2p2dEd8lyEJ4G",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CzH6lUllRa7BIpffSTTRCi",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "G03WiWH1jSS0I9maxq8yJm",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Iig3O98ZhhvFxhOaXHMiBC",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KMekEV8qjSjJpXe9UI7w7X",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BUdamggBmhbCv4L9XpGpZf",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BPlHsLHzgrvL4zH0iBctSX",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "K3b4QkQbDrLD6v7SLf5Kv1",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "JYj8L95JYbg0y3gm0TvSgg",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GOb90x81i08LC3kBSbCkQJ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "L2eWkWNOlFML2E9DawSVOh",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Hlldmr8SsqZBUCPSWNrTmP",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "G54HgBV1nXy5BupSxZ8Q9v",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "J8JOnhj59RT9rEBUb4KAKq",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BQ9ZADzziCzB07AP4UPnrh",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "I57M31OWO4JCnvSO8avmxa",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KkeJXESUv9tC7K4kTBwI7p",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CS1ghL9HkRc8An7KghuHIA",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "FqRQwvsw80d36ARRQb7rV3",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GjkEKFM1E4L117evlpemfb",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DGGbNUmw6OW7V5CByPmhok",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IA5kmJKgUwj6ABoQcunjZu",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Ii3TdSulLeCLlJCkiX26h9",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GK2lKAJJbMtJnXhXoqUPiq",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EPKNHYLITydIvgCgaTzT3a",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "COeLIcW1HikDpQbXvZfKe4",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KtE2tP6xz0aGa3mmf9w9oU",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LkSCtlxV9OiDSf6ayI9HkM",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "G800CtBllVr8aA4DArp0fT",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HKfGPm74hi81SrUhAaqt6q",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GB0A4GbG1MtGAwrCAsswRh",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LYY0K3Et3Vk8XTsUPzSAAg",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HFatIAfr1k3Gc0ejOLNwXG",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "G500G9Vwoed1vAjRhhVAPi",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "FV0tADp9cco2TMK9eGCndf",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HDe9u1xfKaYBCtNfjc03TC",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CVKvo8Sh3oeCvHP55ld2jO",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KIrzV3eaqZO9xqPeEOxWQS",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IaCbfrauQVK63W6Cp61thw",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EIwFwc1IrJP6gtLi19QPlI",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DSNvOfySEjd78nHD4K4lMo",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Jt5bLBej6260KHJi8myGff",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CgOHwKovWfsH2uXOZs2g5j",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LWdqAvezED77WR26GK5uUu",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Hm60ERpxIwnJNpdL2phYnZ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DHQD7msl4UKGOqaXjsMoix",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "I2hZnDB3C4pHfIjZ0wmkL6",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "FsSTAr4p6rDH6ozAyQDveE",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "F1axOrHskRO4FOU3RkqhBO",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KKBwxEhERtq5X0G7zpMJQB",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Lc7XIBhIdjRA4ze65usicG",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GgbwNOwA56QGg7NrZPN8To",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DTxKghoi9zh6U4qYooDH4R",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LofqKeDlbT4A6axba5rEsU",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KXFUAgRligdIP9OxJNQsP6",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BECNzjnUxzu8z9U0Pkcqhw",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "K9yMwMSm0PKIKFNUhrngWO",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "L66Sj5m1l7vDurXoabO9R5",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HNjSNKHAepJBVGNaiEWNLl",
+   "reason": "prescreen adult: name='Dating sex🍆💦'"
+  },
+  {
+   "code": "ErAPwqk4jgN7kU5iuWlyMR",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IDdEJf78cr3FiDlmhNYFQg",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DkdXLS0qhm76f5KV781cc9",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BUFQrE1FRksK6rHXndtWZT",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HcsYICimAJSGsgLiFkAG2D",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HkGUiToRjzv21Fv28ipBhu",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EysZKPZzRAt3n79wjeNzQo",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DQZoWvVsAN4AwNZh1wWSTE",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "ElNLpP90OhvLCtsE7c7BOS",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Fbdjv7ay1KL3WpZwbxzZPp",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HsWjUXZtClICtYKxdbJ1ZZ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IwrxBC0Uhp4J0LBxCKuXgI",
+   "reason": "prescreen adult: name='Desi Aunty 🥵'"
+  },
+  {
+   "code": "DUe8tD5K7yP7sTtYDyHKTq",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Be2C6VEDcBf92nj6UjtJTt",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IprbqcECJBh2pRq2IvLZPK",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DtA3wZdILIbIJlWCbBIkcN",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "ICbEsb4B1UKCayIs8eQXYP",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "GaJLgGpPqKBFaIqv2N3kSE",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EJxdLTaUyrh1seEwaoxnIy",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "C1Yr0lJYi0V6nysCh8rNzL",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KiYmcBsUkWc8CLZ0e4E9bA",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "EZBS0whZdrDKOK1DziCDv1",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "BSl4cEzjTEg56tPtlOipfP",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "FsSKwTU56SEC0TmBoheBle",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LIMzUKqiUYgFZU8bMM0vG0",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LHHN7P9gNTY9SZrENgIWsQ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "CyAVOWmhxqW2EHHO69XzFI",
+   "reason": "prescreen adult: name='SEXUAL HOME'"
+  },
+  {
+   "code": "DdIoYF4CvseKD5mqyNILy1",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LPHqCLKJ6EGFQhvM9HiBr2",
+   "reason": "prescreen adult: name='SEX 18+👄'"
+  },
+  {
+   "code": "FtoaY12jD4v5x9fD4DgvEm",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HCRPxccZYtt266yMOJPWKq",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "JPmz0xp3FptCtrAZPM4ojW",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LcDQJzviN6d0csOh8DUDxQ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "FuO1a7EuSek5AhYYlgKQvY",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "C2onFOagrmYJ4BPbIkVDs7",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "C3dWqpX1WtYAWivahbQ7J6",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "H5tNx59KyII9GGGAFfEVo6",
+   "reason": "prescreen adult: name='🔞🔥Onlyfans Mega Folder🍯🍑'"
+  },
+  {
+   "code": "F8UvbrD2v4M3dBR8UfYgn9",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "IOJiCOtykQCICwMxSQuO2F",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Irci0e74i7FGOzER26Pr9P",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "K828S8VwNg8IQ6IkfvfkrE",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DlDU86zF7Gu5RDPQLZEOZ0",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Ia3OCAmQd4hEIvh5KUYDyr",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "LdLP4xLyrwfHZlUsxoMJHa",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HQ2t9twuiS2BMMry4q3HV8",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HMueBWeCa1j7C5ovxKRNar",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "DNaTcGwrMLEA7aq4t897OJ",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "KDEpz9nm6Q17AJgtoye9qK",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "Cg29ragjR9q9A9t3xtqnIF",
+   "reason": "adult-category page (groupjoin.link Adult) — never verified"
+  },
+  {
+   "code": "HXRPbHOJTmNJe5FuUylsCI",
+   "reason": "post-verify adult screen: name='Xxx' og:title='Xxx'"
+  },
+  {
+   "code": "HAynLaKWkwY10EgDoJ1c0K",
+   "reason": "post-verify adult screen: name='VIRAL LEAK AND SCANDALS' og:title='VIRAL LEAK AND SCANDALS'"
+  },
+  {
+   "code": "Dq6czYj8T1zC2gbGBkQ2gI",
+   "reason": "post-verify scam screen: name='B love newtowrk official group free earning' og:title='B love newtowrk official group free earning'"
+  },
+  {
+   "code": "7slBcjrlnve8qQmxFRCm05",
+   "reason": "post-verify scam screen: name='Forsage 3 work' og:title='Forsage 3 work'"
+  },
+  {
+   "code": "HfosCq4TlFG9MYWd8ogCcq",
+   "reason": "post-verify scam screen: name='❤Forsage❤' og:title='❤Forsage❤'"
+  },
+  {
+   "code": "EBHgQTRHEAOEgvKITKraPI",
+   "reason": "post-verify scam screen: name='🇵🇰forsage🐅team👨\\u200d👩\\u200d👧\\u200d👧with🇵🇰kiran' og:title='🇵🇰forsage🐅team👨\\u200d👩\\u200d👧\\u200d👧with🇵🇰kiran'"
+  },
+  {
+   "code": "BnIA3t3AQ5vJvvYZ0vbjQ0",
+   "reason": "post-verify scam screen: name='FORSAGE ONLINE BUSINESS' og:title='FORSAGE ONLINE BUSINESS'"
+  },
+  {
+   "code": "CGYxyMIRGRBCXhWisRJQAf",
+   "reason": "post-verify adult screen: name='kya митро SAAT🥺uwu🍆 BOLO ben quadinaros' og:title='kya митро SAAT🥺uwu🍆 BOLO ben quadinaros'"
+  }
+ ],
+ "resume": "Wave 20261110 slice 6 complete. Re-fetched all 184 wave_20261109 slice-6 listing pages; fresh codes = extracted minus 108,365-code union (.existing_codes.json + groups.json invites). Verified live via curl og:title. Next wave: re-fetch team06-leads-slice6-leads.json discovered listing URLs plus the same 184 slice pages for newly added groups.",
+ "notes": "Fetched 184 listing pages; extracted 3891 unique invite codes; fresh vs union: 889 candidates verified (live 8, dead 881 empty og:title after retries, pending 0 transport-only). Post-verify screening dropped 8 live items; prescreen dropped 271. Verified file holds 0 clean items. Category/country inherited from listing page; descriptions are plain generic lines with no source name/link and no personal info. Verification: curl browser UA, max 3 parallel, >=0.5s start spacing, 15s timeout; LIVE = HTTP 200 + non-empty og:title."
+}

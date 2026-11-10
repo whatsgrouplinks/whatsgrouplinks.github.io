@@ -1,0 +1,10 @@
+fresh=101 pre-excluded=9 to_verify=92
+... pass1 20/92 live-so-far=0
+... pass1 40/92 live-so-far=0
+... pass1 60/92 live-so-far=0
+... pass1 80/92 live-so-far=0
+retry round 1: 92 ambiguous, sleeping 30s
+retry round 2: 92 ambiguous, sleeping 60s
+verify done: live=0 dead-empty=92 transport-pending=0 total=92
+candidates: 0
+excluded: 9 pending: 0 dead: 92 leads: 584

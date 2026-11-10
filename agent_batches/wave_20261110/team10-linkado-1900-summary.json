@@ -1,0 +1,27 @@
+{
+  "team": 10,
+  "slice": "linkado sitemap 1900-2299",
+  "sources": [
+    "https://linkado.app/sitemap.xml (fetched 2026-11-10; 19,731 grupo URLs, sitemap order = lastmod desc)"
+  ],
+  "verified": 73,
+  "pending": 3,
+  "leads": 0,
+  "dead": 200,
+  "exclusions": [
+    {
+      "code": "J2cu0DyT1MkEXYmmSBUz4n",
+      "reason": "fake-CNH/medical-certificate + personal-data lookup facilitation (document fraud) — also dead on verification"
+    },
+    {
+      "code": "F0NcRwWSith9choaG3IHMk",
+      "reason": "selling driver licences without exam (document fraud) — also dead on verification"
+    },
+    {
+      "code": "JB6X1Wvm0GEFDIRdw2Fwqc",
+      "reason": "selling Uber/99 driver accounts with facial verification under buyer name (identity-fraud facilitation)"
+    }
+  ],
+  "resume": "next index 2300, https://linkado.app/grupo/69f39fa8d5fd7c2a1e6a510a, lastmod 2026-05-01T10:43:58.720Z (last mined: index 2299, https://linkado.app/grupo/69f47aa7d5fd7c2a1e6a511c, lastmod 2026-05-01T10:44:06.858Z)",
+  "notes": "Mined 400/400 grupo detail pages (indices 1900-2299). Join links: 370 chat.whatsapp.com, 28 Telegram-only (no WhatsApp invite, not bankable), 1 whatsapp.com/channel (dropped, channel not group), 1 page with no join link. Of 370 WA codes, 93 already in the 108,366-code union, leaving 277 fresh candidates. Verification via curl with browser UA (HTTP 200 + non-empty og:title = live; empty og:title after 2 spaced retries = dead; transport failure = pending): 74 live, 200 dead, 3 pending. One live code dropped as identity-fraud facilitation (Uber/99 account sales with facial verification), leaving 73 verified. Dead rate is high (72%) because these are Jun 2026 listings whose invite links have mostly been revoked/expired; og:title calibration was confirmed with a known-fresh code (listed 2026-11-10, og:title = live group name) and a fabricated code (empty og:title). Names banked are the live WhatsApp group names from og:title (H1 name used when og:title was truncated or contained replacement chars). All 73 verified are Brazilian (country BR); categories: Buy Sell 36, Finance 18, Community & Social 19. Resume URL https://linkado.app/grupo/6a26da1fb49c0e4672104c0b from the brief sits at index 1927 in today's sitemap (sitemap shifted since the brief was written); slice mined as specified, indices 1900-2299 inclusive. One mid-run service restart wiped /tmp; all intermediates were re-fetched into the wave dir scratch/ afterwards. No merge into groups.json, no generate.py, no deploy (per brief)."
+}

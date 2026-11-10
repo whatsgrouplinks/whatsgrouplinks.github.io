@@ -1,0 +1,86 @@
+# WhatsGroupLinks wave 20261110 — coordinator manifest (REPAIR RUN)
+# Run: Tue 2026-11-10. The wave coordinator spawned 32 teams but its final
+# consolidated outputs (manifest.txt, wave_20261110_clean.json, *_pending.json,
+# *_leads_all.json, *_summary.md) were MISSING at resolution. This repair run
+# consolidated the per-team final files directly (coordinator_build_clean_20261110.py).
+# groups.json baseline: 72,742 groups.
+# Dedupe union: 108,364 codes (.existing_codes.json; groups.json codes are a subset).
+# Coordinator validation: 0 schema errors, 0 union leaks.
+# Parent-verify spot re-check: 35/35 sampled clean codes confirmed live
+# (sequential curl, browser UA, non-empty og:title) + controls OK
+# (known-live groups.json code live, fabricated code dead) — see parent_verify_state_20261110.json.
+# One og:title scam dropped (HOLIVERSE/meta-whale, banked as "Top 10 Cryptocurrency").
+# One false-positive restored (Cook & bake, 🍆 emoji in food context).
+#
+# TOTALS
+#   raw team items:                    646
+#   cross-team dups (first-team-wins):  14
+#   union leaks:                         0
+#   schema errors:                       0
+#   screen-excluded (coordinator):       3  (crypto-airdrop scam signals, team18)
+#   parent-verify og:title drop:         1  (HOLIVERSE/meta-whale scam, team18)
+#   false-positive restored:             1  (Cook & bake, team04)
+#   verified unique (clean file):      628  (wave_20261110_clean.json)
+#   merged into groups.json:           628  (72,742 -> 73,370)
+#   pending (transport failures):      397  (wave_20261110_pending_all.json; 309 team09 recheck + 88 others)
+#   leads (unique listing URLs):    28,822  (wave_20261110_leads_all.json)
+#   excluded (coordinator screen):       4  (wave_20261110_excluded.json)
+#   deploy commit: TBD
+#
+# PER-TEAM TABLE: team | slice | verified raw | kept in clean* | pending | leads
+#   01 | leads slice 1                |   11 |   11 |  0 | 20601
+#   02 | leads slice 2                |    0 |    0 |  0 | 224
+#   03 | leads slice 3                |    0 |    0 |  0 | 584
+#   04 | leads slice 4                |    1 |    1 |  0 | 448
+#   05 | leads slice 5                |   15 |   15 |  0 | 3335
+#   06 | leads slice 6                |    0 |    0 |  0 | 740
+#   07 | leads slice 7                |    2 |    2 | 12 | 1332
+#   08 | leads slice 8                |   22 |   22 |  0 | 1403
+#   09 | pending recheck              |    0 |    0 | 309 | 0
+#   10 | linkado sitemap 1900-2299    |   73 |   73 |  3 | 0
+#   11 | linkado sitemap 0-499        |   30 |   19 |  6 | 0
+#   12 | linkado sitemap 500-999      |    3 |    3 |  0 | 0
+#   13 | groupjoin new                |    0 |    0 |  0 | 2
+#   14 | 77links                      |    8 |    8 | 26 | 15
+#   15 | tugrupo                      |    0 |    0 |  0 | 2
+#   16 | grupbul                      |    0 |    0 |  4 | 7
+#   17 | groupssor                    |    2 |    0 |  0 | 0
+#   18 | grouplinksforyou             |    8 |    4 |  0 | 98
+#   19 | groupsnest                   |    0 |    0 |  0 | 0
+#   20 | wglfinder                    |   23 |   23 |  7 | 0
+#   21 | freewagroup                  |    0 |    0 |  0 | 38
+#   22 | walink                       |    0 |    0 |  3 | 12
+#   23 | groupsinvite                 |    4 |    4 |  0 | 61
+#   24 | whtspgrouplink               |   24 |   23 | 14 | 473
+#   25 | new dirs South Asia          |    8 |    8 |  0 | 38
+#   26 | new dirs Africa/Mideast      |   38 |   38 |  7 | 39
+#   27 | new dirs SE Asia             |    6 |    6 |  0 | 0
+#   28 | new dirs LatAm/Gulf          |   15 |   15 |  0 | 0
+#   29 | listicles edu/jobs           |    1 |    1 |  0 | 1
+#   30 | listicles mixed              |    3 |    3 |  0 | 0
+#   31 | gated leads                  |    0 |    0 |  0 | 19
+#   32 | tglinkhub + igrupos          |  349 |  349 |  6 | 14
+#   * kept-in-clean counts are after cross-team first-team-wins dedupe (team-number
+#     order), coordinator screening, and the parent-verify og:title drop.
+#     team11 lost 11 to team01 (linkado codes also in leads slice 1);
+#     team17 lost 2 to team07; team24 lost 1 to team05.
+#     team18 lost 3 to the airdrop screen + 1 to the parent-verify HOLIVERSE drop.
+#     team04's 1 (Cook & bake) was restored after a false-positive 🍆 screen drop.
+#
+# PARENT-VERIFY (35 clean-spot codes + 2 controls — parent_verify_state_20261110.json):
+#   35/35 live (og:title non-empty). Control-live OK, control-fake dead.
+#   1 live code dropped on og:title: BTsLR5yTI0S2C32WPPtQ0R "HOLIVERSE(meta-whale)"
+#   (banked name "Top 10 Cryptocurrency" hid the scheme name).
+#   1 🍑 flag kept: C7qoeM3LXr3JzLGzGk49Yx "PROJETO GLÚTEOS PERFEITOS" — fitness/glute
+#   training group, emoji in fitness context, not adult content.
+#   Residual risk noted: og:title-vs-banked-name mismatches can only be caught by
+#   sampling; ~3% of the sample (1/35) hid a scam name. Full re-verification of
+#   all 628 was not feasible at ~10s/check from this VM.
+#
+# DEPLOY
+#   generate.py: 73,370 group pages written, 0 orphans removed.
+#   Sitemaps: 73,370 group URLs (sitemap-groups-1.xml + sitemap-groups-2.xml).
+#   Changeset: deploy_changes_20261110.json (build -> wgl-deploy blob-SHA diff;
+#   wave subdirs excluded per wave-20261109 convention).
+#   Deploy gate: TBD (groups/*.html count match, sitemap count match, git push,
+#   live curl-check sample).

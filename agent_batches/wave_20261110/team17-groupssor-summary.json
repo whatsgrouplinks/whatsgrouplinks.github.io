@@ -1,0 +1,27 @@
+{
+  "team": 17,
+  "slice": "groupssor API latest-500",
+  "sources": [
+    "https://groupssor-api.blog-99n.workers.dev/api/groups"
+  ],
+  "verified": 2,
+  "pending": 0,
+  "leads": 0,
+  "dead": 0,
+  "exclusions": [
+    {
+      "code": "0029VbEBsNTBVJl6IADhL12H",
+      "reason": "WhatsApp channel (whatsapp.com/channel/*), not a group — 'Muse Ai', created 2026-11-09T18:12:46Z"
+    },
+    {
+      "code": "",
+      "reason": "Telegram platform, not WhatsApp — t.me/+GGeGTdxRnHo3NjVl, created 2026-11-09T15:18:06Z"
+    },
+    {
+      "code": "",
+      "reason": "Telegram platform, not WhatsApp — 'Bangali Aunty Sex' t.me link, created 2026-09-01 (also adult-named, would be dropped anyway; outside cutoff)"
+    }
+  ],
+  "resume": "Next poll: only entries with createdAt newer than 2026-11-09T20:49:03Z (newest entry this run, LEGEND STORE). API returns a fixed latest-500; this run's window was 2026-11-08T19:28:51Z to 2026-11-09T20:49:03Z.",
+  "notes": "API returned 500 entries (newest 2026-11-09T20:49:03Z, oldest 2026-09-01T13:28:36Z); only 5 entries were newer than the Nov 8 cutoff (2 verified fresh, 1 channel, 2 Telegram). Dedupe union measured 108,364 codes (groups.json's 72,742 codes are all contained in .existing_codes.json's 108,364; task brief said 108,365 — 1-code difference, no impact). Both verified codes returned HTTP 200 with non-empty og:title matching the directory name on first attempt (no retries needed). No new listing-page URLs discovered (API-only slice). No transport failures, no dead codes, no scam/adult items among the fresh WhatsApp candidates."
+}

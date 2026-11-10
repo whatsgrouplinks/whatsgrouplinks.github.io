@@ -1,0 +1,187 @@
+{
+  "team": 25,
+  "slice": "new dirs South Asia",
+  "sources": [
+    "https://whatslinky.com/",
+    "https://pkwhatsgrouplinks.com/",
+    "https://www.whtsagroupslinks.com/ (attempted, blocked)",
+    "https://wagroups.link/ (attempted, toxic — dropped)",
+    "https://zoneofwagroup.com/ (attempted, unreachable)"
+  ],
+  "verified": 8,
+  "pending": 0,
+  "leads": 38,
+  "dead": 220,
+  "exclusions": [
+    {
+      "code": "CX63FZiqaIhDYAD6hOmqEu",
+      "reason": "out of slice: USA Girls WhatsApp Groups Links country US"
+    },
+    {
+      "code": "3mznPre7FyOKLB6kFALzGV",
+      "reason": "out of slice: USA Girls WhatsApp Groups Links country US"
+    },
+    {
+      "code": "GTomKaOIgpzHUaOEP0oiCx",
+      "reason": "out of slice: UK Girls WhatsApp Group Links country GB"
+    },
+    {
+      "code": "KzUYdxOYNn46pZDqwUxphi",
+      "reason": "hacking/illicit name: 'FB Hacks'"
+    },
+    {
+      "code": "CAniJpQaTha1acSa9GYYeu",
+      "reason": "hacking/illicit name: 'Fiverr Hacks'"
+    },
+    {
+      "code": "Bkn24cRltcgKjpGimDMUtg",
+      "reason": "vulgar/slur in name: 'Wassup nigga🦠'"
+    },
+    {
+      "code": "Kz0uqn9LzVh74TGpTyunKy",
+      "reason": "adult-sexual signal in name/section: 'Only For 18+…. 🥰' [Boys WhatsApp Group Links]"
+    },
+    {
+      "code": "JDg6qX1QyOKLaErINXhaho",
+      "reason": "vulgar/slur in name: 'Trading with gOLd fuckers💸💸'"
+    },
+    {
+      "code": "BkQ8egPqq4Y7y7aN3zZkVp",
+      "reason": "out of slice: UK WhatsApp Group Links country GB"
+    },
+    {
+      "code": "2GtkgORuZq7EQZbTN3Qw7F",
+      "reason": "out of slice: Canada WhatsApp Group Links country CA"
+    },
+    {
+      "code": "AlxnYzVWULw0zlAFaK5DBD",
+      "reason": "out of slice: Brazil WhatsApp Group Link country BR"
+    },
+    {
+      "code": "Fu6OMP7P7a11MSw8uNgBLK",
+      "reason": "out of slice: Brazil WhatsApp Group Link country BR"
+    },
+    {
+      "code": "BixWgiRPzDHLmqyNJ4tHur",
+      "reason": "out of slice: Indonesia WhatsApp Group Links country ID"
+    },
+    {
+      "code": "K7N4cPcJd5NKe1gCwCAk3g",
+      "reason": "out of slice: Indonesia WhatsApp Group Links country ID"
+    },
+    {
+      "code": "LZ1xyAKo3DI5KJvz5UG4M8",
+      "reason": "out of slice: Indonesia WhatsApp Group Links country ID"
+    },
+    {
+      "code": "06haxsymFyv3CeRBSCPvcc",
+      "reason": "out of slice: Indonesia WhatsApp Group Links country ID"
+    },
+    {
+      "code": "KT6WhEF9f0i0ctD9DooXwe",
+      "reason": "ambiguous adult (collection girls) — dropped per unsure rule"
+    },
+    {
+      "code": "LaI18TPuAITBgCA2YHJo5b",
+      "reason": "ambiguous adult (Girlzz gallery) — dropped per unsure rule"
+    },
+    {
+      "code": "EHLIdDiWLxSJUw0XyaiImx",
+      "reason": "adult-section label (Tamil Item) — dropped per unsure rule"
+    },
+    {
+      "code": "5Zty3qdNLnb9Jk7u0yKrXz",
+      "reason": "adult-section label (Tamil Item) — dropped per unsure rule"
+    },
+    {
+      "code": "L3McQ5aVitG08oBNXzsOfl",
+      "reason": "adult-section label (Tamil Item) — dropped per unsure rule"
+    },
+    {
+      "code": "KgP5o2UC2uB7vOvk0nrALz",
+      "reason": "adult-section label (Tamil Item) — dropped per unsure rule"
+    },
+    {
+      "code": "DE65h4EudU56OTrv1mh7al",
+      "reason": "adult-section label (Tamil Item) — dropped per unsure rule"
+    },
+    {
+      "code": "CQwIlVCLPpxBS9OpK0bAWF",
+      "reason": "ambiguous adult (Model Photos) — dropped per unsure rule"
+    },
+    {
+      "code": "90Enu8xwmDOEdHfPlMp6DJ",
+      "reason": "adult-sexual signal (Get oyo — hookup-hotel connotation)"
+    },
+    {
+      "code": "LqcmE5tLBiuAS9EnRPN9f1",
+      "reason": "illicit hack name (Free fire hak)"
+    },
+    {
+      "code": "IPPRLhi0rtqLbRAWmEt4Ms",
+      "reason": "og:title screen: 'Forsage Online work🥰' (scam/adult signal)"
+    },
+    {
+      "code": "KE5ZjI65B3u1fTr3ChM9oY",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "IcTGkDgeZTlIDmMKJIpRZB",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "JfFyd9fCA6FGLKJCrAiuX4",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "LYRwMOpOIBz9wpkYuhm2af",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "FenPHAUZGnqF4J4EmnzMNS",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "GdEby0LK5jkCGXpDEq3dg6",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "B8KDsznkeGf4tnlXiLn4Qi",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "KLJK1AjgLzu256JqHIoQ1k",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "EfRaTDxm9rI4vJHb2dK11K",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "L01YLiYgA6AGsKRFJ7HITC",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "FwDKX4O1bZB19iFhvo34Fl",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "Lg1XraJBwfP9S7ZSfth1kw",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "EaK4X53Gw8HEuYcV9wpxEJ",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "IuuhcHhcunGDnZWRSpSIzV",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    },
+    {
+      "code": "HEYVf77wsUE9RtYkXZDPC5",
+      "reason": "wagroups.link homepage item: adult/illegal leak content on source page — dropped on sight, not verified"
+    }
+  ],
+  "resume": "Mine whatslinky.com category sub-pages and pkwhatsgrouplinks.com sub-pages (entertainment/jobs/movies/news/pakistani/youtube) — homepage rows only were harvested this wave. whtsagroupslinks.com and zoneofwagroup.com need a live-browser Join-click pass (curl 403 / timeout; codes not exposed in page text).",
+  "notes": "whatslinky.com is genuinely fresh (only a bot-check lead mention in prior waves). pkwhatsgrouplinks.com was flagged \"on covered list\" by wave 20261109 team36, but its homepage rows were never harvested as a whole (wave 20261109 team48 explicitly listed it as not re-scraped); all items here passed the 108,364-code union dedupe, so codes govern, not the domain flag. Candidates: whatslinky 401 rows (86 fresh) + pkwhatsgrouplinks 869 rows (169 fresh) = 255 fresh; 26 dropped in name/section screening (incl. 10 out-of-slice US/UK/CA/BR/ID, 5 Tamil-Item adult-section, 2 hacking, 2 vulgar, 1 18+, 1 oyo); 229 sent to verification. Verification: curl, 3 parallel, 0.5s spacing, 15s timeout; empty og:title retried once (181 codes, 0 revived); 40 transport failures (HTTP 000) retried, 1 revived live. Dead = 220. One pass-1 live code (IPPRLhi0rtqLbRAWmEt4Ms, dir name \"Indian TikToks\") was dropped at the og:title screen: title \"Forsage Online work\" = Forsage scam. Two kept items are renamed groups (directory name kept per prior-wave practice): 9pt73AYQGAV9ZfLwezFn0q dir \"Sarkari Notification\" vs og:title \"I Love My india\"; HUmnqzFRYpvLgGQbYsW472 dir \"Free Watch Time\" and K4o3cu9CehqFNgcbH3gs4S dir \"Kerala You Tubers\" both show og:title \"SOFTWARE HUB\"/\"Software HUB\". Calibration: garbage code ZZZZZZZZZZZZZZZZZZZZZZ returns HTTP 200 + empty og:title, while known-live codes return non-empty og:title, so the empty-title = dead rule discriminates correctly in this environment. wagroups.link was NOT banked as a lead: its homepage (16 codes) is entirely adult/illegal leak content with a phone number; all 15 real codes listed in exclusions, not verified. Deliberately not re-mined (already covered in waves 20261023-20261109): wagroupshub/wagroupnest/activewagroup clone family, groupwa.link, grouplink.com.in, whatsgroup.in, whatstele.com, whtsgrouplink.com, whatzgrouplink.com, wagroupslink.com, whgroups.link, sociallykeeda.com. Scratch/evidence kept in team25_scratch/ (union, parsers, per-chunk verify/retry JSONs)."
+}

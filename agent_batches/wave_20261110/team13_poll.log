@@ -1,0 +1,48 @@
+existing_codes=108364 groups_invite_codes=72742 union=108364
+page 1: 20 items, created 2026-06-02..2026-08-04
+page 2: 8 items, created 2026-05-20..2026-06-02
+page 3: 0 items, created ?..?
+page 4: 0 items, created ?..?
+page 5: 0 items, created ?..?
+page 6: 0 items, created ?..?
+page 7: 0 items, created ?..?
+page 8: 0 items, created ?..?
+page 9: 0 items, created ?..?
+page 10: 0 items, created ?..?
+page 11: 0 items, created ?..?
+page 12: 0 items, created ?..?
+page 13: 0 items, created ?..?
+page 14: 0 items, created ?..?
+page 15: 0 items, created ?..?
+page 16: 0 items, created ?..?
+page 17: 0 items, created ?..?
+page 18: 0 items, created ?..?
+page 19: 0 items, created ?..?
+page 20: 0 items, created ?..?
+page 21: 0 items, created ?..?
+page 22: 0 items, created ?..?
+  page 23 attempt 1: http=000 retrying
+  page 23 attempt 2: http=000 retrying
+page 23: 0 items, created ?..?
+page 24: 0 items, created ?..?
+page 25: 0 items, created ?..?
+page 26: 0 items, created ?..?
+page 27: 0 items, created ?..?
+page 28: 0 items, created ?..?
+page 29: 0 items, created ?..?
+page 30: 0 items, created ?..?
+page 31: 0 items, created ?..?
+page 32: 0 items, created ?..?
+page 33: 0 items, created ?..?
+page 34: 0 items, created ?..?
+page 35: 0 items, created ?..?
+page 36: 0 items, created ?..?
+page 37: 0 items, created ?..?
+page 38: 0 items, created ?..?
+page 39: 0 items, created ?..?
+page 40: 0 items, created ?..?
+total items collected: 28
+category counts: Counter({'Adult': 28})
+created_at date counts: [('2026-06-02', 8), ('2026-06-27', 3), ('2026-05-25', 3), ('2026-07-21', 2), ('2026-07-04', 2), ('2026-06-17', 2), ('2026-06-01', 2), ('2026-08-04', 1), ('2026-07-31', 1), ('2026-07-03', 1), ('2026-06-10', 1), ('2026-05-23', 1), ('2026-05-20', 1)]
+fresh candidates (new since Nov 8, non-adult, not in union): 0
+POLL_DONE

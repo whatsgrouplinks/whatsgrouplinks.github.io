@@ -1,0 +1,118 @@
+{
+  "team": 20,
+  "slice": "wglfinder.com",
+  "sources": [
+    "https://wglfinder.com/",
+    "https://wglfinder.com/active-whatsapp-group-links/",
+    "https://wglfinder.com/adre-whatsapp-group-link/",
+    "https://wglfinder.com/america-whatsapp-group-link/",
+    "https://wglfinder.com/arabic-whatsapp-group-link/",
+    "https://wglfinder.com/ayodhya-darshan-whatsapp-group-link/",
+    "https://wglfinder.com/ayodhya-whatsapp-group-link-2026/",
+    "https://wglfinder.com/bajrang-dal-indore-whatsapp-group-link-2026/",
+    "https://wglfinder.com/bajrang-dal-whatsapp-group-link/",
+    "https://wglfinder.com/bangalore-jobs-whatsapp-group-link/",
+    "https://wglfinder.com/bangalore-whatsapp-group-link/",
+    "https://wglfinder.com/bangladesh-whatsapp-group-link/",
+    "https://wglfinder.com/binance-whatsapp-group-link/",
+    "https://wglfinder.com/bjp-whatsapp-group-link/",
+    "https://wglfinder.com/canada-whatsapp-group-link/",
+    "https://wglfinder.com/category/whatsapp-groups/",
+    "https://wglfinder.com/category/whatsapp-groups/page/2/",
+    "https://wglfinder.com/category/whatsapp-groups/page/3/",
+    "https://wglfinder.com/category/whatsapp-groups/page/4/",
+    "https://wglfinder.com/category/whatsapp-groups/page/5/",
+    "https://wglfinder.com/china-toys-whatsapp-group-link/",
+    "https://wglfinder.com/china-whatsapp-group-link/",
+    "https://wglfinder.com/college-whatsapp-group-link/",
+    "https://wglfinder.com/cricket-whatsapp-group-link/",
+    "https://wglfinder.com/daily-newspaper-whatsapp-group-link/",
+    "https://wglfinder.com/delhi-job-whatsapp-group-link/",
+    "https://wglfinder.com/dubai-whatsapp-group-link/",
+    "https://wglfinder.com/funny-whatsapp-group-link/",
+    "https://wglfinder.com/germany-whatsapp-group-link/",
+    "https://wglfinder.com/gk-whatsapp-group-link/",
+    "https://wglfinder.com/government-job-whatsapp-group-link/",
+    "https://wglfinder.com/india-whatsapp-group-link-2026/",
+    "https://wglfinder.com/indian-whatsapp-group-link/",
+    "https://wglfinder.com/ipl-2026-schedule-whatsapp-group-links/",
+    "https://wglfinder.com/job-whatsapp-group-link/",
+    "https://wglfinder.com/kannada-whatsapp-group-link/",
+    "https://wglfinder.com/kenya-whatsapp-group-link/",
+    "https://wglfinder.com/kuwait-whatsapp-group-link/",
+    "https://wglfinder.com/ms-dhoni-fans-whatsapp-group-link/",
+    "https://wglfinder.com/pakistani-whatsapp-group-link/",
+    "https://wglfinder.com/post-page/",
+    "https://wglfinder.com/private-job-whatsapp-group-link/",
+    "https://wglfinder.com/pune-whatsapp-group-link/",
+    "https://wglfinder.com/republic-day-whatsapp-group-link-2026/",
+    "https://wglfinder.com/shree-ram-sena-whatsapp-group-link-2026/",
+    "https://wglfinder.com/ssc-gd-whatsapp-group-link/",
+    "https://wglfinder.com/tamil-whatsapp-group-link/",
+    "https://wglfinder.com/telegu-whatsapp-group-link/",
+    "https://wglfinder.com/uk-whatsapp-group-link/",
+    "https://wglfinder.com/upsc-whatsapp-group-link/",
+    "https://wglfinder.com/user-submitted-groups/",
+    "https://wglfinder.com/valentines-day-whatsapp-group-links-2026/"
+  ],
+  "verified": 23,
+  "pending": 7,
+  "leads": 3,
+  "dead": 60,
+  "exclusions": [
+    {
+      "code": "Cb6hlwC96GO5rraRm2lvsn",
+      "reason": "name adult-sexual: 'Pakistani leak data' + hot-face emoji"
+    },
+    {
+      "code": "IghBaQUwqqb8sEXIUiZAFk",
+      "reason": "name adult-sexual: 'Pakistani Leaks Hub' + hot-face/bikini emoji"
+    },
+    {
+      "code": "Fl0wpBFME9LIWrS07kf2Ad",
+      "reason": "name adult-sexual: 'Pakistani Leaks Hub' + hot-face/bikini emoji (og:title confirms)"
+    },
+    {
+      "code": "Ix5MViO0l16Dsor3MqtYnc",
+      "reason": "name adult: 'ONLY PAKISTANI LEAKED' (og:title confirms)"
+    },
+    {
+      "code": "LALm8nnIZlGEw8jy88wPGP",
+      "reason": "name adult/child: 'Tiktokrs Child Leak Videos Pakistani'"
+    },
+    {
+      "code": "BtUbERIwbjC6Qua99ZbSQh",
+      "reason": "name adult-sexual in Kannada (vulgar sexual terms)"
+    },
+    {
+      "code": "JNdrEudxsM6AnTNukOcVU7",
+      "reason": "name adult-sexual in Tamil (slur for prostitute)"
+    },
+    {
+      "code": "H590csE0EGA4SsUF2E2WnD",
+      "reason": "scam: 'PAYPAL RECEIVER AND LOADER' (og:title confirms)"
+    },
+    {
+      "code": "FEclyXYNgJz7HF2ORS9PEB",
+      "reason": "name 'All category videos available' (Dating) - ambiguous adult-video implication, unsure -> drop"
+    },
+    {
+      "code": "Gbwpe2q8mpl3eQiAlpHCMQ",
+      "reason": "name 'All category videos available' (Dating) - ambiguous adult-video implication, unsure -> drop"
+    },
+    {
+      "code": "IihZvhWXNyi58L3dvidRRK",
+      "reason": "name 'All category videos available' (Dating) - ambiguous adult-video implication, unsure -> drop"
+    },
+    {
+      "code": "IUrCi5CdtxdGvb6bHglwy5",
+      "reason": "name 'All category videos available' (Dating) - ambiguous adult-video implication, unsure -> drop"
+    },
+    {
+      "code": "G4P5BoQfPNSBUlWMxUAHAi",
+      "reason": "scam-format name: 'File Work For Daily Earnings, No Investment' (earnings-scam pattern)"
+    }
+  ],
+  "resume": "All 51 listing pages fetched and mined (525 raw items, 371 unique group codes; 268 already in the 108,364-code union; 103 fresh). All 90 non-dropped fresh codes checked at least once with curl (browser UA, 3 parallel, 0.6s spacing, 15s timeout); 82 empty/timeout codes got a 2nd spaced attempt. To resume: re-check the 5 pending codes in team20-wglfinder-pending.json with a fresh WhatsApp check (prefer a different host/IP or a browser leg, since WhatsApp intermittently serves an empty-og:title bot shell from this host and rate-limits with read timeouts). Unmined leads: find-whatsapp-group-links-on-google (how-to post), category/blog, post-page.",
+  "notes": "WhatsApp verification is flaky from this host: a fabricated dead code (ZZZZ...) returned the same HTTP 200 + empty og:title shell as real groups, and mobile UA did the same; browser.open to chat.whatsapp.com is 403. Titles appeared intermittently - the 2nd spaced attempt flipped 8 more codes live (6 in retry chunk 3, 2 in chunk 4), so empty-title codes needed the retry. Live names use the og:title (real current group name) where it differs from the directory name (e.g. 'Super Hero Toys' is now 'Aliexpress Gift coupons'). 28 channel links (whatsapp.com/channel/*) and 13 non-group links dropped at parse. Category archive pages (/category/whatsapp-groups/ + pages 2-5) contain no group cards, only post excerpts - their posts were mined directly. Runtime restart wiped /tmp mid-run; all work recovered from the persistent work dir. Borderline kept items: 'Pak trusted DLR' and 'FF Guild Bots Store' (dealer/store groups, not matching any listed scam scheme); 'CGLP INVESTORS' (investment discussion, not a named scheme). Homepage/user-submitted pages skew heavily Dating/leak content - 13 exclusions came from there."
+}

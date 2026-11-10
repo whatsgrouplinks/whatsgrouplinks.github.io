@@ -1,0 +1,50 @@
+{
+ "team": 3,
+ "slice": "leads slice 3",
+ "sources": [
+  "groupsinvite.link (93 listings)",
+  "groupchatconnect.info (63 listings)",
+  "ongrupos.com (24 listings)",
+  "groupjoin.link API (4 tag pages, 60 rows)"
+ ],
+ "verified": 0,
+ "pending": 0,
+ "leads": 584,
+ "dead": 93,
+ "exclusions": [
+  {
+   "code": "GehIqOgzSwAKf0VCnLf0gS",
+   "reason": "groupjoin.link source-classified Adult category (nsfw=1) — never verified/banked per task rule"
+  },
+  {
+   "code": "Chtsx36WdKxH1jRW83xkkY",
+   "reason": "groupjoin.link source-classified Adult category (nsfw=1) — never verified/banked per task rule"
+  },
+  {
+   "code": "GHoufrxcM99KD55HPl70Zb",
+   "reason": "groupjoin.link source-classified Adult category (nsfw=1) — never verified/banked per task rule"
+  },
+  {
+   "code": "HmPkgZcLwlKKRoPrC2KCz8",
+   "reason": "groupjoin.link source-classified Adult category (nsfw=1) — never verified/banked per task rule"
+  },
+  {
+   "code": "KxXQLVReMIa60t9z0I6ZqT",
+   "reason": "groupjoin.link source-classified Adult category (nsfw=1) — never verified/banked per task rule"
+  },
+  {
+   "code": "G31D9HB13F94AHbbQ6BMez",
+   "reason": "groupjoin.link source-classified Adult category (nsfw=1) — never verified/banked per task rule"
+  },
+  {
+   "code": "DT2JL7CpIcgIroajDpH0YY",
+   "reason": "groupjoin.link source-classified Adult category (nsfw=1) — never verified/banked per task rule"
+  },
+  {
+   "code": "JBA0Jcc4Uxr6s5T3NkCP6g",
+   "reason": "groupjoin.link source-classified Adult category (nsfw=1) — never verified/banked per task rule"
+  }
+ ],
+ "resume": "Slice complete. No resume needed: all 184 listings processed; 8 groupinvite detail fetches still failed after retries (codes unknown, listed in notes) and 9 GCC go.php groupe pages never resolved to a code — re-run those 17 listing URLs in a future wave.",
+ "notes": "184 listings -> 240 records (60 groupjoin rows). Codes extracted: 202. Fresh vs dedupe union (.existing_codes.json 108364 + groups.json 72742 codes, union 108364): 101 fresh, of which 8 groupjoin Adult-category rows were never verified. Verified 93 codes: 0 live, 93 dead (HTTP 200 + empty og:title after 2 spaced retries), 0 transport-pending. No-code records: 38 (16 channel-only GCC pages, 8 GI detail-fetch failures after retries, 9 GCC go.php failures, 5 GI rules pages with no join link). groupsinvite detail pages expose no invite; code lives on /group/rules/<slug>/. ongrupos path segment IS the code; /join-group/<code> 301s to chat.whatsapp.com/<code>. groupchatconnect /go/<token> token IS the code; go.php->join.php->groupsor flow did not resolve in this run (join.php returned no groupsor redirect under curl). Wave dir is shared with many teams hammering the same sites; fetches were slow/congested. Two spot-checks (browser UA and facebookexternalhit UA) on dead codes both returned HTTP 200 + empty og:title on a full-size generic page, confirming dead = revoked/expired, not a UA artefact. Low yield: slice is old listings, most invites revoked/expired; the slice's live codes were already banked in wave 20261109 and are now in the dedupe union. One listing (KWKAiLJK0DdHGH0JrBJEu0) was first screened on the word 'nude' in its description, but the word sits in a prohibition sentence ('no nude no harrasment'); it was re-checked manually 3x spaced and is dead (200 + empty og:title), so it is counted as dead, not excluded."
+}

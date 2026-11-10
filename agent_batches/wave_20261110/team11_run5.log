@@ -1,0 +1,19 @@
+union codes: 108364 (existing 108364 + groups 72742)
+resuming: 59 already mined
+mined 100/500
+mined 150/500
+mined 200/500
+mined 250/500
+mined 300/500
+mined 350/500
+mined 400/500
+mined 450/500
+mined 500/500
+mined done: 500 pages
+fetch failures: 3
+fresh candidates (post-dedupe+screen): 118
+verified 25/118
+verified 50/118
+verified 75/118
+verified 100/118
+VERIFIED: 30 PENDING: 6 DEAD: 82 EXCL: 4

@@ -1,0 +1,27 @@
+{
+ "team": 5,
+ "slice": "leads slice 5",
+ "sources": [
+  "groupsnest.com",
+  "wagroupnest.com",
+  "wagroupshub.com",
+  "whtspgrouplink.com",
+  "www.whtsagrouplinks.com"
+ ],
+ "verified": 15,
+ "pending": 0,
+ "leads": 3335,
+ "dead": 69,
+ "exclusions": [
+  {
+   "code": "Fh7G5LnHVdg49bL6CSaPNy",
+   "reason": "adult-sexual signal in directory name/title"
+  },
+  {
+   "code": "F4sX63jhx2L3ocOpAfz17N",
+   "reason": "adult-sexual signal in directory name/title"
+  }
+ ],
+ "resume": "Resume: wave_20261109 leads_slice_05.json (184 listing pages); 125 fetched OK on first pass, 59 retried (see team05_phase1_retry.log). Fresh codes verified with curl against chat.whatsapp.com (HTTP 200 + non-empty og:title). Pending items are transport/rate-limit only and need re-verification; dead = non-200 or empty og:title after 2 retries.",
+ "notes": "Extracted 3853 unique invite codes from 184 listing pages; 3767 already in the 108,364-code union; 84 fresh candidates verified. Prescreen+og:title exclusions: 2 (adult/scam signals). Discovered 3335 new listing-page URLs for future waves."
+}

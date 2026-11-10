@@ -1,0 +1,61 @@
+slice=184 existing=108364 groups_codes=72742 union=108364
+... 25/184 recs=25
+... 50/184 recs=50
+... 75/184 recs=75
+... 100/184 recs=100
+... 125/184 recs=125
+... 150/184 recs=150
+... 175/184 recs=175
+records=240 dup_codes=89 no_code_records=52 fresh_unique=99 discovered_leads=544
+ ERR: https://groupsinvite.link/group/link/jsy6cvgc0812j7lgxiaqjl/ | ; no code on rules page
+ ERR: https://groupsinvite.link/group/link/ju4m3sniliaf1qk69oqkxq/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/jwvyj4qbzpidzpzgb2v43g/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/kdo0bov5zsn7wu9y1s8s0z/ | ; no code on rules page
+ ERR: https://groupsinvite.link/group/link/km4vonwpjxlbajz0wq2gkk/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/km9fytun1oqavs9az34itm/ | ; no code on rules page
+ ERR: https://groupsinvite.link/group/link/kmkwuwxdhoj3n5rgp8lygr/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/kqrqhc2c4m01ntthq8ee8r/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/kryn11xxgdze0oxk3gqtko/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/ksh5dsi1eey89l40oulz8z/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/kv91f3kizpvjyzwsawi0kx/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/kwkailjk0ddhgh0jrbjeu0/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/kwncywrbgoyflh7d6opz13/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/kxpwb2iyfd1ee3hwrxh5ba/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/kyo1dg3rhmvgyeq1aj53ng/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/l4tj9wqetcjhjcblzpejgo/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/l6pl5mgk3bw7fbk9rffjri/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/lbf8hzfhglwanijro3pfb3/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/lc69d37op8kfnvl0j85ptf/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/lcja35pz3fo7fwmnkmvykc/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/ld6ipjc4ep2hwl5wvysfy6/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/legxbg0kpzvhustja7oxjg/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/lel96j1qn9efyt2keh87jj/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/lf8kc5nnkzj0f434p6ogjy/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/lfimqsaxi73jtkjscqegkd/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/lgvo3s5owf1bsz3lmivxg4/ | detail fetch failed
+ ERR: https://groupsinvite.link/group/link/lhfgylnhnnukpxd7pw01iz/ | detail fetch failed
+ ERR: https://groupchatconnect.info/channel/3291 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3310 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3313 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3317 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3318 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3319 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3323 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3326 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3341 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3342 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3347 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3351 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3353 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3373 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3378 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/channel/3382 | channel-only page (no group invite)
+ ERR: https://groupchatconnect.info/groupe/266 | go.php recovery failed: join.php did not redirect to groupsor
+ ERR: https://groupchatconnect.info/groupe/368 | go.php recovery failed: join.php did not redirect to groupsor
+ ERR: https://groupchatconnect.info/groupe/371 | go.php recovery failed: join.php did not redirect to groupsor
+ ERR: https://groupchatconnect.info/groupe/377 | go.php recovery failed: join.php did not redirect to groupsor
+ ERR: https://groupchatconnect.info/groupe/379 | go.php recovery failed: join.php did not redirect to groupsor
+ ERR: https://groupchatconnect.info/groupe/381 | go.php recovery failed: join.php did not redirect to groupsor
+ ERR: https://groupchatconnect.info/groupe/387 | go.php recovery failed: join.php did not redirect to groupsor
+ ERR: https://groupchatconnect.info/groupe/407 | go.php recovery failed: join.php did not redirect to groupsor
+ ERR: https://groupchatconnect.info/groupe/413 | go.php recovery failed: join.php did not redirect to groupsor

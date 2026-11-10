@@ -1,0 +1,45 @@
+{
+ "kept": [
+  "BKhszwJgRT53mgxItoqmV0",
+  "BO88nRxmEw4550h7NHwpGB",
+  "BhsEQ8EKP5a5TSp0hYH1mQ",
+  "BzAzupPCsgVKn10gted36Q",
+  "CLIXBbQZMmg3NZ6nvvS6Je",
+  "CfVERefRYC01fvHvHmKLBv",
+  "ChRbyxUTikM6AbWcoL4O7B",
+  "D4MehDMkmxo3TN7w3rQNLv",
+  "DSYOxRsF2JMIt2bdSiH0yr",
+  "E6VU6U7Z72wBoM4Qn9FO82",
+  "F3BRRqiIhKOLfqmWzRiS7m",
+  "Fbb150UGnKE64kDWPe16k0",
+  "Fc1O0NGYUer8e40YxJ5uRm",
+  "GHniIc4w6Un4nWpQKAvCjk",
+  "HjwDh3D6ge9FTKTGtQV4Gj",
+  "Jpl6rk2qL1wH4jgBkY2bL9",
+  "KHOP4ftGR5q4oqP2nyaHhm",
+  "KUjrZQqOBmk6EK61v4bsnm",
+  "KiurF1q6nb0ARuzQIjgBMn",
+  "Knw1kgbmijAFoBH6HxJrqw",
+  "KogmBdn7zKfGGb8zGaGt",
+  "L3DIyAlQhFpKebMjTAzxOw",
+  "LjRy0kO3r1YABKGVzhkBgM"
+ ],
+ "dropped_artifacts": [
+  [
+   "E51zHCiU0i",
+   "prefix-of-longer-extracted-code"
+  ],
+  [
+   "E51zHCiU0ib1",
+   "prefix-of-longer-extracted-code"
+  ],
+  [
+   "KogmBdn7zKfGGb8zGaG",
+   "prefix-of-longer-extracted-code"
+  ],
+  [
+   "E51zHCiU0ib1M",
+   "truncated-code-no-full-form-in-any-raw-file"
+  ]
+ ]
+}

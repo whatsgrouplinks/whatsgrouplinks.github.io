@@ -1,0 +1,23 @@
+{
+  "team": 29,
+  "slice": "listicles Education/Jobs",
+  "sources": [
+    "http://grouplink.com.in/all-india-study-whatsapp-group-links/",
+    "https://grouplink.com.in/3200-indian-job-whatsapp-group-links/",
+    "https://whgroups.link/pakistan-jobs-whatsapp-group-links/",
+    "https://77links.com/educational-whatsapp-group-links/",
+    "https://logicalshout.com/whatsapp-group-links/",
+    "https://wagroupnest.com/",
+    "https://www.wemakescholars.com/blog/whatsapp-group-for-ms-in-us-fall",
+    "https://techpuran.in/usa-whatsapp-group-link/",
+    "https://www.wemakescholars.com/blog/uk-university-whatsapp-group-links",
+    "https://appgrouplink.com/scholarship-whatsapp-group-links/"
+  ],
+  "verified": 1,
+  "pending": 0,
+  "leads": 1,
+  "dead": 9,
+  "exclusions": [],
+  "resume": "No resume needed: all 10 in-slice fresh candidates were resolved (1 verified, 9 dead, 0 pending). Only open item is the appgrouplink scholarship lead above, which needs a browser-based mine to extract its hidden invite codes.",
+  "notes": "Dedupe union = 108,364 codes (.existing_codes.json; groups.json invite codes are a subset, adding 0). Mined 10 listicle/listing pages. 5 of them were already fully banked (0 fresh codes): grouplink study (30 codes), grouplink jobs (70), whgroups Pakistan jobs (24), 77links education (73), wagroupnest (421), wemakescholars UK (31). 10 in-slice fresh candidates verified by curl (browser UA, 15s timeout, up to 3 attempts). 9 DEAD - HTTP 200 but empty og:title after 3 spaced retries: H8f6gzZhTgn7HCUpyxqzXy (Study materials), IDrPGxmvJ3YAbQCOeHWJEj (Online Based Teaching), CI1msbNj29HA8dAyhNmls9 (Education Group), IFcxUm3oaqT6BWTOmQA0Fc (Full-Time Job), G6AcdezCyuLDRpXtK2ZvXT (Daily Job Updates), GEvC65uCtdbEflDf5x9FSN (Arizona State University), IG21GRMeZrrH35zwSm8W0H (UM Baltimore), E2wD9kXuvdiAxZssjogElR (University of Georgia), KkbXx7eKIKhHIkP08D3dkn (Rutgers). 1 LIVE: EkN9FkVfSXcHq2dcAhHP6z, og:title 'Study in USA'. Verification method sanity-checked with controls: known-live groups.json code KrDwdK8EIkB6vgauHg5M7N returned non-empty og:title, while a fabricated code returned HTTP 200 with empty og:title, so empty og:title genuinely marks dead/revoked invites. 4 codes first returned HTTP 000 (curl transport failure, likely WhatsApp-side resets after rapid hits); all 4 were re-checked after a pause and returned clean HTTP 200 results, so 0 pending. No adult/scam exclusions among in-slice candidates (og:titles empty, names clean). Out of slice and NOT banked (other teams' slices): 39 fresh codes on logicalshout (tech/funny/shopping/cricket/shayari/earning groups) and 1 on techpuran (USA Football Fanatics) - left untouched for their owners."
+}
