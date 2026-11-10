@@ -9,8 +9,8 @@ consolidated the 32 teams' final files directly and completed the pipeline.
 - **Verified new groups added: 628**
 - **Total: 72,742 → 73,370 groups** (groups.json verified before and after merge)
 - **Dedupe union: 108,364 → 108,992 codes**
-- **Deploy:** git push to whatsgrouplinks/whatsgrouplinks.github.io (commit TBD — see manifest.txt)
-- **Deploy gate:** TBD (see manifest.txt)
+- **Deploy:** git push to whatsgrouplinks/whatsgrouplinks.github.io — commit 190d6f9142 (56c6aa64c7..190d6f9142)
+- **Deploy gate:** PASSED — deploy groups/*.html 73,370 == build 73,370; sitemap group URLs 73,370; groups.json 73,370; live curl-check 10/10 HTTP 200 (5 newest + 5 from sitemap-groups-2.xml); homepage 200, "Browse 73370+ active".
 
 ## Consolidation
 
