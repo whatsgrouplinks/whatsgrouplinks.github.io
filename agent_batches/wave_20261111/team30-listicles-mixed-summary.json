@@ -1,0 +1,82 @@
+{
+ "team": 30,
+ "slice": "listicles mixed/general (Nov-10 leads + fresh searches; edu/jobs listicles excluded per team29)",
+ "sources": [
+  "https://wahublink.com/sports-whatsapp-group-links/",
+  "https://wahublink.com/entertainment-whatsapp-group-links/",
+  "https://www.whtsagrouplinks.com/sports-whatsapp-group-links/",
+  "https://whatstele.com/whatsapp/group-links/pakistani/",
+  "https://grouplink.com.in/explore-the-active-pakistani-whatsapp-group-links-right-here/",
+  "https://joingram.in/stock-market-whatsapp-groups-link/",
+  "https://logicalshout.com/whatsapp-group-links/",
+  "https://www.whatsgroup.in/",
+  "https://wagroupzone.com/",
+  "https://whtspgrouplink.com/",
+  "https://whatzgrouplink.com/latest-whatsapp-group-links/",
+  "https://activewagroup.com/pakistani-whatsapp-group-links/",
+  "https://wagroupnest.com/pakistani-girls-whatsapp-group-links/",
+  "https://newgrouplinks.pk/islamabad-whatsapp-group-links/",
+  "https://grouplink.com.in/1300-international-whatsapp-group-link/",
+  "https://walink.pk/",
+  "https://girlsgroup.pk/"
+ ],
+ "verified": 0,
+ "pending": 163,
+ "leads": 5,
+ "dead": 13,
+ "dead_codes": [
+  "KG7jsKHoVLhB3PkcxAcBvB",
+  "FT9mqsvK2gVJqqySzSCpbR",
+  "LRg8wno7X9hHR97yZZoEPf",
+  "GCwWLJiwGZD0YF0WU17cke",
+  "GikK6aPnQ6BFgKh0ftuu5Q",
+  "DRmIbOxPWKeHUq9mOHzSMB",
+  "IDrPGxmvJ3YAbQCOeHWJEj",
+  "7HNTZI3N0Lh4ZGkBy5ZK1h",
+  "Km75ZNi08mZITpf4o8kPOw",
+  "Hi3ajGhsJA91FNMK6G938Q",
+  "GdLaqY8l1k8BDS8eteV9fv",
+  "FmYjiEhElyY6X2bC5Vfix5",
+  "D8c33p5nwODLSH8G5JUZud"
+ ],
+ "exclusions": [
+  {
+   "code": "LbLO9ZDI4IIDy4Hgo5k4qt",
+   "reason": "pre-screen: earning-scam pattern in name 'Online earning “No Invest.”'"
+  },
+  {
+   "code": "G4FHCEISHF6HwfkbSAl4qn",
+   "reason": "pre-screen: signal-selling scam pattern in name 'Crypto Signal Provider'"
+  },
+  {
+   "code": "KBhPfTaXF4CAtRIPg9lcLh",
+   "reason": "pre-screen: adult/xxx signal in name 'xxx Group'"
+  },
+  {
+   "code": "DgmRGVE2JtfK5w9UIUAb5O",
+   "reason": "pre-screen: adult/xxx signal in name 'Pakistani desi sexy😍'"
+  },
+  {
+   "code": "GzNSmeFrq7e8aTsgCvj5rJ",
+   "reason": "pre-screen: adult/xxx signal in name 'New celebrity porn videos'"
+  },
+  {
+   "code": "LBaC2LeKFlxHxAMcX8BPOu",
+   "reason": "pre-screen: adult/xxx signal in name 'porn Group'"
+  },
+  {
+   "code": "HmnTN5fQxEj0kCaiN0YSDb",
+   "reason": "pre-screen: adult/xxx signal in name 'Xxx chat with friends'"
+  },
+  {
+   "code": "DuLSCwCcFDH3oczAT5xeZ8",
+   "reason": "pre-screen: adult/xxx signal in name 'Viral video group'"
+  },
+  {
+   "code": "GojRmVFVEhiA4scqLZMyN5",
+   "reason": "pre-screen: adult/xxx signal in name 'Only Porn Girls Videos 😋'"
+  }
+ ],
+ "resume": "VM-wide network outage began mid-verification (~12:30 PKT) and persisted 35+ min through final check: ALL outbound HTTPS failed (google.com, example.com, chat.whatsapp.com all curl 000/timeout; control test on known-live code IZVRL7Hy2JW8hntMEB9WUJ also timed out). 163 of 176 screened candidates are PENDING (transport timeouts only, NOT dead). Next wave: run team30_scratch/retry_pass.py FIRST (it re-checks all 163 pending + the 13 'dead', whose empty-og verdicts were taken during degraded transport) once connectivity is confirmed with a curl control test on a known-live code. Then mine the 5 leads. Do NOT re-mine the 17 sources above (1,294 unique codes extracted; 185 fresh vs union; all already screened).",
+ "notes": "Yield before outage: 1,294 unique codes extracted from 17 listicles; only 185 fresh vs the 108,992-code union (85 batch1 + 100 batch2); 9 pre-screened out (1 earning scam, 1 crypto-signal, 7 adult/xxx incl. 'porn Group', 'New celebrity porn videos', 'Only Porn Girls Videos'). First verification pass (slow checker, 6 workers, >=0.6s pacing, 15s timeout, 1 retry after 4s pause): 0 live / 13 dead / 163 pending. The 13 dead returned HTTP 200 with empty og:title on BOTH spaced attempts, but during degraded transport, so retry_pass.py re-checks them. An earlier verification script was killed after 12 min (it ran a redundant unpaced first pass; its results were discarded, nothing banked from it). browser.open on chat.whatsapp.com is NOT an available fallback (403 upstream). All work files in team30_scratch under the wave dir; page HTML snapshots kept there for re-extraction without re-fetching."
+}

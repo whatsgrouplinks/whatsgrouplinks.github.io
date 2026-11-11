@@ -1,0 +1,87 @@
+{
+ "team": 25,
+ "slice": "new dirs South Asia",
+ "sources": [
+  "https://wagroupslink.com/ (+5 sub-pages: pakistani, indian, school-girl-study, all-group-links, youtube-subscribe)",
+  "https://whtsgrouplink.com/ (+ indian sub-page)",
+  "https://wagroupzone.com/ (homepage only)",
+  "https://wahublink.com/indian-whatsapp-group-links/ (+6 sub-pages: pakistani-girls, college, business, sports, kerala, tamil)",
+  "https://newgrouplinks.pk/ (+6 sub-pages: pakistani, jobs, business, karachi, lahore, youtube)",
+  "https://pakseotraining.com/add-whatsapp-group-link/",
+  "https://www.imagesplatform.com/add-whatsapp-group-link (attempted, fetch failed — in leads)"
+ ],
+ "verified": 12,
+ "pending": 0,
+ "leads": 13,
+ "dead": 51,
+ "exclusions": [
+  {
+   "code": "DjADR6HD9MKKuLPVDcoifw",
+   "reason": "og:title screen: 'Sixya momm sonn sis bro' — sexual/incest content"
+  },
+  {
+   "code": "1bNIoyfA1mWAcaR5PYStEB",
+   "reason": "girls' phone-number sharing (PII) (listing name 'Karachi Whatsapp Group' / section 'Karachi Girl Whatsapp Number')"
+  },
+  {
+   "code": "CfVetjrgASdJ6HcPLfDUQF",
+   "reason": "out of slice: USA (listing name 'American WhatsApp Group Links' / section 'USA WhatsApp Group Links')"
+  },
+  {
+   "code": "DRLYFTHHhEy45trMZaKPJq",
+   "reason": "out of slice: USA (listing name 'USA WhatsApp groups link Islamic' / section 'Join WhatsApp Group Links USA Girl')"
+  },
+  {
+   "code": "DY3KN2ba5r33gepUVNrPzj",
+   "reason": "call-girl / prostitution solicitation (listing name 'whatsapp group link pakistan girl' / section 'Call Girl For Friendship WhatsApp Group Links')"
+  },
+  {
+   "code": "DdVBQvSFrtt4lAXvOrHfl7",
+   "reason": "viral-video girl section (porn-adjacent) (listing name 'Six group WhatsApp link girl' / section 'Desi Viral Video WhatsApp Group Pakistan Girl')"
+  },
+  {
+   "code": "EOBaox2SO21GYjWUwC8sc3",
+   "reason": "out of slice: USA (listing name 'American friendship WhatsApp group link' / section 'WhatsApp Group India Pakistan Girls')"
+  },
+  {
+   "code": "FqQDAKxndmh8wneWEXBhbF",
+   "reason": "out of slice: South Africa (listing name 'Girl WhatsApp group links South Africa' / section 'Join Pakistan WhatsApp Group Link Latest')"
+  },
+  {
+   "code": "G4GJzPTMFYKFx1qlIl2DPB",
+   "reason": "girls' phone-number sharing (PII) (listing name 'Pakistani girls WhatsApp number group' / section 'WhatsApp Group India Pakistan Girls')"
+  },
+  {
+   "code": "GqivNhyyYMaEEkPLkcrDQg",
+   "reason": "out of slice: Kenya (listing name 'Kenya WhatsApp group links for dating' / section 'WhatsApp Group India Pakistan Girls')"
+  },
+  {
+   "code": "HzYwQ8AXWSuAx97hhgKspf",
+   "reason": "girls' phone-number sharing (PII) (listing name 'pakistani girls whatsapp number 2024' / section 'Pakistani Girls Whatsapp Number 2026')"
+  },
+  {
+   "code": "IvwuvLaL6eI0Ztx0nN2GqF",
+   "reason": "'six group' sex-group euphemism (listing name 'Six group WhatsApp link Pakistan' / section 'WhatsApp Group India Pakistan Girls')"
+  },
+  {
+   "code": "JtXCULTcZdnADIUlrvk3DU",
+   "reason": "out of slice: Tanzania (listing name 'Girl WhatsApp group links Tanzania' / section 'Join Pakistan WhatsApp Group Link Latest')"
+  },
+  {
+   "code": "JwzdNRneMdNFg4UuIYXky7",
+   "reason": "out of slice: Nigeria (listing name 'Nigeria WhatsApp group link for dating' / section 'WhatsApp Group India Pakistan Girls')"
+  }
+ ],
+ "resume": "Mine the 13 lead URLs (imagesplatform; wagroupslink whatsapp-group-links + private pages; wagroupzone girls page; wahublink boys/youtube/visa-travel/desi-girls; newgrouplinks college-girls/pakistani-girls/school-girls/all-groups; whtsgrouplink category sub-pages). Also still open from wave 20261110 team25: whatslinky.com + pkwhatsgrouplinks.com category sub-pages.",
+ "notes": [
+  "Mined-source check first: avoided all South Asia sources mined in waves 20261106-20261110 (whatsgroup.in, walink.pk, grouplinksforyou.com, wtgrouplinks.com, groupsnest.com, freewagroup.com, 77links.com, groupwa.link, wagroupshub/nest, instantgrouplink, activewagroup, whtspgrouplink, whatstele, whatsappgrouplink.org, groupinvitelink, whatgroups.com, groupsgyani.org, whatzgrouplink.com, sociallykeeda.com, grouplink.com.in, groupizo, ongrupos, whatsappkanali, appgrouplink, groupjoin.link, linkado, groupda, igrupos, groupssor, grupbul, groupsinvite, tglinkhub, wagroups.link toxic clone).",
+  "Raw harvest: 1,263 unique codes from 24 fetched pages; 1,186 already in the 108,992-code union; 77 fresh. Pre-screen dropped 13 (5 out-of-slice USA/Kenya/Nigeria/South Africa/Tanzania; 3 girls-number-sharing PII; 1 call-girl; 1 viral-video girl section; 1 six-group euphemism; 1 USA-Islamic; 1 USA-American). 64 sent to verification.",
+  "Verification: curl, browser UA, 3 workers, 1s stagger. chat.whatsapp.com was extremely slow this run (~22-31s per request; control live code 00CHZw0BFnP6ZLQVROVo0Y returned og:title in 22s). First pass used --max-time 20s and produced 28 transport errors; re-ran with --max-time 60s. Empty og:title retried once after a pause; transport failures retried once, then 2 remaining codes re-checked sequentially: FxdLutzOD20LRlro70crWq revived LIVE (og:title Nofsclothing.de guest posting, 30.8s), GKNZfVCsMSIEvQdUBHLL1J dead (HTTP 200 + empty og:title, 31.8s).",
+  "Live rate: 13 of 64 verified-pool codes returned non-empty og:title; 1 dropped on og:title (DjADR6HD9MKKuLPVDcoifw, title Sixya momm sonn sis bro = sexual/incest content). Final verified 12. Dead 51 (50 from pool + GKNZ). Pending 0 — both transport codes resolved on sequential retry.",
+  "Name rule: banked name = og:title (HTML-unescaped), the group actual current name. It matches the directory name for 9 of 12; for H7PBEGMSKpALYFkoBWeJrZ (dir CLASSIC MARKET -> og:title GO VIRAL), I6XkjMgRfzlCa18INe9wfs (dir section text -> Paksuper) and KuznhnLAQqW4RkFsa0wbU5 (dir ALL INDIA RESELLERS -> Latikavlog3) the og:title is the real group name.",
+  "Categories: 9 Business (all SEO/guest-posting/marketing groups from pakseotraining.com), 2 Entertainment (GO VIRAL, Latikavlog3), 1 Community & Social (Paksuper). Countries: 9 PK (pakseotraining is a Pakistan SEO directory), 3 IN (whtsgrouplink Indian pages).",
+  "Clone-family finding: whtsgrouplink.com (202 codes) and wagroupzone.com (197 codes) share the same WP-listicle code pool as the already-covered family — only 5 fresh between them, and wagroupzone contributed 0 fresh. wahublink sub-pages likewise mostly union (only 5 fresh across 7 pages). The genuinely fresh pools were pakseotraining (21) and wagroupslink (17+).",
+  "Adult sections deliberately NOT fetched and NOT banked as leads: wagroupslink desi-aunty / kannada-aunty / tamil-girls / viral-mms / grup-wa-viral-video; hubrecipes.com Nepali-girls page (adult + personal phone numbers in page text).",
+  "Scratch/evidence kept in team25_scratch/ (fetched HTML, extract/screen/verify scripts, verify_results.json, retry HTML for the 2 transport codes)."
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "team": 10,
+ "slice": "linkado sitemap 2300-2699",
+ "sources": [
+  "https://linkado.app/sitemap.xml (agent_batches/wave_20261110/linkado_sitemap.xml; 19,731 grupo URLs, sitemap order = lastmod desc)"
+ ],
+ "verified": 104,
+ "pending": 0,
+ "leads": 0,
+ "dead": 196,
+ "exclusions": [
+  {
+   "code": "C7T0WB0dnatCQMlg4gZCFh",
+   "reason": "financial fraud (fake credit cards/banks) — in description"
+  },
+  {
+   "code": "K1AcDpF6WZoElpgx3xGuLP",
+   "reason": "betting scam (paying gambling platform) — in description"
+  },
+  {
+   "code": "D6URvVJUFQKKTdyFXu9IeW",
+   "reason": "betting scam (paying links) — in name"
+  },
+  {
+   "code": "H7cd624evOt1eaeoPW2mhq",
+   "reason": "betting scam (stake/montante) — in description"
+  },
+  {
+   "code": "BuCaCR5V6t74GPo2AIrmF1",
+   "reason": "betting scam (bancas + platforms/raffles) — in description"
+  },
+  {
+   "code": "J3At0ID9ZCA3GTLfB8t5GT",
+   "reason": "betting scam (paying gambling platform) — in description"
+  },
+  {
+   "code": "GHpnxDBa4krGqv101g7s5U",
+   "reason": "betting scam (slot-machine emoji) — in name"
+  },
+  {
+   "code": "J8wrWf07YtkLS0xZl5SST7",
+   "reason": "betting scam (gambling platform promo) — in name"
+  },
+  {
+   "code": "Cy3xKwFndYH2rGUzqen88b",
+   "reason": "betting scam (betting cooperation) — in name"
+  }
+ ],
+ "resume": "next index 2700, https://linkado.app/grupo/69baf82349dbc7627d73499f, lastmod 2026-03-19T00:04:44.051Z (last mined: index 2699, https://linkado.app/grupo/69bad4a849dbc7627d734998, lastmod 2026-03-19T00:04:46.458Z)",
+ "notes": "Mined 400/400 grupo detail pages (indices 2300-2699). Join links: 360 chat.whatsapp.com, 31 Telegram-only (no WhatsApp invite, not bankable), 5 whatsapp.com/channel (dropped, channel not group), 1 page with both Telegram + channel links (not bankable), 0 pages with no join link, 3 removed listings on linkado ('Grupo nao encontrado'), 0 fetch failures. Of WA codes, 50 already in the union, leaving 310 fresh records covering 309 unique codes (1 code, Kgsoce2gPPr12VfUtiPncp, listed on 2 detail pages). Verification via curl with browser UA (HTTP 200 + non-empty og:title = live; empty og:title after spaced retry = dead; transport failure = pending): 104 live banked, 196 dead, 0 pending, 9 live exclusions. Calibration re-confirmed this run: 3 known-live codes from wave 20261110 team10 (ENWcV0vArH0KdOd7vDaNTJ, CKT3322HYJWKoypMEIQyzz, KDZZjnv03ZuCCNAn1fe7Sh) returned non-empty og:title with the live group name; a fabricated code returned empty og:title. Names banked are the live WhatsApp group names from og:title (linkado H1 name used when og:title was a truncated prefix). All verified are Brazilian (country BR); categories: {'Finance': 3, 'Buy Sell': 90, 'Community & Social': 7, 'Online Earning': 4}. No merge into groups.json, no generate.py, no deploy (per brief)."
+}

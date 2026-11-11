@@ -1,0 +1,24 @@
+candidates=10912 to_verify=1073
+resumed verified=2 rechecking-pending=30 remaining=1071
+verified-check done=50/1071 live=2 pending=0 dead=50 excl=0 elapsed=108s
+verified-check done=100/1071 live=4 pending=4 dead=94 excl=0 elapsed=184s
+verified-check done=150/1071 live=5 pending=41 dead=106 excl=0 elapsed=223s
+verified-check done=200/1071 live=5 pending=88 dead=109 excl=0 elapsed=244s
+verified-check done=250/1071 live=5 pending=101 dead=146 excl=0 elapsed=318s
+verified-check done=300/1071 live=6 pending=134 dead=162 excl=0 elapsed=360s
+verified-check done=350/1071 live=6 pending=177 dead=169 excl=0 elapsed=391s
+verified-check done=400/1071 live=6 pending=222 dead=174 excl=0 elapsed=417s
+verified-check done=450/1071 live=7 pending=265 dead=180 excl=0 elapsed=444s
+verified-check done=500/1071 live=10 pending=306 dead=186 excl=0 elapsed=476s
+verified-check done=550/1071 live=11 pending=350 dead=191 excl=0 elapsed=500s
+verified-check done=600/1071 live=16 pending=386 dead=200 excl=0 elapsed=530s
+verified-check done=650/1071 live=18 pending=416 dead=218 excl=0 elapsed=572s
+verified-check done=700/1071 live=18 pending=446 dead=238 excl=0 elapsed=620s
+verified-check done=750/1071 live=18 pending=486 dead=247 excl=1 elapsed=657s
+verified-check done=800/1071 live=18 pending=527 dead=256 excl=1 elapsed=695s
+verified-check done=850/1071 live=19 pending=575 dead=257 excl=1 elapsed=719s
+verified-check done=900/1071 live=21 pending=613 dead=267 excl=1 elapsed=754s
+verified-check done=950/1071 live=22 pending=655 dead=274 excl=1 elapsed=778s
+verified-check done=1000/1071 live=24 pending=701 dead=276 excl=1 elapsed=798s
+verified-check done=1050/1071 live=24 pending=751 dead=276 excl=1 elapsed=807s
+FINISHED live=24 pending=770 dead=278 exclusions=1 elapsed=820s

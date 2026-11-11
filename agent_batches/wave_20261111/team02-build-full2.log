@@ -1,0 +1,28 @@
+extracted 1317 ok 1299 fetch_fail 18 no_code 3
+cands 1267 dup_existing 37 dup_within 11 exclusions 27
+reuse live 14 dead 48 to_check 1205
+verified 50/1205 live 28 pending 0 dead 84 elapsed 384s
+verified 100/1205 live 41 pending 0 dead 121 elapsed 668s
+verified 150/1205 live 53 pending 0 dead 159 elapsed 967s
+verified 200/1205 live 74 pending 0 dead 188 elapsed 1197s
+verified 250/1205 live 90 pending 0 dead 222 elapsed 1494s
+verified 300/1205 live 99 pending 0 dead 263 elapsed 1853s
+verified 350/1205 live 108 pending 0 dead 304 elapsed 2247s
+verified 400/1205 live 117 pending 0 dead 345 elapsed 2576s
+verified 450/1205 live 132 pending 0 dead 380 elapsed 2816s
+verified 500/1205 live 142 pending 0 dead 420 elapsed 3070s
+verified 550/1205 live 152 pending 0 dead 460 elapsed 3409s
+verified 600/1205 live 166 pending 0 dead 496 elapsed 3623s
+verified 650/1205 live 188 pending 0 dead 524 elapsed 3775s
+verified 700/1205 live 215 pending 0 dead 547 elapsed 3882s
+verified 750/1205 live 241 pending 0 dead 571 elapsed 3988s
+verified 800/1205 live 272 pending 0 dead 590 elapsed 4060s
+verified 850/1205 live 306 pending 0 dead 606 elapsed 4125s
+verified 900/1205 live 336 pending 0 dead 626 elapsed 4210s
+verified 950/1205 live 372 pending 0 dead 640 elapsed 4287s
+verified 1000/1205 live 402 pending 0 dead 660 elapsed 4379s
+verified 1050/1205 live 437 pending 0 dead 675 elapsed 4438s
+verified 1100/1205 live 467 pending 0 dead 695 elapsed 4509s
+verified 1150/1205 live 491 pending 0 dead 721 elapsed 4585s
+verified 1200/1205 live 521 pending 0 dead 741 elapsed 4641s
+BUILD DONE verified 525 pending 0 leads 2304 dead 742 elapsed 4648s

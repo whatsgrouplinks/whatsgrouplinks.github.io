@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Tamil Jalsa",
+    "category": "Community & Social",
+    "country": "",
+    "description": "A vibrant Tamil community WhatsApp group sharing Tamil culture, food, recipes and cooking sessions.",
+    "invite": "https://chat.whatsapp.com/ACtQYie1P32IceedwfPY9p",
+    "reason": "transport failure (no HTTP status) after retry pass (grupbul group id 440817; re-verify the code / re-follow the redirect after a longer cool-down)"
+  },
+  {
+    "name": "Mumbaikar!",
+    "category": "Community & Social",
+    "country": "IN",
+    "description": "A WhatsApp group for Mumbaikars to connect, share experiences and talk food, from street food to fine dining.",
+    "invite": "https://chat.whatsapp.com/I39fLwOHZ730XJ5glkcE82",
+    "reason": "transport failure (no HTTP status) after retry pass (grupbul group id 865745; re-verify the code / re-follow the redirect after a longer cool-down)"
+  },
+  {
+    "name": "I Like India",
+    "category": "Community & Social",
+    "country": "",
+    "description": "A WhatsApp group celebrating India, its art, music, cuisine and culture, sharing favourite Indian dishes and recipes.",
+    "invite": "https://chat.whatsapp.com/58IfJaAavCGId7CEz0vNJH",
+    "reason": "transport failure (no HTTP status) after retry pass (grupbul group id 219135; re-verify the code / re-follow the redirect after a longer cool-down)"
+  },
+  {
+    "name": "TIGER MAHARASTRA",
+    "category": "Community & Social",
+    "country": "IN",
+    "description": "A WhatsApp community for Maharashtra covering culture, travel, food and lifestyle.",
+    "reason": "no code extracted after retry (redirect fetch failed) (grupbul group id 662627; re-verify the code / re-follow the redirect after a longer cool-down)"
+  },
+  {
+    "name": "Yaar Beli",
+    "category": "Friendship",
+    "country": "",
+    "description": "A WhatsApp community for friendship and meaningful conversations, sharing travel tips and cooking recipes.",
+    "reason": "no code extracted after retry (redirect fetch failed) (grupbul group id 400673; re-verify the code / re-follow the redirect after a longer cool-down)"
+  }
+]

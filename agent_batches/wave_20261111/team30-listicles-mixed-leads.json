@@ -1,0 +1,27 @@
+[
+ {
+  "url": "https://grouplink.com.in/",
+  "category": "Entertainment",
+  "note": "Carried from Nov-10 leads: Bollywood/movie sections unmined (only sports subpage mined)."
+ },
+ {
+  "url": "https://77links.com/",
+  "category": "Islamic",
+  "note": "Carried from Nov-10 leads: Islamic page mined; other category pages on same site unmined."
+ },
+ {
+  "url": "https://www.whtsagroupslinks.com/",
+  "category": "Community & Social",
+  "note": "Fetched 2026-11-11: 342 bytes only (blocked/empty via curl); needs browser fetch."
+ },
+ {
+  "url": "https://thehiveindex.com/platforms/whatsapp/",
+  "category": "Business",
+  "note": "Directory of WhatsApp communities (entrepreneurship/marketing/freelancing); invite links not extracted via search; check whether it exposes chat.whatsapp.com links."
+ },
+ {
+  "url": "https://blog.toolkik.com/best-educational-whatsapp-telegram-groups-for-students-2026/",
+  "category": "Education",
+  "note": "Out of slice (education = team29); listed here only as a pointer, not mined by team30."
+ }
+]

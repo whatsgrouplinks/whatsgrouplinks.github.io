@@ -1,0 +1,27 @@
+{
+ "team": 11,
+ "slice": "linkado sitemap 2700-3099",
+ "sources": [
+  "https://linkado.app/sitemap.xml (wave_20261110 copy; 19,731 grupo URLs, sitemap order = lastmod desc)"
+ ],
+ "verified": 61,
+ "pending": 5,
+ "leads": 0,
+ "dead": 243,
+ "exclusions": [
+  {
+   "code": "L3cvN0koxWp2m8AyeZrq6p",
+   "reason": "adult-sexual signals: Grupo de WhatsApp ⚡ - Figurinhas"
+  },
+  {
+   "code": "DC1Hx7OPSr2A86GZX97bGs",
+   "reason": "adult-sexual signals: Grupo de WhatsApp IMPÉRIO LGBTQIA+ 🏳️‍🌈 - LGBT"
+  },
+  {
+   "code": "GA9KKAPumIs0nvYo4xmE8c",
+   "reason": "adult-sexual signals: Grupo de WhatsApp THE NEW ERA OF SHITPOST 😈🥵 - Amizade"
+  }
+ ],
+ "resume": "next index 3100, https://linkado.app/grupo/695af8fcdee39681ec9e0ac1, lastmod 2026-01-04T23:43:28.933Z (last mined: index 3099, https://linkado.app/grupo/695af7bcdee39681ec9e0abf, lastmod 2026-01-04T23:43:29.567Z)",
+ "notes": "Mined 400/400 grupo detail pages (indices 2700-3099). Fetch failures: 8. Pages with no chat.whatsapp.com join link (Telegram-only/channel/removed): 21. Fresh candidates after dedupe vs 108992-code union: 309. Verified live via curl browser UA (HTTP 200 + non-empty og:title; empty og:title after 2 spaced retries = dead; transport failure = pending). All verified are Brazilian (country BR). No merge into groups.json, no generate.py, no deploy. Retry pass on the 25 transport-failure pendings: 4 went live, 16 dead, 5 still pending."
+}

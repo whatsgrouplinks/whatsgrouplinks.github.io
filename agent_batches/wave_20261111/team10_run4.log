@@ -1,0 +1,22 @@
+slice size: 400 first: ('https://linkado.app/grupo/69f39fa8d5fd7c2a1e6a510a', '2026-05-01T10:43:58.720Z') last: ('https://linkado.app/grupo/69bad4a849dbc7627d734998', '2026-03-19T00:04:46.458Z')
+resuming from checkpoint: 231 candidates
+fetched 281/400
+fetched 331/400
+fetched 381/400
+phase1 done: 400
+with WA code: 360, telegram-only: 32, channel-only: 6, no join link: 3, fetch-failed: 3
+union codes: 108992
+fresh candidates: 310, already in union: 50
+verified 25/310 live=5 dead=20 pending=0
+verified 50/310 live=14 dead=36 pending=0
+verified 75/310 live=22 dead=53 pending=0
+verified 100/310 live=32 dead=68 pending=0
+verified 125/310 live=35 dead=90 pending=0
+verified 150/310 live=47 dead=103 pending=0
+verified 175/310 live=56 dead=119 pending=0
+verified 200/310 live=60 dead=140 pending=0
+verified 225/310 live=71 dead=154 pending=0
+verified 249/310 live=85 dead=164 pending=0
+verified 274/310 live=97 dead=177 pending=0
+verified 299/310 live=109 dead=190 pending=0
+VERIFY DONE: live=113 dead=196 pending=0

@@ -1,0 +1,12 @@
+union codes: 108992 (existing 108992 + groups 73370)
+resuming: 400 mined, 0 to fetch
+mined done: 400 pages, fetch failures: 8
+fresh candidates (post-dedupe+screen): 309; dup-in-union: 63; no-join pages: 21; exclusions pre-verify: 3
+verify resume: 167 done, 142 to verify
+verified 175/309
+verified 200/309
+verified 225/309
+verified 250/309
+verified 275/309
+verified 300/309
+VERIFIED: 57 PENDING: 25 DEAD: 227 EXCL: 3 NOJOIN: 21 FETCHFAIL: 8

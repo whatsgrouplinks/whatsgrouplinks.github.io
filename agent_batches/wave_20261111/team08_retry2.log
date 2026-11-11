@@ -1,0 +1,10 @@
+failed to retry: 830
+100/830 codes-so-far 13227 elapsed 293s
+200/830 codes-so-far 14310 elapsed 451s
+300/830 codes-so-far 15538 elapsed 605s
+400/830 codes-so-far 16631 elapsed 780s
+500/830 codes-so-far 17700 elapsed 953s
+600/830 codes-so-far 18646 elapsed 1114s
+700/830 codes-so-far 21712 elapsed 1318s
+800/830 codes-so-far 22215 elapsed 1849s
+RETRY DONE still-failed 73 total-candidates 22680 elapsed 1976s

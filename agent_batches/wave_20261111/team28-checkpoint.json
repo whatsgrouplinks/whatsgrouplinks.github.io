@@ -1,0 +1,87 @@
+{
+ "checked": [
+  "groupslinks.com home + pages 1-12 (384 cards, 275 codes; 94 in union; 54 Gulf/pan-Arab candidates queued for verify)",
+  "whts.club sitemap news_pages.xml (1629 group pages; newest 60 being fetched)",
+  "whatshub.es (Blazor JS-gated; 4 codes only inside descriptions, Spain-based, out of slice - not banked)",
+  "app.grupodewhatsapp.com / grupodewhatsapp.com (Next.js; codes behind /group/<uuid>/join which hangs/403s from this VM - browser-only lead)",
+  "freewagroup.com (fully mined wave 20261110 team21, 0 verified - NOT re-mined)",
+  "groupwa.com Gulf jobs (mined wave 20261109 team18 - NOT re-mined)",
+  "gruposwapp.net API re-checked: newest listing still id 525 dated 2026-11-09 - NO new listings since wave 20261110 enumeration, fully exhausted",
+  "whatsagroupslinks.com Gulf jobs page (Cloudflare challenge - browser-only lead)",
+  "go.tuxmat.com Bahrain page (curl 000 unreachable - browser-only lead)",
+  "mida1.com Kuwait page (0 inline codes; friendship page 4 codes)",
+  "tikane10.com Gulf friendship listicle (4 codes)",
+  "losgrupos.app / grupeo.lat / gruposdewats.com / groupler.me (JS-gated or unreachable per wave 20261110 team28 - NOT retried, still leads)",
+  "linkado.app / igrupos / tugrupo.online / groupizo / ongrupos / whatsappkanali / appgrouplink (exhausted or other teams - NOT touched)",
+  "groupio.app (German, JS-driven, adult-heavy tags - out of slice, known lead only)",
+  "Solion (app-only, no website - Play Store lead only)",
+  "Busca Grupos (no verifiable website URL found)"
+ ],
+ "counts_so_far": {
+  "gl_candidates": 54,
+  "gl_dead_so_far": 10,
+  "gl_done": 24,
+  "gl_live_so_far": 13,
+  "gl_pending_so_far": 1,
+  "listicle_candidates": 8,
+  "whts_pages_done": "~30/60"
+ },
+ "jobs_running": {
+  "gl_verify": "proc_2d4a7f2c557b (24/54 done)",
+  "whts_fetch": "proc_4aa05d1b0305 (~30/60 pages done)"
+ },
+ "next_steps": [
+  "wait for gl verify + whts fetch to finish",
+  "dedupe whts.club codes vs union, screen, verify",
+  "verify 8 listicle codes (names from og:title)",
+  "assemble team28 output files + summary"
+ ],
+ "team": 28,
+ "updated": "2026-11-11 ~13:05 PKT",
+ "wave": "20261111",
+ "stage": "DONE",
+ "groupslinks_verified": "22 live / 21 dead / 11 pending (gl_verified_raw.json)",
+ "whts_refetch": "DONE 39/39 pages, 39 codes, 31 fresh candidates, 8 union-dups (whts_pages.jsonl)",
+ "combined_verify": "48 codes running (whts 31 + listicle 6 + gl-pending 11) proc_91a84c9f50ac",
+ "whts_failed_pages_leads": [
+  "https://whts.club/6448-memes-conspiranoicos-247.html",
+  "https://whts.club/6450-unete-amor-si-estas-aburrido.html",
+  "https://whts.club/6451-chismoseando-con-las-girls.html",
+  "https://whts.club/6452-.html",
+  "https://whts.club/6455-grupo-disponible-si-estas-aburridoa-ok.html",
+  "https://whts.club/6456-los-herederos-del-tato.html",
+  "https://whts.club/6457-promociona-tu-grupo.html",
+  "https://whts.club/6459-amigos-sin-fronteras.html",
+  "https://whts.club/6460-unete-para-socializar-d.html",
+  "https://whts.club/6465-benebolivianos-del-5-planeta.html",
+  "https://whts.club/6466-buscar-el-amor.html",
+  "https://whts.club/6470-ivan.html",
+  "https://whts.club/6472-academia-de-soldadura.html",
+  "https://whts.club/6497-shadow-and-love-stickers.html",
+  "https://whts.club/6500-gta-san-andreas-wallpapers-amp-fans.html",
+  "https://whts.club/6501-adeleelham-shadow-love.html"
+ ],
+ "whts_zero_code_pages": [
+  "https://whts.club/6528-zona-vip-505.html",
+  "https://whts.club/6523-actividades-paraguay.html",
+  "https://whts.club/6521-mercado-libre-cupones.html",
+  "https://whts.club/6518-free-fire.html",
+  "https://whts.club/6517-stikers-hot.html"
+ ],
+ "next": "wait for combined verify, screen live with screen.py, assemble 4 output files",
+ "verified": 33,
+ "pending": 7,
+ "leads": 28,
+ "dead": 49,
+ "exclusions": [
+  "KkKQsWHSNibIMTA1wPN3h8 (trading-profit scam)",
+  "KByTwCwllZdFZQxVfEjKq0 (adult/sexual-suggestive 'Grupo hormonal')"
+ ],
+ "files": [
+  "team28-newdirs-latam-gulf.json",
+  "team28-newdirs-latam-gulf-pending.json",
+  "team28-newdirs-latam-gulf-leads.json",
+  "team28-newdirs-latam-gulf-summary.json"
+ ],
+ "resume": "groupslinks pages 13+ unmined; whts.club ~1,569 further group pages in news_pages.xml + 16 timed-out detail pages (leads file); 7 pending codes to re-verify in a quiet window."
+}

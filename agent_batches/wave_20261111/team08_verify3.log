@@ -1,0 +1,26 @@
+raw 22680 unique-in-slice 14964
+already-in-existing 9945 fresh-to-verify 5019
+pre-screen excluded 653 todo 4366
+resuming: already banked 18 remaining 4348
+200/4348 verified=20 pending=0 dead=195 excl=656 elapsed=148s
+400/4348 verified=26 pending=0 dead=388 excl=657 elapsed=270s
+600/4348 verified=32 pending=0 dead=581 excl=658 elapsed=385s
+800/4348 verified=32 pending=0 dead=781 excl=658 elapsed=502s
+1000/4348 verified=32 pending=0 dead=981 excl=658 elapsed=617s
+1200/4348 verified=32 pending=0 dead=1181 excl=658 elapsed=729s
+1400/4348 verified=32 pending=0 dead=1381 excl=658 elapsed=838s
+1600/4348 verified=33 pending=0 dead=1580 excl=658 elapsed=953s
+1800/4348 verified=34 pending=0 dead=1779 excl=658 elapsed=1064s
+2000/4348 verified=34 pending=0 dead=1979 excl=658 elapsed=1175s
+2200/4348 verified=34 pending=0 dead=2179 excl=658 elapsed=1285s
+2400/4348 verified=35 pending=0 dead=2378 excl=658 elapsed=1393s
+2600/4348 verified=35 pending=0 dead=2578 excl=658 elapsed=1500s
+2800/4348 verified=35 pending=0 dead=2778 excl=658 elapsed=1606s
+3000/4348 verified=37 pending=0 dead=2976 excl=658 elapsed=1712s
+3200/4348 verified=37 pending=0 dead=3176 excl=658 elapsed=1819s
+3400/4348 verified=39 pending=0 dead=3374 excl=658 elapsed=1924s
+3600/4348 verified=41 pending=0 dead=3572 excl=658 elapsed=2030s
+3800/4348 verified=41 pending=0 dead=3772 excl=658 elapsed=2137s
+4000/4348 verified=41 pending=0 dead=3972 excl=658 elapsed=2244s
+4200/4348 verified=42 pending=0 dead=4171 excl=658 elapsed=2354s
+VERIFY DONE verified=42 pending=0 dead=4319 excl=658 elapsed=2432s

@@ -1,0 +1,15 @@
+mine: 3603 pages to fetch (total 3603)
+  mined 100/3603 pages, candidates=263, gi_slugs=0, linkado=0, groupizo=0, failed=7
+  mined 200/3603 pages, candidates=263, gi_slugs=0, linkado=0, groupizo=0, failed=21
+  mined 300/3603 pages, candidates=263, gi_slugs=0, linkado=0, groupizo=0, failed=45
+  mined 400/3603 pages, candidates=263, gi_slugs=0, linkado=0, groupizo=0, failed=137
+  mined 500/3603 pages, candidates=264, gi_slugs=0, linkado=0, groupizo=0, failed=224
+  mined 600/3603 pages, candidates=264, gi_slugs=0, linkado=0, groupizo=0, failed=324
+  mined 700/3603 pages, candidates=264, gi_slugs=0, linkado=0, groupizo=0, failed=424
+  mined 800/3603 pages, candidates=275, gi_slugs=0, linkado=0, groupizo=0, failed=482
+  mined 900/3603 pages, candidates=467, gi_slugs=0, linkado=0, groupizo=0, failed=489
+  mined 1000/3603 pages, candidates=492, gi_slugs=0, linkado=0, groupizo=0, failed=489
+  mined 1100/3603 pages, candidates=494, gi_slugs=0, linkado=0, groupizo=0, failed=576
+  mined 1200/3603 pages, candidates=494, gi_slugs=0, linkado=0, groupizo=0, failed=676
+  mined 1300/3603 pages, candidates=494, gi_slugs=0, linkado=0, groupizo=0, failed=776
+  mined 1400/3603 pages, candidates=494, gi_slugs=0, linkado=0, groupizo=0, failed=876

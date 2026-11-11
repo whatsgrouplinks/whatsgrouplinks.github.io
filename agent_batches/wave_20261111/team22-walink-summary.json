@@ -1,0 +1,49 @@
+{
+ "team": 22,
+ "slice": "walink.pk",
+ "sources": [
+  "https://walink.pk/",
+  "https://walink.pk/whatsapp-group-video/",
+  "https://walink.pk/private-whatsapp-group-link/",
+  "https://walink.pk/sitemap_index.xml",
+  "https://walink.pk/post-sitemap.xml",
+  "https://walink.pk/page-sitemap.xml",
+  "https://walink.pk/category-sitemap.xml"
+ ],
+ "verified": 0,
+ "pending": 0,
+ "leads": 3,
+ "dead": 3,
+ "exclusions": [
+  {
+   "code": "IcidlK8xTVrEZyKxr1wNyb",
+   "reason": "name 'Hot Naughty chat' + eggplant/water/peach emojis; section 'Desi Maal Pakistani viral videos' with kiss emoji — explicit adult/leak"
+  },
+  {
+   "code": "KmC94dgF2oBJs3lHQwLMmR",
+   "reason": "section '18+ WhatsApp Groups' on private-whatsapp-group-link page — 18+ adult"
+  },
+  {
+   "code": "LBAggolo7xTADdJyfbRblq",
+   "reason": "name 'All Pakistan Leak Video New All TikToker' + hot-face/kiss emojis — leaked videos"
+  },
+  {
+   "code": "CLJEhxP1b2s0w1g3pSSaVT",
+   "reason": "name 'Exclusive Chute' + volcano/fire/thermometer emojis — sexual slang"
+  },
+  {
+   "code": "KZrvxREFR1hBZNQvqVC01D",
+   "reason": "name 'Sex Hard Porn' (stylised unicode) — explicit porn"
+  },
+  {
+   "code": "HkKpS6AHRGZ8OR4d3RWL91",
+   "reason": "name 'Leaked Video' + fire/heart emojis — leaked adult videos"
+  },
+  {
+   "code": "GO5smywdOksJdfnS4u3ReD",
+   "reason": "name 'Only fucking videos' (obfuscated unicode) + hot-face/kiss emojis — explicit porn"
+  }
+ ],
+ "resume": "SOURCE EXHAUSTED for clean groups — confirmed again this wave. Full sitemap enumeration (post-sitemap: 12 URLs) shows only 2 listing pages unmined yesterday (whatsapp-group-video, private-whatsapp-group-link); both mined today and yield ONLY adult codes. Fresh homepage (103 unique codes) produced zero new codes vs Nov-10 + union. The 3 Nov-10 pending codes re-verified today with spaced retries (HTTP 200, empty og:title on 2nd completed attempt each) and are now DEAD. Do not reassign walink.pk for clean mining; any future run should only re-check the homepage for newly added clean entries.",
+ "notes": "Fetch: Python urllib with browser UA, 60-90s timeout (direct curl to walink.pk times out; same as Nov-10). Parse: 119 unique codes across homepage + 2 new pages; 65 already in the 108,992-code union; 47 seen Nov-10 only; 7 fresh — ALL 7 excluded on name/section screen (explicit porn/leak/18+), none verified (blocked regardless of liveness). Pending retries: sequential, 20s spacing, no throttling seen. Dead this wave (3): KzwO6LVoaS8DT0LBwqu16S, Fp53YAbEUa78T4zAZcCjRZ, KR7gWco4iCw3aRB8JtcI70 — each now has 2 completed HTTP-200 empty-og:title attempts (Nov-10 + Nov-11). No scam codes (B-Love/Forsage/SHEYI/HOLIVERSE) surfaced. No clean groups found on this source in two consecutive waves."
+}

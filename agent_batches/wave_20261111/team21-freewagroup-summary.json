@@ -1,0 +1,15 @@
+{
+ "team": 21,
+ "slice": "freewagroup.com",
+ "sources": [
+  "https://freewagroup.com/wp-json/wp/v2/posts?per_page=100 (pages 1-4)",
+  "https://freewagroup.com/wp-json/wp/v2/posts?per_page=100&_fields=id,date,modified,slug,link,title,content,categories"
+ ],
+ "verified": 0,
+ "pending": 0,
+ "leads": 38,
+ "dead": 106,
+ "exclusions": [],
+ "resume": "Slice fully mined; nothing to resume. Site UNCHANGED since Nov 10: still 313 posts (X-WP-Total), newest post 2026-11-08T22:02:20 (gacha-life-club), max modified 2026-11-08T22:02:21, no posts added or modified after 2026-11-08. Same 106 fresh-vs-union codes as Nov 10 (union now 108,992 codes). Only re-run if the directory publishes new posts (check newest post date / max modified via the WP REST API).",
+ "notes": "0 verified / 0 pending: the 106 fresh codes are the IDENTICAL set Nov 10 verified DEAD (HTTP 200 + empty og:title, up to 3 spaced attempts each). Spot re-check today (Nov 11) of 12 spread codes incl. the 2 Nov-10 cross-checked codes F9Vgqc9PSZX0trsy9yksNq and IKTH3CsUUP16goKZDUxIQv: all HTTP 200 with EMPTY og:title on 2 spaced attempts = still DEAD; the other 94 are the same unchanged codes, so no full re-run was warranted. Detector sanity-checked today: known-live control code Gs2YArMZSPG2hTUmkzqWCE returned og:title 'International Manpower Solutions @ 20'. Content screening of all 106 fresh names/bodies: 0 exclusions (no scam/adult signals; negated-prohibition sentences stripped before the adult-emoji screen). Direct curl to freewagroup.com/sitemap.xml still returns empty from this VM (as Nov 10); mining done via WP REST API. Leads = the same 38 category/theme listing-page URLs as Nov 10 (28 category listings + 10 theme listing pages with no invite link), carried over as plain URL strings per this wave's spec. Checkpoints: team21-freewagroup-posts-raw.json (313 posts), team21-freewagroup-codes.json (302 codes), team21-fresh-codes.json (106), team21-spotcheck.json."
+}

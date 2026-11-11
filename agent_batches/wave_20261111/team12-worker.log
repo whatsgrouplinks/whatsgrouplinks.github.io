@@ -1,0 +1,29 @@
+slice size: 1500 | existing codes: 108992
+Phase A: 1049 detail pages to fetch
+Phase A done
+Phase B: 453 codes to verify | existing-skip=890 dup-in-slice=2 no-link=148 fetch-fail=7
+DONE {
+ "team": 12,
+ "slice": "linkado sitemap indices 0-1499",
+ "sources": [
+  "https://linkado.app/grupo/<slug> (sitemap order, lastmod desc)",
+  "https://chat.whatsapp.com/<code> live check"
+ ],
+ "verified": 11,
+ "pending": 0,
+ "leads": 21,
+ "dead": 442,
+ "exclusions": [],
+ "resume": "complete",
+ "notes": {
+  "indices_covered": 1500,
+  "no_whatsapp_link_pages": 148,
+  "codes_already_in_union": 890,
+  "dup_codes_within_slice": 2,
+  "detail_fetch_failures": 7,
+  "last_mined_url": "https://linkado.app/grupo/6a65af26e23989897b640a73",
+  "last_mined_lastmod": "2026-07-26T11:52:56.927Z",
+  "next_index": null,
+  "country": "BR for all (Brazilian site, pt_BR)"
+ }
+}

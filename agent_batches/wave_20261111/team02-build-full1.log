@@ -1,0 +1,4 @@
+extracted 740 ok 722 fetch_fail 18 no_code 3
+cands 706 dup_existing 10 dup_within 6 exclusions 14
+reuse live 12 dead 0 to_check 694
+verified 50/694 live 14 pending 0 dead 48 elapsed 520s

@@ -1,0 +1,47 @@
+{
+ "team": 17,
+ "slice": "groupssor API latest-500",
+ "sources": [
+  "https://groupssor-api.blog-99n.workers.dev/api/groups"
+ ],
+ "verified": 1,
+ "pending": 0,
+ "leads": 0,
+ "dead": 0,
+ "exclusions": [
+  {
+   "code": "JpJ2dcf8kMJHj7vBA5xTH8",
+   "reason": "Money-contribution / betting-scam pattern — '10 to pack 100k only serious people needed', description 'to contribute and gain too' (NG, created 2026-11-11T05:19:26Z); dropped on sight, not verified"
+  },
+  {
+   "code": "",
+   "reason": "Telegram platform, not WhatsApp — 'GitHubAITools' (technology), created 2026-11-11T05:38:37Z"
+  },
+  {
+   "code": "",
+   "reason": "Telegram platform, not WhatsApp — 'AnonConfessionsHub' (dating), created 2026-11-11T05:38:08Z"
+  },
+  {
+   "code": "",
+   "reason": "Telegram platform, not WhatsApp — 'annospicychat' (dating), created 2026-11-11T05:37:39Z"
+  },
+  {
+   "code": "",
+   "reason": "Telegram platform, not WhatsApp — 'DeepSeek | ChatGPT Bot' (technology), created 2026-11-11T05:37:06Z"
+  },
+  {
+   "code": "",
+   "reason": "Telegram platform, not WhatsApp — 'DeepSeek & ChatGPT на русском' (technology), created 2026-11-11T05:36:34Z"
+  },
+  {
+   "code": "",
+   "reason": "Telegram platform, not WhatsApp — 'DeepSeek & ChatGPT en Español' (technology), created 2026-11-11T05:36:01Z"
+  },
+  {
+   "code": "",
+   "reason": "Telegram platform, not WhatsApp — 'Deepseek4chat' (technology), created 2026-11-11T05:35:28Z"
+  }
+ ],
+ "resume": "Next poll: only entries with createdAt newer than 2026-11-11T06:21:18.305Z (newest entry this run, CHEGA MAIS!). API returns a fixed latest-500; this run's window was 2026-11-09T20:49:03Z to 2026-11-11T06:21:18.305Z.",
+ "notes": "API returned 500 entries (newest 2026-11-11T06:21:18.305Z, oldest 2026-09-01T13:58:59Z); only 9 entries were newer than the Nov-10 cutoff (2 WhatsApp, 7 Telegram). Dedupe union measured 108,992 codes. The one verified code returned HTTP 200 with non-empty og:title matching the directory name on both attempts (checked twice, 3s apart). The 18+ marker on the verified group is an age gate on a friendship/chat group, not porn content — allowed per rules. No transport failures, no dead codes, no unmined listing-page URLs (API-only slice)."
+}

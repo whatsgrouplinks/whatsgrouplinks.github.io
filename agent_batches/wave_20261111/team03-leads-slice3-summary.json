@@ -1,0 +1,859 @@
+{
+ "team": "team03",
+ "slice": "leads slice 3",
+ "sources": [
+  "linkado.app grupo pages (3,603 listing URLs)"
+ ],
+ "verified": 196,
+ "pending": 0,
+ "leads": 558,
+ "dead": 2608,
+ "exclusions": [
+  {
+   "code": "CFCHY51VASD1jXM72tCubR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GZX1NTBzlQuBYPSQnVRJio",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EFPQQcra3thKZRluqc8beL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GbTPvMxL1mg2ZUNPet1SwI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FjXVQvzqzrjKiQWwBE6No0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EFiHh0sp5bLKwKrqsXcpI1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GxILKY1ZK8zElKr9qcVmBz",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gzea1KS1wmxHOzSJ0q3QNZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BBgqzGEMUKm8YVrC80XsjX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KMMu3ZgSh3K115JEpCs0Sr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DgzCfnkK7axILOpOTZT0qd",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JZ9hRn019fP2zNQxZS3xXa",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BwETgDwXXEfJifvGd7vn3M",
+   "reason": "blocked porn: \\bporn[oô]?\\b"
+  },
+  {
+   "code": "BdjmCulXlbZDpHS00QxfhV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HNrDgsJnP7NFvFqRYD0hef",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DKBld25NY4OEO7Oo86PpwG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kr4jayY31E3HhVQczqSQe1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JltkhUv3c5ZKhHOKXHeKJp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HLpFRVWeRtKEJQnxfj2Cab",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LI8UrAeqQZT4esb0RK2Fu9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ec3tkv6elwiI4GgDuspA8M",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JvlK5nD2qcz06BroUq6doL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K9gnElLWgrfJFp3phUjFea",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EKvg331UNxjGUE75YYN2Qp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JCfXC5RwwFf7jiDZugtzUA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CDNzTJUuKzLHLdMrAofxK9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C2Joc0FJxFx7rW420k56rc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IZxGxkwHDPj2zXw10xWiwi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DumGU2xCMlDDnJAQpRLcDF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CZyiCaYcmLEHfbzq6YXo5G",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G8KAW0p3BkF0C6FfkhUvUH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fv8tLA6USyq4ZmVpE7wI7H",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DZpd4PFRPZV0jzetsSNvD9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H7ib2ZtvK8R4QJvWDHTmuM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IsQwto9xaA8G9MpsZ8pBMu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KPn6pAohS34LcTXTORbCmF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Et8kdQMF25lB6YdiR4NOfj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "B7I1aQI8HPvDajJiS7WK4A",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LVR7oFnF0GY6PlxQKCGid0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kyc9HTMMaDIL40nPRsPM8C",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KV9ldJdVGzc3Rctasq7pfv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DSfmIOiYIuVLpRMuVpEC1l",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IlCsroa8JS2CfDi9qw7RTg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JcHNj0h0owwDqxMcXcfgjg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dq15DBRgyuu06aIIxxMByB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HWyCjH9nZ857m5BMrgFKl6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IvoIFJrkXPu3IxpEuWVenR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HZwYU2CIGEc9VT9n0Y5sy1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ICqM7dD2VShGiQ503ZkOjQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IT0G33gXrcx8TZA1MVAQEE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JeTLsDEUv1FADK4HzCtY63",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BB9qSzgUX6s8mDVay7Kqfq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LK84Iz55DsA1o2DQeZI3Ht",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ENQ5LYlWaVs91y4mV55sIB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G6yIG9l53Zr7OMl7AuL5Xo",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LIwWIuYKald0xFmfbw1n0r",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EwBkmcfFBji0zVG7C6ouCo",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Hdqu1VROLNV6Ej1CwTAL6a",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HGaGY8smdyCIvS9UVTHHnr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Iq9RoT7H08vFcjWuIv79L7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FJ2cvV7ly6a72uBX5hr1FU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I15G8jueoHH7LW4Af3aFrs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LHg5oTJ0WDD5x3QCXdkmIW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D4vqxXYCTLW91UueF6OJDx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DghUnWi4e4T4tw4lqNtnYb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dt5xpFtIXyE9tH2YUmtSgL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KuNmuIFld6d0akWtIcQODi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CjcldJbe1A63o2P3C86YWp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J7utrF8PSmz9nmHnjiG6Cb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CxKaPWz5jfS6jX9zCVLcop",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LwbASUedhOH5Lyt7uM8nas",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CuA3N8lPnVGBrD0Ze6hcNZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KIhO949cUmcBvtYV9QF4zp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E2OCwKbp1qDISHWphpDA3f",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H0O8PbpArM9DfgK3owzmXZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FE6iHfWeooC10HtAT5sSkl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K5cNznatJVr6Z1j99LuxFs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H7ZXxq5BOJ35oDBEeAcuCm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CWN0sGVmTZ56u6CKUSvhAH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HZz5erG02ZTFRUVZmAJKti",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HKSpiQjrPka7NHtxC68JE5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G6EmjN9gKrwDrWaY7nWdv7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jdrfzv6n1Y7Fyz8RyN4Dli",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LLxveqmFjVSDrgCNZS37Pj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dvuujoxy49mDmtckio3lTZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BXU7u7Fxzbz0kYPvTaYMPc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FgzrBCWxREsL4WKbCzAaSG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CpGGUBP7HZOIdDyUBiSaQa",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "B7b1D1vCwkI3Zk078jDu2O",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J9Lemi3NP1B2iIn7pzlCW1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C8RmWA40qLS2IRU83EQooS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C4gcklJWrT5HBbviAUMGPL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FP0HQqmg8Z9KZJMGlHDOUU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BxKRANwoYG121BuUXNlEIe",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FtGSftjLUaJAvT1VWDyW8F",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cc1I8Fwy18mFOIX6vywtVH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IydFURElhB4EYGRVtDju3J",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KnXLoctpBc63H8lcP4g1tP",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GOH9YrWxGPuKwj1hRytCTa",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HrzaD1EIQndEEMsxeZiXDn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BnAjRK65BKyH6L8SDGdem5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CcnNz00HO2wDlOwowj108O",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KV409AdGWsH6wzeWStk2HH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DFQXHXRBY17LtQxHc17dNp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Drqb2j5YMT7HJU4vaPNHRM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KmbbGtcwJnmA3bwhQ7aea4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HeXqlyDNeDm01JDPoyBjx0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kfs7ZsrmLsbIBEAFwJ5gxG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KWXyGFDYds1Cs7gqmntilq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JKRiulQY6ARHjpHle7yOVi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HIxnOjTp5WM8gzUw7un5OH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CGS7unaCJPZBT18u8r6iiW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BzJkmK5VLVqAukb5avaUST",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IGqI4WnKIxAB3sU7MIxUzf",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EfdnVDfe3myFfySxFbxmkm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FLvJOavQsi41fJqRgxTZCE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KzjYiXq2bNyKgow2sKxV9l",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D47ZBB2DeYjAzWuBFCXGlu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DA7lIcBPQyRCCEggN5FFMc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D11YHj2Vg95KXaTH6P8R01",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cu7kATTjT2tLNTvgbYsDGO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H1Ps4MTxuuBFAjw4W1xXKK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dk922ffCZiM7Jg4yaB7YFd",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BdWdnxVfUVt14bDn0dn8WB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GkGUoBuRUm0FG1myOCjZDN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FMesMVGxStq99WYnhI7i76",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BDZtMWxH9sC61QpcJKOyYz",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EDjKsmg3AwWHB4BGCFKyRr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "B88wV2c2DtA9DQpeqPlmnc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IlAsJC8ghZHAdPcynttgLG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BiHdW3afQIc7PwLS6Nlace",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KwPe9XefRYo5LTeTjW3cqL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KP6mxEySuRVAgbD0mQslgQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GodNeYt8HHI1XfpfIMg1DE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EpxoAuLsOQnBu9O2dQ9crj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CZE3hi5mtjx741yG5mhmbr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ITkU9K4EbxtEHGny1u5wPS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IvMm6F4OYtHGCiJHkMo0AG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GWUYsgsXUccKPYTDiG3O6z",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "3yzwLWuB4KbKA3rfw62hJ6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GurjBdzgsBv4beMC0Rt7xn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FEzYNFFT2VKLJCOQIVuxVb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D0tmpZ8I17VI5dTThTOBdE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CtV1xVijTKT1xsMV6pwwAh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gf73CYdlVuuBIBkYkVOtBx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jq1uFmEa5R9K5DsluJyHQQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EaThxZQbOcxEHycyglRRZG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Lc0uteqPawNEFUJAfmQC9v",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JsIAozsBKYRLQFRcE5KFX7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H25I0bzQNgv0AXd3siiDLO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Lf517LmI0WaBbu4UJnxsjb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K4UrdLOrxAgCeLX3KBOOI5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FngMOG9lCVkFqEwSI9gSJ2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EkaDNao37Qx5SlgGK4N8Mp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HYyR70dQAfXLS5acGEjvVL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FdY3cJdTU9HFWNri0lAf4Y",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cim6ZTF1XruFKyS6w8Pg8b",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L1NUYmTGJ672LTVbbQrwE7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FTXPllqXDTKKv4d1jUvY9G",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Blbbix3rpRUEAQRb7usR2Y",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GWGvhqBiNSk2lPOtYQNuFi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JKMvyadRydOL88fxAVglH6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LeX1V1N7oZfASc4gIqya5e",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LonW8GX5RHZAhLFFlFBU8c",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DMcKc7cAvwA2Tt5M7aEWRc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BwvqA3Vlrwh8FZxwd2908J",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EIITOtN877hLHtIWDkbJoR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CdffusKAxOn2l4qcH6ygAV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "B9iOBDyOo1SD45ujfzLPzk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CV4tCWZKOGJCOLjcsxE29C",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KOBaqrq7vy82V15e1Qrkoj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ja1hjDbZGfhB4GOvSuUfFn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I7PaYRy4KTy88s6eEBZJfF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H0S18SNE8YgDN6onC3DM1R",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FyB9pd3KrEy4mJAP4T9cCF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BCuNmkbAZTcFPzAhutOYaU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IJ9EZepWXZQETyUUnznO4w",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ea3Nx0TMzskE6vndbbSS6f",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E2EYqQXoUHYEfDwO9D6JUO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EKNVLCaIiHIAFd71JOJoBG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CH3L1TPY5tPC6QqxS6UzqQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E3rw4LetBFC9mNAm83ggtF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JnFQFvZDZ1L63RyzGDjQiO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EWjXWFhWei6JCL9I7q4zvr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JwqSp6ilUAIGHk2uNAZg9d",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LUuRevT0ulf9oIIs4OthuQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FuluuvDeK4VGvDvQWxiR4f",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LAOcbawfYf51gV8qWWHRUd",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IEfcyHnG2LH9CVMAjCjDtI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "B4jHjRBBFIjBLCAwrzmxQS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GBW0VPmd6M39U5oqQMhOTi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FEQ3qKV3tobCmFKgoryxUb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JX48iEt7FzQLFH1Dh1tMXm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EyPVk17vrpK6YWeIl1kZ1I",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DX0kAoufuRqBjCAqvTmPjp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JSruuiUkpNiJAz1V28Oao4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FxZ4xyoJHB99va1GrUPk6w",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ba7CEBfsqW28ZeLg4aikO5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IGEaVYcJtqJ1xEwfrxjzmv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EyaIQP5davZCx6vFmF9U1y",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JRinbs8RW17IjCcKZOFnKZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Eu9AeuQnAoBF8HIpbx563P",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E2jVJBIXlIRFvtzDCyu7ri",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LbYR9wdHLnmC3IJOcw8YRu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EOCKzsXxmPJHG66Yyafewu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LlJYN8k7rWb5iqJ4bAgNHb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CZ1fqdZDdJNHwfjFXLRo1s",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CRaZa1eOtX27yTnoPhQi2U",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LKytYePpX1p2cZ2rJ4W9A9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FxZzDFIU49B8ZUyBPmbOGH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DxfZYZCUwTHD79PkhRixAo",
+   "reason": "already in groups.json (existing code)"
+  }
+ ],
+ "resume": "fetch+verify complete for this slice; retry 558 JS-gated listing URLs in team03-leads-slice3-leads.json via a live browser click to reveal each invite code, then verify normally",
+ "notes": "All 3,603 listing pages are linkado.app grupo pages (pt-BR). Country BR set from site locale/content. Descriptions sanitized: HTML entities unescaped; emails/URLs/phone-like digit runs/@-handles removed. Live = HTTP 200 + non-empty og:title on chat.whatsapp.com, retried once, 6 workers with keep-alive sessions. Calibrated with a known-recent live code (IEVoRrrNFPnEtJTHWROfD1 -> og:title Amizade e Zoeira) and 3 sampled dead codes re-checked by fresh curl (empty og:title). 558 leads are listings whose invite link is NOT in the static HTML (JS-gated Entrar no Grupo button, no invite/link field in page) — a live-browser click is needed to reveal the code; do not re-fetch statically. Slice is old listings (mostly 2021 grupo IDs), hence the high dead rate (2,608/3,015). VM egress charges ~30s per NEW connection; keep-alive sessions per worker thread were essential (fetch 3,603 pages, verify 3,015 codes)."
+}

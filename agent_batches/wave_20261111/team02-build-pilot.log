@@ -1,0 +1,4 @@
+extracted 382 ok 382 fetch_fail 0 no_code 3
+cands 365 dup_existing 4 dup_within 2 exclusions 16
+verified 50/60 live 8 pending 6 dead 36 elapsed 618s
+BUILD DONE verified 12 pending 6 leads 3221 dead 42 elapsed 710s

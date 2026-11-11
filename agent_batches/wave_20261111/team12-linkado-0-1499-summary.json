@@ -1,0 +1,46 @@
+{
+ "team": 12,
+ "slice": "linkado sitemap indices 0-1499",
+ "sources": [
+  "https://linkado.app/grupo/<slug> (sitemap order, lastmod desc)",
+  "https://chat.whatsapp.com/<code> live check"
+ ],
+ "verified": 7,
+ "pending": 0,
+ "leads": 21,
+ "dead": 443,
+ "exclusions": [
+  {
+   "code": "IMfuyRPx7q0DJjuzaHQsXg",
+   "reason": "hard-porn/xxx: xereca",
+   "name": "Xerecasardentes2.0🥵🔞🥵"
+  },
+  {
+   "code": "DdxwQZq3IIf5C7iw2H2SRv",
+   "reason": "illegal-sale: vendas?\\s+de\\s+documentos",
+   "name": "VENDAS DE DOCUMENTOS ( NÃO COBRAMOS NADA ANTECIPADO)"
+  },
+  {
+   "code": "CDjqbJ54fThH9cAP5QrQs6",
+   "reason": "hard-porn/xxx: sigilo.*🔞|🔞.*sigilo",
+   "name": "🔥+🔞No Sigilo SP e Região +🔞🔥"
+  },
+  {
+   "code": "JBfEEIxz6Io6SGyKA7OOAH",
+   "reason": "illegal-sale: cartel.*cart[õo]es",
+   "name": "CARTEL DOS 7 - CARTÕES VIP 💲💲💲"
+  }
+ ],
+ "resume": "complete",
+ "notes": {
+  "indices_covered": 1500,
+  "no_whatsapp_link_pages": 149,
+  "codes_already_in_union": 895,
+  "dup_codes_within_slice": 2,
+  "detail_fetch_failures": 0,
+  "last_mined_url": "https://linkado.app/grupo/6a65af26e23989897b640a73",
+  "last_mined_lastmod": "2026-07-26T11:52:56.927Z",
+  "next_index": null,
+  "country": "BR for all (Brazilian site, pt_BR)"
+ }
+}

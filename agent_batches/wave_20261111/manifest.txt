@@ -1,0 +1,189 @@
+# WhatsGroupLinks wave 20261111 — coordinator manifest
+# Run: Wed 2026-11-11. Coordinator spawned 32 teams, consolidated their
+# final files on disk (coordinator_build_clean_20261111.py + repair + finalize).
+# groups.json baseline: 73370 groups.
+# Dedupe union: 108992 codes (.existing_codes.json; groups.json codes are a subset).
+# Coordinator validation: 0 union leaks, 0 schema errors (after repair), 0 dup codes in clean.
+# Coordinator spot re-check: 35/35 sampled clean codes confirmed live
+# (sequential curl-equivalent, persistent session, non-empty og:title) + controls OK
+# (known-live groups.json code live, fabricated code dead) — see
+# coordinator_verify_state_20261111.json.
+#
+# TOTALS
+#   raw team items:                    3183
+#   cross-team dups (first-team-wins):  84
+#   union leaks:                         0
+#   schema errors:                       0
+#   screen-excluded (coordinator):       21
+#   coordinator false-positive restores: 22  (prohibition sentences / sexta-Friday / chuta-verb / 18+ age gates)
+#   coordinator spot-verify drops:        2  (AI-trading daily-profits scam, team28 flag; sports-betting recruitment group)
+#   schema-error names recovered:         5  (team09 empty names, og:title used)
+#   verified unique (clean file):      3078  (wave_20261111_clean.json)
+#   groups.json would become:          73370 -> 76448 (parent merges)
+#   pending (transport failures):      1111  (wave_20261111_pending_all.json)
+#   leads (unique URLs + codes):      21834  (wave_20261111_leads_all.json; 6924 URLs + 14910 unverified code strings)
+#   excluded (coordinator screen):       21  (wave_20261111_excluded.json)
+#
+# PER-TEAM TABLE: team | slice | verified raw | kept in clean* | pending | leads
+#   01 | leads slice 1              |  125 |  125 |    9 |  1448
+#   02 | leads slice 2              |  525 |  524 |    0 |    19
+#   03 | leads slice 3              |  196 |  196 |    0 |   558
+#   04 | leads slice 4              |  477 |  472 |   26 |  2506
+#   05 | leads slice 5              |  810 |  807 |   18 |   172
+#   06 | leads slice 6              |  181 |  180 |    0 |   241
+#   07 | leads slice 7              |   46 |   45 |  599 |   595
+#   08 | leads slice 8              |   42 |   37 |    0 |    73
+#   09 | pending recheck            |   14 |   14 |  302 |     0
+#   10 | linkado sitemap 2300-2699  |  104 |   66 |    0 |     0
+#   11 | linkado sitemap 2700-3099  |   61 |   34 |    5 |     0
+#   12 | linkado sitemap 0-1499     |    7 |    3 |    0 |    21
+#   13 | groupjoin new              |    2 |    0 |    0 |     3
+#   14 | 77links                    |  115 |  115 |    0 |    11
+#   15 | tugrupo                    |    0 |    0 |    0 |    10
+#   16 | grupbul                    |    0 |    0 |    5 |     2
+#   17 | groupssor                  |    1 |    1 |    0 |     0
+#   18 | grouplinksforyou           |    0 |    0 |    0 |     0
+#   19 | groupsnest                 |    0 |    0 |    0 |     0
+#   20 | wglfinder                  |   11 |   10 |   15 |   766
+#   21 | freewagroup                |    0 |    0 |    0 |    38
+#   22 | walink                     |    0 |    0 |    0 |     3
+#   23 | groupsinvite               |   20 |   16 |    0 |     0
+#   24 | whtspgrouplink             |    4 |    0 |    7 |   357
+#   25 | new dirs South Asia        |   12 |   12 |    0 |    13
+#   26 | new dirs Africa/Mideast    |   16 |   16 |    0 |    35
+#   27 | new dirs SE Asia           |   74 |   73 |    2 |    16
+#   28 | new dirs LatAm/Gulf        |   33 |   31 |    7 |    28
+#   29 | listicles edu/jobs         |    9 |    9 |    0 |     6
+#   30 | listicles mixed            |    0 |    0 |  163 |     5
+#   31 | tglinkhub verify2          |  298 |  292 |   62 | 11587
+#   32 | igrupos geogated           |    0 |    0 |    0 |    66
+#   * kept-in-clean counts are after cross-team first-team-wins dedupe (team-number
+#     order), coordinator screening, the 22 false-positive restores, the 5
+#     schema-error name recoveries, and the 2 coordinator spot-verify drops.
+#     team06 won 64 linkado dups (teams 10/11 mined the same grupo pages as
+#     leads slice 6); team10 lost 38, team11 lost 27, team12 lost 4 to slices.
+#     team13 lost both Adult-category codes to the coordinator Adult exclusion;
+#     team17 lost its 1 code to the coordinator 18+ screen, then had it restored.
+#     team20 lost 1 to team06 (dup). The betting group dropped on spot-verify was team04's
+#     (team04 lost 4 dups + the betting group). Team24 lost all 4 of its items as dups to
+#     team09's rechecks (same codes re-verified live by the pending-recheck team).
+#
+# COORDINATOR SCREEN (41 initial drops -> 22 restored -> 19 kept + 2 spot-verify drops = 21)
+#   Restored (false positives — see coordinator_repair_20261111.py):
+#     - 13 prohibition sentences the strip missed (Portuguese Proibido/Sem/Não pode
+#       pornografia, 🚫 Nudez, PROIBIDO 🔞, pode tudo menos 18+, foto 18+ é banido).
+#     - 1 sexta-feira (Friday) — substring "sex" inside "sexta".
+#     - 1 "chuta" verb — substring "chut" inside Portuguese "chutar" (to kick).
+#     - 4 18+/🔞 age gates on non-porn groups: hookah (tobacco), LGBTQ social group,
+#       friendship/chat group (team17 judgement), "Compra e venda e rolo" (team10 confirmed).
+#     - 3 more prohibition-sentence cases (pet adoption "sem porno", sticker "SÓ NÃO PODE
+#       FIGURINHAS DE PORNOGRAFIA", "PROIBIDO PORNO").
+#   Kept excluded (19): hard porn/xxx names (SEXUAL HOME, call-girl x2, Desi bhabhi x2,
+#     Brazzers, No Sigilo hookup, 18+ sticker groups, Jampaflix 18+ streaming,
+#     Adults 18+ Aunty, Only girls 18+, hentai), 2 groupjoin Adult-category codes,
+#     3 re-labelled scams (VENDA DE XIT cheat sales = paid hack; 2 betting-platform promos).
+#   Spot-verify drops (2): KkKQsWHSNibIMTA1wPN3h8 AI-trading daily-profits scam (team28 flag);
+#     BTK6Vvs3TEu6oW7joHtiY9 sports-betting recruitment (og:title BETS1GREEN APOSTA).
+#   Spot-verify kept (judgement calls, og:title checked live and clean): GLOBAL WEB 3
+#     (Crypto, KYC bullet is one service among six, not a scam name); Weltrade/Deriv signal
+#     trials (trading signals, not a named scam); Teen Patti blue (card game); "." degenerate
+#     name (live, kept); تداول أموال money-trading, earn-money-daily pitch, Adfly (generic
+#     earning pitches, not named scams); "Divulgo suas plataforma" (platform promotion, no
+#     betting terms).
+#
+# PARENT FLAG — NOV-10 SCAM CODES NOW IN groups.json (team18 finding, verify before merge):
+#   KD408PRv4Kh1j81OBGMB6O ("FREE AIRDROP ALPHA"), FQAEuMQvBZJKtOlCrsnmac ("Binary Option
+#   Investment"), KkdRrp9oFNxLY9Q6eAwpGR ("Airdrop 3"), EghZlHeOTD406TCI21NChX ("TON-AIRDROP").
+#   All 4 have airdrop/scam og:titles; the source site has since removed all 4 from its posts.
+#   The parent may want to purge these 4 codes from groups.json + the union.
+#
+# COORDINATOR SPOT-VERIFY (35 clean-sample codes + 2 controls + 5 schema codes):
+#   35/35 live, 0 dead, 0 pending. Control-live live, control-fake dead.
+#   All 5 schema-error codes live with clean og:titles — restored with og:title as name.
+#   No og:title scam/porn signal found in the 35-code sample except the betting group above.
+#   Residual risk (as Nov 10): og:title-vs-banked-name mismatches can only be caught by
+#   sampling; full re-verification of all 3,078 was not feasible at ~25s/check from this VM.
+#
+# ENVIRONMENT NOTES (for the next wave):
+#   - VM egress charges ~25-30s per FRESH TLS connection (all hosts, not just WhatsApp);
+#     a persistent keep-alive session makes warm requests ~1s. Curl with 15-20s timeouts
+#     produced false transport failures mid-wave (team30 read it as a VM-wide outage).
+#     Use 60-90s timeouts + keep-alive sessions for all verification.
+#   - Two VM reboots (~08:00 and ~10:00 UTC) killed background jobs mid-run; checkpoint
+#     files in the wave dir saved all work. team31 verify2 checker died at ~07:58 UTC.
+#   - WhatsApp throttles this host under concurrent load (team20 pass 3: 75/75 timeouts).
+#     Pending codes are worth one re-check in a quiet window, not during the wave storm.
+#
+# RESUME POINTS (from team summaries):
+#   team01 leads slice 1: verify 1171 unverified candidates in team01-merged-candidates.json (team01_verify_stream.py); deep-fetch 772 unresolved groupsinvite slugs (team01_mine.py deep gi) — slugs in team01-leads-slice1-progress.json sub_groupsinvite; deep-fetch 3597 unresolved linkado grupo ids (team01_mine.py deep linkado)
+#   team02 leads slice 2: mined 3584/3603 listing pages (checkpoint team02-extracted.jsonl, 3603 records); verify-state has 1267 codes in team02-verify-state.json; 2160 mined candidates await WhatsApp verification in team02-awaiting-verification.json; next unmined listing URLs in team02-leads-slice2-leads.json. To resume: re-run team02_mine2.py (skips mined URLs) then team02_build.py (reuses verify-state, verifies only new/pending codes).
+#   team03 leads slice 3: fetch+verify complete for this slice; retry 558 JS-gated listing URLs in team03-leads-slice3-leads.json via a live browser click to reveal each invite code, then verify normally
+#   team04 leads slice 4: listings attempted: 1100 of 3603; next unattempted listing is index 1100 in leads_slice4.json order (first unattempted URL: https://linkado.app/grupo/650d75096f3f15eab134f2b1); re-run team04_mine.py (it skips mined URLs) to continue, then re-run this finalize script.
+#   team05 leads slice 5: {'mined_urls': 3603, 'unmined_urls': 0, 'mine_checkpoint': 'team05-mine-checkpoint.jsonl', 'verify_checkpoint': 'team05-verify-checkpoint.jsonl', 'candidate_codes_mined': 3170, 'dupes_vs_existing_codes': 335, 'no_invite_listings': 253, 'fetch_failed_listings': 172, 'next_step': 'Re-run team05_pipeline.py (it resumes from checkpoints: mine then verify), then team05_build.py to rebuild outputs.'}
+#   team06 leads slice 6: complete: all new codes verified; stage1 checkpoint team06-stage1-checkpoint.json; stage2 checkpoint team06-stage2-checkpoint.json; failed/no-code listing pages in team06-leads-slice6-leads.json
+#   team07 leads slice 7: Slice COMPLETE: mining 3600/3600 effective listing URLs processed; verification pass 1 + gentle recheck pass both finished. Nothing left to resume for this slice except the leads file (595 failed listing pages) and the 599 pending invite codes (transport failures, NOT dead) — both are next-wave retry material.
+#   team08 leads slice 8: Slice fully finished: all 2745 normalized listing URLs fetched (2670 HTTP 200, 73 transport-failed -> leads file, 2 HTTP 404). All 5019 fresh codes verified. No resume needed; next wave should retry only the 73 leads URLs.
+#   team09 pending recheck: complete — all 397 entries accounted for (393 unique codes: verified + pending + dead + exclusions = 393; 4 codes appear twice in the source file with conflicting team metadata and were resolved once each, preferring the team09 browser-leg entry)
+#   team10 linkado sitemap 2300-2699: next index 2700, https://linkado.app/grupo/69baf82349dbc7627d73499f, lastmod 2026-03-19T00:04:44.051Z (last mined: index 2699, https://linkado.app/grupo/69bad4a849dbc7627d734998, lastmod 2026-03-19T00:04:46.458Z)
+#   team11 linkado sitemap 2700-3099: next index 3100, https://linkado.app/grupo/695af8fcdee39681ec9e0ac1, lastmod 2026-01-04T23:43:28.933Z (last mined: index 3099, https://linkado.app/grupo/695af7bcdee39681ec9e0abf, lastmod 2026-01-04T23:43:29.567Z)
+#   team12 linkado sitemap 0-1499: complete
+#   team13 groupjoin new: Next run: poll https://api.groupjoin.link/groups?page=N&limit=20&safeSearch=blur (NO tag param — newest-first) starting page 1 until created_at < cutoff date; keep 4s+ spacing (API 429s on bursts). Dedupe against .existing_codes.json + this run's banked codes (C9BRC2yDkizLr4y9kMsCv7, HJS2ZkSzI99B7ldzHA7rhW) before verifying; verify via chat.whatsapp.com og:title with a known-live control code each run; screen detail page /group/<group_uid> when a title is ambiguous.
+#   team14 77links: DONE: all 1492 fresh codes verified (115 live, 1377 dead, 0 pending). Extracted 4254 codes from 64 mined 77links.com listing pages; 2762 already in union. 7 listing pages still unmined (HTTP 000 twice): kurulus-osman, malayalam, marriage, online-earning, pdf-books, pti, pubg - see leads file. Next wave: re-fetch Karachi + Islamic + the 7 failed pages; raw extraction team14_all_extracted.json; checkpoints team14_verify_ckpt.jsonl.
+#   team15 tugrupo: SOURCE DEAD — do not reassign tugrupo.com pp.2-10. https://tugrupo.com is still the AboveDomains parking page ('This domain may be for sale'), re-confirmed live 2026-11-11 ~11:55 PKT via curl: https home returns HTTP 200 with the same 990-byte parking page as 2026-11-10; /chat and /chat/2 return HTTP 302 to ww38.tugrupo.com, which then fails to connect (HTTP 000). No /chat listing pages exist, so no invite codes were extracted, verified, banked, or excluded. The live directory has moved to tugrupo.online — its /whatsapp/ listing is live (HTTP 200, ~244KB, 2026-11-11) with pagination via ?query-eb715b85=N; its pp.2-10 URLs are banked in the leads file as the direct equivalent of this slice, plus igrupos.com carried over from 2026-11-10. Parent should reassign tugrupo.online/whatsapp pp.2-10 as a new slice if wanted.
+#   team16 grupbul: Food category page STILL returns zero groups on every fetch (p1, ?page=2, ?page=3, /2, Turkish, ?sort=newest) — 0 /group/ links in the HTML; no Food groups listed as of 2026-11-11. Chat/Friendship is capped at the SAME 27 groups as Nov-10: ?page=2/3/4 and ?sort=newest return byte-identical 27, /2 and /page/2 return an empty template, and the page carries no pagination markup — no deeper pages exist and no new groups appeared. All 27 Chat gids are now fully resolved across the two runs (11 dupes + 12 dead Nov-10, 4 Nov-10 pendings now DEAD Nov-11). Fresh work this run: 10 food-keyword candidates (7 Nov-10 leads + 3 new web-search finds) -> 5 dupes, 5 pending, 0 live. NEXT RUN: re-verify the 3 transport-pending codes (440817 ACtQYie1P32IceedwfPY9p, 865745 I39fLwOHZ730XJ5glkcE82, 219135 58IfJaAavCGId7CEz0vNJH) and re-follow the 2 failed redirects (662627 /redirect/662627/1325254, 400673 /redirect/400673/801346) ONLY after a long cool-down — WhatsApp returned http 000 on all 15 retry attempts and grupbul /redirect returned empty/proxy-only responses by end of run (both endpoints rate-limiting). Do NOT re-mine the Food/Chat category pages without re-checking them first; they are empty/capped.
+#   team17 groupssor: Next poll: only entries with createdAt newer than 2026-11-11T06:21:18.305Z (newest entry this run, CHEGA MAIS!). API returns a fixed latest-500; this run's window was 2026-11-09T20:49:03Z to 2026-11-11T06:21:18.305Z.
+#   team18 grouplinksforyou: COMPLETE: site exhausted. Blogger feed (39 posts, all updated 2026-11-03, same set as Nov 10) re-parsed 2026-11-11: 4,547 unique codes, 1,253 fresh vs union — ZERO new codes vs Nov 10 (4 codes removed from posts since yesterday). Sitemap.xml confirms exactly 39 posts total, all mined. 58 label-archive pages checked via label feeds (34 fetched OK, ~24 timed out on slow connection; 0 posts found outside the 39). The only live candidates not already in the union were yesterday's 4 still-unmerged banked codes; all 4 re-verified live today and EXCLUDED as crypto-airdrop scams (see exclusions). Nothing left to mine on this site until it publishes new posts.
+#   team19 groupsnest: groupsnest.com unchanged since Nov-10: sitemap-posts.xml still lists exactly the same 33 collections (no new pages); all 33 re-fetched fresh today and the extracted code set is byte-identical to Nov-10 (1,137 unique codes, 0 truly new). The 169 codes not in the union are the same 169 Nov-10 verified DEAD; a 12-code random spot re-check today (slow checker, 4 workers, retry-on-empty-og) reconfirmed all 12 DEAD. Resume = re-fetch the 33 collection pages + sitemap-posts.xml next wave for new listings; dedupe any new codes against the union and verify the same way.
+#   team20 wglfinder: Re-check the 15 pending codes in team20-wglfinder-pending.json with a fresh WhatsApp check, PREFERABLY FROM A DIFFERENT HOST/IP OR A BROWSER LEG: WhatsApp hard-throttled this host during this wave (pass 1 started fine, then read-timeouts on nearly every request; all 75 pass-3 attempts timed out or returned empty, 0 titles rescued). The 7 Nov-10 pending codes are still pending (all timed out again this wave, 2 attempts each). The 8 new pending codes: 5 had one clean HTTP-200-empty then timeouts, 3 timed out on every attempt. Unmined leads: 766 /tag/ archive pages from post_tag-sitemap.xml (tag archives likely mirror already-mined posts - Nov-10 found category archives hold only post excerpts, no group cards).
+#   team21 freewagroup: Slice fully mined; nothing to resume. Site UNCHANGED since Nov 10: still 313 posts (X-WP-Total), newest post 2026-11-08T22:02:20 (gacha-life-club), max modified 2026-11-08T22:02:21, no posts added or modified after 2026-11-08. Same 106 fresh-vs-union codes as Nov 10 (union now 108,992 codes). Only re-run if the directory publishes new posts (check newest post date / max modified via the WP REST API).
+#   team22 walink: SOURCE EXHAUSTED for clean groups — confirmed again this wave. Full sitemap enumeration (post-sitemap: 12 URLs) shows only 2 listing pages unmined yesterday (whatsapp-group-video, private-whatsapp-group-link); both mined today and yield ONLY adult codes. Fresh homepage (103 unique codes) produced zero new codes vs Nov-10 + union. The 3 Nov-10 pending codes re-verified today with spaced retries (HTTP 200, empty og:title on 2nd completed attempt each) and are now DEAD. Do not reassign walink.pk for clean mining; any future run should only re-check the homepage for newly added clean entries.
+#   team23 groupsinvite: New-entry detection for the next run: re-fetch sitemap index + all 11 sitemaps and the homepage; diff sitemap URLs against team23_work/all_link_urls_20261111.json AND homepage URLs against the sitemap set (homepage-only URLs are entries posted since the sitemap lastmod — 29 this run, matching totalCount 2754 - sitemap 2725 exactly). Next queue = that diff only; do not re-mine the old catalog. The 61 Nov-10 no-code (JS-gated) listing pages in wave_20261110/team23-groupsinvite-leads.json are still unmined and still need a live-browser leg. All 11 listings with 0029vb* slugs this run were WhatsApp CHANNELS (not groups) and were dropped — that slug prefix looks channel-only.
+#   team24 whtspgrouplink: Re-check the 7 pending codes first (5 fresh + Equity + ONE MISSION@IAS; all transport-only, WhatsApp curl throttling). Then mine the 357 unmined post-sitemap listing pages in team24-whtspgrouplink-leads.json (indices 120-472 of the Nov-10 leads + 4 failed-fetch pages: brunei, vdm, spoken-english, welding-jobs — retry those 4 first).
+#   team25 new dirs South Asia: Mine the 13 lead URLs (imagesplatform; wagroupslink whatsapp-group-links + private pages; wagroupzone girls page; wahublink boys/youtube/visa-travel/desi-girls; newgrouplinks college-girls/pakistani-girls/school-girls/all-groups; whtsgrouplink category sub-pages). Also still open from wave 20261110 team25: whatslinky.com + pkwhatsgrouplinks.com category sub-pages.
+#   team26 new dirs Africa/Mideast: No pending codes (both pass-2 transport failures re-verified dead in pass 3). Next: mine the 36 leads — highest value first: linktogroups.com (resolve POST /api/v1/listings/{id}/click -> destination_url via browser leg; country pages /en/ghana|kenya|nigeria|saudi-arabia + /en/whatsapp-groups index; note the 2 sampled listings were Telegram channels, so filter by platform), whatsagroupslinks.com category pages (site flaky: HTTP 000 bursts + Cloudflare challenge; retry in quiet window), go.tuxmat.com Bahrain page and cazajobz UAE page (both HTTP 000, retry), m3luma.com remaining girls-numbers pages (mostly phone numbers, low value).
+#   team27 new dirs SE Asia: Pool fully verified (346/346 resolved: 74 live, 269 dead, 2 transport-pending, 1 excluded). No pool left to verify. Next wave: mine the 16 leads (thelastsurvivors.org/category/grup/ index + grup-wa-shopee-tanam bit.ly links; aussiesin.com SE Asia country pages need a browser leg - curl 000; joinnchat.com + virenial YouTube page need a browser leg for JS Join buttons; groupwa.link category pages 2+ via wagd_more ajax - CF-challenged; grouplink.com.in/1300-international-whatsapp-group-link/ unmined page). Re-verify the 2 pending Ramadhan codes (HKGPWAcXHgV9GS3A3j6wZg, JuxbmdqiwAnJPUCIpP32XT) - both timed out twice at 60s curl.
+#   team28 new dirs LatAm/Gulf: groupslinks.com pages 13+ unmined (older listings, likely mostly dead); whts.club news_pages.xml has ~1,569 further group pages beyond the newest 60 mined, plus 16 detail pages that timed out twice (in leads file); 7 pending codes to re-verify in a quiet window (WhatsApp throttled heavily during this run - 3 gl codes timed out twice, 3 listicle codes and 1 whts code timed out once); groupslinks.com category/country pages are in leads_slice7.json (other teams) - do not re-mine.
+#   team29 listicles edu/jobs: All 26 in-slice fresh candidates resolved (9 verified, 17 dead, 0 pending). Open items: 6 leads above (sarkarijobs JS-hidden groups, 3 grupbul IELTS pages, aryavysya UPSC page, physicspadhai NEET/JEE page) — all need a browser-based mine or a fresh fetch next wave. Nov-10 lead appgrouplink scholarship page is RESOLVED this wave (mined via /invite/ pattern: 3 fresh codes, all dead).
+#   team30 listicles mixed: VM-wide network outage began mid-verification (~12:30 PKT) and persisted 35+ min through final check: ALL outbound HTTPS failed (google.com, example.com, chat.whatsapp.com all curl 000/timeout; control test on known-live code IZVRL7Hy2JW8hntMEB9WUJ also timed out). 163 of 176 screened candidates are PENDING (transport timeouts only, NOT dead). Next wave: run team30_scratch/retry_pass.py FIRST (it re-checks all 163 pending + the 13 'dead', whose empty-og verdicts were taken during degraded transport) once connectivity is confirmed with a curl control test on a known-live code. Then mine the 5 leads. Do NOT re-mine the 17 sources above (1,294 unique codes extracted; 185 fresh vs union; all already screened).
+#   team31 tglinkhub verify2: verify2_results_20261111.jsonl in wave_20261111 dir; re-run verify2_team31.py (it resumes from both results files) then re-run bank_team31.py
+#   team32 igrupos geogated: Next run: re-open https://www.igrupos.com/ homepage 'Ultimos grupos y canales' and continue DOWNWARD from gid 526886 (the last entry on the fetched homepage; gids 526723-526885 not yet covered), and check for anything newly posted above 527086. For grupodewhatsapp, continue the 'also joined' graph from any banked detail page (each page links ~5-6 more groups) and open category listings live (tecnologia, empleo, deportes, estudios, juegos, noticias). For gruposdewhatss.app, paginate the hub (1,108 pages) live - search alone only surfaces a stale handful.
+#   team01 stream verifier STILL RUNNING at finalize (pid 1757, team01_verify_stream.py);
+#     re-run team01_finalize.py after it finishes to fold in remaining results (1,171
+#     candidates in team01-merged-candidates.json, also banked as code-string leads).
+#   team31 verify2 checker DEAD (reboot ~07:58 UTC); 11,587 codes still unverified —
+#     re-run verify2_team31.py then bank_team31.py to continue (637 lines banked so far).
+#   team02: 2,160 mined candidates await verification (team02-awaiting-verification.json,
+#     also banked as code-string leads); re-run team02_mine2.py then team02_build.py.
+#   team30: run team30_scratch/retry_pass.py FIRST next wave (163 pending + 13 dead re-check)
+#     after a curl control test on a known-live code.
+#   team04: slice 4 resume at index 1100 of leads_slice4.json
+#     (https://linkado.app/grupo/650d75096f3f15eab134f2b1); re-run team04_mine.py + finalize.
+#   linkado: team10 next index 2700 (https://linkado.app/grupo/69baf82349dbc7627d73499f,
+#     lastmod 2026-03-19); team11 next index 3100 (https://linkado.app/grupo/695af8fcdee39681ec9e0ac1,
+#     lastmod 2026-01-04); team12 sweep 0-1499 COMPLETE. New: team32 igrupos gids 526723-526885
+#     still uncovered (resume downward from 526886); linktogroups.com (team26 find) needs a
+#     browser leg for its click API; team03/team04 linkado JS-gated leads need browser clicks.
+#   Sources exhausted/closed: tugrupo.com (dead; moved to tugrupo.online), walink.pk (clean
+#     groups exhausted, 2 waves running), groupsnest (unchanged), freewagroup (unchanged since
+#     Nov 8), grouplinksforyou (39 posts, all mined), groupsinvite catalog closed Nov 9
+#     (new entries only, via sitemap+homepage diff).
+#
+# FILES (all in ~/workspace/whatsapp-groups-site/agent_batches/wave_20261111/):
+#   wave_20261111_clean.json (766330 bytes)
+#   wave_20261111_clean_teams.json (93020 bytes)
+#   wave_20261111_pending_all.json (406959 bytes)
+#   wave_20261111_leads_all.json (821460 bytes)
+#   wave_20261111_excluded.json (3381 bytes)
+#   wave_20261111_cross_dups.json (6509 bytes)
+#   wave_20261111_union_leaks.json (2 bytes)
+#   wave_20261111_schema_err.json (2 bytes)
+#   coordinator_verify_state_20261111.json (10367 bytes)
+#   manifest.txt (MISSING)
+#   wave_20261111_summary.md (MISSING)
+#   coordinator_build_clean_20261111.py (14075 bytes)
+#   coordinator_repair_20261111.py (4723 bytes)
+#   coordinator_verify_20261111.py (5389 bytes)
+#   coordinator_finalize_20261111.py (3793 bytes)
+#   coordinator_generate_manifest_20261111.py (18755 bytes)
+# Per-team final files: teamNN-<slice>.json / -pending.json / -leads.json / -summary.json
+# (32 teams x 4 files, plus team checkpoints/scripts in the same dir).

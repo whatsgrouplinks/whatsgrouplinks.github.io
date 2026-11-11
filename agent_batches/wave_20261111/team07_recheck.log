@@ -1,0 +1,17 @@
+re-screened verified: kept=22 moved_to_exclusions=2
+recheck done=50/770 live_added=0 dead_now=50 still_pending=0 elapsed=197s
+recheck done=100/770 live_added=0 dead_now=56 still_pending=44 elapsed=260s
+recheck done=150/770 live_added=0 dead_now=57 still_pending=93 elapsed=304s
+recheck done=200/770 live_added=0 dead_now=57 still_pending=143 elapsed=341s
+recheck done=250/770 live_added=0 dead_now=63 still_pending=187 elapsed=407s
+recheck done=300/770 live_added=0 dead_now=69 still_pending=231 elapsed=466s
+recheck done=350/770 live_added=0 dead_now=69 still_pending=281 elapsed=506s
+recheck done=400/770 live_added=1 dead_now=69 still_pending=330 elapsed=563s
+recheck done=450/770 live_added=1 dead_now=75 still_pending=374 elapsed=644s
+recheck done=500/770 live_added=1 dead_now=87 still_pending=411 elapsed=731s
+recheck done=550/770 live_added=1 dead_now=87 still_pending=461 elapsed=775s
+recheck done=600/770 live_added=2 dead_now=94 still_pending=503 elapsed=860s
+recheck done=650/770 live_added=4 dead_now=118 still_pending=527 elapsed=982s
+recheck done=700/770 live_added=6 dead_now=128 still_pending=565 elapsed=1077s
+recheck done=750/770 live_added=24 dead_now=136 still_pending=589 elapsed=1148s
+RECHECK FINISHED live_added=24 dead_now=146 still_pending=599 verified_total=46 exclusions=4 elapsed=1199s

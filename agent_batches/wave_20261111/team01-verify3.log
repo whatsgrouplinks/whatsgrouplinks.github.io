@@ -1,0 +1,12 @@
+verify: 260 to check, 0 pre-excluded, 3 already done
+  verified 25/260: live=6 pending=2 dead=20 excl=0
+  verified 50/260: live=9 pending=5 dead=39 excl=0
+  verified 75/260: live=16 pending=5 dead=57 excl=0
+  verified 100/260: live=21 pending=6 dead=76 excl=0
+  verified 125/260: live=29 pending=6 dead=93 excl=0
+  verified 150/260: live=29 pending=6 dead=118 excl=0
+  verified 175/260: live=30 pending=8 dead=140 excl=0
+  verified 200/260: live=30 pending=8 dead=165 excl=0
+  verified 225/260: live=35 pending=8 dead=185 excl=0
+  verified 250/260: live=35 pending=8 dead=210 excl=0
+VERIFY DONE: live=35 pending=8 dead=220 excl=0

@@ -1,0 +1,58 @@
+[
+ {
+  "name": "PK 100 NEWS ENGLISH WORLD",
+  "category": "News",
+  "country": "PK",
+  "description": "A news group sharing English world news updates.",
+  "invite": "https://chat.whatsapp.com/Ic6RiVSQY3R5mMwoEmQ1H5",
+  "reason": "transport failure: curl to chat.whatsapp.com returned no HTTP status after 3 spaced attempts on two separate runs (WhatsApp throttling)"
+ },
+ {
+  "name": "USA Income",
+  "category": "Online Earning",
+  "country": "US",
+  "description": "A group sharing income-earning opportunities in the USA.",
+  "invite": "https://chat.whatsapp.com/1LppAANrAKl3EJolsce16A",
+  "reason": "transport failure: curl to chat.whatsapp.com returned no HTTP status after 3 spaced attempts on two separate runs (WhatsApp throttling)"
+ },
+ {
+  "name": "Foreigner Jobs in Belize",
+  "category": "Jobs",
+  "country": "BZ",
+  "description": "A group sharing job opportunities for foreigners in Belize.",
+  "invite": "https://chat.whatsapp.com/KFxh1zRuPpjJAqM4H8rObO",
+  "reason": "transport failure: curl to chat.whatsapp.com returned no HTTP status after 3 spaced attempts on two separate runs (WhatsApp throttling)"
+ },
+ {
+  "name": "USA Private company Jobs",
+  "category": "Jobs",
+  "country": "US",
+  "description": "A group sharing private company job openings in the USA.",
+  "invite": "https://chat.whatsapp.com/IZ5QYRAro8q1altcqb6Z7A",
+  "reason": "transport failure: curl to chat.whatsapp.com returned no HTTP status after 3 spaced attempts on two separate runs (WhatsApp throttling)"
+ },
+ {
+  "name": "Jobs Everyone",
+  "category": "Jobs",
+  "country": "US",
+  "description": "A group sharing job openings for everyone.",
+  "invite": "https://chat.whatsapp.com/K0B9kbf8MiACd71xrrcGvU",
+  "reason": "transport failure: curl to chat.whatsapp.com returned no HTTP status after 3 spaced attempts on two separate runs (WhatsApp throttling)"
+ },
+ {
+  "name": "Equity",
+  "category": "Finance",
+  "country": "",
+  "description": "An equity markets group sharing news and discussion.",
+  "invite": "https://chat.whatsapp.com/EeI2EVMcoHE4qBHKttflHA",
+  "reason": "transport failure: curl to chat.whatsapp.com returned no HTTP status after 3 spaced attempts on three separate runs (Nov-10 pending + two Nov-11 retries; WhatsApp throttling)"
+ },
+ {
+  "name": "ONE MISSION@IAS",
+  "category": "Education",
+  "country": "IN",
+  "description": "A study group for IAS aspirants sharing preparation material and motivation.",
+  "invite": "https://chat.whatsapp.com/H4pSJdaTGpyAm6Lsyqkvp6",
+  "reason": "transport failure: curl to chat.whatsapp.com returned no HTTP status after 3 spaced attempts on two separate runs (Nov-10 pending + Nov-11 retry; WhatsApp throttling)"
+ }
+]

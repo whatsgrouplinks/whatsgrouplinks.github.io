@@ -1,0 +1,2013 @@
+{
+ "team": "team31",
+ "slice": "tglinkhub verify2 resume",
+ "sources": [
+  "tglinkhub.com via wave_20261110/team32_raw (tg_fresh_codes.json, tg_code_recs.json)"
+ ],
+ "verified": 298,
+ "pending": 62,
+ "leads": 11587,
+ "dead": 702,
+ "exclusions": [
+  {
+   "code": "EXiYk9swoifEMiuiMVJQ1W",
+   "reason": "name looks like a phone number/personal info: 9083695293 1k sub 400 taka"
+  },
+  {
+   "code": "JKJkGBxuCDjF2ca0Ma7pRI",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "H6Ftz3zfWpZDkUoMn7SD1m",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "H7CDYLcihmS2vTRkgHzf3i",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GukXEiDLpi35qvrDmV77uq",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HNRs6bFEipwL6jUPNiBp4Q",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JZrgKc26dTW0OXTF34R2i3",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JvKQf1cbUfRKWrtUVFHGgP",
+   "reason": "adult-sexual signal in og:title/name: ✊💦💋Hot Sexy 💋✊💦"
+  },
+  {
+   "code": "HYcV6WaJx0C9w85Oi8l9yg",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JjoYCJxo5WE1bzoz6EeGJt",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EotMwXHZJxeFrKDIQD5bdd",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HVPR40Va0LK6Rnkamydqtu",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CrOeZXBCyFu828afXdUm8o",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Dt6YHNurwztLPpQGK6zzlr",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DRfzMuWfYEo35pODqcno5O",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LlMfYJNFcjdFFUHl0rJAHj",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IE4oGc3G2Dv2ChZ04ewedw",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HbPjuGafkHdGfv0Vf1du0C",
+   "reason": "unsure-adult: ambiguous og:title, dropped per rule: Lesbian Babies 🥰😍"
+  },
+  {
+   "code": "JlGiNCrVlxMCEUoOy0UjwA",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Lx2HSaVmFt05CrVa1HTeCo",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GCAUdZD0WFi8SvCxYghMoZ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "C4KjUb5A7ErJThlHduhM3B",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GaajqtfgIz0AAv9f8CRUX3",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Fc5gKpQKgAv1Ry6mlDCqo3",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IkJPADmSVZc9uagZBWdddP",
+   "reason": "adult-sexual signal in og:title/name: Sexy"
+  },
+  {
+   "code": "Gc0xCYViA7O62PfVdD9B7T",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GBxkvyXn0nB6UJnElTt5BQ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KF7ocqVxiJADbOZxivil0o",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KmDm5HdCfSz2Y6vED1XUt9",
+   "reason": "unsure-adult: suggestive og:title, dropped per rule: MIAMI💓 BEACH 💖HOT SEAT❤️💋"
+  },
+  {
+   "code": "DJLjqF8BvSIAf5hZVi8bH9",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "H8RzfQSwgC3KWaOT4ZZEVt",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BSKt3OEGuhxF9u6KT7fgTS",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LQuYWsI5I5rFfVqDY6zuef",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GzLiBYUcHDIFY5Gtvr0Pqm",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "C89UBcPfPW1CFkB8NsUbvj",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HC80vEFb0wh8bWq1SzJNJx",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "3V05p7nWqFq9UuixIMZnCZ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BlBnlII1gSq0GmXnPaA9CE",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GSH5oVGRQgP2HCRaNJSZlX",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IXkjIMQDEt8HCxlycEt69x",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "J1eaOJHeEqx47mb4e51VQ5",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IrMs1vtyWhT2VD4ADKotFV",
+   "reason": "unsure: og:title reads like betting/odds spam, dropped per rule: sscm*10 & ss*3-10%+$ Grp4"
+  },
+  {
+   "code": "JMMkG2I3K7wDhzVcZqiIh0",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BkDTtjqXjol2njVnQif4FN",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LcWulsShavCLPKr3LW2L2u",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KW3fyXB9LwzDEVkFhamUAs",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KfKajNXModrEFO6WuJ6bWI",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "I6phat09WpPFgJ7qiYOqKy",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "5777kw5QrnQIsB2eFhlH0p",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IEhsGbZpdcV3IQrbTTeVnK",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JGmp8beCLLQFE3AlOG6ixK",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JMUiYtsnq6M4wJL9aa2UeV",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "K2PPAoykcoF8yL9sdgB7sH",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Bs1AIJcQ59qDNCEqjPj1zu",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CzP67fjKTjGIAcQJAhNZlq",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "H01aYKegx6u56hwNVI0hRx",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "3LJ7ZXgLPVqJaIoyp1xQLW",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "K41BF6Bj3FGAVe5d881Q3n",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LpE0U3fCr41KDdyuvR6os7",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "C8FExixiptJLCaaedL3FvG",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BBO261c0iOt8qxBykbZj80",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CIeNLsM9fR47BJht4rtHQo",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Fz4wzdUhsnHK21o4qcRuQd",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DMLURYQP9ZsCye0oRqIBHn",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JyflT24FIFRFuQIp1WktQ3",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JdnSDrixlpC0nM56EudPQ6",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HTxtKXB3g223cjVdFQ7aEE",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GcTlqBuCyQ5FjKvAUbmAwQ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "E8M8RSJWC0YJ4ETYy8lXpV",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BjJkKzHZ6mzAWe4ucnNsFu",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EhDenI2XJW5Jv7Z79aL6B9",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LW2GMkaSYLgIbswOu6vBgV",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "I7idl2YJlC7JU1QFFEuW2g",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "G7ScFGay3y7IAyk6pjqMpU",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CL9mxQlbSYXE2fKsY2HShn",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ItmKrkYksgh5wsWKmgPMp7",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Ih8P1BLSs3d6Dd4EsP7N8C",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ITwDYwMwj5b6CiJBoAuvCR",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "I5qTx3Lqa72HdHXvduWtH5",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "L38UIi45iomEmwtWYibKMZ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JEtJk9cwx8V7MZxHKeQpyz",
+   "reason": "hacked/virus warning in title; unusable group: Virus in group left ⚠️⚠️💣💣"
+  },
+  {
+   "code": "Ei2oSiJMEJ8EhyIudeue9H",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JlkmiYupFHd4DogmEH2YJe",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LrfVqrXeJE35RiUaxXWwqX",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "H5bgxVxBSvt4AJjx4vLHjl",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HtwnRXUEv5i7yg2ELByYB6",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JvV5cFp2uvALLxAcBJK6WL",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DN7ACPZHDFW8qx1cj42MPE",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HXEEDifvZkcIpSSAGMYmVR",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JzHRKIq21ZX3UijZ4kAtXt",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "2SMvjGsxTU9LrUH3vur6GK",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "94IZttzAFrOIKbeVCD0FLO",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DHYZd9ipWPUGWWw4aFCJFN",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LnWkypBNysB6ajh1DtS2l4",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EOt9223xi3j2eua8fOZh38",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IeZ9q08unv3B7B4G5R11yn",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DkCUrMyy5AI6uSaNvQCkgF",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EZCG7z0uRzkGjskZNCTqQw",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "E7rMluqoJbGFhBYJPJF6A9",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "FMFTTBWfNYN90MoL09VXEi",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ECsD9OBTema6bkchdE801Y",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EL1qmlGIiUb76mGE5kFKq3",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IJahY4gAM4dA3FrkQ1c9R2",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "G3ZdpKw6iW77WbyH8xSh7Y",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HZHKc3a4z4uFnBXoTKv1zV",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HBl9qk0mwHvAuZWFd5gBpo",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "1nxVlur1bjtBIlyszhoKrq",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JdRuvofyG2RABGfw64QFTQ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Bno6v3HMIX6FmwAhOt43E4",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CnnGmjaqLMUKv2PGMsh8j0",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "J7NIVZnPIN8Gp6Ppt6R8HX",
+   "reason": "betting/match-fixing tipster group: Match&toss_report's_ipl 👇"
+  },
+  {
+   "code": "DDGJQSUvSjwChg3qVMS6hn",
+   "reason": "betting/match-fixing tipster group: IPL REAL BET ✅"
+  },
+  {
+   "code": "I5L2XDqbAFaCDfcVzyNSQl",
+   "reason": "betting/match-fixing tipster group: 🏏IPL 👉TOSS🧙🏼‍♂️ KILLER👁️"
+  },
+  {
+   "code": "JKQWRoh2bnZ3LWiJbsyN89",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "FpF94Q3iGMxBtnpfOQMwIT",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Br3yzuHphFh6Wkcl8Jci18",
+   "reason": "betting/match-fixing tipster group: Ipl tipper"
+  },
+  {
+   "code": "CufIX6up5MoJA1f3DxX6ON",
+   "reason": "betting/match-fixing tipster group: IPL Match Fixing🤑🤑"
+  },
+  {
+   "code": "EihRJr90APW1EmMIpcqeYT",
+   "reason": "betting/match-fixing tipster group: 👑IPL MATCH & TOSS KINGS 👑"
+  },
+  {
+   "code": "FVnD3QtbYuG8qCGr5CtO4b",
+   "reason": "betting/match-fixing tipster group: ipl Match report 2022"
+  },
+  {
+   "code": "LO27n4yz4NQ18NBaOHk2Bk",
+   "reason": "betting/match-fixing tipster group: 🏆ipl fix report🏆💯"
+  },
+  {
+   "code": "EaAcrtCTwIuKpU3PUvX38f",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BmXlz3cfMYk04BP3jPtuGa",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Bn4QWacE0sbGVVCEOGM5j3",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IJPbOonCJT3H9j1excWICS",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JK0MkI2poyzEnQi8wDr6aj",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Fsmxz9BvC4k5jLMlpX4LGe",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JCY8imCLKZzCb16W35ubW2",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DLscSUXnRgsAx8PiJ7REvx",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Cbw4RY1LhX91HDokjywXSu",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JKEDP24zfqMHtIV0D89BG4",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LmFBBGO3Msq7TqYX1VMtrT",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KTf6qJaJT3yEXcAGSvpVrc",
+   "reason": "hacked/virus warning in title; unusable group: ⚠️This ⚠️ group📵 is☠️ hacked ⚠️ leve 👾this ⚠️ group☠️ virus📵 attacking."
+  },
+  {
+   "code": "Lw5nlgwhonoLZTzAyEIPkY",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BNecqnO4zkIH6BCPvUy47H",
+   "reason": "betting/match-fixing tipster group: IPL FIX TOSS MATCH REPORT"
+  },
+  {
+   "code": "KB4SEFjy3qH1WIMlfLh5KW",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IwJSaXmSVou9kQzDAVKp2K",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Ku5kHMdqRIU3r0D1lke6s9",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "L4SsZByZJw9DY1ibVLbd2Y",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JwtkTwzMzHr5WX7T2wRrdV",
+   "reason": "hacked/virus warning in title; unusable group: ⚠️This ⚠️ group📵 is☠️ hacked ⚠️ leve 👾this ⚠️ group☠️ virus📵 attacking."
+  },
+  {
+   "code": "CelVQuCqHLSDYpi71UNb2w",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "D0INBbj9Zzt53BDTEp1556",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GYpSSeY4p2w3toANzNstzc",
+   "reason": "betting/match-fixing tipster group: IPL 2022 FULL FIX REPORT"
+  },
+  {
+   "code": "LtMuFWgPO51HdBykBGrMkb",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "H86levidXRtCe9przKW1yl",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LBvoiDJTHNW1LYjQpBAiBW",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DzUx0M0U7JT4l16rPdNxG1",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LlBGyUxpebf4BnR3aYbhqP",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Kb4ZztY1Avk41gjxajVQ2O",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "H6XE4vJeWthFnnLSaleJbA",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Jmpn1iST6IHFeGfC6FEf6h",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CoSUjfOVgDgKAg0dvp4HbZ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Etgod5nXsgt2nSMkDaE5IK",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HRcnGYxhEJEH8vNxNW3T0N",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IgqODLB6Q04FtO0b2pCk8r",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Hjag1Gtocyi2wn4NqcQvS2",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "6tKgZKcopCtLpQvqbuH3Cy",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EItRAAJMmpvJOZv1IlnB06",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JB4wtCoh9Lz2ijeF4li3BI",
+   "reason": "get-rich-scheme title: A maneira de ficar rico"
+  },
+  {
+   "code": "HcToQ5jcIaTJU5fFZzXDzv",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KIBmMbTnfFODBR0XmSj25a",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IslakBT9Iw19vinTgqQQXa",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Cw9dSfhX2Wi8Rtb71DPzhR",
+   "reason": "scam signal in og:title/name: Free crypto airdrop"
+  },
+  {
+   "code": "KQWXGdMiAIXAV9ypRWL5Ng",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "9NkVbviYupZDEM5gMgxxkS",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LLQde60SgrFBKXvE1QZK6T",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IS3VzFpUYu94rl8pbnHuL6",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GzakIWtKMtPDhcAYNVf3Sb",
+   "reason": "get-rich-scheme title: HOW TO MAKE 200K WITH AFFILIATE MARKETING MONTHLY INTENSIVE \"MASTER CLASS\""
+  },
+  {
+   "code": "H1NltEXXke1D3NhA6IdsrR",
+   "reason": "get-rich-scheme title: \"Monthly Millionaire Blueprint Circle\""
+  },
+  {
+   "code": "DhjzSBHoPJ562IvR0Ps8FN",
+   "reason": "get-rich-scheme title: 100k-500k monthly affiliate marketing program (newbie)"
+  },
+  {
+   "code": "J4XVJBeyp6QGmKXWhI2xNl",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KH86VEVIMvQCSwjQRi0Lsb",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CYmHd71rnLS4GvqsFa0C5A",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DWdSWqv4yCcGopMzJB2zkJ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Gf6RVOVaXJ3HzhvQ5B2TKp",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Ly4ewZ2z0Q3A1qOcBUszFR",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DctNVvGEyUSD2LNnkHIHRF",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GRs2Aipm6bv4PGtpoYJhmz",
+   "reason": "shares girls phone numbers (personal info): Girls numbers Malaysia"
+  },
+  {
+   "code": "DehfpzliQ2tKsr7mzqC2fx",
+   "reason": "adult-sexual signal in og:title/name: Malaysia sexy girls numbers 🔞"
+  },
+  {
+   "code": "GxtOVTuBxN9K9B7LMRAnUo",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EVfN7GGSxz52E7fEcwVY6A",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BkIW9mrxQUV1QRWqemVba0",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GofqUEsQp3a1idMQFg5sii",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ErVr4BX0dC7AxcBzIh0fW4",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "D7nGW6nN5uF2WWOZCnPVBf",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IWfoHm0uRyEJh8n4bgvM2C",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ChjZOxKb7NBFahbxjRf0Sb",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HskNLSl4fwF9Wiz30Rk0s6",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KRz9CgCOwdeEx3VCi3XxFx",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JQRMRxcRdbFJi8ZcG4Pf0K",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KOf3ZR6Tjvm1phDnNcbhOQ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BvKgvECNaXj2CjDDwtSBm3",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HeRmBxeSXnL0sbtsAWvMxf",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ExwPw7jha2sEYD1LxT4xlI",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KaPZkOocfSABADx2Jvy0Dr",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "K1Bf2KeGtvzF7kiKNP4v6o",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CcbQiIh7SXEKL6eDOw2ioT",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "D5zjREcBtXt2eCSOmYHnXO",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "F9q9p62h4418w7Ckizgd84",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "FELMeFdjhAaAeMmJuOdSe4",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "D8MDSIwLJCYA510ZoSK7Zb",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BcWJASvOUpg3zXLS4NNY2l",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DF7Ta88lTWy77OIwE8LK1P",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HYVff8jpfTlH2uj7eiP2Zu",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "D2An9LODabOHxhh5vrEogm",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Ku5VgQFVugo3id3OQ8kh1t",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GMmL0blsk0y7S2Sjlo6BDX",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JmVxWO0Br8ZCYvZQe1WQpF",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KlHtHqJBXQUJHfngFWYwBd",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IukwtabmFE9HSGsCnBoCzx",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KTMa2CWyEzP7EP6EpsSwhT",
+   "reason": "hacked/virus warning in title; unusable group: 😈 Left all group is hacked 😈"
+  },
+  {
+   "code": "JABAuN8ZBWsKxMX2Ayxwqu",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LMEPW6fYSQD5Q2O19TVBaM",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IgNKgkUMbDL1VIH5n6KAFF",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "E7SqdNQyI8D7SXJ8liCM1E",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Ks6iRDf1NMxGER92ENE4jR",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EsKpavqfecU5Q6GwZugkTP",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CVC2yV1UXc9ECpIdCvJiYQ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DauQnatvNFbAqslDUdIIAX",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EMnlz0bFyno2Wg8rugrJEO",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IwDhbJIsEO26uxtKPvYoAV",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HrIs62P9z8DCldAJT2VcdX",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GxBFzcj9G4kDBAxaOswiUq",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Crovvehrwrq2Lisbv7blc3",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Fwg4AIpDbzNL66opTwRedR",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HfdPEfH6QxjGd0DZG2pWYR",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LyEliTPf9tg6p0xYkC1yyD",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Cx7KWWWT1u9DkV85W49Zpc",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "D1fUfmL8C3oEJ5owc6VbaB",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DQzZ7iyL8amHQZrEZcriGy",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Htl7mhw26Hd8iEaEdZHhq4",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ExTHFe6nEXUEl4pVfZbe4D",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HCzIXmhyo12LPpY1vvtblC",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EJPhmiJsway4zFfkhVw6CM",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "J7IXXa61HCL2GQSoCFE3NR",
+   "reason": "scam signal in og:title/name: *SL MONEY DROP🤑*"
+  },
+  {
+   "code": "KFIrc81hilp7v4wNfPlCZt",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KggyNeDRlVyGww7L5aVkDQ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Dp15GnAIErQ8iaF3A12SqN",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DkBR6GPsYxiBUP2bujoM7W",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Iv4OijLORtL0E3N5LOyEnX",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HBY5BDLY0iM1QcH1syF3XL",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EJhFE1VwpBAEewWx2zHAfR",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HEYoyT77noII5JDUCoxO0t",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CdkLWcOhyZVFHFOuvscaRp",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HAUOOocx8wc2gbZX5KEOKM",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Dlf5MF3qlv4KK3CfUcZjmT",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Fgs3PMOsSqYDyxOiGbdjAX",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "FXQYCirm4j0ESRA3wi3Soh",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ECa0nWka0bkHhp0pXtBCw7",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HPkmPBeSnhg9mUePM2TVOy",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "COkuxqM3L401Pxefd5qL3J",
+   "reason": "adult-sexual signal in og:title/name: BRA PANTY LOVE 👙"
+  },
+  {
+   "code": "KIuM85ls6HsK5Q1ZscQriQ",
+   "reason": "unsure-adult: ambiguous slang in og:title, dropped per rule: Actress അടി"
+  },
+  {
+   "code": "Lno9NPSzsJm2INWTUKlXln",
+   "reason": "adult-sexual signal in og:title/name: Tamil actress boobs🍅🍅"
+  },
+  {
+   "code": "BxVRUfG84Da41disv9bwAR",
+   "reason": "adult-sexual signal in og:title/name: Actress Navel Fans"
+  },
+  {
+   "code": "GK5nlJZtIEzATcuOvJvl6j",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LAIAdIjEX19B7JpFv52MpR",
+   "reason": "adult-sexual signal in og:title/name: Full sexxxxx"
+  },
+  {
+   "code": "I3hQWMXL5vtLaJQFwGoESX",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Kzg2FvzUORE4AohITUh7tK",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BMMtraKi5NyIK0FMK2EhIa",
+   "reason": "shares girls phone numbers (personal info): Aunty Number Want Freetyp"
+  },
+  {
+   "code": "LrQlbqg7pfjEnWutGVjJVD",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Cjws3dLoYomIhH1zp0jSvs",
+   "reason": "adult-sexual signal in og:title/name: Telugu sex videos"
+  },
+  {
+   "code": "CpoODbnvS7oADM2zxZxa4B",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JHNr1YYM0nUA5j2eol3j89",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JtOZWmGTQSlEbtzh5WNpH0",
+   "reason": "adult-sexual signal in og:title/name: ACTRESS LEAKES"
+  },
+  {
+   "code": "H9ZClTqBYUmB5ec8M3PCFW",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Hz2pDr3u9QP9A5KHnaLhK6",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HqIrChvoQVxASjYnJtMb5v",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KRXzPZs3I0c3EXG5T1f10Z",
+   "reason": "unsure-adult: bold-celebrity title, dropped per rule: Bold Indian celebs Group 3"
+  },
+  {
+   "code": "BqPLvmhn0Xg8OLPESqVOab",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KvOGroNH0bXFkNcXQ8Rdav",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JRltRDkCVnzLSaNEiMwXjv",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Cp2kJgi61PgGaQ8AoSnCTb",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EfHTwCPF7vm1L0bnLRCa5n",
+   "reason": "adult-sexual signal in og:title/name: 🥵Actress Veriyans💦"
+  },
+  {
+   "code": "JTzVs9KoPAi2YmEavnpMhS",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GJgWYff7SMCC4XNf4ogAqD",
+   "reason": "adult-sexual signal in og:title/name: TAMIL ACTRESS HOT🥰💋😘"
+  },
+  {
+   "code": "EynFjKOXwWP2JMEW7tBimv",
+   "reason": "adult-sexual signal in og:title/name: Actress Shaggers🍆✊🏽💦💦💦"
+  },
+  {
+   "code": "D0YS6mLuiX5LgxAEoGimvM",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EZchnql7gxB6dEz7xRjdZb",
+   "reason": "adult-sexual signal in og:title/name: Porn watching"
+  },
+  {
+   "code": "BVfEL5RBqq52IDw8bwORsU",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Ex6bgZE6plIHWKA2zahApP",
+   "reason": "adult-sexual signal in og:title/name: Tamil actress  sex🤗🤗"
+  },
+  {
+   "code": "E5MepWfBAGt13pWWjbrikL",
+   "reason": "adult-sexual signal in og:title/name: Hot bollywood actress sex"
+  },
+  {
+   "code": "HycUit0eXnR4FufAQtshM8",
+   "reason": "adult-sexual signal in og:title/name: Hot and Sexy Actress😍💋🍌💦💦"
+  },
+  {
+   "code": "LUTXeNaUbOLFZ4t5RXC4Z3",
+   "reason": "adult-sexual signal in og:title/name: 😍 Actress hot gallery 🔥"
+  },
+  {
+   "code": "Fd8LNRxrk4FGdk2tbJ1jHh",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Ejz09FW4z2K8wClVGq1WJS",
+   "reason": "adult-sexual signal in og:title/name: Dating and sex 🥰😍😍😍😍🥳"
+  },
+  {
+   "code": "KE0QZFJvVvz4gq0JMZePQO",
+   "reason": "adult-sexual signal in og:title/name: ACTRESS വെടികൾ😚"
+  },
+  {
+   "code": "FGgB2TFCoF846sc4qH77S4",
+   "reason": "adult-sexual signal in og:title/name: ✨ACTRESS HOT ED ❤️✨"
+  },
+  {
+   "code": "DR514HTq0EJDdkXevTWxFE",
+   "reason": "adult-sexual signal in og:title/name: 🔥💞💋Actress hot sex💋💋🔥"
+  },
+  {
+   "code": "JSazDTwWIKkAuIsPOpqiwR",
+   "reason": "adult-sexual signal in og:title/name: Hotness girl💖🧏‍♀️"
+  },
+  {
+   "code": "By3PZJ0Ybfk8ZYqseNVNf3",
+   "reason": "adult-sexual signal in og:title/name: Actress hot  Photos 😍😂😍😂"
+  },
+  {
+   "code": "BgG5ozgEBz76jcL0dFtaLh",
+   "reason": "adult-sexual signal in og:title/name: Bhanu puku Chimpi dengutha"
+  },
+  {
+   "code": "HhfpkNpfHwiL01Hq3Bvvje",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "F5qT5FlHEgs89HMVfNDp19",
+   "reason": "adult-sexual signal in og:title/name: Actress Molai and iduppu"
+  },
+  {
+   "code": "BC5PZq7yZqP6XqavDDSe3I",
+   "reason": "adult-sexual signal in og:title/name: Bollywood actress hot 💋💋💋"
+  },
+  {
+   "code": "DzYAgeWqJGzJCZxFTkj0jt",
+   "reason": "adult-sexual signal in og:title/name: Tollywood actress fu_k👙"
+  },
+  {
+   "code": "LENNG8UwzBNL6bO5YIWorR",
+   "reason": "adult-sexual signal in og:title/name: Actress Malavika Hot"
+  },
+  {
+   "code": "CvJTmyrw4iH0KR1B1GBHWs",
+   "reason": "adult-sexual signal in og:title/name: Indian actress and sex"
+  },
+  {
+   "code": "KYJ0f7rj6mjLvIea72kK75",
+   "reason": "adult-sexual signal in og:title/name: Actress Par Muth Maro"
+  },
+  {
+   "code": "F5G1R3eUqAf15MKBHOG1qZ",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Dlu5RycnuA33lXiPYkx7TY",
+   "reason": "adult-sexual signal in og:title/name: Actress Porn 🩱"
+  },
+  {
+   "code": "HcYX1W5XE60DtvSQAMXzpK",
+   "reason": "adult-sexual signal in og:title/name: Actress ✊🏻✊🏻💦💦"
+  },
+  {
+   "code": "9svss0wQxCl7QK90tos979",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JmSeJvrqJsTH3qaK1lMkQ7",
+   "reason": "adult-sexual signal in og:title/name: Actress sex and nude"
+  },
+  {
+   "code": "C9xBQ9AjkBf6FEvtP0uJGU",
+   "reason": "betting/match-fixing tipster group: 🎾Opportunités paris⚽"
+  },
+  {
+   "code": "DiRCu2jKjPIJ3GO7wH5s3q",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "1cWLWtAcy2E9S5Zv9SBlgX",
+   "reason": "adult-sexual signal in og:title/name: 🧜‍♀️💦👙NUDE ACTRESS👙💦🧜‍♀️"
+  },
+  {
+   "code": "EPE41FKtWos3hh7FrnbyPG",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "E7eNOPelhMDAHMLRz3bziR",
+   "reason": "adult-sexual signal in og:title/name: Vijay tv actress hot"
+  },
+  {
+   "code": "KATabh5sR2k8IvcjuerS89",
+   "reason": "adult-sexual signal in og:title/name: Desi Randi"
+  },
+  {
+   "code": "HdM15l41XqD7braIyk74d5",
+   "reason": "adult-sexual signal in og:title/name: Bollywood actress nude"
+  },
+  {
+   "code": "HVguIQNucMo659c0ZEf8wN",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ENg5NwXnUdZ7Uqhx4XidH2",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GJE5sAGLTfj80QODS4qfTG",
+   "reason": "adult-sexual signal in og:title/name: ACTRESS BOOBS CUM👙"
+  },
+  {
+   "code": "EIsmWo6Ta23B4Nad8HnIOs",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "E1KiNNioPoK4eMQ52QTNnO",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GUcdLB8XeXQ5WgSPVZnaiI",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HxEJd8U5pYcBBOLOPmYjkD",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BTJRODwRjxz7S7Adndakzv",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "B83p4M3eqc1KXD5P4XqTNk",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GJhyUjLCzoQDbhCFrNLv3E",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BT7pRyf3FGXL0vBOfeZ460",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "13A9OJzVkYWKiftvVKDNcV",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "F6MH02VRnjRCAyVHlMt5Qm",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HYNZkPqzSO6F0kOu3taKhe",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IzrUplW3lg2ALyFKXbjlf4",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GKaaldYPlac8pVKKQSZhId",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ExhEGuwqVni7guYEx7ycY0",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DiJ2JyK6x96JGyPwAtsJuB",
+   "reason": "betting/match-fixing tipster group: 1XBET AGENT"
+  },
+  {
+   "code": "FqMWZdXcHXKK0OhlAJsIgl",
+   "reason": "scam signal in og:title/name: FORSAGE/METAFORCE 📌💰"
+  },
+  {
+   "code": "JKCr6rIYVx2FDsUvUIX8Rh",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "E9DZMwYXDEjJyeZww2qW0w",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JJBQaVBVYmVEsDIJj1FFXg",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JiLxemIPQnvIPkN5qMW6BU",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "FW8HTSVusO56Z1oYYdPUhg",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KEYFXFDcWmHCz0bxNLiaVo",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Kw7CUuBCAjx0fAl1d37IZB",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JJw1mg8PmuA8ZHU0qcPvTS",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GY7UOIHnIjn5UHdXyjWH9e",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CUR9EMoGfCh7BdtSoLOwnN",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DLpP63NeN1926SYfTWTdMn",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EmoCx18NtaaLwVgdGMT0RU",
+   "reason": "scam signal in og:title/name: FORSAGE (Dreams come true)"
+  },
+  {
+   "code": "IZvPOglzlRmEeXYTvdkMMe",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DF7upCBfRp95KybWzmGug6",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EaDOBJO0yCv7RR0ESMcSHk",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JUGk4WC1Pbt7ANa0711ixj",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CMYRcKqGobZ9QPuCvb2osa",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GnS1r2kDLJFFiVjQGq6D6t",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "I8x1pMw1sKN6fc2mTIbp3p",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GFsXdnYhjNR7ehc7Zvtwbz",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Lrfh5qj5xDkJKIliQvbPdt",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "IFDsQnsxnbM65Nwr3ju3nx",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EZKYLm4SOAL3hn5C9bkV2b",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Dpsxu8Sv6WX2ud888zw8FV",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "E9BVx5eV21H8jl1ZlXuahF",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CAhG2GVgY4v1fdkSU2Glud",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JDuyCGwWTpXLBPbffw8LgY",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KBRnXLxqxTQGAgvkWshpD4",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Gl7eTwbNJl6D6NrUcoHd6r",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HZZ5gJDzH6KIDePPsC0Zz1",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KeIFKw8BKCc0pS78v4zj7v",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GgLRTtTEPyl5ZDduE72PMr",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "B60MYGsivJS26zuji7s3do",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EthFe6EHhdx3NHune1NkTm",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GifEQgY3xxR5koDLpQ27ub",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "K7Ee4u6xcX1GMHVjzyuroW",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EFbFqZDMyDv4nSi24Ea9U5",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "FD1pqZcIgkWL7lCIFsghXd",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "F40fqtDlWhwJed96QfrjxS",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JzF1FTMaKbn6KaO2k5zQzs",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "D2Mff7PAF1QHSWTAOo3knF",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "FDTxkRN6nLBEz0hoF2Ad9O",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HPnEG8oWuquKYeh8JjLeP1",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "L7oHPw92uOB7TZowt75Sng",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DU4jz7KZ3JMEzVLyDniLsd",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DacRc47o8r2L93hz1Wcckx",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "H4qJbYfTzmPFJx9Axfxivw",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HBLHYyEvoLOHstoatdk2Ii",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EdARZd9bIP4JtsbJ3iPpSv",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BWWIHD7FuVf8jgaqzprH1O",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "6PmfdsykvK06nHpgypxiHv",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CAT9hIwRPKHDyR5nL3A7NH",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KcfU7fbmztDAO7DsR0XEa8",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BPCIfLuAURS8d02vbNTbwO",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Bm62WKsWYsM9iR7FD6TAJm",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "H4VMwGd1Rxl4fkiSQj8HWX",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Cwma5ACx20jLkq1qHH0RKY",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "J4Ile5ADi3f4DsLiDoxdWr",
+   "reason": "adult-sexual signal in og:title/name: American hot sax.."
+  },
+  {
+   "code": "CJwraMSUtYeD9VjoAMKkEF",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EbeZk43COpc1sL7m8hTY57",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HL14rVZ5zmbGn4WUC1x6eW",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LLaZSvezbpZBR5uUAYyyps",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CX12ugTFJuCBa2jRmfwyY3",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Dj64DnGxcA6HP4Oy1QjsKv",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CjyOlsHxrNG9WRj1bjnluH",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GnciSGZixB0AThaSoWT8Rh",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JQ3EAXawMzq8ytmhG6cJ8m",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "BhFyOpw2WhM2zJIjEKqBTR",
+   "reason": "adult-sexual signal in og:title/name: American Sex only"
+  },
+  {
+   "code": "LXnuVWubNj0HeMOHnK1lSm",
+   "reason": "adult-sexual signal in og:title/name: American boobs and video"
+  },
+  {
+   "code": "Irjyo2aDqeYK6cvn4bsL7z",
+   "reason": "adult-sexual signal in og:title/name: Naughty America"
+  },
+  {
+   "code": "Dpumv6JDaVp0bIIsrmLp2U",
+   "reason": "adult-sexual signal in og:title/name: American message 👙"
+  },
+  {
+   "code": "Lgo2MffyqXKIkE4MdvwSO4",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "L8URLFaG4QG3DjGqLS3UPs",
+   "reason": "adult-sexual signal in og:title/name: People crazy mother fuck sons of the bitch"
+  },
+  {
+   "code": "KpZ8QEhiIIRAsOkGO3guhP",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LHP6flqxBpG8GNgCHl1XvY",
+   "reason": "adult-sexual signal in og:title/name: Sexy America Latine🔞🥰🇧🇷🇦🇷🇨🇴"
+  },
+  {
+   "code": "I1d6EBzaHPN2H9j5YIroHm",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "AUAWpCg6O2c57IlQcQIwpy",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GXILPp0WpJLJ31RVNcXfuP",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "DnZaFgXDvNy7DW6tIes2p9",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JlrsPslUbEqAlVc4OwVHeT",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "ENQrX6sZ4FVB9X89dfIT4j",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "I1VT2trXMtF0BDbviMnOPB",
+   "reason": "adult-sexual signal in og:title/name: HD Porn"
+  },
+  {
+   "code": "CdSBxSlw16W6rboPdgASbg",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Hi7vCnY3Vra5Am8HLZZoFO",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "EE55ypbDjeC7lmdvfGE5EE",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "JhlSCPK1uiv0P3FSqgtGgH",
+   "reason": "adult-sexual signal in og:title/name: Hot Girls USA"
+  },
+  {
+   "code": "Dnmlxa6JVfd2nTZYYbPhYA",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "40BCFWfOmdD6oHyZLgerQZ",
+   "reason": "adult-sexual signal in og:title/name: Cartoon sex xxx"
+  },
+  {
+   "code": "HwZJWrI6UWzB8jYTgzkdAb",
+   "reason": "adult-sexual signal in og:title/name: NSFW#1"
+  },
+  {
+   "code": "He5xy3o9nH3EJDHgi43mG4",
+   "reason": "adult-sexual signal in og:title/name: XXNX Vdieos"
+  },
+  {
+   "code": "K5r3rULJbN8JTHK08P6ySF",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "5UQxE866nPd6RUiWzYlspr",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "86RLU5vKbRS3UOonrZqFxF",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "5kq3d6pZYftAzufW2Az37v",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "KieMHAblxNr8aShOsx5xZA",
+   "reason": "adult-sexual signal in og:title/name: @hookup sugamum -kenya"
+  },
+  {
+   "code": "J1Rs1LEJhRs89CPiE30GTO",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Edtl7Y9GYtpLT5M37gPgsn",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "4zso6qIuwtBFGCzCnsCJDz",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "HN2foisw2BX8v21NC5Rakd",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "GaEk4NjClmyJ58uDiWxtez",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "LV5wGNJtlzm6rH440Y98ut",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Lp2AJsU6icR2y4oArCoRv7",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "CDzV1HfJhlSJSzitMpOAjT",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Ftpunq2UpCn9mqMvRXPP2K",
+   "reason": "duplicate of existing groups.json code"
+  },
+  {
+   "code": "Bho3nqN8aVt5qcFd6PCqKa",
+   "reason": "adult-sexual signal in og:title/name: Full hot aunty genuine nude live chat video call"
+  },
+  {
+   "code": "C5KuASoZIQPA7xP0xnBgpU",
+   "reason": "adult-sexual signal in og:title/name: Tamil aunty lovers🥵"
+  },
+  {
+   "code": "EigvlWpKJKNGTCD1UfzWf3",
+   "reason": "adult-sexual signal in og:title/name: Aunty ki CHUT 💋💋💋💋"
+  },
+  {
+   "code": "DFV2QUrKRlTByBfcJaSFjn",
+   "reason": "adult-sexual signal in og:title/name: Xxx 💋 sexy 👙Video group 👙"
+  },
+  {
+   "code": "GAwCjjDRu3g46dXZL2ewT9",
+   "reason": "adult-sexual signal in og:title/name: I am aunty hot sexi group"
+  },
+  {
+   "code": "CnMHS5ycuJQLfkM620jo55",
+   "reason": "adult-sexual signal in og:title/name: Hot aunty video call sarvice"
+  },
+  {
+   "code": "BzD0cePaoVC6zn1b3GkFQU",
+   "reason": "adult-sexual signal in og:title/name: Aunty Sex video"
+  },
+  {
+   "code": "Fvw02LInXBJ3QdBrnNVZoZ",
+   "reason": "adult-sexual signal in og:title/name: Maa Bahan sb ki randi 🫦👅💦💦"
+  },
+  {
+   "code": "KdINEdGHtrN9XHRC7j4MXA",
+   "reason": "adult-sexual signal in og:title/name: Tamil sex service videocall geniun"
+  },
+  {
+   "code": "FlQ2wVEn9012jl6Ul7pm4n",
+   "reason": "adult-sexual signal in og:title/name: Tamil Sex aunty"
+  },
+  {
+   "code": "BgAywKqflviDP0BBDHdSm7",
+   "reason": "adult-sexual signal in og:title/name: Aunty ka chuchi"
+  },
+  {
+   "code": "KXFwZg6dPSyHkigxgD3ptD",
+   "reason": "adult-sexual signal in og:title/name: Sexy video call service"
+  },
+  {
+   "code": "Bb1ntr4LBk0Jlg3aFoEuQv",
+   "reason": "adult-sexual signal in og:title/name: Sexy aunty"
+  },
+  {
+   "code": "CEGnRcJF0dEFXuZSTyDzTL",
+   "reason": "adult-sexual signal in og:title/name: Big boobs milky with finger sex"
+  },
+  {
+   "code": "FH1DbHU1LTwEMbBdwOgUm7",
+   "reason": "adult-sexual signal in og:title/name: Tamil aunty 🥵"
+  },
+  {
+   "code": "Iz5X99SYUJeLB6K23uWazc",
+   "reason": "adult-sexual signal in og:title/name: Tamil hot aunty night WhatsApp chat video call audio sex live cam service available 💋💋"
+  },
+  {
+   "code": "GhDj9Bm6Sv99hYPg0xHusk",
+   "reason": "adult-sexual signal in og:title/name: Sex tamil talk"
+  },
+  {
+   "code": "19kwkvmFbeCCX4rJu2ehij",
+   "reason": "adult-sexual signal in og:title/name: Israel Pussy"
+  },
+  {
+   "code": "EjJDPdNeNwZKaQ3GGALGor",
+   "reason": "adult-sexual signal in og:title/name: Bangladesh porn Star"
+  },
+  {
+   "code": "DvKJjZ5c60C7LeGVJYV8xh",
+   "reason": "adult-sexual signal in og:title/name: Bangladeshi vairal sex"
+  },
+  {
+   "code": "ClvA3UCNmSF0RT1dVy4Erd",
+   "reason": "adult-sexual signal in og:title/name: Nude"
+  },
+  {
+   "code": "KeYZVknCGtZ6lCBoOhCCXf",
+   "reason": "adult-sexual signal in og:title/name: XNXX INDONESIA 🇲🇨"
+  },
+  {
+   "code": "Kodr0ftI4m33oMHroTRWI2",
+   "reason": "adult-sexual signal in og:title/name: Porn with real Girls🔞"
+  },
+  {
+   "code": "DUSzqJrvcxd6nuze02154w",
+   "reason": "adult-sexual signal in og:title/name: Bihari Girls Love Scene🔞👄"
+  },
+  {
+   "code": "Fgv5nKhP38RHD86kFmKbe8",
+   "reason": "adult-sexual signal in og:title/name: Ema Sex Academy"
+  },
+  {
+   "code": "Gx9KK7z04qm6iRPhrsIdvt",
+   "reason": "adult-sexual signal in og:title/name: bhabhi big boobs genuine service available"
+  },
+  {
+   "code": "KURFTgC95jxIzgf8yzhhOt",
+   "reason": "adult-sexual signal in og:title/name: Indian sexy bhabhi 🍑👙"
+  },
+  {
+   "code": "FOuZlOKQpP4IaoLDQaUKXQ",
+   "reason": "adult-sexual signal in og:title/name: Sexy faridabad bhabhi or aunty"
+  },
+  {
+   "code": "BsSs7bu8aEbIKFHhT0aPxf",
+   "reason": "adult-sexual signal in og:title/name: Tamil bhabhi 🥵"
+  },
+  {
+   "code": "GqjCAmcMcJ27bEGQYAqVh9",
+   "reason": "adult-sexual signal in og:title/name: Tamil hot 🥵 bhabhi 💋"
+  },
+  {
+   "code": "LHJzk8hFitm3wM1j407CKE",
+   "reason": "adult-sexual signal in og:title/name: 👙 Newly Sweetie Bhabhi 👙"
+  },
+  {
+   "code": "LmImyog57JVCCj0FdnEJ1p",
+   "reason": "adult-sexual signal in og:title/name: 💋Sexy bhabhi spy cam💋"
+  },
+  {
+   "code": "F9a5PIze1djExU3u0kCSdk",
+   "reason": "adult-sexual signal in og:title/name: Priya Bhabhi 🥵💦🤤🔥"
+  },
+  {
+   "code": "J4aI6t6tdA5LLVzTa1EgzK",
+   "reason": "adult-sexual signal in og:title/name: dasy bhabhi hot girl 🥰🥰"
+  },
+  {
+   "code": "EymOozIPpZA5kwGTSfiE8r",
+   "reason": "adult-sexual signal in og:title/name: Bhabhi ji videos 🔞🥵"
+  },
+  {
+   "code": "HPoiGrQ91j1CLpqVTWQg8v",
+   "reason": "adult-sexual signal in og:title/name: Fucking"
+  },
+  {
+   "code": "FXNK6CwZ9vnEu7ITZbqXtO",
+   "reason": "adult-sexual signal in og:title/name: Randi bhabhi kayal ko chodosab"
+  },
+  {
+   "code": "Hs0GL7hmCHJGYVxzYxPBb2",
+   "reason": "adult-sexual signal in og:title/name: Chut Chik ni"
+  },
+  {
+   "code": "IdGPpLaZPKrF2VrFe8s0m4",
+   "reason": "adult-sexual signal in og:title/name: 🍑Desi bhabhi 🔞"
+  },
+  {
+   "code": "GqgjuwQNXErDyEh9LuNb0i",
+   "reason": "adult-sexual signal in og:title/name: Video call service girls and aunty full open bhabhi sex videos call service 50rs"
+  },
+  {
+   "code": "D2HUQ6FD5P676AzWgBV4uJ",
+   "reason": "adult-sexual signal in og:title/name: Sexy bhabhi devar💦"
+  },
+  {
+   "code": "HW1RTZPXmtl0OqaltS5aST",
+   "reason": "adult-sexual signal in og:title/name: Meri Hot Bhabhi 👙👙"
+  },
+  {
+   "code": "KsDdpnpANlrBUra42oKxKW",
+   "reason": "adult-sexual signal in og:title/name: Jyoti Bhabhi video call sex full open bur🥵🥵🥵🥵"
+  },
+  {
+   "code": "DcN6kT3DmMb1YMELocqyvy",
+   "reason": "adult-sexual signal in og:title/name: Bhabhi ki boobs pic"
+  },
+  {
+   "code": "GRf323E3oja4CXsc9jtPdM",
+   "reason": "adult-sexual signal in og:title/name: 👄India sex bhabhi 🤩"
+  },
+  {
+   "code": "IPtxyH2pMF4EzHDctwUSOL",
+   "reason": "adult-sexual signal in og:title/name: Black Cock & White Pussy!"
+  },
+  {
+   "code": "E56Rl0d0cW82g6lH6w2PrS",
+   "reason": "adult-sexual signal in og:title/name: Xxx Videos"
+  },
+  {
+   "code": "Lx4kbDdn8EkAwO7AvY4HNm",
+   "reason": "adult-sexual signal in og:title/name: Xxx Videos Desi Mew Free"
+  },
+  {
+   "code": "Khw6NHDAs03HCTMZ1r3ePJ",
+   "reason": "adult-sexual signal in og:title/name: Xxx Videos Free Gashti Ki Chudai"
+  },
+  {
+   "code": "JJNY7RLdAqTHmBypnkkcxW",
+   "reason": "adult-sexual signal in og:title/name: Xxx Videos Free Gashti Ki Chudai"
+  },
+  {
+   "code": "GNLSFa9QYu886uHQ3CiLFm",
+   "reason": "adult-sexual signal in og:title/name: USA webcam dating for adult sex"
+  },
+  {
+   "code": "FE0NWwOg1N8C05tzvoWuyE",
+   "reason": "adult-sexual signal in og:title/name: Xxx Videos Hot Gashti Ki Chudai"
+  },
+  {
+   "code": "Clro9i1fuzO0YuYS1ZN8fo",
+   "reason": "adult-sexual signal in og:title/name: Matured & Updated Mind.🔞📲"
+  },
+  {
+   "code": "Cb3qSO9k4bA0SdY1va5dud",
+   "reason": "adult-sexual signal in og:title/name: Sex dating for adult 🔞"
+  },
+  {
+   "code": "BRHSEN0Vidt1rJz6d9sm3I",
+   "reason": "adult-sexual signal in og:title/name: Sex dating for adult"
+  },
+  {
+   "code": "DYu38dPt5AqLkLwx7flIgn",
+   "reason": "adult-sexual signal in og:title/name: UK webcam dating service 🔞"
+  },
+  {
+   "code": "F6hjhKqlziW4u7ZokIlZpO",
+   "reason": "adult-sexual signal in og:title/name: Sex dating for adult Canada 🍓"
+  },
+  {
+   "code": "GJj4SFi7gmL0Rrh3PdQpbS",
+   "reason": "adult-sexual signal in og:title/name: Dating❣️🌹and fucking ✌️👉👌"
+  },
+  {
+   "code": "DQr3jtXqCJZIulZA2z6aqu",
+   "reason": "adult-sexual signal in og:title/name: Nudes girls Malay"
+  },
+  {
+   "code": "FEhxokMUiZA0AWJyVg8T5I",
+   "reason": "adult-sexual signal in og:title/name: Sexy girls Singapore"
+  },
+  {
+   "code": "EZRSmCsacFXDYIJ1c7luF6",
+   "reason": "adult-sexual signal in og:title/name: Nudes girls free"
+  },
+  {
+   "code": "HAdU69uOqprEojiERfPj3A",
+   "reason": "adult-sexual signal in og:title/name: Hot sexy bhabhi big boobs"
+  },
+  {
+   "code": "GoxJc6qktbRFh7Lz6QSOnR",
+   "reason": "adult-sexual signal in og:title/name: Only ✌️ sexy 🔞 video🎥 available 👈"
+  },
+  {
+   "code": "Ft8b5JZqXAjEeIVxiVTH6Q",
+   "reason": "adult-sexual signal in og:title/name: Nudes"
+  },
+  {
+   "code": "LCuLDtNkyOeETOePsf9LVY",
+   "reason": "adult-sexual signal in og:title/name: 🔞hasina ki mast jawani💄💋🍌"
+  },
+  {
+   "code": "LN2qt0MNZbN8lqBfBOFiUq",
+   "reason": "adult-sexual signal in og:title/name: Xxxcam"
+  }
+ ],
+ "resume": "verify2_results_20261111.jsonl in wave_20261111 dir; re-run verify2_team31.py (it resumes from both results files) then re-run bank_team31.py",
+ "notes": [
+  "checked total (Nov10 + this run): 1560; live 796; dead 702; pending 62",
+  "banked verified: 298; excluded after screening: 498 (incl. existing-code dupes)",
+  "codes still unverified (leads): 11587",
+  "country is '' when not determinable from post title/slug (no 'International' placeholder).",
+  "Adult screen strips negated-prohibition sentences ('no porn' etc.) before matching."
+ ]
+}

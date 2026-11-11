@@ -1,0 +1,9 @@
+to verify: 13147
+first 5 slugs: [None, None, None, None, None]
+already done (Nov10 + this run): 923 todo: 12224
+100/12224 elapsed 451s
+200/12224 elapsed 1018s
+300/12224 elapsed 1908s
+400/12224 elapsed 2448s
+500/12224 elapsed 2981s
+600/12224 elapsed 3481s

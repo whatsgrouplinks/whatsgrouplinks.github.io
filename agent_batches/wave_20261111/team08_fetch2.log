@@ -1,0 +1,15 @@
+input 3601 unique-normalized 2745
+already fetched 200 todo 2545 existing candidates 1904
+200/2545 fetched in 212s codes-so-far 1904
+400/2545 fetched in 449s codes-so-far 2028
+600/2545 fetched in 716s codes-so-far 4194
+800/2545 fetched in 964s codes-so-far 4239
+1000/2545 fetched in 1213s codes-so-far 4469
+1200/2545 fetched in 1445s codes-so-far 5104
+1400/2545 fetched in 1692s codes-so-far 5268
+1600/2545 fetched in 1978s codes-so-far 7558
+1800/2545 fetched in 2078s codes-so-far 7665
+2000/2545 fetched in 2143s codes-so-far 7801
+2200/2545 fetched in 2218s codes-so-far 7946
+2400/2545 fetched in 2297s codes-so-far 8044
+DONE fetched=2745 http200=1723 total-candidates=11009 unique-codes=8426 elapsed=2388s

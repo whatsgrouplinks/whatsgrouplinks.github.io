@@ -1,0 +1,24 @@
+mine: 2203 pages to fetch (total 3603)
+  mined 100/2203 pages, candidates=1, gi_slugs=392, linkado=0, groupizo=0, failed=926
+  mined 200/2203 pages, candidates=3, gi_slugs=837, linkado=0, groupizo=0, failed=936
+  mined 300/2203 pages, candidates=4, gi_slugs=980, linkado=0, groupizo=0, failed=937
+  mined 400/2203 pages, candidates=4, gi_slugs=1086, linkado=0, groupizo=0, failed=937
+  mined 500/2203 pages, candidates=5, gi_slugs=1158, linkado=0, groupizo=0, failed=937
+  mined 600/2203 pages, candidates=5, gi_slugs=1192, linkado=0, groupizo=0, failed=937
+  mined 700/2203 pages, candidates=6, gi_slugs=1215, linkado=0, groupizo=0, failed=937
+  mined 800/2203 pages, candidates=6, gi_slugs=1276, linkado=0, groupizo=0, failed=937
+  mined 900/2203 pages, candidates=6, gi_slugs=1308, linkado=0, groupizo=0, failed=957
+  mined 1000/2203 pages, candidates=7, gi_slugs=1362, linkado=0, groupizo=0, failed=960
+  mined 1100/2203 pages, candidates=7, gi_slugs=1365, linkado=0, groupizo=0, failed=1009
+  mined 1200/2203 pages, candidates=7, gi_slugs=1372, linkado=0, groupizo=0, failed=1094
+  mined 1300/2203 pages, candidates=48, gi_slugs=1372, linkado=0, groupizo=0, failed=1104
+  mined 1400/2203 pages, candidates=54, gi_slugs=1372, linkado=0, groupizo=0, failed=1104
+  mined 1500/2203 pages, candidates=54, gi_slugs=1372, linkado=0, groupizo=0, failed=1117
+  mined 1600/2203 pages, candidates=54, gi_slugs=1372, linkado=0, groupizo=0, failed=1129
+  mined 1700/2203 pages, candidates=173, gi_slugs=1372, linkado=0, groupizo=0, failed=1139
+  mined 1800/2203 pages, candidates=173, gi_slugs=1372, linkado=0, groupizo=0, failed=1159
+  mined 1900/2203 pages, candidates=200, gi_slugs=1372, linkado=2731, groupizo=0, failed=1170
+  mined 2000/2203 pages, candidates=301, gi_slugs=1372, linkado=3268, groupizo=0, failed=1170
+  mined 2100/2203 pages, candidates=401, gi_slugs=1372, linkado=3422, groupizo=0, failed=1170
+  mined 2200/2203 pages, candidates=496, gi_slugs=1372, linkado=3540, groupizo=0, failed=1171
+MINE DONE: candidates=499 gi_slugs=1372 linkado=3556 groupizo=0 failed=1171 junk=0

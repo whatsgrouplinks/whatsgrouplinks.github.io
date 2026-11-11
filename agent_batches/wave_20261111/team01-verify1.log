@@ -1,0 +1,12 @@
+verify: 263 to check, 0 pre-excluded, 0 already done
+  verified 25/263: live=1 pending=24 dead=0 excl=0
+  verified 50/263: live=2 pending=48 dead=0 excl=0
+  verified 75/263: live=2 pending=73 dead=0 excl=0
+  verified 100/263: live=3 pending=97 dead=0 excl=0
+  verified 125/263: live=3 pending=122 dead=0 excl=0
+  verified 150/263: live=3 pending=147 dead=0 excl=0
+  verified 175/263: live=3 pending=172 dead=0 excl=0
+  verified 200/263: live=3 pending=197 dead=0 excl=0
+  verified 225/263: live=3 pending=222 dead=0 excl=0
+  verified 250/263: live=3 pending=247 dead=0 excl=0
+VERIFY DONE: live=3 pending=260 dead=0 excl=0

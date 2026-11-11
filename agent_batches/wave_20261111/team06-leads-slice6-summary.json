@@ -1,0 +1,27 @@
+{
+  "team": "team06",
+  "slice": "leads_slice6",
+  "sources": [
+    "linkado.app listing pages (3603)"
+  ],
+  "verified": 181,
+  "pending": 0,
+  "leads": 241,
+  "dead": 2442,
+  "exclusions": [
+    {
+      "code": "IySECcbCmPh6dUFbirAWjG",
+      "reason": "scam: cassino"
+    },
+    {
+      "code": "Ex8HvCVcqBF8Bjjtg6pazx",
+      "reason": "scam: aposta[s]?"
+    },
+    {
+      "code": "H7RyY5omPwu56L876nGnuX",
+      "reason": "scam: cassino"
+    }
+  ],
+  "resume": "complete: all new codes verified; stage1 checkpoint team06-stage1-checkpoint.json; stage2 checkpoint team06-stage2-checkpoint.json; failed/no-code listing pages in team06-leads-slice6-leads.json",
+  "notes": "unique codes mined 3281; dup vs existing 655; dead codes 2442 not banked; leads = 0 fetch-failed + 241 no-code pages (invite hidden/removed, retry next wave). ENV NOTE: live codes return non-empty og:title (WhatsApp lookup ~30s); dead/revoked codes return HTTP 200 with empty og:title (fast after first lookup). Empty-og codes were retried once after a 5s pause before being marked dead, per the wave rule. Stage3 enrichment: re-fetched 183 listing pages; full names recovered from <h1>, real descriptions from og:description; 2 dropped on re-screen; 176 entries now carry a real description."
+}

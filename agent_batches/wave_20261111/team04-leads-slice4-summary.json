@@ -1,0 +1,415 @@
+{
+ "team": "team04",
+ "slice": "leads_slice4",
+ "sources": [
+  "linkado.app grupo pages"
+ ],
+ "verified": 477,
+ "pending": 26,
+ "leads": 2506,
+ "dead": 365,
+ "exclusions": [
+  {
+   "code": "CVJaeiGs2goITa9pHuQPku",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "KIBa6cutpNq3vp3hoNAlKf",
+   "reason": "crypto/betting scam token 'bot mines'"
+  },
+  {
+   "code": "E7Q9ke7UCthHqd225kKMoE",
+   "reason": "adult sexual content (🔞 + sexual emoji/meetup og:title)"
+  },
+  {
+   "code": "LgRKA26lK5f7DvQQFKK5c9",
+   "reason": "hard porn/xxx marker 'goza'"
+  },
+  {
+   "code": "I0BVh0pjpHL2g0zYsF8SdQ",
+   "reason": "hard porn/xxx marker 'goza'"
+  },
+  {
+   "code": "GDqFZjlftt8FCXzocUDxqS",
+   "reason": "hard porn/xxx marker 'putaria'"
+  },
+  {
+   "code": "GDz4YnAExd63GiopxJ4GoH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HWLzwzc9PeZLV2Sj85B8S8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gtq4OdBGJjrE6swrA997mc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KUeKq7koYcaIRXawTEt4dF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DgzCfnkK7axILOpOTZT0qd",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HSgWfImuxHh0iT9ag4JFxu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KssJoolOCM34nqJmtssuCL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CzzuWss8gUiEsLxN6TWVs0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gwa134CvLyvJZpzB1omhy9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ctd2LfMOSjDFzxvqBS27t8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Flpf7MEFGpXHSl8BNPxoFc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bxacsomq3TpDZ72BcAqOWr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Esr93IN4eUSIWiMwAFizcu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DH9GWEAbGOqAgkMzK7I5Cs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IXSvDvll8Q96rXBNjtdj4m",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IQ81HLbFDiz2xsNXCEWV31",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CGiy17BOp4iJYlySnSuHBb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IeXrl7d91lBHyjGwvGPxcK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K3rROHBma1430D5ap0aBQk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G7uCq2ALEBJ4eYH8DgYdyX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HSs6D9Y4LEe5X4ZjzM4XMF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BueUbS9jPJIKBIpRAsRh3k",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C2ia381IKDCILWnmIzxP1e",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GYGdIdKpg2G1MRR9XYg37c",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E1q0XllyYbW8hXoTcgfMte",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I1JO8YR3OnK5RB4FH8h1Bg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "INnfGEhufD06Ub3ooAs43H",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KXMe0XWQ3U8AIBcSSEBbMS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HFSvwPpg2BkJkD3kxuAUP6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JKciePLcs0SHmJv7NMghe5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FmuKh2CMLmt0ZYYMRXlmwZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kr0WXjhX6wB0r4WYBJzx1q",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LSlPj4JmrX6FIpb4zvELQ0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EBBI6HCkmsN0tDGpq5exNV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DriYGEdJeGT96YpTyElQue",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IqaEdhmYTbAEahqqjvu6W2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HVapgInWpdh8h64GW8D5nt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DAjCk7dh09382rutbOABYp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DAwrWn15IC3EKuMoEPSqmx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ha5n0O4f61jCdimsbvIwqN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DSkPnlHlShg0HDfICdybhu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LY5imIm1o60Ap8hbFEptP2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KBTQAlsUg6wLkSkjSjAYbh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GaBMkytBgegIH2I04rP2DN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EJtiG147EJU0DXx1GelZkw",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JfJkh2koxFy3au8hNgl7fm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CUVxo1exA2nJWSkuhkEd9Y",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JBx5SvlE2Nw3xt8D2We0cZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FZWQathNIGf3U9Yu6KLRJu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EXUWwLdmG5J435DhZy3bCl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GjQa0fSw1yWDPiBqYFLKV6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DuA2N6zFihXD6ccHWo0wQB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DqSx9PwYEBNHI20qJ3Z1o8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GboOeNEK55ULXbusOlzZdV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EP07S5tq7EoAm3s9XCZFOu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GrujkUKHrDAAH0HnVhCtX3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H9qtRsWHZcP3DLMPRmaItX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CZCiLtDZ6mS2KXWtFmMlAI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I8V1G6Fm8CrKzXqGgVXRYb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jqy6fi3JgmhHDXqNvzlrIv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HbViFsKMR0ULqnmzilVyrO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Blfvsww12Fk8ch1TcERrpA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G2ZmCup24FKLbBqy8M4stL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FN2XZeEsYch6LSsbO4aUph",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HAgAaeZcKDg2wtxBIwJxtU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BLiwYupYlx08fkgaxDTNci",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I8hCLP5fZPFD26IWHZFmdp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EcJZsqBymLfApUrc2XceNC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Hov267pIjQbJgsr1z0kZHW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JIFeluY07eD29PDwxGSswH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GUBrCDeaQlxFNfcHEdRHO1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FGa37kQylst7bePZ00GtVc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JfgpwNR4qLo3No2AuM6EOi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KkiwWyLmk4T7xKKCbk5QqJ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GGr1qzwUIplEwn6zqoUsFn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LHNoDq4r8ttKKxH3bggJpx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fue3ea8Wf9bJWfUcKXCQz0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J5wOwsxe6Pp4JcCVJJP50M",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ke16Ic2uZYv34MUKICk476",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CeJng0jQqYJ4oNF2JEEXnG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KjJsTJT3LjzGzkdv3CTpbl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BiEjIetIjSUJCIBE9zHqeI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KbB8ULSDOgJ3fhv0KgVeeK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LDcPcOZy0LKJ0nXZqfcxlQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BD3rN5R3Tab8L8KcJgWTQI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I9F7anl8AwFLP5jZxinRRU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ll9fxat8IHl8RCeKTzUQvm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ifz54ZtXQEN4KfNpHqi5nj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IYGHphBOQLQLHT0ctxSLgV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K8CYTlGHVfl8IaGg7ml43d",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LogjTaYNdReKpRC43gpXCl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EowhrcSPWHKBQ3j9rTbqzG",
+   "reason": "already in groups.json (existing code)"
+  }
+ ],
+ "resume": "listings attempted: 1100 of 3603; next unattempted listing is index 1100 in leads_slice4.json order (first unattempted URL: https://linkado.app/grupo/650d75096f3f15eab134f2b1); re-run team04_mine.py (it skips mined URLs) to continue, then re-run this finalize script.",
+ "notes": [
+  "listings attempted so far: 1100 of 3603",
+  "listings with no invite found: 128",
+  "listings fetch-failed (in leads file for retry): 3",
+  "linkado.app is very slow from this VM (TTFB ~15-20s) and chat.whatsapp.com ~10s+ with occasional timeouts; throughput is network-bound. Many other wave teams are fetching the same hosts concurrently.",
+  "country BR for all (linkado.app is a Brazilian directory, locale pt_BR).",
+  "Descriptions use the listing's own description text where present, else a template from name/category. No source name/link stored in verified entries.",
+  "Finalize re-screen: adult-emoji combo (🔞 + sexual emoji/meetup wording), 'goza'/'vendo meus conteúdos' sexual-content selling, and 'bot mines' betting-signal bots excluded; 'Rifa da Vitória' kept (its description is a 🚫 prohibition, stripped before screening)."
+ ]
+}

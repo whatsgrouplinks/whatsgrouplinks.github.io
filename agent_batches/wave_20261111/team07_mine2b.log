@@ -1,0 +1,15 @@
+raw=3603 effective=3600 existing=108992
+resumed 3979 candidates from 1299 done urls
+todo=1130
+done=100/1130 total_done_urls=2570 candidates=4037 failed=582 elapsed=154s
+done=200/1130 total_done_urls=2670 candidates=5526 failed=594 elapsed=291s
+done=300/1130 total_done_urls=2770 candidates=6866 failed=595 elapsed=300s
+done=400/1130 total_done_urls=2870 candidates=7671 failed=595 elapsed=310s
+done=500/1130 total_done_urls=2970 candidates=8726 failed=595 elapsed=320s
+done=600/1130 total_done_urls=3070 candidates=9169 failed=595 elapsed=329s
+done=700/1130 total_done_urls=3170 candidates=9702 failed=595 elapsed=341s
+done=800/1130 total_done_urls=3270 candidates=9965 failed=595 elapsed=355s
+done=900/1130 total_done_urls=3370 candidates=10183 failed=595 elapsed=371s
+done=1000/1130 total_done_urls=3470 candidates=10515 failed=595 elapsed=380s
+done=1100/1130 total_done_urls=3570 candidates=10870 failed=595 elapsed=388s
+FINISHED todo=1130 raw_candidates=10912 new_vs_existing=1073 failed=595 elapsed=414s

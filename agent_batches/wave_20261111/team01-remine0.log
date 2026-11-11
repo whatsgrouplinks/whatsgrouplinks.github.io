@@ -1,0 +1,5 @@
+mine: 300 pages to fetch (total 3603)
+  mined 100/300 pages, candidates=225, gi_slugs=0, linkado=0, groupizo=0, failed=19
+  mined 200/300 pages, candidates=225, gi_slugs=0, linkado=0, groupizo=0, failed=35
+  mined 300/300 pages, candidates=225, gi_slugs=0, linkado=0, groupizo=0, failed=35
+MINE DONE: candidates=225 gi_slugs=0 linkado=0 groupizo=0 failed=35 junk=5

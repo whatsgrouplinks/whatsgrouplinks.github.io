@@ -1,0 +1,407 @@
+{
+ "team": "team09",
+ "slice": "pending recheck — wave_20261110_pending_all.json (397 codes)",
+ "sources": [
+  "wave_20261110/wave_20261110_pending_all.json"
+ ],
+ "verified": 14,
+ "pending": 302,
+ "leads": 0,
+ "dead": 73,
+ "exclusions": [
+  {
+   "code": "Lxt3msLu0Wn9zDlmOeqtdq",
+   "reason": "scam name dropped on sight: BETWAY BWP TIPS"
+  },
+  {
+   "code": "BUuxY3BTHSqEYReYRnxPVX",
+   "reason": "scam name dropped on sight: Wagmi Airdrop Community"
+  },
+  {
+   "code": "EU58chREBgR2UhmQEtQ2M2",
+   "reason": "duplicate: already in groups.json (.existing_codes.json)"
+  },
+  {
+   "code": "Hp1EPuYYXyt7snylRlQsXg",
+   "reason": "scam name dropped on sight: Betpawa sure odds"
+  }
+ ],
+ "dead_codes": [
+  {
+   "code": "BY8Xhf9w8qt9NoIck9UmLM",
+   "name": "⚽ Kuala Lumpur Football Futsal Community 🇲🇾",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "Lw01URvc7ThGQCaiG3Z2OU",
+   "name": "𝐴𝑙𝑙 𝑘𝑒𝑟𝑎𝑙𝑎 𝑚𝑎𝑚𝑖𝑡𝒉𝑎 𝑏𝑎𝑖𝑗𝑢 𝑓𝑎𝑛𝑠 𝑎𝑠𝑠𝑜𝑐𝑖𝑎𝑡𝑖𝑜𝑛_𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙__",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "GZtQ7Lt84IMA7680vdT61K",
+   "name": "STOK || WAN ONLLY X OWN²",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "D3kPjuVgkW9J2cDSg7rd3t",
+   "name": "Football 4 everyone",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "DuZd0XlBWyyDU8h7vjfW43",
+   "name": "Good life 😇😇",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "Jbfn27ImuPI8dob36zsQ5s",
+   "name": "🌹META G POWER Official Group",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "FXoECNH6UwZCU7LzLzVDaj",
+   "name": "Tech Gadgets",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "LyZFBrW4kTpGVmiI9TdeJr",
+   "name": "SPORTY-BET: GROUP 🏆 ✅",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "IstZHj2uDUx3qISVmX5jpf",
+   "name": "Boutique de vêtements 👚 👒 Qualité preminium(Turquie 🇹🇷🇹🇷🇹🇷🇹🇷)",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "HSED3pyPBqsDiAtsZAVN3v",
+   "name": "Melhores amigos 😎",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "Cay0CrQsmnyJxGzwJQcnyj",
+   "name": "𑇢ᩘ🔥PUBBOSS🍒᭨᭄",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "BQD0mxcerh3JSRBXRtSYLG",
+   "name": "MERCADO LIVRE📦🚚",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "DWYEtZBPmaC33FXm7vZOpK",
+   "name": "PARCEIROS IPTV",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "JUpSa4Z2kJiFOnswQdpwtO",
+   "name": "AMIZADES VIRTUAIS🙏🫶🏽",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "FlPVePTqFeC7JNMKVreOGI",
+   "name": "❤️❤️ŽOŇΔ DO ΔΜOR EUR DΔ ΔΜIŽΔ...",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "CZJwf39VUzOJ509vNdGBcE",
+   "name": "Eventos & Vagas CLT e Extras",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "BVSbwsN0C6W3vSbr5QBmdp",
+   "name": "Vagas CLT e Eventos Extras",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "BcAa7IU8HNP2cApjtCgHHk",
+   "name": "EMIRATES DRAW MEGA 7 for Exciting Prize Draws",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "C38SHYoMtAsAvkjhVQLbvL",
+   "name": "Love with برکت شاہین گروپ",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "C3BQ2Bov9sD59KOJudULuT",
+   "name": "Chaltani Gowadh Group for Spicy Discussions",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "C71k6MhZ1nz3u2wKd3sVAo",
+   "name": "Professionals in Enlaces UTOPIA COMPANY",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "CpsMQzWYnS80PfxfVnWCww",
+   "name": "Entertainment Galore in Entertainment HUB",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "CePUmClUVDvIHhjNywf9tl",
+   "name": "the استاد رفیق زیب Group for Musical Harmony",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "Cr59n6ZRenk70JTeMhyObL",
+   "name": "Amway Products and More in AMWAY The Universal Language",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "D7hvEq11Zly40rsJY38VKc",
+   "name": "𝑪𝑰𝑵𝑬 𝑻𝑰𝑴𝑬",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "DgbVpvIYog58ZZ5vCYdhI5",
+   "name": "Your Moments in ᴜɴᴅᴀʟɪ ʜᴀɢʏᴀ ғғɪᴄɪᴀʟ ʀᴏᴜᴘ",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "E9DACK8A33n06Tn6tpJ1hr",
+   "name": "Quetta & Karachi",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "EUptbohVips9jivHAbA5Ys",
+   "name": "𝙔𝙈__𝘾𝙍𝙀𝘼𝙏𝙊𝙄𝙉",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "EbPNuivjeWDAZiZpJIgAzU",
+   "name": "Earning Warld and Explore New Earning Opportunities",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "G8p8Q4ds5Cp72ZOzIMzCuX",
+   "name": "Select Urdu Writings in منتخب اردو تحریریں 5 Group",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "GqIMFhN9CvSGP6emGEd1Eq",
+   "name": "Sᴋʏ Sᴛᴜᴅɪᴏᴜs Tᴀᴍɪʟ for Exciting Tamil Content",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "HjaBxYj0aJ6HEZj9soJAK5",
+   "name": "ꜱᴛᴀᴛᴜꜱ ʜᴜʙ",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "IDR2rpRXhUkBSMTqeUVIfa",
+   "name": "LIMZA Max 3",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "IcahACvvu55G4dO9AVcSok",
+   "name": "امیرِ اہلسنت کلپس",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "IKvgxsi1NMO5SaQemSQC4M",
+   "name": "Hakeem ASeeR Group for Herbal Remedies and More",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "Je9JNF0VTFuBkFNGNbPZQ5",
+   "name": "the صــابـــر پـــروڈکشن کوئـــٹہ Group for Musical Delights",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "Ix1aw2lPx52Ls5ASP2iSnv",
+   "name": "Informed with Jatk Group Election 2024 Updates",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "JiCymZvTcsoDWqKBH1ZyXM",
+   "name": "Tranquility in Ӈ Ꭼ A V E Ɲ Group",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "K9k0ZL05jqeHvEM9PG2fwX",
+   "name": "Love and Passion",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "KcrZ9xQKLBaC48mJimK199",
+   "name": "Entertained with 𝚃𝙳𝚉 𝚂𝚃𝙾𝚁𝙴 Group",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "KihNXR8XEDuJlbVvOEUW12",
+   "name": "CineBlitz",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "L42JBEtsP2W48rTYpfT761",
+   "name": "𖣐 4 ℕ𝔼𝕎𝕊 𖣐",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "LaNIgvhfngXGJDAzP4qGjP",
+   "name": "Karachi WhatsApp Group",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "FlFcwNtXfzP0DB52GQ7uZ4",
+   "name": "Romantic",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "EuosowMQIqe833l9le383G",
+   "name": "Arkadas tanisma",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "H3H6SCPltU22xsKwEtM97A",
+   "name": "Sohbete gel",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "BJ6SQ4UEBCtEjqWNOSUYeq",
+   "name": "Girl group",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "FxhuWehh1QiJ2CxGrEFhuz",
+   "name": "BINANCE SIGNALS",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "IGu6MldoTMbDqSaj2Hq1Ra",
+   "name": "Hamster Kombat Promotion",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "LCD5kkzyO5y6fuPUmV5rKj",
+   "name": "Visit us",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "Lv4dtPh3Go66by3gKiyIRM",
+   "name": "Single and contented friends",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "JAvnEDhFhbJD0lQ4lMxlLI",
+   "name": "𝙐𝙎𝘼 𝙗𝙖𝙨𝙚𝙙 𝙏𝙞𝙠𝙏𝙤𝙠 𝘼𝙘𝙘𝙤𝙪𝙣𝙩𝙨",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "FN9zH2RN31032Ycv9y4eKR",
+   "name": "XAUUSD SCALPING MASTER",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "EBzKkFCvi01EOFMxtDpreV",
+   "name": "TRUEMAX Traders",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "Hjeck49eZsu3k3QmY0If7I",
+   "name": "Trade With Ai",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "EeI2EVMcoHE4qBHKttflHA",
+   "name": "Equity",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "IGa2WwYKdD67tt4fnZjwww",
+   "name": "Stock Market",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "JqSCbwY486HLP1EB8cxKke",
+   "name": "Swing Trading",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "G6iuCsQLpPw4O9kRMopMWZ",
+   "name": "Abroad jobs South Indian",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "CZMuehOdUJ20N7hNer7gfx",
+   "name": "GK Manpower International Requirements",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "DRLjaHdHh5w2c03ZUtIo0v",
+   "name": "ABROAD JOB WALA 4",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "H4pSJdaTGpyAm6Lsyqkvp6",
+   "name": "ONE MISSION@IAS",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "FG1CxhsHL7PD9WemMpaoBl",
+   "name": "",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "JLo1KrGEJWLDDNsLyWCXwT",
+   "name": "",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "JvT2v4J4sGCIgL9Izkqgxd",
+   "name": "",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "KuELzGahGgI6hDSKTdfPIi",
+   "name": "",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "KwO5exlD5BU9hiqCq1fBT3",
+   "name": "PERFUMES & COSMETICS SHOP🇿🇼",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "KytQn8bDwl5GmqMi2HzR4R",
+   "name": "Afrikaans Home Language IEB 2026",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "Liz6WruCXjZFTLwj64bCMq",
+   "name": "B.E.B.F ZIMBABWE 5 🇿🇼🇿🇼🇿🇼🇿🇼🇿🇼",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "LOD2jt7DrO4AKtShJscx3o",
+   "name": "Matka",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "IokdPNIiUCiAI1gmn6GOQq",
+   "name": "Indian Army Power",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "EDOjHUxEqvUIl9kH7Hd0fi",
+   "name": "Its Indian Group",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  },
+  {
+   "code": "FyiLFILy9rP70z60cMeerE",
+   "name": "",
+   "reason": "HTTP 200 but empty og:title on 2 spaced attempts"
+  }
+ ],
+ "resume": "complete — all 397 entries accounted for (393 unique codes: verified + pending + dead + exclusions = 393; 4 codes appear twice in the source file with conflicting team metadata and were resolved once each, preferring the team09 browser-leg entry)",
+ "notes": [
+  "Slow curl checker: max 6 workers, 0.6s delay, retry-on-empty-og after 6s pause; transport failure retried once after 4s.",
+  "309 team09 browser-leg-only codes (Nov 10): curl cannot verify them (empty og:title); per slice instruction they were kept pending, NOT marked dead.",
+  "Non-browser-leg codes with HTTP 200 + empty og:title on 2 spaced attempts were marked dead.",
+  "1 code already in .existing_codes.json was excluded as duplicate, never banked.",
+  "3 scam names dropped on sight before checking: BETWAY BWP TIPS, Wagmi Airdrop Community, Betpawa sure odds.",
+  "og:title of every live code was screened for scam/porn terms (negated-prohibition sentences stripped first); no live code was excluded on og:title.",
+  "Country 'International' normalised to '' (2-letter code or empty only); empty category normalised to 'Community & Social'.",
+  "Source file contains 397 entries but only 393 unique codes: Bo6Splc8d3oC3gr4xf0UA2, Fp53YAbEUa78T4zAZcCjRZ, KR7gWco4iCw3aRB8JtcI70, KzwO6LVoaS8DT0LBwqu16S each appear twice with conflicting name/category from different teams. All 4 resolved to pending via the team09 browser-leg entry (curl empty-og both times; browser verified live Nov 10)."
+ ]
+}

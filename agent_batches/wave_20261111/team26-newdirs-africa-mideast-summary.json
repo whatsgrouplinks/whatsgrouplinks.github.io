@@ -1,0 +1,37 @@
+{
+ "team": 26,
+ "slice": "new dirs Africa/Mideast/Gulf",
+ "sources": [
+  "lilakora.com/2023/09/2023-10000-2023.html (16 codes, 12 fresh, 2 live)",
+  "mida1.com/2023/04/karobat-watts-august-variety.html + 2022/04/Saudi-jobs-group.html (7 codes, 6 fresh, 5 live)",
+  "tikane10.com/2021/03/WhatsApp-Girls-Groups-Marriage.html + 2020/12/Dating-Saudi-Arabia.html (7 codes, 5 fresh, 2 live)",
+  "m3luma.com/dating-whatsapp-saudi-arabia/ (1 code, dead; morocco/syrian pages 0 codes)",
+  "whatsagroupslinks.com/tunisia-whatsapp-group-links/ (9 codes, 8 fresh, 6 live)",
+  "whatsagroupslinks.com/zambia-whatsapp-group-links/ (12 codes, 0 fresh — all in union)",
+  "newgrouplinks.pk/dubai-whatsapp-group-links/ (20 codes, 0 fresh — all in union)",
+  "whatspgroupslink.com/foreign-whatsapp-group-links-join/ (18 codes, 0 fresh — all in union)",
+  "freshnote.com.ng/2025/10/36-nigerian-university-students.html (1 code, in union)",
+  "7hubent.com.ng/2024/09/nigerian-best-universities-whatsapp.html (2 codes, in union)",
+  "elmostajadat.com label archive (0 codes on archive page itself)",
+  "ghanainfo.net homepage (0 codes)",
+  "linktogroups.com country pages (0 inline codes — JS join API; banked as leads)"
+ ],
+ "verified": 16,
+ "pending": 0,
+ "leads": 35,
+ "dead": 19,
+ "exclusions": [],
+ "resume": "No pending codes (both pass-2 transport failures re-verified dead in pass 3). Next: mine the 36 leads — highest value first: linktogroups.com (resolve POST /api/v1/listings/{id}/click -> destination_url via browser leg; country pages /en/ghana|kenya|nigeria|saudi-arabia + /en/whatsapp-groups index; note the 2 sampled listings were Telegram channels, so filter by platform), whatsagroupslinks.com category pages (site flaky: HTTP 000 bursts + Cloudflare challenge; retry in quiet window), go.tuxmat.com Bahrain page and cazajobz UAE page (both HTTP 000, retry), m3luma.com remaining girls-numbers pages (mostly phone numbers, low value).",
+ "notes": [
+  "Verification: slow curl, 4 workers, 0.6s+ delay, retry after 8s pause. Pass 2: 27 codes -> 10 live / 15 dead / 2 transport-pending. Pass 3: 8 Tunisia fresh + 2 pending re-tries -> 6 live / 4 dead / 0 pending. Total pool 35 fresh codes -> 16 live, 19 dead, 0 pending.",
+  "Dedupe: 84 unique codes extracted across mined pages; 57 already in the 108,992-code union (incl. ALL 20 newgrouplinks.pk UAE codes, ALL 12 Zambia codes, ALL 18 whatspgroupslink foreign codes, freshnote + 7hubent codes).",
+  "No live item hit the adult/scam screens, so exclusions is empty. Near-misses KEPT per rules (merger to judge): L0z8mtqCPV0CkfZnw76Iec 'تداول أموال' (generic money-trading, Finance — not a named airdrop/betting scam); DVfeJFbzz3bKkgP6ypIEyp 'earn money daily from home' pitch (Online Earning — generic, not B-Love/Forsage/SHEYI/HOLIVERSE); BIc5wPBCqTEIGykHNmHBVC 'Adfly' (link-shortener earning site, Online Earning).",
+  "Name sources: og:title used verbatim where meaningful; where og:title was a single symbol (HpQ4LT9ZRXR2sUs9ABJ11X '🅺') the directory section name was used instead. The m3luma code G6EAcyf2e6rKL7U5SmeO1S was DEAD — its extracted directory name contained a personal phone number + first name; that PII was NOT banked anywhere.",
+  "Country notes: IQIuIjM2Kkp2L9HonO8LN7 'Sultan Ghazi' houses-for-rent group tagged TR (Istanbul district) though found on an Arabic directory; E3NjMeTFFcpBsVq2xc28Oc Hindi love-partner group and DVfeJFbzz3bKkgP6ypIEyp generic earning group left country '' (content contradicts the Tunisia listing page).",
+  "linktogroups.com discovery: NEW directory, Next.js + Laravel API. Join flow cracked from JS chunks: POST {origin}/api/v1/listings/{id}/click (anonymous, Accept: application/json, X-Visitor-Id header) returns {data:{destination_url}}. BUT curl to /api/v1/* returned HTTP 000 from this VM (and the site root later 000 too — likely IP rate-limit after many fetches), so no codes could be resolved; banked as leads for a browser leg. The 2 sampled listings were Telegram channels, not WhatsApp — platform filter needed.",
+  "whatsagroupslinks.com is flaky: Zambia + Tunisia pages fetched 200, but category pages (job/study/country) returned HTTP 000 three times in a row; wave 20261110 also hit a Cloudflare challenge there. Retry in a quiet window.",
+  "go.tuxmat.com Bahrain page: HTTP 000 twice (transport failure, not dead) — lead, retry. whatsapplink.cazajobz.com UAE page: HTTP 000 — lead, retry.",
+  "Directories checked and REJECTED (not mined): groupjoin.link (mined in prior waves), appgrouplink.com Nigeria page (exhausted source), techsslash.com Kenya (already harvested 20261109), whtspgrouplink.com (mined prior waves), grouplinksforyou.com (mined prior waves), whatsgroup.in (mined), groupwa.link/wagroupshub/wagroupnest/instantgrouplink/activewagroup (mined 20261109), eduresourcza.com PDF (mined 20261110 team26), alarabinet/trustgroup-egy (mined 20261110 team28), m3luma.com whatsapp-girls-links-are-online-now (mined 20261110 team26), elmostajadat.com 2022/04/group-whatsapp.html (mined 20261110 team26).",
+  "Scratch + verify logs: wave_20261111/team26_raw/ (fetched HTML, extract2.py, verify.py, candidates_pass*.json, pass*_verify.json)."
+ ]
+}

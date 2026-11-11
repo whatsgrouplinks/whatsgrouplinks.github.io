@@ -1,0 +1,52 @@
+{
+ "team": "team28",
+ "slice": "NEW directory discovery - Latin America + Gulf (Brazil, Mexico, Colombia, Argentina, Peru, Chile, Qatar, Kuwait, Oman, Bahrain)",
+ "sources": [
+  "groupslinks.com (Arabic directory, Gulf pages 1-12 mined: 384 cards, 275 with codes, 271 unique; 54 Gulf/pan-Arab candidates, 94 already in union, 127 out-of-slice skipped)",
+  "whts.club (new LatAm directory; newest 60 group pages from news_pages.xml sitemap fetched, 39 with codes)",
+  "mida1.com (Kuwait jobs page: 0 inline codes; friendship page mined: 4 codes)",
+  "tikane10.com (Gulf friendship listicle: 4 codes)",
+  "whatshub.es (checked, JS-gated Blazor app - lead only)",
+  "app.grupodewhatsapp.com / grupodewhatsapp.com (checked, browser-only - lead only)",
+  "gruposwapp.net (re-checked via WP REST API: newest listing still id 525 dated 2026-11-09 - no new listings, exhausted)",
+  "whatsagroupslinks.com Gulf jobs page (Cloudflare challenge - lead only)",
+  "go.tuxmat.com Bahrain page (unreachable from VM - lead only)",
+  "losgrupos.app / grupeo.lat / gruposdewats.com / groupler.me (JS-gated - leads only)",
+  "Solion (app-only, Google Play com.grupos.solion - lead only)",
+  "freewagroup.com (fully mined wave_20261110 team21, 0 verified - not re-mined)",
+  "groupwa.com Gulf jobs (mined wave_20261109 team18 - not re-mined)",
+  "alarabinet Saudi page, trustgroup-egy (mined wave_20261110, all codes dead - not re-mined)",
+  "groupizo sitemap-12, ongrupos, whatsappkanali, appgrouplink (exhausted per task - not touched)",
+  "linkado.app / igrupos / tugrupo.online (exhausted or other teams - not touched)",
+  "groupio.app (German, JS-driven, adult-heavy tags - out of slice, checked only)",
+  "everygroup.me (same roundup, out of slice - not probed)"
+ ],
+ "verified": 33,
+ "pending": 7,
+ "leads": 28,
+ "dead": 49,
+ "exclusions": [
+  {
+   "code": "KkKQsWHSNibIMTA1wPN3h8",
+   "reason": "Live but dropped: og:title 'ارباح يومية من التداول بالذكاء الاصطناعي' (daily AI-trading profits) - trading-profit scam signal."
+  },
+  {
+   "code": "KByTwCwllZdFZQxVfEjKq0",
+   "reason": "Live but dropped: 'Grupo hormonal' - listing text says 'grupo hormonal... hacer otras cositas' (sexually suggestive adult content)."
+  }
+ ],
+ "resume": "groupslinks.com pages 13+ unmined (older listings, likely mostly dead); whts.club news_pages.xml has ~1,569 further group pages beyond the newest 60 mined, plus 16 detail pages that timed out twice (in leads file); 7 pending codes to re-verify in a quiet window (WhatsApp throttled heavily during this run - 3 gl codes timed out twice, 3 listicle codes and 1 whts code timed out once); groupslinks.com category/country pages are in leads_slice7.json (other teams) - do not re-mine.",
+ "notes": [
+  "Verified 33 = 21 groupslinks.com + 10 whts.club + 2 listicle (mida1/tikane10). Dead 49 = 29 groupslinks (21 first pass + 8 resolved dead on re-check) + 19 whts.club + 1 listicle.",
+  "Dedupe: 8 whts.club codes and 2 listicle codes were already in .existing_codes.json (108,992 codes) and were skipped, not banked. 94 groupslinks codes were already in the union.",
+  "groupslinks.com: no Kuwait/Bahrain country badges appeared in pages 1-12; Gulf coverage was SA/QA/OM/AE + pan-Arab (all-countries). 109 cards had no invite code (channels or missing join links).",
+  "whts.club codes were mostly stale: only 11 of 31 fresh candidates verified live; 19 dead-empty. The directory lists many expired invites.",
+  "WhatsApp verification throttled hard in the second half of the run (concurrent wave teams verifying): all 7 pending codes are transport timeouts, NOT dead codes. Re-check them in a quiet window before the next wave.",
+  "Judgement calls kept: \"بنات السعودية للتعارف\" (og:title \"أرقام بنات للزواج\") - girls/friendship groups are explicitly allowed; DXN/health-wealth MLM groups kept (not in the drop list); \"سواليف\" emoji 🫦 is not in the block set (code resolved dead-empty on re-check anyway).",
+  "Category fixes vs directory badges: \"العمل من الجوال والتجارة الإلكترونية\" re-filed Entertainment->Online Earning (phone work + e-commerce); diploma/store-courses group re-filed Community & Social->Education; free AI-tools workshop re-filed Community & Social->Education. Country fix: \"Videos Graciosos, Música y Stickers\" set to PY from 🇵🇾 in its og:title.",
+  "Names: og:title used where the directory name was truncated (\"...\") or generic (\"مجموعة إسلامية\", \"كروب اسلامي\"); directory names kept for whts.club entries; listicle names taken from og:title (pages carry no group names).",
+  "whts.club fetch was interrupted by a runtime restart mid-run; recovered by re-fetching the 39 code-bearing pages with per-page checkpointing (whts_pages.jsonl). No data lost.",
+  "No source name or source link is stored in any output file; no personal info in any name or description.",
+  "MEMORY.md changed during this run (Nov 11 allow-card flood rule) - unrelated to this slice; noted, no action needed here."
+ ]
+}

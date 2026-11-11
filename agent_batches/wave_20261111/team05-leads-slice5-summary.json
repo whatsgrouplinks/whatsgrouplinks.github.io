@@ -1,0 +1,894 @@
+{
+ "team": "team05",
+ "slice": "leads_slice5",
+ "sources": [
+  "linkado.app listing pages (all 3603 URLs in leads_slice5.json)"
+ ],
+ "verified": 810,
+ "pending": 18,
+ "leads": 172,
+ "dead": 1792,
+ "exclusions": [
+  {
+   "code": "D0TbCfWb6rWDmDT0w081zh",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "LxFc7c8xn2l16gxzVUyqDS",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "GqhMVU0WCHJ102EzhsThQY",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "CZu9mpKcQSY2reI2aDA9at",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "HhTFbhtkIgiJwD9rC1h0dw",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "D9uM8OZlKpNBQVLUHjizQt",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "Dip4jynEoCaFQmsO9Q9yax",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "HaMeYkPnqi8KI5PxsU2nKF",
+   "reason": "betting term: aviator"
+  },
+  {
+   "code": "K4DnRog2L8OF5kSYGktDbD",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "E3urROx38mMAxoYxiDMLhv",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "Jo9id3O9MgbC1eL9giTl6z",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "FJHOeWiZvDU2ZzSW9XIk28",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "E3CF7A9cTxrGmQrhf74vl8",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "HWOazkVDBvh5nzgfs44DCV",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "B9rIWNtXDe09jPmxtu5mLn",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "JkjiFUfbvOx3g423b18DWf",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "FcfRflGSc09KA1WMdhbfF0",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "HBbFWMxW7NV8my1S3vs1HI",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "FiVLgOw9FMp31rBCjYknPB",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BIpjP3LBb2MHLpLbytv8b3",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BfF1WoZzdf2F0JuD6UHVlj",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "Ci1YejIeOSEJDM314afYXj",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "GoNlWOAYd1v6mTsD0Gtvat",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "CsVBwXjCaGh4xZlkmEksgA",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "HzwcRaulQWl1jrGEiVoNBH",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "GEZHzbXZGIe2DevLrlfY7K",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "L1I9din0btELtv9PK8f8hH",
+   "reason": "betting term: aviator"
+  },
+  {
+   "code": "BVpdHBSHw5SJw6ppBPuf4A",
+   "reason": "hard porn/xxx term: porn"
+  },
+  {
+   "code": "EKTA9dFUOG71Kr4m6oK0Fp",
+   "reason": "betting term: aviator"
+  },
+  {
+   "code": "CopdOnh481zByvJIMblSTe",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "E3Hc1WomoG0AOV5jpf7CxO",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "C5T5uSy4RPrLLYxsgZbVj7",
+   "reason": "hard porn/xxx term: putaria"
+  },
+  {
+   "code": "HafSkOJpVMMGvB5vKPDy7D",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "E2ImaKZked1HpDEEBmj78X",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "I4VYAGZMfp124zCXYEInAv",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "JPQSNVHmi2TA5vH6JHJAiB",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "HWJoklWGDiW8D82OuA7GR7",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "Cx71yHnKTlV1X1vTVrJuwf",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "L6pBTzTUxRa6UhqjgdSTId",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "HSRtbU693LVEVPmDv5CjoO",
+   "reason": "crypto-airdrop scam term: airdrop"
+  },
+  {
+   "code": "FTqHiq3oPQh612fGP2iLZq",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "HRLs5heGECrABDM1WJTdiz",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "LdxcdnUsbQMFcqRLScMNQY",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "G5yoiQJ0x5n1LOnIi8WNGB",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "Jo2AP1ZcNTkI63WgrunJ4V",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "DwtyZ13ij0K1KatxgzJyTZ",
+   "reason": "hard porn/xxx term: xxx"
+  },
+  {
+   "code": "Eh9d0wlX1w3IJNuCYet3CF",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "GEDMnqlCqcYDVxzPqgL9kP",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "Dj4Fnu0wgiFKgcNRwCJ3L8",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "D4mVDzZe9sa8NbzRHSk6wN",
+   "reason": "hard porn/xxx term: porn"
+  },
+  {
+   "code": "G3w1BhDHhMnKOcLdpca0OI",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "DttzyGWlC7g3m2nRNJEl78",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "J8lc03M4M0i2MJGISXdFQg",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "Ff4EYOmO3RPFuzEif97mHz",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "C4VzfKIoXk7AQoIXDoqwMZ",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "CDJBVN8oCCS3OMZPA3H52H",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "F8BOxoFgrHeGIqSIuJxI1e",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "FADEcZAwZbo5w9LdgxDmsy",
+   "reason": "betting term: cassino"
+  },
+  {
+   "code": "DssGPUfHtiO1J3MnWRpb25",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "FppPUh7wtiFGrLKz7lQyTx",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "CYMHEW3MluzGuts565dcAw",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "KNgafeKUv2vJv01vhPvNo6",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "ETkfmdIIhTN4FeuWLa8fp2",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "FstDV3ZZXkiAv4KAJHG6dw",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "I0LA6Xi08SM83uO8CmfdW9",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "Cj95gbIfp4NA1zcy87ksab",
+   "reason": "hard porn/xxx term: xxx"
+  },
+  {
+   "code": "Ff2fnDurZ5T0dCVfnAu4PD",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "JZ8nPlb3DoG90r3g9uCnLO",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "EyXNKKPGPES9tAZ3EZkrUE",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "KQk1vX7z402J5IbLqDMrCy",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "C9GXRNQsqH04jRTCjH9qpf",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "F7O8RS8xSkd0Ywi5l4aIVF",
+   "reason": "betting term: cassino"
+  },
+  {
+   "code": "CnnW8PkdK1XKlUjpw6muHS",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "JymxSR4KbSh5pdYupjyOqx",
+   "reason": "hard porn/xxx term: porn"
+  },
+  {
+   "code": "LbaXqfy28yD4A2wQzADi8c",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "BcQC6oBdsWB96Tyn9n7voL",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "BaCRoDJOCkZAXfVTW26dRE",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "EDgyhIfY0CQ6jRq6FxXQj2",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "LM0LlAHFw0A5bLCL7niMWJ",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "JAiYiEpwotoESQZoVEkFoR",
+   "reason": "betting term: tigrinho"
+  },
+  {
+   "code": "F1PCWPVGAJzA1v9AyTchD8",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "JcD6FhAicCo8Ouj23mUb42",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "Ea9pG2SLecbB8HUefGkuhm",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "Jpghmbx5v0ALiuEFKSbpci",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "EyiZ3TZSNYfGLy1NJWRKXU",
+   "reason": "betting term: tigrinho"
+  },
+  {
+   "code": "GJVPtfsndJq9zFRenuIRIv",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "IdAd1yr6SrN9C9GuRyLbSp",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "K9Q5WCFulUiH8wMeHnspQ2",
+   "reason": "betting term: fortune tiger"
+  },
+  {
+   "code": "HTn6weX22PvCUarTMWAtEx",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "HLWfGeun2l47jB0jusnRth",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "IQw8ETIijl2KJAzzWu5zXU",
+   "reason": "betting term: cassino"
+  },
+  {
+   "code": "EvV3kkH0ZQoCs5dHQ1BQBJ",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "IkJKK8DvmKLIt6blkhqFXH",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "H3iIgVDkQ6zFbhG1eI52XF",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "FBHXz4HZceX2pY5WRERc8k",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "HRuNehbBL5u8WB8BUl8NeA",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "GMA9NlgLqN0IiEXPuXQzAx",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "GmtM2qumRS42Z3nZFFIDA0",
+   "reason": "betting term: casino"
+  },
+  {
+   "code": "K7BFBzX0LKm4WExRzPRzY0",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BdLSP9RXzpALyLyzetEhkk",
+   "reason": "betting term: cassino"
+  },
+  {
+   "code": "KtGobVAqZR18sTWSsPU2gw",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "DIc5A6F7JrwEiFtRj728Es",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "Gb1xhwiTMv7CLBk3cE0lTu",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "IwpaSmSnBql9pCQzvjr1qa",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "FqOAZsIqHz946y40LvhQm6",
+   "reason": "betting term: aviator"
+  },
+  {
+   "code": "BqwKJAFPRbpFdXlw0FoLjH",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "C4TMCiyGZrxKqiPWTIGFa3",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "EOgZgf50tLUGn6N6T8fawf",
+   "reason": "hard porn/xxx term: putaria"
+  },
+  {
+   "code": "Iq4YUvDSrFA5oVSGFliYkX",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "BitIv9pM57U31L645OgVfj",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "Eiaw1ewOGiE3F0ufQRTLXf",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "HrGx9ArAhat33LzqPaekqX",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "K7LnvkeiDrTIu0CKTUW6M0",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "Es8cnK5VEkgGZngL60ZdCi",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "C6VPFfrepBFDm5MQ78azAf",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "B7ZWzqr7aRU9AWNExPaxiT",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "JxravoGuIwtD19atmmUlUb",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "LWPI36iQpPnJ8JSIizPoLN",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "D5A31rHNE62LgShShinEwT",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "CCssM1RJgCvCiasDAmG3Ur",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "HLIWNmELwZuBBbbT8h9LSa",
+   "reason": "betting term: tigrinho"
+  },
+  {
+   "code": "DPfu0hlIJIdKYFAPRMTmr1",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "DGfBOPbujxe2kcQ0LNjRP7",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "LdRL19DnyC5KxTw0ZECwae",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "E8VRaXN6TtM2DYpy3WydVq",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "LPdrdCKUeMrGXyv9QILC3m",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "IHfDAieH1k97MNkTH8nJwl",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "Gvf06c6vBVg1RGCGJrNlma",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "LFwmWNfgAOn7lcay4vzisI",
+   "reason": "betting term: cassino"
+  },
+  {
+   "code": "J7VQl7KZgAM1NdQnYIt1Yo",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BgbqGmwFEdUDTDW1L5vNWR",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "HqH9T3L4Enz9ASHpYJUQrM",
+   "reason": "betting term: roleta"
+  },
+  {
+   "code": "EYMncMAj58G6g6b7F4foFg",
+   "reason": "hard porn/xxx term: porn"
+  },
+  {
+   "code": "LvQBPgmg0pV9j7IXYJOXgQ",
+   "reason": "hard porn/xxx term: porn"
+  },
+  {
+   "code": "HISBc5C9GuYJ4CTQZRNSzr",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "JwmvJDtHEyvBFeqImUaOP2",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "GKYSUObPXs6K3QBQoP7CMe",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "I30spNj0NuYKmJznJ15XQd",
+   "reason": "betting term: tigrinho"
+  },
+  {
+   "code": "FcvuQAElYmL8AQBwsIG4da",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "JklthmnqQOHLqPRGbPmELS",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "HWEC5wAsYOxBNsnBMgpkWp",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "J4FDZkF49qEKHEeNlXAJWh",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "BwGVUz7AQbA7kSBflluvDp",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "CjorPM1cxGG1lATaJ9FyjW",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "CGxR6R6bj6L3yUi6nenpN5",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "CkUNohF3rwR7lNeUT2yO43",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "CUPjdFZ8gEJ6z8zrOIJXO0",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BzoJF6furQc7rc22yUuRiN",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "JY80H99nJv0KfPYDOKgbYk",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "Lodx2QOECIsJaQGI9VAGBD",
+   "reason": "betting term: tigrinho"
+  },
+  {
+   "code": "Ez3x5K1iPIZ00ndWtXkazq",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "DhKLHtwR3Xz8brJnixC3C3",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "J52ccaouAoqJPcgLRHwtw1",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "EykAunrddgz5povkeur9Rp",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "Lk1VVyMkTwW1vhAePw2yPR",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "KpZeIFJsE2W69Lidfmlmoe",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "KtsmZCBQZya2r405Cihd7D",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "C5YdfQWO9By9L4fWCask8M",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BbspbmDlE2FLEG92lqPrgE",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "FsuZv2SouBrLSmKfk4Kwc9",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "J4wyWtBgJKSIWc6kdXulDI",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "LveKkStIT299wHjEhKgUF9",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "KEYriqesbII98DXptwF5I0",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "EOpM7RPKI5wB6kkhQdTRdn",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "IGiWmYReF1z1bNjdkbItoc",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "Ft3sVgpgtvZEIJK2BStlbs",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BalRDODqD0V4QXYxEvuJrc",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "G74xBFW0wxu5jTZWfROC27",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "LZocNu1nF1zFQDvD2LEmGy",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "JxCikhyqT530I1FcqRlQHW",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "Igt87Xo2gO2LOqZB7f4vQK",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BUapHQubvTG3cUiFHpHCC2",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "IzVe84PSpsK7zlLxWEfCXT",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "KnwcRcHPjru9RvhKeAw9RE",
+   "reason": "betting term: tigrinho"
+  },
+  {
+   "code": "CqL4PKKRilc5RKOlsHCFd7",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "CtWZxv8atfVHrTHlUarxgn",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "GnKCaZfGdXa3AoL4sXAYdM",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "HwogGVcPjx15MsZRAzTyHq",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "Fq9CWSVbu3I3hJWrYZGxv7",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "CVRalzcvprWBd9rXEL5egS",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "F66gVeVl6SD5uF0KzswHnl",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BCYhnY01UShIKPfcsTTBnM",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "BwDxkpnA1lNEOFLA1DeD8d",
+   "reason": "betting term: aviator"
+  },
+  {
+   "code": "K9qssY5VwD7FvtwkeIaiTP",
+   "reason": "betting term: aviator"
+  },
+  {
+   "code": "BmmsWzGjRiuCIiNvhshv8Z",
+   "reason": "betting term: aviator"
+  },
+  {
+   "code": "CwKZ3dFciKsB2v0FXCrB7Z",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "Hj0zXICoDXZC7lon2nOCJO",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "CLkRErkdJ3d4plvgmrJk5x",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "GZ0XKHrjz303g2H1umjgmK",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "KXectVGuj5hFkIvmOcVgQY",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "KzlvCCw2zpc5FTqMP6Gi5K",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "IeRdSqXyDd3LoMuoRvmxyJ",
+   "reason": "betting term: cassino"
+  },
+  {
+   "code": "Iau87krWKkq5dzrbl6pest",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "GqhTagjeJAP3H9JM3eowOz",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "KKZA8TZvfjp1IL7Svn4HZT",
+   "reason": "crypto-airdrop scam term: airdrop"
+  },
+  {
+   "code": "HYkUXAhXqZw2BoU1HHqxDb",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "HUcjMy0XO406H5COqoq9lF",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "Hdm6R4YF4s04tPzOp120Jo",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "CtQAkW75l298Pq4g5gREm9",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "ET92uYSXGzHL725pp4KHoZ",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "JIV14pvba76B3UhnnSlcT5",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "LeKpKh4JYjcFaFEnD4eHBL",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "BqraojU1nhFCKHycRfMIvC",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "Fy7lrb3ueqF3KUUy2kCP0U",
+   "reason": "hard porn/xxx term: xxx"
+  },
+  {
+   "code": "CbZlXX0nQNH3lfFhDwX1aa",
+   "reason": "betting term: \\bbet\\b"
+  },
+  {
+   "code": "CvfZ2oUkKDV2ji5cSzOdGM",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "IH48Tm3GwYgGXQWLgFVvke",
+   "reason": "betting term: slot"
+  },
+  {
+   "code": "HaCZIssURNE0zn3uNXhqKZ",
+   "reason": "betting term: aposta"
+  },
+  {
+   "code": "FX7sE8c7XVM14gDIwKiXnS",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "CBtOfFWkDzcEpJl4l3SAGJ",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "Fn3Uobg5wDv6Ue5LlRh0lD",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "BpuKKtaCr2sDvyBNEumSJo",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "Fti2b1B3Lo9KVS8EMLXnvt",
+   "reason": "betting term: 🎰"
+  },
+  {
+   "code": "BkdDBwEvEc10H4D5NguL86",
+   "reason": "betting: plataforma + money words"
+  },
+  {
+   "code": "Je7u0zGVQot6lCwyhWmK74",
+   "reason": "betting: plataforma + money words"
+  }
+ ],
+ "resume": {
+  "mined_urls": 3603,
+  "unmined_urls": 0,
+  "mine_checkpoint": "team05-mine-checkpoint.jsonl",
+  "verify_checkpoint": "team05-verify-checkpoint.jsonl",
+  "candidate_codes_mined": 3170,
+  "dupes_vs_existing_codes": 335,
+  "no_invite_listings": 253,
+  "fetch_failed_listings": 172,
+  "next_step": "Re-run team05_pipeline.py (it resumes from checkpoints: mine then verify), then team05_build.py to rebuild outputs."
+ },
+ "notes": [
+  "Slice total: 3603 linkado.app listing URLs.",
+  "Unknown PT categories mapped to Community & Social: {'Status': 6, 'LGBT': 42, 'Figurinhas': 21, 'Cidades': 9}",
+  "Live rule applied: HTTP 200 + non-empty og:title after 1 spaced retry; empty og:title = dead.",
+  "404/410 listings counted as dead, not re-led; transport/5xx/429 failures + unmined URLs are in the leads file for the next wave.",
+  "Country 'BR' set only when name/desc mentions Brasil/Brazil/Brasileiro or the Brazil flag; otherwise ''.",
+  "Girls/friendship groups kept; only hard porn/xxx, named crypto-airdrop scams and betting/slot groups excluded. Negated-prohibition sentences ('proibido pornografia') stripped before the porn screen.",
+  "Some linkado titles are truncated mid-word with '...' by linkado itself (stored as shown); descriptions were URL-stripped and refilled from name/category when shorter than 5 chars.",
+  "Verify transport failures (18 codes) are in the pending file with reason 'transport failure after retries' — retry them next wave; do not treat as dead."
+ ]
+}

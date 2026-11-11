@@ -1,0 +1,22 @@
+stream-verify: 1184 to check
+  checked 25/1184: live=77 pending=0 dead=25 excl=0
+  checked 50/1184: live=77 pending=0 dead=50 excl=0
+  checked 75/1184: live=77 pending=0 dead=75 excl=0
+  checked 100/1184: live=77 pending=0 dead=100 excl=0
+  checked 125/1184: live=77 pending=0 dead=125 excl=0
+  checked 150/1184: live=77 pending=0 dead=150 excl=0
+  checked 175/1184: live=77 pending=0 dead=174 excl=1
+  checked 200/1184: live=77 pending=0 dead=199 excl=1
+  checked 225/1184: live=77 pending=0 dead=224 excl=1
+  checked 250/1184: live=79 pending=1 dead=246 excl=1
+  checked 275/1184: live=91 pending=1 dead=259 excl=1
+  checked 300/1184: live=102 pending=1 dead=273 excl=1
+  checked 325/1184: live=109 pending=1 dead=291 excl=1
+  checked 350/1184: live=112 pending=1 dead=313 excl=1
+  checked 375/1184: live=116 pending=1 dead=334 excl=1
+  checked 400/1184: live=119 pending=1 dead=356 excl=1
+  checked 425/1184: live=124 pending=1 dead=376 excl=1
+  checked 450/1184: live=128 pending=1 dead=397 excl=1
+  checked 475/1184: live=134 pending=1 dead=416 excl=1
+  checked 500/1184: live=137 pending=1 dead=438 excl=1
+  checked 525/1184: live=138 pending=1 dead=462 excl=1

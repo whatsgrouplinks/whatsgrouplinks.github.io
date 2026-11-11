@@ -1,0 +1,332 @@
+{
+ "team": "02",
+ "slice": "leads_slice2",
+ "sources": [
+  "linkado.app grupo pages"
+ ],
+ "verified": 525,
+ "pending": 0,
+ "leads": 19,
+ "dead": 742,
+ "dup_existing": 216,
+ "dup_within": 88,
+ "no_code_listings": 3,
+ "fetch_fail_listings": 19,
+ "awaiting_verification": 2160,
+ "exclusions": [
+  {
+   "code": "HQvylfB1cXUAn7psbYVS5P",
+   "reason": "lolicon/minors sexual content"
+  },
+  {
+   "code": "LvdPOHT7YSS5Ha8BmCcIvp",
+   "reason": "betting scam"
+  },
+  {
+   "code": "Hm0HM0cyxG5DzcnnsGASGN",
+   "reason": "hard porn"
+  },
+  {
+   "code": "LfYgTYvFtDGDEjv1t2WMIW",
+   "reason": "empty name after cleaning"
+  },
+  {
+   "code": "GFeITtq0q0J2uSUyFf2yLW",
+   "reason": "hard porn"
+  },
+  {
+   "code": "GnSt94nmjgDLPtmO7cIXFX",
+   "reason": "betting scam"
+  },
+  {
+   "code": "JGGeEo9rYNHI4jZOulGxxf",
+   "reason": "betting scam"
+  },
+  {
+   "code": "E4D9ojGC0AAF8uJswQ0mq5",
+   "reason": "empty name after cleaning"
+  },
+  {
+   "code": "FyWIxmqzHNjAVAJA7LsERO",
+   "reason": "empty name after cleaning"
+  },
+  {
+   "code": "LXGePQECOtyFC1PSjnNPUy",
+   "reason": "nude content"
+  },
+  {
+   "code": "LFABjRuZ2ZA3vQp25EAgb5",
+   "reason": "empty name after cleaning"
+  },
+  {
+   "code": "BmkCPrwgaqk7515rbN8kE1",
+   "reason": "hard porn"
+  },
+  {
+   "code": "EKNoEAD9b91EDfasD5131L",
+   "reason": "betting scam"
+  },
+  {
+   "code": "HgjodQUE4md3Rwl2zRuJF7",
+   "reason": "betting scam"
+  },
+  {
+   "code": "I7ML3IEg1boJDYvN0cLXm7",
+   "reason": "hard porn"
+  },
+  {
+   "code": "LiuBlHRaPccKCdThhI69IH",
+   "reason": "hard porn"
+  },
+  {
+   "code": "BcI9w95fxnE8jyl4HzYKr7",
+   "reason": "betting scam"
+  },
+  {
+   "code": "EmO6JC91mCa9ZKHJXvJFC1",
+   "reason": "hard porn"
+  },
+  {
+   "code": "ILssJfHakT41LkYVBJLpEZ",
+   "reason": "sexual content"
+  },
+  {
+   "code": "G1a4FBi97EyJNmtKJ0lbe8",
+   "reason": "empty name after cleaning"
+  },
+  {
+   "code": "GVDl3sdswUF5Jh33oydwHf",
+   "reason": "betting scam"
+  },
+  {
+   "code": "DKEpXIogwuU8RcARJNXvpg",
+   "reason": "hard porn"
+  },
+  {
+   "code": "FOdcDPhNhyrBZKoCTG8Akj",
+   "reason": "empty name after cleaning"
+  },
+  {
+   "code": "INVcmZVPuheAJXwmQlw1z6",
+   "reason": "betting scam"
+  },
+  {
+   "code": "CUvraq7w2ZM5E4Cu5D9Mw6",
+   "reason": "betting scam"
+  },
+  {
+   "code": "L9Afn89VN0z7waxPEjuNSm",
+   "reason": "hard porn"
+  },
+  {
+   "code": "CrUYaN0ExzoDx1ue3HAfBA",
+   "reason": "nudes"
+  },
+  {
+   "code": "GWczr4W0GKKH39A8FPqZBo",
+   "reason": "betting scam"
+  },
+  {
+   "code": "JNrqVYzcnM59V7nkUnqrxQ",
+   "reason": "hard porn"
+  },
+  {
+   "code": "Ic5aOLb3TfC046EAoF15Yb",
+   "reason": "hard porn"
+  },
+  {
+   "code": "GhpUY3vGFEd9pfHUdneENX",
+   "reason": "betting scam"
+  },
+  {
+   "code": "KmZIXCLB3dwIWEDNkh8Lel",
+   "reason": "betting scam"
+  },
+  {
+   "code": "FuBKONlfp2E0GHbdo3YVTD",
+   "reason": "betting scam"
+  },
+  {
+   "code": "DWjJTUZyCH2L3tPHzxOHYI",
+   "reason": "leaked porn content"
+  },
+  {
+   "code": "CIpJMIqsnPhLB0PHYgngDI",
+   "reason": "betting scam"
+  },
+  {
+   "code": "GFqgjUHbo011D2zdKbg047",
+   "reason": "betting scam"
+  },
+  {
+   "code": "J3piQqaXAdhA5wPKetGVMw",
+   "reason": "empty name after cleaning"
+  },
+  {
+   "code": "F0x4AfhzPlG0WxGFHma66l",
+   "reason": "hard porn xxx"
+  },
+  {
+   "code": "FS78GVLCklI5Wf3oNd63nX",
+   "reason": "betting scam"
+  },
+  {
+   "code": "EhSagtTR7anFm3zhsbJJMx",
+   "reason": "hard porn"
+  },
+  {
+   "code": "IIpiZfgl1V50FaZXr48bE8",
+   "reason": "betting scam"
+  },
+  {
+   "code": "IWRqKhn92ATJlqpcYAjUqB",
+   "reason": "nudes"
+  },
+  {
+   "code": "DGSc0KMwKOdKC1BMR77Nex",
+   "reason": "personal info: phone-like digits in name"
+  },
+  {
+   "code": "GORA4rfaLZI4VdQSoUEilF",
+   "reason": "personal info: phone-like digits in name"
+  },
+  {
+   "code": "JGMYkCjI0Mo0KYnJrEScW7",
+   "reason": "personal info: phone-like digits in name"
+  },
+  {
+   "code": "Kb9BaAwVy5r5H5ZxdDrAbq",
+   "reason": "hard porn"
+  },
+  {
+   "code": "GvBsn0kLtjGF7jAm15OM8K",
+   "reason": "personal info: phone-like digits in name"
+  },
+  {
+   "code": "BqQnWI8q0M1B82OkjDxVX8",
+   "reason": "personal info: phone-like digits in name"
+  },
+  {
+   "code": "K24x2AkliINJTfLW5qbLcI",
+   "reason": "hard porn"
+  },
+  {
+   "code": "K7JacPSLgnb2vHtoZQPzf9",
+   "reason": "betting scam"
+  },
+  {
+   "code": "Cb4ZY4EJlwf24ENsk4PVXO",
+   "reason": "personal info: email in text"
+  },
+  {
+   "code": "DqdpfejPMcS8YC8fU2cuG4",
+   "reason": "betting scam"
+  },
+  {
+   "code": "EfUXwa4R8hK2AkZllh1ex6",
+   "reason": "hard porn"
+  },
+  {
+   "code": "J1mCBWkQBiYKAaQycB3SZ7",
+   "reason": "betting scam"
+  },
+  {
+   "code": "FwH1GABvjAR5XehCDG9fo9",
+   "reason": "betting scam"
+  },
+  {
+   "code": "E8O4xkaJtIoKevRUotDdw8",
+   "reason": "betting scam"
+  },
+  {
+   "code": "GeG6FCcFKCYKtDSMOqhd5a",
+   "reason": "betting scam"
+  },
+  {
+   "code": "KXnIey2QFtSFZuPfzAlNG3",
+   "reason": "hard porn"
+  },
+  {
+   "code": "DoEJCTwrjge3vyxl0pIbfZ",
+   "reason": "betting scam"
+  },
+  {
+   "code": "IArqeiywcnDI8oF6qRF8VV",
+   "reason": "betting scam"
+  },
+  {
+   "code": "Ho1XYfqQxJ91PcdPXd4ijQ",
+   "reason": "sexual content"
+  },
+  {
+   "code": "JgOljnheVuNCAeVt7xJIN9",
+   "reason": "betting scam"
+  },
+  {
+   "code": "FV7rX4uB4OiDzHQc6pKkox",
+   "reason": "betting scam"
+  },
+  {
+   "code": "C1EDmo22BI2I3jkHINI81x",
+   "reason": "betting scam"
+  },
+  {
+   "code": "LIgMCJbsFpcBSOfEjyh909",
+   "reason": "betting scam"
+  },
+  {
+   "code": "EwtvI083nDRJXjjTrG9A8g",
+   "reason": "hard porn"
+  },
+  {
+   "code": "KfLXQ12PUm0Ht0XOevPxK1",
+   "reason": "personal info: phone-like digits in name"
+  },
+  {
+   "code": "L23GzabfhdO2g75WkxzWCL",
+   "reason": "hard porn"
+  },
+  {
+   "code": "HDZCmJWsZ6GB6168oolk9J",
+   "reason": "empty name after cleaning"
+  },
+  {
+   "code": "BPu31AMqn15E66xAtELe0M",
+   "reason": "empty name after cleaning"
+  },
+  {
+   "code": "BQSo4FsUIqTAvfmQiEJ4mA",
+   "reason": "betting scam"
+  },
+  {
+   "code": "IM4OcOcf9yHE1PSf5obv64",
+   "reason": "nudes"
+  },
+  {
+   "code": "CSICVsirmLVGHdOlLlJ6Py",
+   "reason": "hard porn"
+  },
+  {
+   "code": "BXkhIXYcySlBBU59StsbVL",
+   "reason": "betting scam"
+  },
+  {
+   "code": "EhK6KhlZbAjL55mL1P1HEF",
+   "reason": "betting scam"
+  },
+  {
+   "code": "K08Hb1Zcm62D8dcBG8eTD8",
+   "reason": "betting scam"
+  },
+  {
+   "code": "J9mPZdv2lyJCoPfQdgd1h4",
+   "reason": "hard porn"
+  },
+  {
+   "code": "JP3zyiEZL2K5HkEnZwX2DZ",
+   "reason": "betting scam"
+  }
+ ],
+ "resume": "mined 3584/3603 listing pages (checkpoint team02-extracted.jsonl, 3603 records); verify-state has 1267 codes in team02-verify-state.json; 2160 mined candidates await WhatsApp verification in team02-awaiting-verification.json; next unmined listing URLs in team02-leads-slice2-leads.json. To resume: re-run team02_mine2.py (skips mined URLs) then team02_build.py (reuses verify-state, verifies only new/pending codes).",
+ "notes": "WhatsApp live-check = curl chat.whatsapp.com/<code>, LIVE iff HTTP 200 + non-empty og:title, one spaced retry on empty og; empty og after retry = DEAD; no WhatsApp page after retries = pending (transport failure). Early control test: 3 provably-bogus codes also returned HTTP 200 + empty og:title (correctly dead), while genuine listing codes DO return non-empty og:title when live (12 live in pilot of 60) — the rule discriminates. Do NOT re-check via browser.open on chat.whatsapp.com (403 upstream). Categories mapped from Portuguese linkado categories; country BR (Brazilian platform); descriptions generated from name/category. Screening strips negated-prohibition clauses (e.g. 'nao pode enviar pornografia', 'sem putaria', '🚫pornografia') before the porn/betting/crypto-airdrop screen, so rule-posting groups are kept."
+}

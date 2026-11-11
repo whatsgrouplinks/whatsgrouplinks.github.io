@@ -1,0 +1,48 @@
+{
+ "team": "team07",
+ "slice": "leads_slice7",
+ "sources": {
+  "linkado.app": 1247,
+  "m3luma.com": 1,
+  "logicalshout.com": 172,
+  "newgrouplinks.pk": 130,
+  "pkwhatsgrouplinks.com": 704,
+  "wglfinder.com": 70,
+  "hubrecipes.com": 34,
+  "tglinkhub.com": 554,
+  "wagroupnest.com": 902,
+  "wagroupshub.com": 165,
+  "whatsappkanali.com": 59,
+  "whatslinky.com": 573,
+  "whatspgroupslink.com": 18,
+  "whatstele.com": 251,
+  "whatzgrouplink.com": 15,
+  "whgroups.link": 205,
+  "whtspgrouplink.com": 5781,
+  "whtsgrouplink.com": 31
+ },
+ "verified": 46,
+ "pending": 599,
+ "leads": 595,
+ "dead": 424,
+ "exclusions": [
+  {
+   "code": "HONFw9OK6v480aotr78mXh",
+   "reason": "scam/betting pattern: \\bforsage\\b"
+  },
+  {
+   "code": "DdxwQZq3IIf5C7iw2H2SRv",
+   "reason": "scam/fraud pattern: vendas? de documentos?"
+  },
+  {
+   "code": "BUF2hIyo9qX7nwBfbPg03o",
+   "reason": "scam/fraud pattern: 🔞"
+  },
+  {
+   "code": "EXiYk9swoifEMiuiMVJQ1W",
+   "reason": "personal info (phone/email) in name/title"
+  }
+ ],
+ "resume": "Slice COMPLETE: mining 3600/3600 effective listing URLs processed; verification pass 1 + gentle recheck pass both finished. Nothing left to resume for this slice except the leads file (595 failed listing pages) and the 599 pending invite codes (transport failures, NOT dead) — both are next-wave retry material.",
+ "notes": "Slice had 3603 raw URLs -> 3600 effective (3 share/intent URLs unwrapped to their embedded listing pages: grupbul.com group pages, wglfinder, hubrecipes). wagroupnest.com (149 failed) and wagroupshub.com (115 failed) listing pages mostly timed out under shared-egress load and are in the leads file for retry. chat.whatsapp.com checks were slow (18-45s/request) with heavy transport failures during the wave-wide verification storm; pending codes are transport failures only, NOT dead codes. A gentle recheck pass (3 workers, 60s timeout) rescued 24 live + resolved 146 as dead; 599 still pending after two passes. Live rate among new codes was low: most new codes return HTTP 200 with empty og:title = DEAD per rule. No merge into groups.json, no generate.py, no deploy (per assignment). Files: team07-leads-slice7.json (verified), team07-leads-slice7-pending.json (pending), team07-leads-slice7-leads.json (unmined listing URLs), team07-leads-slice7-summary.json (this file)."
+}

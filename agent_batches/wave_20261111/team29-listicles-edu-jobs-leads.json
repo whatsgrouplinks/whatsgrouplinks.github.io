@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.sarkarijobs.com/join-whatsapp-groups-links-for-sarkari-jobs-sarkari-result/",
+    "category": "Jobs",
+    "note": "11 Sarkari Jobs WhatsApp groups (G1-G11) plus state channels; page HTML contains only whatsapp.com/channel links, group invite codes are JS-hidden — needs browser-based mine."
+  },
+  {
+    "url": "https://grupbul.com/group/650151",
+    "category": "Education",
+    "note": "IELTS PTE USA Certified single-group page; invite code hidden behind JS button, curl fetch exposes no code — needs browser mine."
+  },
+  {
+    "url": "https://grupbul.com/group/196374",
+    "category": "Education",
+    "note": "IELTS (British Council) single-group page; invite code hidden behind JS button — needs browser mine."
+  },
+  {
+    "url": "https://grupbul.com/group/580282",
+    "category": "Education",
+    "note": "IELTS Canada single-group page; invite code hidden behind JS button — needs browser mine."
+  },
+  {
+    "url": "https://www.aryavysya.club/p/arya-vysya-exam-help-whatsapp-group.html",
+    "category": "Education",
+    "note": "UPSC/IAS/banking exam help group page found in search, not fetched this wave — unmined listicle."
+  },
+  {
+    "url": "http://physicspadhai.blogspot.com/2025/07/neet-jee-2026-your-ultimate-success.html",
+    "category": "Education",
+    "note": "NEET & JEE 2026 support page with a WhatsApp study group link, found in search, not fetched this wave — unmined listicle."
+  }
+]

@@ -1,0 +1,36 @@
+{
+ "team": "team01",
+ "slice": "leads slice 1",
+ "sources": [
+  "77links.com",
+  "grouplink.com.in",
+  "groupsnest.com",
+  "groupsinvite.link",
+  "linkado.app",
+  "groupizo.com",
+  "groupchatconnect.info",
+  "groupda.com",
+  "freewagroup.com",
+  "englishan.com",
+  "assengaonline.com",
+  "grupbul.com",
+  "groupslink.pk",
+  "groupsor.in",
+  "joingram.in",
+  "hubrecipes.com",
+  "groupwa.link",
+  "app.grupodewhatsapp.com (unmineable via curl — JS/timeouts, all in leads)"
+ ],
+ "verified": 125,
+ "pending": 9,
+ "leads": 1448,
+ "dead": 466,
+ "exclusions": [
+  {
+   "code": "I1liZQ993ZDJyM9bdA6Ypc",
+   "reason": "adult:porn (og:title 'Porno xxx' found on rename pass)"
+  }
+ ],
+ "resume": "verify 1171 unverified candidates in team01-merged-candidates.json (team01_verify_stream.py); deep-fetch 772 unresolved groupsinvite slugs (team01_mine.py deep gi) — slugs in team01-leads-slice1-progress.json sub_groupsinvite; deep-fetch 3597 unresolved linkado grupo ids (team01_mine.py deep linkado)",
+ "notes": "Mined 3603/3603 listing pages (main+rescue+remine+remine0). Failed-fetch listing URLs: 1242 (in leads for retry). groupsinvite slugs collected: 1372 (deep-resolved: 600); linkado grupo ids collected: 3897 (deep-resolved: 300). VM rebooted twice mid-run (~08:00 UTC and ~10:00 UTC); the first reboot truncated the candidates file — the 263 pre-reboot candidates were re-mined by the remine0 job (idx 0-300) and grouplink candidates from idx 700-1040 by the remine job. Verification is sequential (1 worker): parallel chat.whatsapp.com fetches time out through the shared egress proxy (verified empirically: 3 concurrent curls all hit 30s; sequential requests succeed in ~8s). Live = HTTP 200 + non-empty og:title, retried once. Counts are from the output files at finalize time, not estimates. NOTE: the stream verifier (team01_verify_stream.py) was still running at finalize time and keeps banking live codes into team01-stream-verified.json — re-run team01_finalize.py after it finishes to fold the remaining results in; team01-merged-candidates.json holds the still-unverified candidates. Name repair: 610 'Entrar no Grupo' linkado names fixed from grupo page titles; 7 junk-named verified records renamed from og:title; 1 porn-named group (I1liZQ993ZDJyM9bdA6Ypc, og:title 'Porno xxx') removed from verified and excluded."
+}

@@ -1,0 +1,14 @@
+stream-verify: 1261 to check
+  checked 25/1261: live=2 pending=0 dead=23 excl=0
+  checked 50/1261: live=2 pending=0 dead=48 excl=0
+  checked 75/1261: live=2 pending=0 dead=73 excl=0
+  checked 100/1261: live=2 pending=0 dead=98 excl=0
+  checked 125/1261: live=2 pending=0 dead=123 excl=0
+  checked 150/1261: live=2 pending=0 dead=148 excl=0
+  checked 175/1261: live=3 pending=0 dead=171 excl=1
+  checked 200/1261: live=15 pending=0 dead=184 excl=1
+  checked 225/1261: live=28 pending=0 dead=196 excl=1
+  checked 250/1261: live=40 pending=0 dead=209 excl=1
+  checked 275/1261: live=52 pending=0 dead=222 excl=1
+  checked 300/1261: live=64 pending=2 dead=233 excl=1
+  checked 325/1261: live=77 pending=2 dead=245 excl=1

@@ -1,0 +1,60 @@
+{
+ "team": 32,
+ "slice": "igrupos + grupodewhatsapp + gruposdewhatss (GEO-GATED, LEADS ONLY)",
+ "wave": "20261111",
+ "date": "2026-11-11",
+ "sources": [
+  "igrupos.com: homepage 'Ultimos grupos y canales' (newest-first) + rap and clash-royale tag pages, via browser.search/browser.open text fetches (curl geo-gated from this VM, per Nov-10). 24 new detail pages resolved by following homepage outlinks.",
+  "grupodewhatsapp.com / app.grupodewhatsapp.com: hub + mujeres/tecnologia/amor-y-romance category listings + 26 group detail pages harvested via search and the 'also joined' graph on detail pages (category listings are JS-rendered: text fetch returns intro only, no group cards).",
+  "gruposdewhatss.app: hub (20,000+ groups, 1,108 listing pages) + 6 group detail pages via search. Site search index is stale (last crawls months old); browser leg should paginate the hub live."
+ ],
+ "verified": 0,
+ "pending": 0,
+ "leads": 66,
+ "leads_by_source": {
+  "igrupos.com": 28,
+  "grupodewhatsapp.com": 31,
+  "gruposdewhatss.app": 7
+ },
+ "leads_by_kind": {
+  "detail": 60,
+  "listing": 3,
+  "hub": 3
+ },
+ "igrupos_gid_range_new": "526886-527086 (24 gids, all above the 526723 resume point)",
+ "igrupos_gid_max": 527086,
+ "igrupos_gid_min_new": 526886,
+ "igrupos_below_threshold_extras": [
+  519520,
+  501510,
+  518914,
+  506909
+ ],
+ "resume": "Next run: re-open https://www.igrupos.com/ homepage 'Ultimos grupos y canales' and continue DOWNWARD from gid 526886 (the last entry on the fetched homepage; gids 526723-526885 not yet covered), and check for anything newly posted above 527086. For grupodewhatsapp, continue the 'also joined' graph from any banked detail page (each page links ~5-6 more groups) and open category listings live (tecnologia, empleo, deportes, estudios, juegos, noticias). For gruposdewhatss.app, paginate the hub (1,108 pages) live - search alone only surfaces a stale handful.",
+ "dropped_on_sight": [
+  {
+   "url": "https://www.igrupos.com/ (homepage outlink 120)",
+   "reason": "Adult signal in listing title: 'Canal rico para ti amor' - not resolved, not banked."
+  },
+  {
+   "url": "https://gruposdewhatss.app/rob-mines-sinais/",
+   "reason": "Betting-signals group (Robo mines sinais, casino 'mines' signals) - betting-scam name, dropped per rule."
+  },
+  {
+   "url": "https://gruposdewhatss.app/ganhe-dinheiro-em-2024/",
+   "reason": "Get-rich-scheme title ('Ganhe dinheiro em 2024'), May 2024, stale - dropped per wave content rules."
+  },
+  {
+   "url": "https://www.igrupos.com/tag/whatsapp/apuestas-deportivas/*",
+   "reason": "Sports-betting tag listings not re-banked; clash-royale money-tournament entries (entry-fee/prize-pool) not resolved either."
+  }
+ ],
+ "flags_for_browser_leg": [
+  "gid 527086 'Mr Factss' is a WhatsApp CHANNEL (whatsappc), not a group chat - confirm type before banking.",
+  "grupodewhatsapp 'Chicas Guapas Amistad y Amigos' - site itself flags its invite link as possibly broken ('Problema con el link'); check the invite before banking.",
+  "No igrupos 'Nuevos' sort URL could be captured: the 'Nuevos' filter link re-renders the same tag page in text fetch. The homepage 'Ultimos grupos y canales' section is the working newest-first source.",
+  "All grupodewhatsapp detail pages show site-verified dates 9-11 Nov 2026, but NO invite code was extracted - codes live behind the 'Unirse al grupo' button, which needs the browser leg. Nothing here is verified.",
+  "No source name or source link is stored in these files beyond the listing URL itself (needed for the browser leg to find the group); no personal info collected."
+ ],
+ "notes": "Verified file is an empty list [] BY DESIGN (geo-gated slice: leads only, no invite codes extracted, no WhatsApp checks run). Pending file is an empty list [] BY DESIGN (no verification attempts, so no transport failures). No merges into groups.json, no generate.py, no deploy - outputs only. Nov-10 team32 summary read first: its 14 igrupos leads (incl. homepage, rap, rap/2, clash-royale, apuestas-deportivas/4, intercambio-idiomas, femboy, onlyfans/2, grupo/267961, 90173, 9088, 471629, 237673, 329935) do not overlap this run's 66 leads (checked programmatically)."
+}

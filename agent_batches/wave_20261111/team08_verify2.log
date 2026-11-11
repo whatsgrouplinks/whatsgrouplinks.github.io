@@ -1,0 +1,10 @@
+raw 22680 unique-in-slice 14964
+already-in-existing 9945 fresh-to-verify 5019
+pre-screen excluded 586 todo 4433
+resuming: already banked 0 remaining 4433
+200/4433 verified=14 pending=0 dead=185 excl=587 elapsed=168s
+400/4433 verified=19 pending=0 dead=379 excl=588 elapsed=297s
+600/4433 verified=22 pending=0 dead=576 excl=588 elapsed=417s
+800/4433 verified=22 pending=0 dead=776 excl=588 elapsed=540s
+1000/4433 verified=22 pending=0 dead=976 excl=588 elapsed=668s
+1200/4433 verified=22 pending=0 dead=1176 excl=588 elapsed=793s

@@ -1,0 +1,66 @@
+[
+ {
+  "catlabel": "Food-keyword",
+  "desc": "A WhatsApp community for Maharashtra covering culture, travel, food and lifestyle.",
+  "gid": "662627",
+  "name": "TIGER MAHARASTRA",
+  "redirect": "https://grupbul.com/redirect/662627/1325254",
+  "location": null,
+  "code": null,
+  "status": "PENDING",
+  "reason": "no code extracted after retry (redirect fetch failed)"
+ },
+ {
+  "catlabel": "Food-keyword",
+  "desc": "A WhatsApp community for friendship and meaningful conversations, sharing travel tips and cooking recipes.",
+  "gid": "400673",
+  "name": "Yaar Beli",
+  "redirect": "https://grupbul.com/redirect/400673/801346",
+  "location": null,
+  "code": null,
+  "status": "PENDING",
+  "reason": "no code extracted after retry (redirect fetch failed)"
+ },
+ {
+  "catlabel": "Food-keyword",
+  "desc": "A vibrant Tamil community WhatsApp group sharing Tamil culture, food, recipes and cooking sessions.",
+  "gid": "440817",
+  "name": "Tamil Jalsa",
+  "redirect": "https://grupbul.com/redirect/440817/881634",
+  "location": "https://chat.whatsapp.com/invite/ACtQYie1P32IceedwfPY9p",
+  "code": "ACtQYie1P32IceedwfPY9p",
+  "status": "PENDING",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (no HTTP status) after retry pass"
+ },
+ {
+  "catlabel": "Food-keyword",
+  "desc": "A WhatsApp group for Mumbaikars to connect, share experiences and talk food, from street food to fine dining.",
+  "gid": "865745",
+  "name": "Mumbaikar!",
+  "redirect": "https://grupbul.com/redirect/865745/1731490",
+  "location": "https://chat.whatsapp.com/invite/I39fLwOHZ730XJ5glkcE82",
+  "code": "I39fLwOHZ730XJ5glkcE82",
+  "status": "PENDING",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (no HTTP status) after retry pass"
+ },
+ {
+  "catlabel": "Food-keyword",
+  "desc": "A WhatsApp group celebrating India, its art, music, cuisine and culture, sharing favourite Indian dishes and recipes.",
+  "gid": "219135",
+  "name": "I Like India",
+  "redirect": "https://grupbul.com/redirect/219135/438270",
+  "location": "https://chat.whatsapp.com/invite/58IfJaAavCGId7CEz0vNJH",
+  "code": "58IfJaAavCGId7CEz0vNJH",
+  "status": "PENDING",
+  "verify": "PENDING",
+  "og_title": "",
+  "http": "000",
+  "reason": "transport failure (no HTTP status) after retry pass"
+ }
+]
