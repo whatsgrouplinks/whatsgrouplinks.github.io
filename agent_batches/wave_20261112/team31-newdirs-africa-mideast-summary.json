@@ -1,0 +1,46 @@
+{
+ "team": 31,
+ "slice": "new dirs Africa/Mideast (team26 leads)",
+ "date": "2026-11-12",
+ "controls": {
+  "known_live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZZZZZZZZZZZZZZZZZZZZZZ -> empty og:title (PASS)"
+ },
+ "leads_mined": 30,
+ "leads_skipped_linktogroups_team14": 5,
+ "codes_extracted_unique": 340,
+ "codes_in_union": 243,
+ "codes_fresh_verified": 97,
+ "verified_live_kept": 32,
+ "verified_dead": 65,
+ "pending": 0,
+ "exclusions": [],
+ "candidates_by_category": {
+  "Business": 5,
+  "Finance": 2,
+  "Buy & Sell": 17,
+  "Community & Social": 3,
+  "Poetry": 2,
+  "Technology": 3
+ },
+ "candidates_by_country": {
+  "IN": 3,
+  "PK": 1,
+  "AU": 1
+ },
+ "leads_banked": 29,
+ "resume": "All 30 non-linktogroups leads fetched. 0 pending codes. Next wave: retry the 29 banked lead URLs (whatsagroupslinks CF-challenge pages are intermittent — 2 detail pages + 4 category pages passed on retry this run, so re-trying the still-blocked ones is worthwhile; go.tuxmat Bahrain still transport-fails after 5 attempts; cazajobz join buttons carry no invite URL in page or wp-json — needs browser leg; elmostajadat label archive has no post links in raw HTML — needs browser/JS). linktogroups.com stays with team14.",
+ "notes": [
+  "whatsagroupslinks.com category pages mostly do NOT embed invite codes inline (only shopping-groups did, 126 codes); the codes live on per-post detail pages linked from the category archives. 36 detail posts fetched; 15 loaded with 197 codes, 21 hit the 12KB Cloudflare 'One moment, please...' challenge; retry round recovered kapu (4 codes) + mom (11 codes); 19 detail pages still challenge-blocked, banked as leads.",
+  "m3luma.com: all 7 girls-numbers pages fetched, 0 invite codes — phone-number lists as warned (2 pages were CF challenge shells). Skipped per instructions; no PII banked.",
+  "selar.com Lagos business page: 0 codes (product sales page, no group links). 7hubent FUTA page: HTTP 404, its 2 sidebar codes both already in union.",
+  "elmostajadat label archive: 200, 0 codes, no post links in raw HTML.",
+  "cazajobz UAE page: 200, 0 codes; wp-json post 814 content also has 0 invite URLs — 'Join Now' buttons have no href. Site's links are broken/missing, not just blocked.",
+  "go.tuxmat.com Bahrain: transport failure on all 5 attempts (proxy RemoteDisconnected) — never counted dead.",
+  "Dedupe: 340 unique codes extracted; 243 already in the 112,070-code union; 97 fresh verified (32 live / 65 dead / 0 pending after pass-2 retry of 3 transport failures — all 3 re-verified dead).",
+  "Name rule: og:title used verbatim where present (e.g. 'SmmGreata.com' x2, 'FUNDED TRADING SOCIETY', '💔 अधूरी राते 💔'); directory name used only where og:title was empty — all live codes had a non-empty og:title.",
+  "Near-misses KEPT per rules: 'FUNDED TRADING SOCIETY' + 'Share Market - Intraday - Banknifty' (generic trading/finance, not a named airdrop/binary/betting scam); 'Free Income' was DEAD so not banked. No live item hit the porn/scam screens, so exclusions list is empty.",
+  "Country: set only where clearly indicated (Chitral->PK, Kapu->IN, Banknifty->IN, Aus Amazon->AU); left '' where page context contradicted content (e.g. Hindi/Urdu og titles on the Cambodia page) per team26 precedent.",
+  "Scratch: team31_raw/ (fetched HTML), team31_fetch.py/.log, team31_detail.py/.log, team31_detail_retry.py/.log, team31_pool.py, team31_verify.py/.log, team31_fetch.json, team31_extracted.json, team31_detail_posts.json, team31_detail_fetch.json, team31_retry_fetch.json, team31_detail_retry.json, team31_pool.json, team31_fresh.json, team31_verify_pass1.json, team31_verify.json."
+ ]
+}

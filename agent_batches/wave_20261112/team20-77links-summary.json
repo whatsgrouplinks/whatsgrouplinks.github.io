@@ -1,0 +1,128 @@
+{
+ "team": 20,
+ "slice": "77links.com Karachi/Islamic + 7 failed pages (kurulus-osman, malayalam, marriage, online-earning, pdf-books, pti, pubg)",
+ "sources": [
+  "https://77links.com/karachi-whatsapp-group-links/",
+  "https://77links.com/islamic-whatsapp-group-links/",
+  "https://77links.com/kurulus-osman-whatsapp-group-links/",
+  "https://77links.com/malayalam-whatsapp-group-links/",
+  "https://77links.com/marriage-whatsapp-group-links/",
+  "https://77links.com/online-earning-whatsapp-groups/",
+  "https://77links.com/pdf-books-whatsapp-group-links/",
+  "https://77links.com/pti-whatsapp-group-links/",
+  "https://77links.com/pubg-whatsapp-group-links/"
+ ],
+ "fetch_log": [
+  {
+   "slug": "karachi",
+   "url": "https://77links.com/karachi-whatsapp-group-links/",
+   "status": "200",
+   "codes": 97
+  },
+  {
+   "slug": "islamic",
+   "url": "https://77links.com/islamic-whatsapp-group-links/",
+   "status": "200",
+   "codes": 102
+  },
+  {
+   "slug": "kurulus-osman",
+   "url": "https://77links.com/kurulus-osman-whatsapp-group-links/",
+   "status": "200",
+   "codes": 104
+  },
+  {
+   "slug": "malayalam",
+   "url": "https://77links.com/malayalam-whatsapp-group-links/",
+   "status": "200",
+   "codes": 17
+  },
+  {
+   "slug": "marriage",
+   "url": "https://77links.com/marriage-whatsapp-group-links/",
+   "status": "200",
+   "codes": 27
+  },
+  {
+   "slug": "online-earning",
+   "url": "https://77links.com/online-earning-whatsapp-groups/",
+   "status": "200",
+   "codes": 100
+  },
+  {
+   "slug": "pdf-books",
+   "url": "https://77links.com/pdf-books-whatsapp-group-links/",
+   "status": "200",
+   "codes": 21
+  },
+  {
+   "slug": "pti",
+   "url": "https://77links.com/pti-whatsapp-group-links/",
+   "status": "200",
+   "codes": 40
+  },
+  {
+   "slug": "pubg",
+   "url": "https://77links.com/pubg-whatsapp-group-links/",
+   "status": "200",
+   "codes": 51
+  }
+ ],
+ "extracted_total": 559,
+ "extracted_by_page": {
+  "karachi": 97,
+  "islamic": 102,
+  "kurulus-osman": 104,
+  "malayalam": 17,
+  "marriage": 27,
+  "online-earning": 100,
+  "pdf-books": 21,
+  "pti": 40,
+  "pubg": 51
+ },
+ "already_in_union": 320,
+ "already_verified_yesterday_team14": 51,
+ "already_banked_by_other_wave12_team": 1,
+ "fresh_to_verify": 187,
+ "fresh_by_page": {
+  "kurulus-osman": 61,
+  "malayalam": 9,
+  "online-earning": 65,
+  "pdf-books": 17,
+  "pti": 34,
+  "pubg": 1
+ },
+ "verified_kept": 1,
+ "pending": 75,
+ "pending_by_page": {
+  "pdf-books": 8,
+  "online-earning": 40,
+  "pti": 25,
+  "malayalam": 1,
+  "pubg": 1
+ },
+ "pending_reasons": {
+  "http 429": 74,
+  "transport": 1
+ },
+ "dead": 110,
+ "dead_by_page": {
+  "malayalam": 8,
+  "online-earning": 24,
+  "kurulus-osman": 61,
+  "pdf-books": 8,
+  "pti": 9
+ },
+ "leads": 0,
+ "exclusions": [
+  {
+   "code": "KavylKrdt9hAqybQVZpJMn",
+   "name": "Online Earnings Ebl Pakistan",
+   "reason": "SCAM: EBL Pakistan referral/online-earning scheme (paid join, earn-by-referring) - same family as dropped binary-option/AI-trading earning scams",
+   "page": "online-earning"
+  }
+ ],
+ "controls": "live control KrDwdK8EIkB6vgauHg5M7N (groups.json) showed og:title 'JAY - PHP & Python Full Stack Developer'; fabricated code ZZZNotARealCode1234567890 showed empty og:title. NOTE: og:description is the generic 'WhatsApp Group Invite' on ALL pages (live and dead) and must never be used as a live fallback - first verify run mis-flagged the fake control via that fallback; fixed before verifying.",
+ "rate_limit_note": "First verify pass (4 workers) hit HTTP 429 on 119/187 codes and mislabelled them dead; rechecked all 187 slowly (1 worker, then 3 workers, 2-3s sleeps, 20-30s backoff on 429). 74 codes still 429 after 2 spaced recheck attempts + 1 proxy transport failure = 75 pending. Do NOT call them dead.",
+ "resume": "DONE: all 9 pages fetched 200 (all 7 failed pages recovered). 187 fresh codes verified: 1 kept, 110 dead, 75 pending (74x HTTP 429 + 1 proxy error). Next wave: retry the 75 pending codes in team20-77links-pending.json (spaced, low concurrency); re-fetch Karachi + Islamic + the 7 pages for new codes. Raw extraction team20_all_extracted.json; checkpoints team20_verify_ckpt.jsonl + team20_recheck_ckpt.jsonl. Karachi/Islamic/marriage pages yielded 0 fresh codes (all already in union or verified yesterday). Overlap code BcoHLF6PNplFc4FcPR0tAD already banked by another wave-12 team - not re-banked."
+}

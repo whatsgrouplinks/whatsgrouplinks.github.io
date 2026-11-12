@@ -1,0 +1,25 @@
+union codes: 112070 (existing 112070 + groups 76448)
+resuming: 0 mined, 400 to fetch
+mined 50/400
+mined 100/400
+mined 150/400
+mined 200/400
+mined 250/400
+mined 300/400
+mined 350/400
+mined 400/400
+mined done: 400 pages, fetch failures: 1
+fresh candidates (post-dedupe+screen): 276; dup-in-union: 95; no-join pages: 24 (telegram-only 24); exclusions pre-verify: 0; leads: 25
+verify resume: 0 done, 276 to verify
+verified 25/276
+verified 50/276
+verified 75/276
+verified 100/276
+verified 125/276
+verified 150/276
+verified 175/276
+verified 200/276
+verified 225/276
+verified 250/276
+verified 275/276
+VERIFIED: 213 PENDING: 0 DEAD: 63 EXCL: 0 NOJOIN: 24 FETCHFAIL: 1 LEADS: 25

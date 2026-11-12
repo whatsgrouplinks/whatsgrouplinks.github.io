@@ -1,0 +1,181 @@
+{
+ "team": 18,
+ "slice": "igrupos gids 526723-526885 + new above 527086; fallback grupodewhatsapp + gruposdewhatss.app (+gruposwhats.app)",
+ "wave": "20261112",
+ "date": "2026-11-12",
+ "igrupos_reachable": true,
+ "igrupos_reachability_detail": "Homepage AND detail pages reachable via curl/requests from this VM (homepage HTTP 200, 206KB, ~5.5s; detail pages HTTP 200 warm ~0.3-1s, first TLS ~30s). NOT geo-gated today, unlike Nov-10/11 reports. BUT: invite codes are NOT present in static HTML - no chat.whatsapp.com link, no join button, no QR on any detail page (verified on gids 527264, 526723). The join link is JS/login-gated, so igrupos yields leads only; codes need a live-browser click.",
+ "controls": {
+  "known_live": {
+   "code": "KrDwdK8EIkB6vgauHg5M7N",
+   "result": "og:title 'JAY - PHP & Python Full Stack Developer' - PASS"
+  },
+  "fabricated": {
+   "code": "ZZZZZZZZZZZZZZZZZZZZZZ",
+   "result": "empty og:title (generic og:description 'WhatsApp Group Invite' present) - correctly treated as DEAD; LIVE rule = non-empty og:title"
+  }
+ },
+ "igrupos_mining": {
+  "gids_attempted": 341,
+  "gids_live_detail_pages": 249,
+  "gids_404": 92,
+  "gids_errors": 0,
+  "gid_range_live": "526723-527264",
+  "in_slice_526723_526885_live": 115,
+  "above_527086_live": 134,
+  "note": "Homepage 'Ultimos grupos y canales' showed 40 newest gids 527113-527264, all above 527086. Slice gids 526723-526885 had scrolled off the homepage and were fetched directly; 115 of 163 exist, 48 are 404."
+ },
+ "verified_kept": 31,
+ "pending": 0,
+ "leads": 268,
+ "leads_by_source": {
+  "igrupos.com": 249,
+  "grupodewhatsapp.com": 10,
+  "gruposwhats.app": 9,
+  "gruposdewhatss.app": 0
+ },
+ "candidates_source": "All 31 candidates came from search-index snippets (chat.whatsapp.com codes published on the group's own site/YouTube/PDF), NOT from igrupos detail pages. Each verified live via og:title with a warm requests Session.",
+ "exclusions": [
+  {
+   "item": "gid 527262 DUNGEON OF MERILYN",
+   "reason": "lemon 18 = erotic roleplay content - dropped per hard porn rule"
+  },
+  {
+   "item": "gid 527217 DUNGEON OF MERILYN",
+   "reason": "RESTORED (not excluded): full description checked - combat/world roleplay only, no lemon/erotic content"
+  },
+  {
+   "item": "gid 527138 Mundo Crypto",
+   "reason": "KEPT as lead with FLAG: trading-strategies group - browser leg must screen before banking (drop if airdrop/binary-option/daily-profits promo)"
+  },
+  {
+   "code": "lancamentoCvl30",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "DuQxRBuqtMaEl6suPuxMw8",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "CdupqBAqkaJ1GPHe4wJyvD",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "J13HBw433fr2YYP7coVs91",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "EpN7sLPb4o9FbPfzGmizQr",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "JwTdxtBPAsn9LKVB1pHT94",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "EvIhddU2hAp9TExwdiN9q3",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "HDhsB4kqvbW19A5cac58cz",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "DqQgKK7s4WqBI9BiIKodCT",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "E2DJ4n13hhe500EvhLcaDw",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "Ki92BbyVDcH2u17ITMZAkS",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "L9akdRIU8MiExQ4hC8XXOD",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "ICZqrYyVsIpDtQ1DnACbIo",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "Kp3e0zoRZGpEQDXUnwdtnG",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "JJwTlPugEuyBj54jlVs0b8",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "JseOx4iUfekCASAGokvzei",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "code": "D4kVigoFQCrEeMJMfB8l",
+   "reason": "dead: empty og:title"
+  },
+  {
+   "gid": 527262,
+   "title": "🌟 𝐃𝐔𝐍𝐆𝐄𝐎𝐍 𝐎𝐅 𝐌𝐄𝐑𝐈𝐋𝐘𝐍",
+   "reason": "lemon = erotic roleplay content"
+  }
+ ],
+ "dead_after_spaced_retry": 17,
+ "dead_note": "17 harvested codes showed empty og:title on first check AND on a spaced retry - confirmed dead, 0 revived. Includes 8 wuolah semester groups and 5 Google-Sheets class groups (stale 2023-2025 listings).",
+ "dupes_vs_existing_codes": [
+  {
+   "code": "KSM9yEUxixxGMM68h2AowG",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "HXTgGNcF2ySCciMg2wPYSg",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "CXsl7j1F7Jd31qTgm7VJbC",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "JJT9cvlv3iZKCEMpg4jh6e",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "CyycfKEeehSEUawdDYHAbq",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "LmzDCrYgFJP4p238831Pto",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "LdmMOtgch128E1l9WRZc3O",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "Bm85uxTOV0v6z0bBfoigcB",
+   "reason": "already in groups.json"
+  }
+ ],
+ "fallback_sites": {
+  "grupodewhatsapp.com": "Direct curl 403 (Cloudflare 'Just a moment'). browser.open text fetch works and is FRESH (crawled <1 min ago): detail pages show name/desc/members/verified-date + 'also joined' graph (~6 more groups each), but NO invite code (JS-gated join button). 10 new leads banked, 0 overlap with team32's 31.",
+  "gruposdewhatss.app": "Direct curl 403 ('Your country is not allowed to access this resource' - geo-block). browser.open returns a STALE crawler copy (Feb 2026 for the detail page checked) with no invite code. No new leads - team32's 7 leads from yesterday still stand, not re-banked.",
+  "gruposwhats.app": "New directory found via search (distinct from gruposdewhatss.app). browser.open text fetch is FRESH (crawled <1 min ago) with name/desc/category/click counts + related-groups list, but NO invite code (JS-gated). 9 new leads banked (3 exact detail URLs + 6 related names)."
+ },
+ "resume": "Next run: re-open https://www.igrupos.com/ homepage 'Ultimos grupos y canales' and continue from the newest gid seen (527264); gids below 526723 are unmined territory only if the slice extends downward. Browser leg still needed for ALL 268 leads: open each detail page live, click the join button, capture the chat.whatsapp.com code, verify og:title, screen, bank. Priority: the 19 Jobs leads (grupodewhatsapp/gruposwhats.app, all BR, site-verified 11-12 Nov 2026) and the 249 igrupos leads in gid order.",
+ "flags_for_browser_leg": [
+  "gid 527086 'Mr Factss' (team32 flag) is a WhatsApp CHANNEL, not a group - still unconfirmed.",
+  "igrupos 'country' on leads comes from the first flag image on the detail page and is UNVERIFIED (e.g. gid 526723 shows DM) - confirm country from the page's 'Grupo solo para gente de' section at bank time.",
+  "gid 527192 'Bisex Asturias' kept: 18+ age gate on a friendship group (false-positive restore, not porn).",
+  "Candidate 'PRESENTE Y FUTURO CRIPTOS!' (BAHfB5sLzUo3ewu8ihrx7X) is a Rotary crypto-discussion forum, kept as Finance - not an airdrop/trading-promo.",
+  "No source name or source link stored in candidate fields; lead notes name the listing page only so the browser leg can find the group. No personal info collected."
+ ],
+ "files": {
+  "candidates": "team18-igrupos-candidates.json (31 verified clean items)",
+  "pending": "team18-igrupos-pending.json (empty - 0 transport failures)",
+  "leads": "team18-igrupos-leads.json (267 leads: 249 igrupos + 18 fallback)",
+  "summary": "team18-igrupos-summary.json",
+  "work_files": "team18_mine_igrupos.py, team18-igrupos-mined.jsonl (341 gid records), team18_verify_codes.py, team18-verify.jsonl, team18-search-candidates.json, team18-search-pending.json, team18-search-excluded.json, team18-igrupos-leads-raw.json, team18-igrupos-excluded.json, team18-retry-revived.json"
+ }
+}

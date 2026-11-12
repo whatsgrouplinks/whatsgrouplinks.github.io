@@ -1,0 +1,80 @@
+{
+ "team": "team15",
+ "wave": "20261112",
+ "slice": "groupslinks.com paginated listing pages 13-30 (older listings)",
+ "source": "https://groupslinks.com (pages 13-30)",
+ "pages_mined": [
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "cards_mined": 576,
+ "cards_with_code": 294,
+ "cards_no_code": 282,
+ "codes_in_union_skipped": 42,
+ "codes_dup_within_run_skipped": 1,
+ "fresh_codes_verified": 251,
+ "verified_live": 71,
+ "verified_dead": 180,
+ "pending": 0,
+ "candidates_kept": 70,
+ "exclusions": [
+  {
+   "code": "JwalD5I1oas67DOiFg3uQv",
+   "name": "جروب تعارف شباب وبنات",
+   "og_title": "كسم وسط البلد 🌶️",
+   "reason": "manual review: live group title is vulgar Arabic profanity (كسم) — sexual/profane content"
+  }
+ ],
+ "exclusions_auto": 0,
+ "categories": {
+  "Health": 2,
+  "Community & Social": 54,
+  "Islamic": 5,
+  "Business": 4,
+  "Entertainment": 5
+ },
+ "countries": {
+  "(all)": 15,
+  "SA": 11,
+  "YE": 8,
+  "MA": 7,
+  "DZ": 1,
+  "EG": 18,
+  "AE": 2,
+  "OM": 4,
+  "IQ": 1,
+  "JO": 1,
+  "SY": 2
+ },
+ "controls": {
+  "live_control": "KrDwdK8EIkB6vgauHg5M7N (from groups.json) -> live, og:title \"JAY - PHP & Python Full Stack Developer\"",
+  "fabricated_control": "ZZZZZZZZZZZZZZZZZZZZZZ -> dead-empty",
+  "method_note": "First verify run aborted: og:description fallback treated WhatsApp generic \"WhatsApp Group Invite\" description as live. Fixed: generic description excluded; only non-empty og:title or a non-generic og:description counts as live. Controls re-run and passed."
+ },
+ "verification": "requests Session, browser UA, 75s timeout, up to 3 attempts with spaced retry; transport failures -> pending (none)",
+ "resume_point": "pages 13-30 DONE. Next: groupslinks.com pages 31+ (older listings; expect mostly dead). 153 unique no-code listing detail URLs banked as leads (282 no-code cards, deduped by detail URL).",
+ "notes": [
+  "Older listings (pages 13-30) still 28% live (71/251) — higher than expected.",
+  "5 truncated listing names (ending with …) replaced with live og:title.",
+  "1 manual exclusion: vulgar profanity in live group title (كسم وسط البلد).",
+  "MLM/affiliate/investment-flavoured groups (DXN, OYL affiliate, \"نحو المليون دولار\", \"استثمر مع الكبار شخصيات\") KEPT: none match the hard drop list (crypto-airdrop, binary options, paid hack, betting, AI-trading daily profits); flagged here for coordinator review.",
+  "Several live groups were renamed since listing (listing name stale vs og:title); listing name banked per schema, og:title recorded in team15_verified_p13_30.json."
+ ],
+ "leads": 153
+}

@@ -1,0 +1,53 @@
+{
+ "team": 28,
+ "slice": "grouplinksforyou.com",
+ "date": "2026-11-12",
+ "sources": [
+  "https://www.grouplinksforyou.com/feeds/posts/default?alt=json&max-results=500",
+  "https://www.grouplinksforyou.com/feeds/posts/default?alt=json&max-results=500&start-index=34",
+  "https://www.grouplinksforyou.com/sitemap.xml"
+ ],
+ "feed_check": {
+  "total_results": 39,
+  "entries_fetched": 39,
+  "newest_updated": "2026-11-03T09:32:00.100-08:00",
+  "oldest_updated": "2026-11-03T09:24:52.150-08:00",
+  "all_updated_2026_11_03": true,
+  "new_posts_vs_2026_11_11": 0,
+  "removed_posts_vs_2026_11_11": 0,
+  "posts_with_changed_content_vs_2026_11_11": 0
+ },
+ "sitemap_check": {
+  "urls": 39,
+  "newest_lastmod": "2026-11-03T17:32:00Z",
+  "oldest_lastmod": "2026-11-03T17:24:52Z",
+  "all_lastmod_2026_11_03": true,
+  "new_urls_vs_2026_11_11": [],
+  "removed_urls_vs_2026_11_11": []
+ },
+ "verified": 0,
+ "pending": 0,
+ "leads": 0,
+ "dead": 0,
+ "exclusions": [
+  {
+   "code": "5ZE2buyjKuNKeiPq2eZgTq",
+   "reason": "CARRY-OVER from 2026-11-11 team18 (not re-verified today — no new posts): crypto-airdrop scam, og:title 'AirDrop'"
+  },
+  {
+   "code": "H3Znr3mMLkxLTkcetGHSde",
+   "reason": "CARRY-OVER from 2026-11-11 team18 (not re-verified today — no new posts): crypto-airdrop scam, og:title 'Airdrop Network Bitcoin'"
+  },
+  {
+   "code": "BTsLR5yTI0S2C32WPPtQ0R",
+   "reason": "CARRY-OVER from 2026-11-11 team18 (not re-verified today — no new posts): crypto-airdrop scam, og:title 'HOLIVERSE(meta-whale)'"
+  },
+  {
+   "code": "CoJskuqxxW16xlsdlvqZ5O",
+   "reason": "CARRY-OVER from 2026-11-11 team18 (not re-verified today — no new posts): crypto-airdrop scam, og:title 'Legit Crypto Airdrops'"
+  }
+ ],
+ "new_exclusions_today": 0,
+ "resume": "COMPLETE (valid empty result): site still exhausted. Blogger feed re-fetched 2026-11-12: 39 posts, all updated 2026-11-03 (newest 09:32:00-08:00), byte-identical entry set and content vs 2026-11-11 feed — 0 new posts, 0 removed, 0 changed content. Sitemap.xml confirms exactly 39 URLs, all lastmod 2026-11-03, identical URL set to yesterday. Per task step 1, STOP — no mining, no verification runs (no controls needed: nothing verified). Nothing left to mine until the site publishes new posts. Scratch: team28_scratch/ (feed_20261112.json, feed_20261112_p2.json, sitemap.xml).",
+ "notes": "Also carries forward team18's Nov 11 flag (unactioned by team28, for parent): 4 crypto-airdrop codes banked Nov 10 are IN groups.json + .existing_codes.json (KD408PRv4Kh1j81OBGMB6O, FQAEuMQvBZJKtOlCrsnmac, KkdRrp9oFNxLY9Q6eAwpGR, EghZlHeOTD406TCI21NChX) and the source site has since removed all 4 from its posts — parent may want to purge them. No source name/link or personal info in any banked field (nothing banked)."
+}

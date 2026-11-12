@@ -1,0 +1,8 @@
+fresh 187 already checkpointed 0
+control live code: KrDwdK8EIkB6vgauHg5M7N
+CONTROL live -> {'code': 'KrDwdK8EIkB6vgauHg5M7N', 'status': 'live', 'title': 'JAY - PHP & Python Full Stack Developer'}
+CONTROL fake -> {'code': 'ZZZNotARealCode1234567890', 'status': 'dead', 'title': '', 'reason': 'empty og:title after retries'}
+CONTROLS PASSED
+to verify: 187
+verify done
+live=0 pending=0 dead=187

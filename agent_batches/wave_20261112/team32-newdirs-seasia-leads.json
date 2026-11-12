@@ -1,0 +1,18 @@
+[
+ "https://www.thelastsurvivors.org/grup-wa-shopee-tanam/ (MINED: 24 bit.ly links, 23 resolved to codes, 16 live — see candidates; bit.ly/ShopeeKeEmpatbi did not redirect, dead short link)",
+ "https://www.thelastsurvivors.org/category/grup/ (MINED: index lists only 5 grup articles — ff, sahur, shopee-tanam, youtubers, editor — all already mined by team27 except shopee-tanam; no new articles)",
+ "https://aussiesin.com/ (STILL BLOCKED: requests fail + curl rc=52 empty reply on retry; needs browser leg; SE Asia country pages unmined)",
+ "https://joinnchat.com/philippines-girl-whatsapp-group-link/ (JS-HIDDEN: static HTML + wp-json post 581 contain ZERO invite links; follow-on page https://joinnchat.com/girl-whatsapp-group-join/ also 0 codes; needs browser leg)",
+ "https://virenial.com/teknologi/vr-11228/100-grup-wa-subscribe-youtube-yang-bisa-anda-ikuti (MINED via handler?url= encoded links: 89 codes, 71 fresh, 11 live — see candidates)",
+ "https://helloworldawaits.com/digital-nomad-travel/trusted-travel-whatsapp-channel/ (NO LINKS: 'Join Asia Travel WhatsApp Group' page contains zero whatsapp.com links in static HTML; invite likely JS-gated; needs browser leg)",
+ "https://whtsgrouplink.com/travel-whatsapp-group-links/ (CLOUDFLARE: 'One moment, please...' challenge page, 12KB; needs browser leg)",
+ "https://grouplink.com.in/1300-international-whatsapp-group-link/ (MINED: 34 codes, ALL 34 already in union — 0 fresh)",
+ "https://www.scribd.com/document/578911793/11-Ribu-Link-Grup-WA-Dengan-Nama-Grup (JS/LOGIN-WALLED: 1.3MB shell, 0 codes in static HTML; needs browser leg)",
+ "https://www.scribd.com/document/423556831/11rb-Link-Group-WA-Dengan-Nama-Group (JS/LOGIN-WALLED: 1.5MB shell, 0 codes in static HTML; needs browser leg)",
+ "https://www.grouplinksforyou.com/feeds/posts/default?alt=json&max-results=50 (MINED feed: 33 posts, only 1 in-slice — #19 'Link Grup WA Bisnis Indonesia' 97 codes, 37 fresh, 0 live; other 32 posts are Pakistan/India/Gulf/crypto/forex — out of slice, not banked)",
+ "https://techsslash.com/philippines-whatsapp-group-links/ (MINED: 11 codes, ALL 11 already in union — 0 fresh)",
+ "https://www.whtsagrouplinks.com/international-whatsapp-groups-links/ (CLOUDFLARE: HTTP 403 on retry; needs browser leg)",
+ "https://groupwa.link/jobs/ https://groupwa.link/education/ https://groupwa.link/gaming/ (PAGE 1 MINED EARLIER by team27: 10 cards each, all in union or team27 pool — 0 fresh. PAGES 2+ via wagd_more ajax: POST https://groupwa.link/wp-admin/admin-ajax.php {action:'wagd_more', p:2, c:'Jobs'|'Education'|'Gaming', o:'', l:'', n:'10'} — Cloudflare 'Checking your browser' challenge on retry; needs browser leg. Same ajax pattern serves all groupwa categories: news/islamic/sports/health/movies/cricket/online-earning.)",
+ "https://joinnchat.com/girl-whatsapp-group-join/ (SUB-LEAD from joinnchat PH page: 0 invite codes in static HTML; JS Join buttons; needs browser leg)",
+ "https://bit.ly/ShopeeKeEmpatbi (UNRESOLVED short link from shopee-tanam table row 'Shopee Tanam' — curl follows to itself, no chat.whatsapp.com target; dead short link, not verifiable)"
+]

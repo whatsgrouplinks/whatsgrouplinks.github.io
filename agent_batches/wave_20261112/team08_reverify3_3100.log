@@ -1,0 +1,14 @@
+pass3: re-check 255 dead + reconfirm 21 kept
+resume: 0 done, 276 to check
+checked 25/276
+checked 50/276
+checked 75/276
+checked 100/276
+checked 125/276
+checked 150/276
+checked 175/276
+checked 200/276
+checked 225/276
+checked 250/276
+checked 275/276
+PASS3 DONE — VERIFIED: 9 PENDING: 19 DEAD: 248 EXCL: 0 NOJOIN: 24 FETCHFAIL: 1 LEADS: 25

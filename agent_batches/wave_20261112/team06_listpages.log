@@ -1,0 +1,6 @@
+sample=80 of 595 failed pages
+[20/80] resolved=13 failed=7 fresh_codes=36
+[40/80] resolved=25 failed=15 fresh_codes=52
+[60/80] resolved=37 failed=23 fresh_codes=61
+[80/80] resolved=52 failed=28 fresh_codes=111
+DONE sampled=80 resolved=52 still_failed=28 fresh_codes=111

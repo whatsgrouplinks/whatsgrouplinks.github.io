@@ -1,0 +1,10 @@
+to verify: 13147
+already done (Nov10 + Nov11 + this run): 11848 todo: 1299
+200/1299 elapsed 173s
+400/1299 elapsed 342s
+600/1299 elapsed 504s
+800/1299 elapsed 652s
+1000/1299 elapsed 864s
+1200/1299 elapsed 1018s
+DONE 1299 elapsed 1095.4474296569824
+EXIT:0

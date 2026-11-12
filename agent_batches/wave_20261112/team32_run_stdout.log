@@ -1,0 +1,15 @@
+CONTROL live code from groups.json: KrDwdK8EIkB6vgauHg5M7N (group: JAY - PHP & Python Full Stack Developer)
+CONTROL live via session: http title='JAY - PHP & Python Full Stack Developer' status=200 len=217838
+CONTROL fake via session: http title='' status=200 len=217874
+
+RE-VERIFY HKGPWAcXHgV9GS3A3j6wZg (Ramadhan 2024/1445 H)
+  attempt 1 session: http title='' status=200 len=217870
+  confirm curl: http title='' rc=0 len=220048
+  => dead
+
+RE-VERIFY JuxbmdqiwAnJPUCIpP32XT (Ramadhan Berkah)
+  attempt 1 session: http title='' status=200 len=217870
+  confirm curl: http title='' rc=0 len=220050
+  => dead
+
+DONE ramadhan recheck

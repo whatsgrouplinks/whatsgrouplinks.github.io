@@ -1,0 +1,131 @@
+{
+ "team": "04",
+ "slice": "team30 listicles retry + team30 leads (wave_20261112)",
+ "control_test": {
+  "live_control": "KrDwdK8EIkB6vgauHg5M7N from groups.json — HTTP 200, og:title 'JAY - PHP & Python Full Stack Developer' — PASS",
+  "fabricated_control": "ZzZzZzZzZzZzZzZzZzZzZz — HTTP 200, og:title empty — PASS",
+  "network": "healthy at 11:54+ PKT (warm requests ~1s); yesterday's VM-wide outage is over"
+ },
+ "retry_pass": {
+  "queue": 176,
+  "rechecked": 176,
+  "live": 3,
+  "dead": 173,
+  "pending": 0,
+  "note": "All 173 dead returned HTTP 200 + empty og:title on BOTH spaced attempts over healthy transport — genuine dead, not outage artefacts. Script adapted from team30 retry_pass.py: transport switched to thread-local requests.Session keep-alive, 60s timeout (was urllib 20s); queue logic, 2 attempts, pacing unchanged. Original kept at team04_scratch/retry_pass_orig.py."
+ },
+ "leads_mined": {
+  "77links_homepage": {
+   "codes_unique": 89,
+   "in_union": 86,
+   "fresh": 3
+  },
+  "77links_status_page": {
+   "codes_unique": 84,
+   "in_union": 35,
+   "already_seen": 1,
+   "fresh": 48
+  },
+  "77links_romantic_page": {
+   "codes_unique": 55,
+   "in_union": 41,
+   "fresh": 14
+  },
+  "77links_poetry_page": {
+   "codes_unique": 0,
+   "fresh": 0
+  },
+  "77links_category_archives": "gaming/news/entertainment/jobs/education/islamic/cricket archives list post pages, 0 direct invite codes; earning + pakistani return 404",
+  "grouplink_homepage": {
+   "table_rows": 345,
+   "codes_unique": 313,
+   "in_union": 258,
+   "fresh": 55
+  },
+  "thehiveindex": "https://thehiveindex.com/platforms/whatsapp/ fetched (413KB, 200) — 0 chat.whatsapp.com links; directory links out to community sites, exposes no invite links. CLOSED as a lead.",
+  "fresh_total_to_verify": 120,
+  "verified_live": 4,
+  "verified_dead": 116,
+  "verified_pending": 0
+ },
+ "verified_kept": 2,
+ "pending": 0,
+ "leads": 4,
+ "exclusions_new": [
+  {
+   "code": "DBrKSi4LKgI62owtUqZqUQ",
+   "name": "Sex chat 😋😋",
+   "reason": "retry re-check LIVE but DROP: live og:title is 'Sex chat' — hard porn/xxx (sex chat group)"
+  },
+  {
+   "code": "I4jvFgDg4j24YVVKWUfaVD",
+   "name": "Sexy chat",
+   "reason": "retry re-check LIVE but DROP: live og:title is 'HERA MANDI KI RANDIA' — explicit sexual content"
+  },
+  {
+   "code": "ChQ53L6gyJJChMeQDsTTcO",
+   "name": "Lahore Private Girls",
+   "reason": "retry re-check LIVE but DROP: live og:title is 'Girls Leaked Videos' — leaked sexual videos"
+  },
+  {
+   "code": "IPPRLhi0rtqLbRAWmEt4Ms",
+   "name": "Indian TikToks",
+   "reason": "LIVE but DROP: live og:title is 'Forsage Online work' — Forsage crypto MLM/pyramid earning scam"
+  },
+  {
+   "code": "JhR8xP6eZWyHg0NlhBI6Le",
+   "name": "Daily Paytm",
+   "reason": "LIVE but DROP: live og:title is 'ROLEX BOOK 5' — sports-betting book promo"
+  }
+ ],
+ "exclusions_carried_from_team30": [
+  {
+   "code": "LbLO9ZDI4IIDy4Hgo5k4qt",
+   "reason": "carried from team30: pre-screen: earning-scam pattern in name 'Online earning “No Invest.”'"
+  },
+  {
+   "code": "G4FHCEISHF6HwfkbSAl4qn",
+   "reason": "carried from team30: pre-screen: signal-selling scam pattern in name 'Crypto Signal Provider'"
+  },
+  {
+   "code": "KBhPfTaXF4CAtRIPg9lcLh",
+   "reason": "carried from team30: pre-screen: adult/xxx signal in name 'xxx Group'"
+  },
+  {
+   "code": "DgmRGVE2JtfK5w9UIUAb5O",
+   "reason": "carried from team30: pre-screen: adult/xxx signal in name 'Pakistani desi sexy😍'"
+  },
+  {
+   "code": "GzNSmeFrq7e8aTsgCvj5rJ",
+   "reason": "carried from team30: pre-screen: adult/xxx signal in name 'New celebrity porn videos'"
+  },
+  {
+   "code": "LBaC2LeKFlxHxAMcX8BPOu",
+   "reason": "carried from team30: pre-screen: adult/xxx signal in name 'porn Group'"
+  },
+  {
+   "code": "HmnTN5fQxEj0kCaiN0YSDb",
+   "reason": "carried from team30: pre-screen: adult/xxx signal in name 'Xxx chat with friends'"
+  },
+  {
+   "code": "DuLSCwCcFDH3oczAT5xeZ8",
+   "reason": "carried from team30: pre-screen: adult/xxx signal in name 'Viral video group'"
+  },
+  {
+   "code": "GojRmVFVEhiA4scqLZMyN5",
+   "reason": "carried from team30: pre-screen: adult/xxx signal in name 'Only Porn Girls Videos 😋'"
+  }
+ ],
+ "exclusions_prescreen_this_wave": "0 — name screens on the 77links/grouplink extractions flagged nothing new (all fresh passed the porn/scam name screen; the 2 leads drops came from live og:titles at verification, not names)",
+ "sources_mined_this_wave": [
+  "https://77links.com/ (homepage)",
+  "https://77links.com/status/ (post page)",
+  "https://77links.com/romantic/ (post page)",
+  "https://77links.com/poetry/ (post page, 0 codes)",
+  "https://77links.com/category/{gaming,news,entertainment,jobs,education,islamic,cricket,earning,pakistani}/ (archives — 0 direct codes)",
+  "https://grouplink.com.in/ (homepage tables incl. Bollywood/Movie sections)",
+  "https://thehiveindex.com/platforms/whatsapp/ (no invite links)"
+ ],
+ "resume": "Team30's 176 are FULLY RESOLVED: 0 pending left (173 dead, 3 live-all-excluded, 0 kept). Leads mined: 120 fresh verified (4 live: 2 kept, 2 scam/betting drops; 116 dead; 0 pending). Next wave: (1) fetch 77links individual post pages from the category archives (gaming/news/entertainment/jobs/education/islamic/cricket/poetry) — they hold the unmined groups; (2) fetch grouplink.com.in 'Latest Articles' subpages; (3) whtsagroupslinks.com still needs a browser fetch (curl-blocked). Do NOT re-mine team30's 17 sources or this wave's 77links homepage/status/romantic or grouplink homepage (all exhausted vs the union).",
+ "notes": "Names for the 2 kept items taken from decoded live og:titles (stylised unicode transliterated to plain text: 'Lovely Status', 'Khatam') because the listed names were empty/emoji-only. Grouplink table names were sometimes concatenated ('...Link...') — only the 2 kept items survived verification so no polluted name was banked. 'Tamil Item' section kept as-is (Item = songs/videos in Tamil context, not sexual)."
+}

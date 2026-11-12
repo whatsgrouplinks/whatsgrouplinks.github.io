@@ -1,0 +1,88 @@
+existing codes: 112070
+CONTROL live KrDwdK8EIkB6vgauHg5M7N: og:title='JAY - PHP & Python Full Stack Developer' -> PASS
+CONTROL fake ZZZZZZZZZZZZZZZZZZZZ: og:title='' -> PASS
+resumed 3 already-mined details
+PAGE 2: 18 cards
+  fetch https://tugrupo.online/whatsapp/chat/creciendo-juntos-refugio-de-apoyo-%e2%9c%a8 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/chat/creciendo-juntos-refugio-de-apoyo-%e2%9c%a8 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/juegos/comunidad-gta5/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/juegos/comunidad-gta5/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/anime/amistad-y-otaku/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/rol/elden-history-chaos/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/diversion/pato-aventuras/ HTTP 200 botcheck=True try 1
+PAGE 3: 18 cards
+  fetch https://tugrupo.online/whatsapp/rol/the-umbrella-academy-rol/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/rol/heldris-rol/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/rol/heldris-rol/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/musica/wlm-studio-plugins-sampleslibrerias-y-mas HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/chat/english-4-u-2/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/chat/english-4-u-2/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/chat/english-4-u-2/ HTTP 200 botcheck=True try 3
+  detail FAIL https://tugrupo.online/whatsapp/chat/english-4-u-2/
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-clan/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-clan/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-clan/ HTTP 200 botcheck=True try 3
+  detail FAIL https://tugrupo.online/whatsapp/juegos/clash-royale-clan/
+  fetch https://tugrupo.online/whatsapp/chat/chicos-y-chicas-solo-con-apego-ansioso/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 3
+PAGE 4 FAILED (botcheck/transport)
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=5 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=5 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=5 HTTP 200 botcheck=True try 3
+PAGE 5 FAILED (botcheck/transport)
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=6 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=6 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=6 HTTP 200 botcheck=True try 3
+PAGE 6 FAILED (botcheck/transport)
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=7 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=7 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=7 HTTP 200 botcheck=True try 3
+PAGE 7 FAILED (botcheck/transport)
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=8 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=8 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=8 HTTP 200 botcheck=True try 3
+PAGE 8 FAILED (botcheck/transport)
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=9 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=9 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=9 HTTP 200 botcheck=True try 3
+PAGE 9 FAILED (botcheck/transport)
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=10 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=10 HTTP 200 botcheck=True try 2
+PAGE 10: 18 cards
+  fetch https://tugrupo.online/whatsapp/rol/the-umbrella-academy-rol/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/rol/the-umbrella-academy-rol/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/rol/the-umbrella-academy-rol/ HTTP 200 botcheck=True try 3
+  detail FAIL https://tugrupo.online/whatsapp/rol/the-umbrella-academy-rol/
+  fetch https://tugrupo.online/whatsapp/chat/creciendo-juntos-refugio-de-apoyo-%e2%9c%a8 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/chat/creciendo-juntos-refugio-de-apoyo-%e2%9c%a8 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/chat/creciendo-juntos-refugio-de-apoyo-%e2%9c%a8 HTTP 200 botcheck=True try 3
+  detail FAIL https://tugrupo.online/whatsapp/chat/creciendo-juntos-refugio-de-apoyo-%e2%9c%a8%ef%b8%8f/
+  fetch https://tugrupo.online/whatsapp/rol/rol-naruto-profesional/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/anime/anime-kona/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/anime/anime-kona/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-deadbread-latinoamericana/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-deadbread-latinoamericana/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-deadbread-latinoamericana/ HTTP 200 botcheck=True try 3
+  detail FAIL https://tugrupo.online/whatsapp/juegos/clash-royale-deadbread-latinoamericana/
+  fetch https://tugrupo.online/whatsapp/musica/phonk-music/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/musica/phonk-music/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/rol/shumatsu-no-valkirye-ragnarok-unlimited/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/rol/shumatsu-no-valkirye-ragnarok-unlimited/ HTTP 200 botcheck=True try 2
+MINED total 43 pages_done=[2, 3, 10] pages_failed=[4, 5, 6, 7, 8, 9] detail_fail=5
+  LIVE EQNGyg19NYw43md6Br5KM6 'Creciendo juntos, (Refugio de apoyo).✨️'
+  LIVE LxNLy23OdcvDYfdQtF9UY1 'Skaters 🛹 Rosario'
+  LIVE JyGeRALku8qFJhDoG3nHTv '𝘾𝙞𝙣𝙚𝙥𝙤𝙡𝙞𝙨'
+  LIVE 4AnbdzdCH0W2I3pGgjHj2R 'FÚTB⚽️L UGRenfu'
+  LIVE IZqLYxuBODuImQZ6lVgxCT 'Pádel uGRenf 🎾🏸'
+  LIVE J8ANuXE3du3GnIwQJQduZ7 'Rol Naruto Profesional.'
+  LIVE CY1q4cTD0VJJKYMgtFNVQJ '[as] GRUPO DE PELICULAS Y MUCHO MÁS'
+  LIVE BY5xM3HiB9J8ZMRtXgSlfO 'Teens Perú gaa'
+  LIVE FSvfqNAl5eK2Zs98XcKaNC 'Anime kona'
+  LIVE Eeymi9ZQkCN2ldfZ0wt6vF 'Shumatsu no Valkirye: Ragnarök Unlimited'
+  LIVE EUYtLZ2eykQDAy2rvHqECe 'LET’S TALK IN ENGLISH'
+  LIVE HrKQWlLI7FwIpRKheNleIr 'FREE FIRE EEUU'
+  LIVE KdaPIY2E8L49lWl8hvIuRX 'gymrats'
+  LIVE IBshGe1GQtyCpX1jRmDHjE 'Tokio revengers roll'
+SUMMARY {"team": 17, "slice": "tugrupo.online /whatsapp/ pages 2-10", "controls": {"known_live_code": "KrDwdK8EIkB6vgauHg5M7N", "known_live_og_title": "JAY - PHP & Python Full Stack Developer", "fabricated_code": "ZZZZZZZZZZZZZZZZZZZZ", "fabricated_og_title": ""}, "pages_done": [2, 3, 10], "pages_failed": [4, 5, 6, 7, 8, 9], "mined_listings": 43, "already_in_union_skipped": 27, "verified_kept": 14, "pending": 0, "dead_no_og_title": 2, "exclusions": [], "detail_fail_count": 5, "leads": 11, "resume": "Last page mined: p10; failed pages: [4, 5, 6, 7, 8, 9]; detail pages without code/unfetchable: 5 (in leads file)."}

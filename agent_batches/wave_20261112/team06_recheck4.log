@@ -1,0 +1,29 @@
+resume: 98 already processed
+control live: ('live', 'JAY - PHP &amp; Python Full Stack Developer')
+control fabricated: ('empty', None)
+[100/599] live=1 pending=1 excl=0
+[125/599] live=1 pending=1 excl=0
+  429-wall: pausing 180s after 3 consecutive transport failures
+  resumed after wall-pause
+[150/599] live=1 pending=4 excl=0
+[175/599] live=1 pending=4 excl=0
+[200/599] live=1 pending=4 excl=0
+[225/599] live=7 pending=4 excl=0
+[250/599] live=9 pending=4 excl=0
+[275/599] live=9 pending=4 excl=0
+[300/599] live=13 pending=4 excl=0
+  429-wall: pausing 180s after 3 consecutive transport failures
+  resumed after wall-pause
+[325/599] live=18 pending=7 excl=0
+[350/599] live=20 pending=7 excl=0
+  429-wall: pausing 180s after 3 consecutive transport failures
+  resumed after wall-pause
+[375/599] live=20 pending=10 excl=0
+[400/599] live=21 pending=10 excl=0
+[425/599] live=22 pending=10 excl=0
+[450/599] live=22 pending=10 excl=0
+[475/599] live=22 pending=10 excl=0
+[500/599] live=22 pending=10 excl=0
+  429-wall: pausing 180s after 3 consecutive transport failures
+  resumed after wall-pause
+[525/599] live=25 pending=13 excl=0

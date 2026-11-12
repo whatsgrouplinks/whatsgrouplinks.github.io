@@ -1,0 +1,40 @@
+{
+  "controls": [
+    {
+      "code": "KrDwdK8EIkB6vgauHg5M7N",
+      "kind": "known-live from groups.json",
+      "result": "LIVE",
+      "og_title": "JAY - PHP & Python Full Stack Developer",
+      "http": 200
+    },
+    {
+      "code": "ZZZZZZZZZZZZZZZZZZZZZZ",
+      "kind": "fabricated",
+      "result": "DEAD (empty og:title)",
+      "og_title": "",
+      "http": 200
+    }
+  ],
+  "fresh_codes_checked": [
+    {
+      "code": "L8eB46bi9VpCeLFCC6Z5GC",
+      "source": "related-group card 'Babala link dinheiro' on 9 of the 558 pages (not the pages' own invite)",
+      "checks": 3,
+      "result": "DEAD — empty og:title on 3 spaced checks (HTTP 200 each)",
+      "in_existing_codes": false
+    },
+    {
+      "code": "EFPQQcra3thKZRluqc8beL",
+      "source": "related-group card 'Dinheiro facil' on 9 pages",
+      "result": "EXCLUDED — already in .existing_codes.json",
+      "in_existing_codes": true
+    },
+    {
+      "code": "DgzCfnkK7axILOpOTZT0qd",
+      "source": "related-group card on 1 page (PowerLee)",
+      "result": "EXCLUDED — already in .existing_codes.json",
+      "in_existing_codes": true
+    }
+  ],
+  "pending_recheck": "team03-leads-slice3-pending.json was [] (empty) — nothing to re-check"
+}

@@ -1,0 +1,24 @@
+slice size: 400 first: ('https://linkado.app/grupo/69baf82349dbc7627d73499f', '2026-03-19T00:04:44.051Z') last: ('https://linkado.app/grupo/695af7bcdee39681ec9e0abf', '2026-01-04T23:43:29.567Z')
+fetched 50/400
+fetched 100/400
+fetched 150/400
+fetched 200/400
+fetched 250/400
+fetched 300/400
+fetched 350/400
+fetched 400/400
+phase1 done: 400
+with WA code: 380, telegram-only: 18, channel-only: 2, no join link: 0, fetch-failed: 0
+union codes: 112070
+fresh candidates: 255, already in union: 125
+verified 25/255 live=1 dead=24 pending=0
+verified 50/255 live=1 dead=49 pending=0
+verified 75/255 live=1 dead=74 pending=0
+verified 100/255 live=1 dead=99 pending=0
+verified 125/255 live=1 dead=124 pending=0
+verified 150/255 live=1 dead=149 pending=0
+verified 175/255 live=1 dead=174 pending=0
+verified 200/255 live=2 dead=195 pending=3
+verified 225/255 live=2 dead=220 pending=3
+verified 250/255 live=2 dead=245 pending=3
+VERIFY DONE: live=2 dead=250 pending=3

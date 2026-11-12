@@ -1,0 +1,272 @@
+{
+ "categories": {
+  "food_p1": {
+   "kind": "category",
+   "key": "food_p1",
+   "url": "https://grupbul.com/en/category/whatsapp/53/food",
+   "http": "200",
+   "len": 30417,
+   "group_count": 0,
+   "gids": [],
+   "err": "",
+   "ts": "2026-11-12T06:59:31"
+  },
+  "food_p2": {
+   "kind": "category",
+   "key": "food_p2",
+   "url": "https://grupbul.com/en/category/whatsapp/53/food?page=2",
+   "http": "200",
+   "len": 30424,
+   "group_count": 0,
+   "gids": [],
+   "err": "",
+   "ts": "2026-11-12T06:59:51"
+  },
+  "chat_p1": {
+   "kind": "category",
+   "key": "chat_p1",
+   "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+   "http": "200",
+   "len": 68918,
+   "group_count": 27,
+   "gids": [
+    "175618",
+    "197480",
+    "223687",
+    "250882",
+    "315149",
+    "377833",
+    "380628",
+    "383637",
+    "430588",
+    "444836",
+    "593435",
+    "674364",
+    "696815",
+    "721254",
+    "743131",
+    "743954",
+    "757428",
+    "791674",
+    "791785",
+    "792999",
+    "813979",
+    "856191",
+    "913828",
+    "940418",
+    "962515",
+    "976715",
+    "982827"
+   ],
+   "err": "",
+   "ts": "2026-11-12T07:00:12"
+  },
+  "chat_p2": {
+   "kind": "category",
+   "key": "chat_p2",
+   "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship?page=2",
+   "http": "200",
+   "len": 69101,
+   "group_count": 27,
+   "gids": [
+    "175618",
+    "197480",
+    "223687",
+    "250882",
+    "315149",
+    "377833",
+    "380628",
+    "383637",
+    "430588",
+    "444836",
+    "593435",
+    "674364",
+    "696815",
+    "721254",
+    "743131",
+    "743954",
+    "757428",
+    "791674",
+    "791785",
+    "792999",
+    "813979",
+    "856191",
+    "913828",
+    "940418",
+    "962515",
+    "976715",
+    "982827"
+   ],
+   "err": "",
+   "ts": "2026-11-12T07:00:32"
+  }
+ },
+ "codes": {
+  "ACtQYie1P32IceedwfPY9p": {
+   "gid": "440817",
+   "name": "Tamil Jalsa",
+   "verdict": "DEAD",
+   "og_title": "",
+   "attempts": [
+    {
+     "kind": "verify",
+     "code": "ACtQYie1P32IceedwfPY9p",
+     "attempt": 1,
+     "http": "200",
+     "og_title": "",
+     "og_desc": "WhatsApp Group Invite",
+     "err": "",
+     "ts": "2026-11-12T07:01:02"
+    },
+    {
+     "kind": "verify",
+     "code": "ACtQYie1P32IceedwfPY9p",
+     "attempt": 2,
+     "http": "200",
+     "og_title": "",
+     "og_desc": "WhatsApp Group Invite",
+     "err": "",
+     "ts": "2026-11-12T07:01:48"
+    },
+    {
+     "kind": "verify",
+     "code": "ACtQYie1P32IceedwfPY9p",
+     "attempt": 3,
+     "http": "200",
+     "og_title": "",
+     "og_desc": "WhatsApp Group Invite",
+     "err": "",
+     "ts": "2026-11-12T07:02:34"
+    }
+   ]
+  },
+  "I39fLwOHZ730XJ5glkcE82": {
+   "gid": "865745",
+   "name": "Mumbaikar!",
+   "verdict": "DEAD",
+   "og_title": "",
+   "attempts": [
+    {
+     "kind": "verify",
+     "code": "I39fLwOHZ730XJ5glkcE82",
+     "attempt": 1,
+     "http": "200",
+     "og_title": "",
+     "og_desc": "WhatsApp Group Invite",
+     "err": "",
+     "ts": "2026-11-12T07:03:04"
+    },
+    {
+     "kind": "verify",
+     "code": "I39fLwOHZ730XJ5glkcE82",
+     "attempt": 2,
+     "http": "200",
+     "og_title": "",
+     "og_desc": "WhatsApp Group Invite",
+     "err": "",
+     "ts": "2026-11-12T07:03:50"
+    },
+    {
+     "kind": "verify",
+     "code": "I39fLwOHZ730XJ5glkcE82",
+     "attempt": 3,
+     "http": "200",
+     "og_title": "",
+     "og_desc": "WhatsApp Group Invite",
+     "err": "",
+     "ts": "2026-11-12T07:04:35"
+    }
+   ]
+  },
+  "58IfJaAavCGId7CEz0vNJH": {
+   "gid": "219135",
+   "name": "I Like India",
+   "verdict": "DEAD",
+   "og_title": "",
+   "attempts": [
+    {
+     "kind": "verify",
+     "code": "58IfJaAavCGId7CEz0vNJH",
+     "attempt": 1,
+     "http": "200",
+     "og_title": "",
+     "og_desc": "WhatsApp Group Invite",
+     "err": "",
+     "ts": "2026-11-12T07:05:06"
+    },
+    {
+     "kind": "verify",
+     "code": "58IfJaAavCGId7CEz0vNJH",
+     "attempt": 2,
+     "http": "200",
+     "og_title": "",
+     "og_desc": "WhatsApp Group Invite",
+     "err": "",
+     "ts": "2026-11-12T07:05:52"
+    },
+    {
+     "kind": "verify",
+     "code": "58IfJaAavCGId7CEz0vNJH",
+     "attempt": 3,
+     "http": "200",
+     "og_title": "",
+     "og_desc": "WhatsApp Group Invite",
+     "err": "",
+     "ts": "2026-11-12T07:06:37"
+    }
+   ]
+  }
+ },
+ "redirects": {
+  "662627": {
+   "gid": "662627",
+   "name": "TIGER MAHARASTRA",
+   "code": null,
+   "attempts": [
+    {
+     "attempt": 1,
+     "http": "200",
+     "location": "",
+     "len": 34804
+    },
+    {
+     "attempt": 2,
+     "http": "200",
+     "location": "",
+     "len": 34804
+    },
+    {
+     "attempt": 3,
+     "http": "200",
+     "location": "",
+     "len": 34804
+    }
+   ]
+  },
+  "400673": {
+   "gid": "400673",
+   "name": "Yaar Beli",
+   "code": null,
+   "attempts": [
+    {
+     "attempt": 1,
+     "http": "200",
+     "location": "",
+     "len": 34800
+    },
+    {
+     "attempt": 2,
+     "http": "200",
+     "location": "",
+     "len": 34800
+    },
+    {
+     "attempt": 3,
+     "http": "200",
+     "location": "",
+     "len": 34800
+    }
+   ]
+  }
+ }
+}

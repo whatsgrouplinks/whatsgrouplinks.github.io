@@ -1,0 +1,10 @@
+total=3603 mined_done=2900 todo=703 verified_so_far=1214
+batch 1: attempted=3000 verified=1249 dead=1117 pending=31 excl=258 elapsed_min=4.8
+batch 2: attempted=3100 verified=1285 dead=1166 pending=35 excl=263 elapsed_min=9.9
+batch 3: attempted=3200 verified=1318 dead=1211 pending=35 excl=270 elapsed_min=13.5
+batch 4: attempted=3300 verified=1354 dead=1254 pending=35 excl=281 elapsed_min=17.2
+batch 5: attempted=3400 verified=1389 dead=1299 pending=35 excl=290 elapsed_min=21.0
+batch 6: attempted=3500 verified=1422 dead=1355 pending=35 excl=299 elapsed_min=25.4
+batch 7: attempted=3600 verified=1448 dead=1412 pending=35 excl=308 elapsed_min=29.8
+batch 8: attempted=3603 verified=1450 dead=1413 pending=35 excl=308 elapsed_min=30.2
+DONE attempted=3603 verified=1450 dead=1413 pending=35 leads=3 excl=308

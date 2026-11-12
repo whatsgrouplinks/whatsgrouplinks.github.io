@@ -1,0 +1,87 @@
+{
+ "team": "team32",
+ "slice": "NEW directory discovery - SE Asia (Indonesia, Malaysia, Philippines, Thailand, Vietnam, Singapore) — team27 leads",
+ "verified": 27,
+ "dead": 104,
+ "pending": 0,
+ "leads": 16,
+ "exclusions": [],
+ "ramadhan_recheck": {
+  "HKGPWAcXHgV9GS3A3j6wZg": "dead (session + curl confirm, empty og:title, HTTP 200)",
+  "JuxbmdqiwAnJPUCIpP32XT": "dead (session + curl confirm, empty og:title, HTTP 200)",
+  "note": "Both pending codes from team27 are now resolved dead; nothing remains pending from team27."
+ },
+ "counts_by_source": {
+  "virenial_yt": {
+   "extracted": 89,
+   "fresh_vs_union_and_team27": 71,
+   "live": 11,
+   "dead": 60
+  },
+  "grouplinksforyou_feed_post19_bisnis_indonesia": {
+   "extracted": 97,
+   "fresh_vs_union_and_team27": 37,
+   "live": 0,
+   "dead": 37
+  },
+  "tls_shopee_tanam_bitly": {
+   "extracted": 24,
+   "resolved_to_codes": 23,
+   "unresolved": 1,
+   "fresh_vs_union_and_team27": 23,
+   "live": 16,
+   "dead": 7
+  },
+  "grouplink_intl": {
+   "extracted": 34,
+   "fresh": 0,
+   "note": "all 34 already in union"
+  },
+  "techsslash_ph": {
+   "extracted": 11,
+   "fresh": 0,
+   "note": "all 11 already in union"
+  },
+  "groupwa_jobs_education_gaming_page1": {
+   "extracted": 30,
+   "fresh": 0,
+   "note": "all in union or team27 pool (mined by team27)"
+  },
+  "grouplinksforyou_feed_other_32_posts": {
+   "extracted": 1854,
+   "fresh": 0,
+   "note": "out of slice (Pakistan/India/Gulf/crypto/forex); dropped, not verified"
+  }
+ },
+ "dedupe": "Fresh pool 131 = 71 virenial + 37 feed#19 + 23 shopee; checked against 112,070-code union + team27's 346 pool codes. Dropped pre-verify: 146 in union, 7 in team27 pool, 1,854 out-of-slice feed codes. 0 union leaks in candidates, 0 duplicate codes.",
+ "verification": "Controls first: known-live KrDwdK8EIkB6vgauHg5M7N (og:title 'JAY - PHP & Python Full Stack Developer') passed; fabricated ZZZZZZZZZZZZZZZZZZZZZZZZ empty og:title passed. Method: curl browser UA, --max-time 90, 4 parallel workers; LIVE = non-empty og:title (og:description fallback); empty og:title confirmed with a second spaced curl before dead; transport failures retried 3x spaced 45s then pending (0 pending). Evidence: team32_raw/verify_<code>.html for live codes; team32_verify.tsv + team32_verify.jsonl.",
+ "notes": [
+  "Virenial codes were URL-encoded behind /handler?url=https%3A%2F%2Fchat.whatsapp.com%2FCODE links; names concatenated across split anchor tags (e.g. 'Youtube SEO Indon'+'e'+'sia' = 'Youtube SEO Indonesia'). Final names use live og:title.",
+  "Grouplinksforyou feed post #19 names are 'Join Now' buttons only ('Grup Bisnis WA' label); names use live og:title — but 0/37 live, so no names banked from it.",
+  "Shopee bit.ly links were bare text (no scheme) in the table; 23/24 resolved via curl -L to chat.whatsapp.com codes (3 carried ?fbclid= suffixes, stripped). 16/23 live — freshest source this run.",
+  "Grouplink intl + techsslash PH yielded 0 fresh — both pages' codes are already in groups.json.",
+  "Feed #19 (Indonesia business) 0/37 live — Nov 3 post, already stale or invite-rotated.",
+  "No live title triggered the porn/scam screen; 0 exclusions among the 27 kept. Girls/friendship groups: none in this pool."
+ ],
+ "resume": "Pool fully verified (131/131 resolved: 27 live, 104 dead, 0 pending). Ramadhan pendings resolved dead. Next wave: browser leg for the still-blocked leads — aussiesin.com SE Asia country pages; joinnchat.com PH girl page + /girl-whatsapp-group-join/ (JS Join buttons, 0 links in HTML/wp-json); groupwa.link wagd_more pages 2+ (POST admin-ajax.php action=wag_more, p=2, c=<Category>, o='', l='', n='10', CF-challenged); whtsgrouplink.com travel page + whtsagrouplinks.com intl page (Cloudflare); helloworldawaits Asia travel channel page (no links in HTML); scribd 11rb compilations x2 (JS/login-walled). New directory discovery for SE Asia beyond these leads is open — thelastsurvivors category/grup index is exhausted (5 articles, all mined).",
+ "files": [
+  "team32-newdirs-seasia-candidates.json",
+  "team32-newdirs-seasia-pending.json",
+  "team32-newdirs-seasia-leads.json",
+  "team32-newdirs-seasia-summary.json",
+  "team32_pool_final.json",
+  "team32_verify.tsv",
+  "team32_verify.jsonl",
+  "team32_fetch.json",
+  "team32_shopee_resolved.json",
+  "team32_ramadhan_recheck.json",
+  "team32_run.py",
+  "team32_fetch.py",
+  "team32_extract.py",
+  "team32_filter.py",
+  "team32_step5.py",
+  "team32_verify.py",
+  "team32_build.py",
+  "team32_raw/"
+ ]
+}

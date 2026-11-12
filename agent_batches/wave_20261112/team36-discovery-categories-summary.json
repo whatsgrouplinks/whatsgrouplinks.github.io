@@ -1,0 +1,137 @@
+{
+  "team": "team36",
+  "slice": "discovery-categories (fresh-directory discovery, category/country pages)",
+  "wave": "wave_20261112",
+  "date": "2026-11-12",
+  "controls": {
+    "known_live": {
+      "code": "00CHZw0BFnP6ZLQVROVo0Y",
+      "result": "og:title '+234..2016' — LIVE as expected"
+    },
+    "fabricated": {
+      "codes": [
+        "ZZZZZZZZZZZZZZZZZZZZZZ",
+        "QQQQQQQQQQQQQQQQQQQQQQ"
+      ],
+      "result": "empty og:title, generic og:description 'WhatsApp Group Invite' — DEAD as expected"
+    },
+    "live_rule_applied": "LIVE = non-empty og:title; og:description counts only if non-empty AND not the generic 'WhatsApp Group Invite' (fabricated codes carry that generic description, so a bare description fallback would false-positive)"
+  },
+  "pages_mined": [
+    {
+      "page": "whgroups.link Pakistan jobs",
+      "codes_extracted_unique": 24,
+      "fresh": 0
+    },
+    {
+      "page": "wagroupshub.com single-girl",
+      "codes_extracted_unique": 18,
+      "fresh": 1
+    },
+    {
+      "page": "whatgroups.com girls",
+      "codes_extracted_unique": 90,
+      "fresh": 2
+    },
+    {
+      "page": "whtsagrouplinks.com homepage",
+      "codes_extracted_unique": 146,
+      "fresh": 21
+    },
+    {
+      "page": "whatzgrouplink.com latest (incl. comments section)",
+      "codes_extracted_unique": 80,
+      "fresh": 24
+    },
+    {
+      "page": "wagroupnest.com Pakistani girls",
+      "codes_extracted_unique": 45,
+      "fresh": 1
+    },
+    {
+      "page": "joinwagroupnow.com Kerala",
+      "codes_extracted_unique": 40,
+      "fresh": 0
+    }
+  ],
+  "counts": {
+    "codes_extracted_unique_total": 438,
+    "already_in_union": 387,
+    "fresh_codes_verified": 51,
+    "verified_live_kept": 3,
+    "verified_dead": 48,
+    "pending_transport_failures": 0,
+    "content_screen_exclusions": 0
+  },
+  "verification": {
+    "method": "python requests Session, browser UA, 60-90s timeout; first pass 0.6s spacing; 7x HTTP 429 retried after 90s cooldown (all resolved dead on clean 200); all 48 dead re-checked a second time at 4s spacing — 45 confirmed dead twice, 3 hit 429 on the 3rd attempt (D0r8gvWsycC2XTjFJfTP33, HAYjRGAH84Q1WvtCeakrSI, Crm9YuN41kb6m7wIuNGh34) but each already had a clean 200 empty-og:title dead verdict from the retry pass, so counted dead, not pending",
+    "live_rate_fresh": "3/51 (5.9%) — these listing directories are heavily stale/recycled; 387/438 extracted codes were already in the union"
+  },
+  "exclusions": [
+    {
+      "reason": "NONE — no live code was excluded by the content screen. The 3 live groups are finance/trading themed (work-from-home earning, gold signals, forex education); none matches the enumerated hard-drop list (no porn/xxx, no crypto-airdrop, no binary-option, no paid-hack, no sports-betting, no AI-trading-daily-profits). Kept as Finance with this judgment noted.",
+      "codes": []
+    },
+    {
+      "reason": "Dead (empty og:title on clean HTTP 200, confirmed on re-check) — not banked, not pending",
+      "count": 48,
+      "codes": [
+        "IZCAt6aSXaY3OtaUNRONUJ",
+        "GmQOAOwOebMHENmn8jrHMC",
+        "IQbfAHMdrmhK9KZ9aw1Vj2",
+        "E4AKF7N7Cll9eSeFYxt9Oa",
+        "DIIFgm7lIqkLc1NcdBDxWA",
+        "DU0FoInZxLFEfLtEG37ckE",
+        "FFeEOd7aVXbAtcKIXs7W1L",
+        "JDHWdPvrjR326K1RX1fY3o",
+        "IXwLlqXAdfjE1pakxFF0DL",
+        "GvcElgHR3qCHI28NAMNeoQ",
+        "KOjqElS6BAA0ZXUAA2ze2r",
+        "KyyCLo7hhEcAPG5aQM7mFl",
+        "9TTOD26pXTGALC2TbK2EDn",
+        "EBNMPs8SYnJ3pouaYpMlia",
+        "DixEWxf7J0x53m8bRyyOBy",
+        "I5fizxidKfPKiXCyHYJMv1",
+        "FgLoWjfAVMg8A1MKKTTHrn",
+        "Ef6fNOvmc8CBH1XO6Zr4AV",
+        "D1FGFmKkvWiCzL2jvOToFc",
+        "GRQe9fDUYlB1BJ6wxjNCGm",
+        "LAgDZVcLXxSKjZWt8BZiYg",
+        "JZVUpL1x1RUBtcHXs2w9wJ",
+        "C9u2G1cd8AO4G4NjYS8QOj",
+        "LLzbyhRR3vm0SjLRbBhYqv",
+        "HH4BAx0v5hq4dBqSC5rmXO",
+        "Gx65verVeFTANdXDpkavNF",
+        "DpckIM1rbetIbHpMceLX2t",
+        "KcMD3UJnPNV99r4kpov125",
+        "JkuMD65OVUc3kx0RPZRG1K",
+        "HZZSSxXTuzh0cx2bB4PlV7",
+        "Jshq1CDwcUhJxcLGPwQKdx",
+        "FE08Js9UyYPK0ZTllHFd37",
+        "KKJhf8KOL5C5o4L2VAdSk7",
+        "GMHeC6J9zdmFGzXEhrNjYn",
+        "KEZepT52NFVKTjBy8G0YtX",
+        "IMRZUsCeIKT8MmBwkusm6t",
+        "ETHIEytqAO14rshYdhjamt",
+        "BfETgsiXwdaHXox2ifJED7",
+        "DH0kHhWOM88LX3mx05R1wp",
+        "EcsycW2SCT4KwWjkoHrFHm",
+        "CAObeUTy6Am84mTT39hfcx",
+        "GDBGOJdbjdSI00duMNECWw",
+        "D7YIjWQCmayIuypqSqZZTb",
+        "C4BLtWLwye5G8SM386AJN4",
+        "KJ9stwL4h1J8wjTQHLaqoU",
+        "D0r8gvWsycC2XTjFJfTP33",
+        "HAYjRGAH84Q1WvtCeakrSI",
+        "Crm9YuN41kb6m7wIuNGh34"
+      ]
+    }
+  ],
+  "notes": [
+    "Extraction fix: some pages concatenate two invite URLs in one href (e.g. .../GmQOAOwOebMHENmn8jrHMChttps://chat.whatsapp.com/IQbfAHMdrmhK9KZ9aw1Vj2) — extractor uses a non-greedy code regex with lookahead for quote/hash/next-URL so both codes are recovered; a naive {15,30} greedy match fabricates a bogus 27-char code.",
+    "wagroupnest/kerala pages append '#Copied-From-...' fragments to invite URLs — handled by the same lookahead.",
+    "Two snippet-only codes checked against the union and found already present (not banked): rhconectado.com.br Brazil jobs KSM9yEUxixxGMM68h2AowG and TikTok Quran class ELUk73AuX4eGp3KMMVm2z0.",
+    "groupsgyani.org homepage returned 0 invite codes in raw HTML (JS-rendered) — banked as a lead, not mined."
+  ],
+  "resume_point": "All 7 mined pages fully extracted and all 51 fresh codes verified to completion (first pass + 429 retry + dead re-check). Nothing left pending. Next work: mine the 12 lead pages in team36-discovery-categories-leads.json, starting with groupsgyani.org subpages, wagroupslink.com study page, and newgrouplinks.pk jobs page. Working files in /tmp/team36 (extract_all.py, team36_verify_progress.jsonl, team36_retry429.jsonl, team36_recheck_dead.jsonl, team36_fresh_all.json)."
+}

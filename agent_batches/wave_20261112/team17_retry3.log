@@ -1,0 +1,16 @@
+start retry3: banked=15 done_details=53
+RETRY3 PAGE 4 FAILED
+RETRY3 PAGE 5: 18 cards
+RETRY3 PAGE 6: 18 cards
+RETRY3 PAGE 7: 18 cards
+RETRY3 PAGE 8: 18 cards
+RETRY3 PAGE 9 FAILED
+RETRY3 MINED 12 pages_done=[5, 6, 7, 8] pages_failed=[4, 9] detail_fail=25
+  LIVE DFUHEgfJmVk5IqRkNaCg5E '🔰FORNITE LATINOAMERICA🔰'
+  LIVE Ly8K5FbKgjUGDGQsy9vuFj 'gamers'
+  LIVE FCVhbOPEQBkF2QUngQSXTy '꧁️❤ℯ❤ LO PILLAN PERO NO LO CAPTAN❤ℯ❤꧂(\u2060☞\u2060^\u2060o\u2060^\u2060)\u2060 \u2060☞'
+  LIVE Il1VCkJ8tciAG35ckcqAdC 'Levántate que Dios te espera'
+  LIVE JRjC7iTJuTdHPApjIFFrGl 'NEXUS VERSO'
+  LIVE FNn72DMP38v1AFihWvSi2m 'Notebooks partes y repuestos'
+RETRY3 SUMMARY {"pages_done": [5, 6, 7, 8], "pages_failed": [4, 9], "new_mined": 12, "new_verified_kept": 6, "new_pending": 0, "new_dead": 1, "new_exclusions": [], "detail_fail": 25}
+TOTALS candidates= 21 pending= 0 leads= 27

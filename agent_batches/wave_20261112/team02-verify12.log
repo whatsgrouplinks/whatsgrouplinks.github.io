@@ -1,0 +1,14 @@
+extracted 3603 ok 3603 fetch_fail 0 no_code 3
+cands 2911 dup_existing 743 (of which already-merged-live 526) dup_within 87 exclusions 88
+awaiting file 2160 codes; rebuilt candidates 2911; awaiting not in rebuilt 7; rebuilt not in awaiting 758 (new from retried 19 pages)
+reuse live 0 dead 741 to_check 2170
+verified 50/2170 live 21 pending 0 dead 770 elapsed 76s
+verified 100/2170 live 44 pending 0 dead 797 elapsed 134s
+verified 150/2170 live 69 pending 0 dead 822 elapsed 188s
+verified 200/2170 live 97 pending 2 dead 842 elapsed 239s
+verified 250/2170 live 112 pending 25 dead 854 elapsed 309s
+verified 300/2170 live 121 pending 61 dead 859 elapsed 387s
+verified 350/2170 live 129 pending 97 dead 865 elapsed 468s
+verified 400/2170 live 139 pending 130 dead 872 elapsed 547s
+verified 450/2170 live 144 pending 172 dead 875 elapsed 632s
+verified 500/2170 live 146 pending 213 dead 882 elapsed 722s

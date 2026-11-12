@@ -1,0 +1,29 @@
+{
+ "team": 22,
+ "slice": "groupssor API newest poll",
+ "sources": [
+  "https://groupssor-api.blog-99n.workers.dev/api/groups"
+ ],
+ "verified": 1,
+ "pending": 0,
+ "leads": 0,
+ "dead": 0,
+ "fresh_entries": 3,
+ "api_window": {
+  "newest": "2026-11-12T06:22:03.803Z",
+  "oldest": "2026-09-01T15:47:30.422Z",
+  "total_returned": 500
+ },
+ "exclusions": [
+  {
+   "code": "ICBDPgzznTr0rmp2xNEZu4",
+   "reason": "porn/xxx explicit content — 'Groupe yamo baise porno sexe 🌶️💖' (entertainment), created 2026-11-11T12:23:14.272Z; dropped on sight, not verified"
+  },
+  {
+   "code": "FJvnXcokMySDLKeaX8seHk",
+   "reason": "porn/xxx explicit content — 'Groupe  porno and sexe' (entertainment), created 2026-11-12T06:22:03.803Z; dropped on sight, not verified"
+  }
+ ],
+ "resume": "Next poll: only entries with createdAt newer than 2026-11-12T06:22:03.803Z (newest entry this run). API returns a fixed latest-500; this run's window was 2026-09-01T15:47:30.422Z to 2026-11-12T06:22:03.803Z. Cutoff used this run: 2026-11-11T06:21:18.305Z.",
+ "notes": "Controls passed: known-live code from groups.json showed og:title; fabricated code showed empty og:title. NOTE: og:description is the generic string 'WhatsApp Group Invite' on both live and dead pages, so LIVE = non-empty og:title ONLY (og:description must NOT be used as fallback). Transport failures go to pending, never counted dead/live."
+}

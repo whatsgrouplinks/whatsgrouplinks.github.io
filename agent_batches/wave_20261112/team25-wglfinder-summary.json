@@ -1,0 +1,123 @@
+{
+  "team": 25,
+  "wave": "20261112",
+  "slice": "wglfinder pendings + tag archives (team20 carry-over)",
+  "sources": [
+    "wave_20261111/team20-wglfinder-pending.json (15 codes)",
+    "wave_20261111/team20-wglfinder-leads.json (766 /tag/ archive URLs, sampled 31)"
+  ],
+  "verified_kept": 2,
+  "dead": 13,
+  "pending": 0,
+  "leads_new": 0,
+  "candidates": [
+    "FtcSzixRpBUF6o7Hjl2JIE",
+    "EePF1pByfinARSS8NnPJ2f"
+  ],
+  "dead_codes": [
+    {
+      "code": "FCz4qK4lMEe189ZhIvel4C",
+      "name": "Viral Videos",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "KZGqKXf9b8ZKddDLWA8Dh2",
+      "name": "All India job updates",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "Fu0RVweb8UaJ91ob91woaI",
+      "name": "CROSSWORD ARENA 🏆💰",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "D3yagZBCSnw8QMUqTZ1Qb6",
+      "name": "Grupul băieților😆",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "IgeqzDuLnxn3InEn0Sze9V",
+      "name": "Los collotes 🗣️💂🏻‍♀️👑👑",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "JViTpJ3SFb1CDyI09xUqHi",
+      "name": "Sunny Leone ❤️",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "FxhuWehh1QiJ2CxGrEFhuz",
+      "name": "BINANCE SIGNALS",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "IGu6MldoTMbDqSaj2Hq1Ra",
+      "name": "Hamster Kombat Promotion",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "BJ6SQ4UEBCtEjqWNOSUYeq",
+      "name": "Girl group",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "LCD5kkzyO5y6fuPUmV5rKj",
+      "name": "Visit us",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "JAvnEDhFhbJD0lQ4lMxlLI",
+      "name": "𝙐𝙎𝘼 𝙗𝙖𝙨𝙚𝙙 𝙏𝙞𝙠𝙏𝙤𝙠 𝘼𝙘𝙘𝙤𝙪𝙣𝙩𝙨",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "Hp1EPuYYXyt7snylRlQsXg",
+      "name": "Betpawa sure odds",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    },
+    {
+      "code": "Lv4dtPh3Go66by3gKiyIRM",
+      "name": "Single and contented friends",
+      "evidence": "2x HTTP 200 empty og:title + default static.whatsapp.net og:image (pass1 + spaced retry pass2)"
+    }
+  ],
+  "exclusions": [],
+  "exclusion_notes": [
+    "No live item was excluded. Screen flags from team20 are moot — both flagged codes are DEAD: JViTpJ3SFb1CDyI09xUqHi 'Sunny Leone' (2x empty og:title) and Hp1EPuYYXyt7snylRlQsXg 'Betpawa sure odds' (2x empty og:title). Neither was banked.",
+    "FxhuWehh1QiJ2CxGrEFhuz 'BINANCE SIGNALS' also dead (2x empty og:title); no trading-signals judgement needed."
+  ],
+  "method_finding_og_description_broken": {
+    "finding": "WhatsApp invite pages now ALWAYS carry og:description='WhatsApp Group Invite' — live AND dead. The fabricated control code ZZZZZZZZZZZZZZZZZZZZZZ returned HTTP 200 with og:description 'WhatsApp Group Invite' and EMPTY og:title. The task's 'og:description as fallback' rule is therefore UNSAFE: it false-flags dead links as live.",
+    "action_taken": "First verify pass (v1) was ABORTED mid-run after the fabricated control failed; all 8 v1 'live' verdicts were discarded. Re-ran from scratch (v2) with LIVE = non-empty og:title ONLY. Dead signature = HTTP 200 + empty og:title + default static.whatsapp.net og:image; live signature = non-empty og:title + pps.whatsapp.net group-photo og:image.",
+    "warning_for_coordinator": "Any wave_20261112 team that banked candidates on og:description fallback may have banked dead codes. Recommend a re-check of other teams' candidates: live = non-empty og:title only."
+  },
+  "verification": {
+    "controls": "live control KrDwdK8EIkB6vgauHg5M7N -> real og:title 'JAY - PHP & Python Full Stack Developer'; fabricated ZZZZZZZZZZZZZZZZZZZZZZ -> empty og:title (dead signature). Both controls pass under the corrected rule.",
+    "method": "python requests Session, browser UA, 75s timeout, 20s spacing pass 1, 180s cool-down, 25s spacing retry pass (1 retry per non-live code). No transport failures this run — WhatsApp throttle has lifted on this host today (contrast Nov-11: 75/75 timeouts).",
+    "pass1": "15 codes: 2 live, 13 empty-og:title",
+    "pass2_retry": "13 codes re-checked after 180s cool-down: all 13 empty-og:title again -> dead (2 clean empties each, matching team20's dead standard)"
+  },
+  "tag_archives": {
+    "sampled": 31,
+    "fetched_ok": 16,
+    "fetch_failed_proxy_error": 15,
+    "retry_of_failed": "6 of the 15 proxy-failed pages retried: 3 fetched OK (0 codes, 9-11 post links), 3 proxy-failed again. Total pages successfully read: 19.",
+    "codes_found": 0,
+    "fresh_codes": 0,
+    "post_excerpt_links_per_page": "9-13",
+    "conclusion": "Tag archives carry NO group cards and NO invite codes — they list post excerpts linking to already-mined posts only. Confirms Nov-10 category-archive finding. STOPPED per task instructions; no further tag mining. The 766 tag URLs need no further work."
+  },
+  "resume": "Nothing pending. The 15 team20 pending codes are fully resolved (2 live -> banked as candidates; 13 dead on 2 clean empties each). The 766 /tag/ archive leads are exhausted as a source (sampled 31, 19 read clean, 0 codes). No carry-over for the next wave from this slice. NOTE for future waves: use LIVE = non-empty og:title ONLY; never og:description fallback (see method_finding_og_description_broken).",
+  "files": [
+    "team25-wglfinder-candidates.json",
+    "team25-wglfinder-pending.json",
+    "team25-wglfinder-leads.json",
+    "team25-wglfinder-summary.json",
+    "team25_verify_v2.py",
+    "team25_verify_v2.log",
+    "team25-verify-results.json",
+    "team25-tagsample.py",
+    "team25-tagsample.json",
+    "team25-progress.jsonl"
+  ]
+}

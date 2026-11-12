@@ -1,0 +1,39 @@
+{
+ "team": 23,
+ "slice": "groupsinvite.link NEW entries only (wave 20261112)",
+ "sources": [
+  "https://groupsinvite.link/sitemap.xml (sitemap-1.xml .. sitemap-11.xml, fetched 2026-11-12; index lastmod 2026-11-11)",
+  "https://groupsinvite.link/ homepage (70 listing URLs)",
+  "https://groupsinvite.link/group/find/ (totalCount=2758, up from 2754 on Nov 11)",
+  "4 listing pages + 4 /group/rules/ pages fetched 2026-11-12",
+  "10 of the 61 Nov-10 no-code listing pages re-fetched in plain text 2026-11-12"
+ ],
+ "verified": 2,
+ "pending": 0,
+ "leads": 61,
+ "dead": 1,
+ "exclusions": [
+  {
+   "code": "Lj6vfsu3nrY3guCSY6kDjf",
+   "name": "Earing free money daily 🤑🤑",
+   "reason": "VERIFIED LIVE but EXCLUDED: 'free money earning / daily bonus' lure — daily-profits scam pattern (no legitimate earning activity described; classic task/referral-scam funnel). Matches the screen's AI-trading daily-profits scam class."
+  },
+  {
+   "code": "F04t1QPYjr7CKgbWKJRxtU",
+   "name": "تحفيظ القران للمبتدئين (Quran memorization for beginners)",
+   "reason": "DEAD (not an exclusion): invite code extracted from rules page but chat.whatsapp.com returned empty og:title on all 4 spaced attempts (3 in verifier + 1 confirmation retry, full 220KB page body). Group link appears inactive/expired; not banked."
+  },
+  {
+   "code": null,
+   "name": "8 listings with 0029vb* slugs",
+   "reason": "CHANNELS dropped on sight per standing rule (slug prefix 0029vb* = WhatsApp Channel, not group): 0029vb0mz9t7ysdc2manij36, 0029vb8lxwe4o7qmgzabdd2o, 0029vb9479o4o7qiacfnht1b, 0029vb94pchbvjl4ykgg4u0j, 0029vb9pn5hin9ipgrdvpv36, 0029vbdasofb4hdr2e5ukm27, 0029vbdpro3h5jlwh050qs0y, 0029vbeer0mihph9z8vcxr07"
+  },
+  {
+   "code": null,
+   "name": "LEGEND VIP GROUP ♨️ — KEPT (false-positive check)",
+   "reason": "Description contains 'No spam, no porn' — negated prohibition, not porn content. Kept per FALSE-POSITIVE RESTORES rule."
+  }
+ ],
+ "notes": "Diff: sitemap grew 2725 -> 2754 link URLs (+29), but all 29 were yesterday's 29 homepage-only entries now absorbed into the sitemap (21 of them were mined+banked Nov 11; 8 were the 0029vb* channels dropped Nov 11). Homepage added only 4 genuinely new URLs. Queue after prev-mined filter = 4 listings, all extracted with fresh codes, 0 dup-existing, 0 transport failures. Verification controls passed first: known-live KrDwdK8EIkB6vgauHg5M7N showed og:title 'JAY - PHP & Python Full Stack Developer'; fabricated ZZZNotARealCode123456 showed empty og:title. Verification of the 4 fresh codes: 3 LIVE on first attempt (og:title matching listing title), 1 DEAD after 3 spaced attempts + 1 confirmation retry. Of the 3 live, 1 excluded (free-money daily-bonus scam lure), leaving 2 verified candidates. Related-group leads: 80 URLs found on the 4 listing pages; all already in the sitemap or previously mined except the queue item itself — 0 new leads. Nov-10 no-code sample: 10/61 re-fetched in plain text today, 0 yielded a code (all 'rules page has no code'); the other 51 remain untested. All 61 carried forward as leads — a live-browser leg is still the only way to mine them. Work files: team23_work/queue.json, team23_extracted.json, team23_verify.json, team23_fetch12.log, team23_verify12.log, team23_diff12.py, team23_nocode_sample12.json, all_link_urls_20261112.json, diff_report.json, sitemap-*.xml, find.html, home.html.",
+ "resume": "New-entry detection for the next run: re-fetch sitemap index + all 11 sitemaps and the homepage; diff sitemap URLs against team23_work/all_link_urls_20261112.json AND homepage URLs against the sitemap set, THEN filter out any URL already in wave_20261111/team23_work/queue.json (yesterday's homepage-only entries enter the sitemap a day later and would otherwise be re-mined as false 'new'). Next queue = that filtered diff only; do not re-mine the old catalog. totalCount is now 2758; sitemap holds 2754 link URLs. The 61 Nov-10 no-code (JS-gated) listing pages are still unmined (10 re-tested 2026-11-12, still no code in plain text) and still need a live-browser leg. All 0029vb* slugs are WhatsApp CHANNELS — drop that slug prefix on sight."
+}

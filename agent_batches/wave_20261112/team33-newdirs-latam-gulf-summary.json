@@ -1,0 +1,97 @@
+{
+ "team": "team33",
+ "slice": "new directories, LatAm/Gulf - team28 leads (wave_20261111), excluding groupslinks.com pp.13+ (team15) and whts.club (team16)",
+ "date": "2026-11-12",
+ "verified_kept": 6,
+ "pending": 0,
+ "leads": 9,
+ "dead": [
+  {
+   "code": "HQPCFBLlmukBYsQQSedLPr",
+   "reason": "team28 pending re-check: empty og:title twice, spaced; dead."
+  },
+  {
+   "code": "DSNseYQVavG7KscOAspL2N",
+   "reason": "team28 pending re-check: empty og:title twice, spaced; dead."
+  },
+  {
+   "code": "G6bxrzhT4cb7lgintDHSAf",
+   "reason": "team28 pending re-check: empty og:title twice, spaced; dead."
+  },
+  {
+   "code": "GsX2SSTP0MU2YdebD54FAf",
+   "reason": "team28 pending re-check: empty og:title twice, spaced; dead."
+  },
+  {
+   "code": "H04EBeTAcOiGZWlAMIPYo5",
+   "reason": "whatshub.es Spainglish Madrid: empty og:title twice, spaced; dead."
+  }
+ ],
+ "already_in_union_skipped": 38,
+ "content_exclusions": 8,
+ "candidates_file": "team33-newdirs-latam-gulf-candidates.json (6 items, all whatshub.es, Spain-based - see note)",
+ "note_spain": "All 6 kept candidates are Spain-based (country ES) from whatshub.es, a Spanish directory listed in team28's leads file. No fresh LatAm/Gulf codes survived: losgrupos.app (LatAm) yielded only 3 fresh codes and all 3 were live adult/sexual groups (excluded); whatsagroupslinks Gulf jobs page yielded 15 codes, all already in the union; groupslinks/whts.club are other teams' slices. Coordinator may filter the ES items out if the slice must stay LatAm/Gulf-only.",
+ "pending_reverify_team28": {
+  "live_but_already_in_union": [
+   "HpQ4LT9ZRXR2sUs9ABJ11X (og:title '🅺')",
+   "CvWFcuISzqxIkmLCf0TAbE (og:title '[ тнε ɑятєяy <|> σƒ ℓσνє ]')",
+   "L0z8mtqCPV0CkfZnw76Iec (og:title '❤️تداول أموال💜💫' = money trading; also in union)"
+  ],
+  "dead_confirmed_twice_spaced": [
+   "HQPCFBLlmukBYsQQSedLPr (Entre amigos)",
+   "DSNseYQVavG7KscOAspL2N (وكالة السلطان)",
+   "G6bxrzhT4cb7lgintDHSAf (قروب انمي واتساب)",
+   "GsX2SSTP0MU2YdebD54FAf (SUN SNOW anime)"
+  ],
+  "still_pending": []
+ },
+ "mining": {
+  "losgrupos.app": "Fully enumerated: /grupos?page=1..3, 26 group ids; /grupo/<id>/join 302-redirects resolve codes directly (no WhatsApp page load). 23 non-adult codes: 19 already in union, 3 fresh (all live adult - excluded), 1 code (161 pizza-maid) in union. Adult slugs screened pre-verify: 4. Host is flaky from this VM (proxy drops ~every other request; fresh session + retry works).",
+  "whatshub.es": "Homepage fetched: 9 inline codes in group-card descriptions; 8 fresh, 1 in union (FpJ0OkbVLUMFNZyIOhnVCX). Verified: 6 live kept, 1 dead (H04EBeTAcOiGZWlAMIPYo5, Spainglish Madrid, dead twice spaced), 1 dropped (Creonary daily-earnings). Detail pages hide the invite ('Oculto por privacidad', Blazor click-to-reveal) - no codes extractable via curl; sitemap has 2,781 group ids.",
+  "whatsagroupslinks.com_gulf_jobs": "Fetched (Cloudflare did NOT block this time): 15 codes, ALL already in .existing_codes.json union; nothing to bank.",
+  "gruposwapp.net": "WP REST gw_listing re-checked: newest still id 525 (2026-11-09) - no new listings. Listing 525 invite not extractable via REST or page HTML; exhausted.",
+  "grupeo.lat": "Blog only, not a directory: 0 chat.whatsapp.com codes in 100 newest posts (WP REST content scan); closed as a lead.",
+  "groupler.me": "Domain dead (uberspace 'domain not in our records' placeholder over http; https fails); closed as a lead.",
+  "grupodewhatsapp_app": "Homepage lists 76 group slugs; group pages and /group/<uuid>/join return no code in static HTML; join is Cloudflare Turnstile-gated; browser-only lead.",
+  "gruposdewats.com": "JS app, obfuscated fetch endpoints; no codes in static HTML; https TLS broken; browser-only lead.",
+  "tuxmat_bahrain": "Unreachable from VM (proxy disconnect, 2 attempts); browser-only lead.",
+  "solion": "App-only (Google Play com.grupos.solion); no website to mine."
+ },
+ "exclusions": [
+  {
+   "code": "G5PSXniy1OD4qzPjU0zjzX",
+   "reason": "losgrupos slug 'fantacias-escondidas' - explicit adult/sexual; dropped pre-verify."
+  },
+  {
+   "code": "LTYK5gWjZJ1BkHy3P2XivK",
+   "reason": "losgrupos slug 'noche-de-dildo' - explicit sexual; dropped pre-verify."
+  },
+  {
+   "code": "IPbEcssvUGb5IdaXpvnUjC",
+   "reason": "losgrupos slug 'club-de-hentai-mi' - hentai; dropped pre-verify."
+  },
+  {
+   "code": "JKxoXvQcEfw32MkJbpEFPP",
+   "reason": "losgrupos slug 'imperio-del-hentai' - hentai; dropped pre-verify."
+  },
+  {
+   "code": "KpYNUV2y3UL25gUuTM9NxM",
+   "reason": "Live but dropped: og:title '*🔞 𝑻𝒆𝒔𝒕𝒊𝒈𝒐𝒔 𝑫𝒆𝒍 𝑯𝒊𝒅𝒓𝒐́𝒈𝒆𝒏𝒐 💦*' - 18+ sexual group (losgrupos slug was gibberish 'tstigo-ds-sn-eidaogspo')."
+  },
+  {
+   "code": "DNlyhn12f6fCq2cB7SfAIC",
+   "reason": "Live but dropped: og:title 'Grupo para femboys - tomboys hornys - gamers🥵🥵🥵🥵' - explicit sexual content."
+  },
+  {
+   "code": "KPulsYZtlG50X0frybe2gk",
+   "reason": "Live but dropped: og:title '🜲⃟💋Ⓓⓔⓢⓘⓡⓔ💋⃟⃟🜲' ('Desire' + kiss emojis) - flirt/hookup group."
+  },
+  {
+   "code": "JrItAjTGYpTIjr9r4ciGwq",
+   "reason": "whatshub.es 'Creonary' card: 'Ganancias de 5€ a 50€ al Día' (daily earnings 5-50 EUR/day) - daily-profits scheme; dropped pre-verify."
+  }
+ ],
+ "union_skips": "38 codes already in .existing_codes.json (112,070) and not banked: 3 team28 pending live (incl. L0z8mtqCPV0CkfZnw76Iec, og:title 'تداول أموال' money-trading), 19 losgrupos.app (161,163,164,165,166,167,170,172,173,174,176,178,180,181,182,183,184,185,189), 15 whatsagroupslinks Gulf jobs, 1 whatshub.es (FpJ0OkbVLUMFNZyIOhnVCX).",
+ "verification_method_note": "CORRECTED RULE (important): WhatsApp serves og:description='WhatsApp Group Invite' on EVERY invite page, live AND dead - it is NOT a live signal. LIVE = non-empty, non-generic og:title only. The first verify run used the description fallback and false-flagged the fabricated control as live; the script was fixed and controls re-run: known-live code KrDwdK8EIkB6vgauHg5M7N -> live with specific title; fabricated ZZZnotarealcode123456 -> dead (empty og:title). All verdicts above use the corrected rule; dead codes were confirmed with a second spaced check.",
+ "resume": "losgrupos.app fully enumerated (26 ids, no further pages); whatshub.es homepage mined, detail pages browser-only (2,781 sitemap ids); whatsagroupslinks Gulf jobs fully in union; gruposwapp.net no new listings; grupeo.lat and groupler.me closed as leads. Next run: browser legs for app.grupodewhatsapp.com (76 slugs), gruposdewats.com, go.tuxmat.com Bahrain page, whatshub.es detail pages; re-check losgrupos.app in a later wave for new listings (newest id 210). No pending codes remain for re-verification."
+}

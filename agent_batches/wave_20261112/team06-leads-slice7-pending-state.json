@@ -1,0 +1,9 @@
+{
+ "processed": 599,
+ "candidates": 42,
+ "pending": 31,
+ "exclusions": 1,
+ "dead": 520,
+ "dup_existing_dropped": 5,
+ "status": "COMPLETE"
+}

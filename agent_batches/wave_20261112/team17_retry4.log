@@ -1,0 +1,22 @@
+start retry4: banked=21 done_details=65 leads=27
+RETRY4 PAGE 9: 18 cards
+  retry4-detail OK https://tugrupo.online/whatsapp/juegos/playstation-online/ FYrQUFlJeP0DtXd7VvwyaN
+  retry4-detail OK https://tugrupo.online/whatsapp/rol/looby-bluelock-futbol/ FFIKzfvqeTj6flPwMvoLLf
+  retry4-detail OK https://tugrupo.online/whatsapp/anime/%f0%9f%8d%acamistad-musica-anime-anko-mitarashi-%f0%9f%8d%a1/ LWQM781UA4lE53J4OfelZL
+  retry4-detail OK https://tugrupo.online/whatsapp/stickers/audios-de-whatsapp-%e2%9c%a8%f0%9f%91%80%f0%9f%8c%8f/ H9ydZ638jdWIgynnDCimSN
+  retry4-detail OK https://tugrupo.online/whatsapp/chat/made-in-colombia-%f0%9f%87%a8%f0%9f%87%b4%e2%9d%a4%ef%b8%8f/ H8mjkdPXoOk3YnR2yRjLm6
+  retry4-detail OK https://tugrupo.online/whatsapp/musica/solo-musica/ BZSaFPchzKTDjm0XG7GgMe
+  retry4-detail OK https://tugrupo.online/whatsapp/chat/glow-up-2024/ Jks19Gdpj2z0DY0KOR8oes
+  retry4-detail OK https://tugrupo.online/whatsapp/anime/%e2%9c%a9%cc%a3%cc%a3%cc%a3%cc%a3%cc%a3%cd%af%e2%9c%a7%e2%83%9d%e2%9d%84%ef%b8%8f%f0%9f%84%b0n%e1%b7%a1i%cd%a3m%cd%ade%cd%aa%f0%9d%95%b1a%cd%a8n%cd%a6t%cd%a9a%cd%a4%f0%9d%98%b4%ea%aa%97%e2%81%b0/ I6mDLGjGVZS0fvAYoobIQs
+RETRY4 MINED 11 pages_done=[9] pages_failed=[] detail_fail=26
+  LIVE FBJwTHjd5TvFGRpHkJN6FP 'Emprendedores sona zur'
+  LIVE KfwqUxx1bDs2sIMOcIt6Bd 'Ayuda temu colombia'
+  LIVE LEh1KKzjiSNDcoc0zeT1G1 'STEAM'
+  LIVE FYrQUFlJeP0DtXd7VvwyaN 'Playstation online'
+  LIVE LWQM781UA4lE53J4OfelZL '🍬Amistad, Musica, Anime Anko Mitarashi 🍡'
+  LIVE H9ydZ638jdWIgynnDCimSN 'Audios de WhatsApp ✨👀🌏'
+  LIVE H8mjkdPXoOk3YnR2yRjLm6 'Made in Colombia 🇨🇴❤️'
+  LIVE BZSaFPchzKTDjm0XG7GgMe 'Solo música'
+  LIVE Jks19Gdpj2z0DY0KOR8oes 'Glow up 2024'
+RETRY4 SUMMARY {"pages_done": [9], "pages_failed": [], "new_mined": 11, "new_verified_kept": 9, "new_pending": 0, "new_dead": 0, "new_exclusions": [], "detail_fail": 26}
+TOTALS candidates= 30 pending= 0 leads= 27

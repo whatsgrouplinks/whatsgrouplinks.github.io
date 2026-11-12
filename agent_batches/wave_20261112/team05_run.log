@@ -1,0 +1,18 @@
+total=3603 mined_done=1100 todo=2503 verified_so_far=481
+batch 1: attempted=1200 verified=522 dead=402 pending=29 excl=103 elapsed_min=8.5
+batch 2: attempted=1300 verified=571 dead=435 pending=29 excl=109 elapsed_min=16.4
+batch 3: attempted=1400 verified=622 dead=466 pending=29 excl=116 elapsed_min=21.3
+batch 4: attempted=1500 verified=658 dead=504 pending=31 excl=127 elapsed_min=27.1
+batch 5: attempted=1600 verified=695 dead=545 pending=31 excl=135 elapsed_min=33.7
+batch 6: attempted=1700 verified=730 dead=580 pending=31 excl=146 elapsed_min=37.9
+batch 7: attempted=1800 verified=773 dead=618 pending=31 excl=150 elapsed_min=42.7
+batch 8: attempted=1900 verified=816 dead=651 pending=31 excl=156 elapsed_min=47.2
+batch 9: attempted=2000 verified=853 dead=694 pending=31 excl=165 elapsed_min=51.8
+batch 10: attempted=2100 verified=903 dead=729 pending=31 excl=169 elapsed_min=55.5
+batch 11: attempted=2200 verified=944 dead=768 pending=31 excl=178 elapsed_min=59.0
+batch 12: attempted=2300 verified=986 dead=811 pending=31 excl=190 elapsed_min=63.0
+batch 13: attempted=2400 verified=1024 dead=857 pending=31 excl=202 elapsed_min=66.9
+batch 14: attempted=2500 verified=1062 dead=897 pending=31 excl=212 elapsed_min=70.7
+batch 15: attempted=2600 verified=1102 dead=936 pending=31 excl=230 elapsed_min=74.1
+batch 16: attempted=2700 verified=1144 dead=974 pending=31 excl=242 elapsed_min=77.5
+batch 17: attempted=2800 verified=1178 dead=1024 pending=31 excl=250 elapsed_min=81.6

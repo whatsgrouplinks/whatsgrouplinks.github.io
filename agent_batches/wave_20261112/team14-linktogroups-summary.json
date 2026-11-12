@@ -1,0 +1,55 @@
+{
+ "team": 14,
+ "slice": "linktogroups.com (new source)",
+ "sources": [
+  "https://linktogroups.com/en/whatsapp-groups (pages 1-4, fully mined; p4 is last, only 4 listings, no p5 link)",
+  "https://linktogroups.com/en/ghana (single page, 10 listings)",
+  "https://linktogroups.com/en/kenya (single page, 15 listings)",
+  "https://linktogroups.com/en/nigeria (pages 1-4 mined; p5+ unmined, see leads)",
+  "https://linktogroups.com/en/saudi-arabia (single page, 11 listings)",
+  "Join flow: POST /api/v1/listings/{id}/click -> {data:{destination_url}} (works from this VM now; team26 got HTTP 000 on Nov 11)"
+ ],
+ "listings_resolved": 170,
+ "platform_split": {
+  "chat.whatsapp.com": 64,
+  "telegram_t.me": 104,
+  "whatsapp_channels": 2
+ },
+ "wa_codes_in_union_dup": 27,
+ "wa_codes_fresh": 37,
+ "verified": 35,
+ "verified_kept": 32,
+ "pending": 0,
+ "leads": 4,
+ "dead_fresh": [
+  "FXkvC49CVXX1rwMJREfDJX",
+  "F6ti3fGFSIaIkCB61oRQEG"
+ ],
+ "dead_note": "FXkvC49CVXX1rwMJREfDJX \"One World Many Voices\" and F6ti3fGFSIaIkCB61oRQEG \"Turkish exporter\": empty og:title on 2 spaced checks each. Gif0KIHXoGhJv69l6bCddX \"Flash sale Online link\" is ALSO dead (empty og:title x2) but already in the union, so counted as dup not fresh-dead.",
+ "exclusions": [
+  {
+   "code": "C61qiXLHjsh9ZuHD5HhnqT",
+   "reason": "screen: paid-hack/scam name \"Crypto-Hacker\" (pre-verification drop)"
+  },
+  {
+   "code": "LxGaLXyfn5F1BDjaHpZabN",
+   "reason": "screen: crypto-airdrop scam name \"Crypto_ Free_ Airdrops\" (pre-verification drop)"
+  },
+  {
+   "code": "ESss3iQ6e7h2iHzIAz9CFU",
+   "reason": "screen: live-verified but og:title is hacker/virus-themed \"Virus Deta hacker ... group is hacked\" (post-verification drop)"
+  }
+ ],
+ "exclusions_note": "KBhJlXOM9X5D5jeh9ZEdyP \"LEGIT CRYPTO AIRDROPS\" is a crypto-airdrop name but already in the union (dup), so it is not counted as an exclusion. \"BIG DREAMERS TEAM 18\" KEPT: the 18 is a team number, not an 18+ sexual gate (og:title confirms). \"Christian Dating Nigeria\" KEPT per friendship/dating-keep rule. \"FUNDED TRADING SOCIETY\" KEPT as generic trading (Finance), not a named airdrop/betting/AI-trading scam. \"VIRUS PUBG STORE\" KEPT as a gaming shop (Buy & Sell); \"VIRUS\" reads as the seller brand, distinct from the excluded hacker-titled group.",
+ "controls": {
+  "known_live": "KrDwdK8EIkB6vgauHg5M7N from groups.json -> og:title \"JAY - PHP & Python Full Stack Developer\" (PASS)",
+  "fabricated": "ZZZZZZZZZZZZZZZZZZZZZZ -> og:title EMPTY but og:description \"WhatsApp Group Invite\" present (PASS as dead; this proved og:description is generic and CANNOT be used as a live fallback — LIVE = non-empty og:title only. Pass-1 verify.jsonl records stored live=True via the description fallback and were corrected to title-only in finalize.)"
+ },
+ "verification": "python requests Session, browser UA, 4 workers, 60-90s timeout; dead codes re-checked after a spaced pause (2nd empty og:title). 0 transport failures.",
+ "resume": "Nigeria index pages 5+ unmined (https://linktogroups.com/en/nigeria?page=5) — but p1-p4 yielded 84 listings of which only 1 live WA code (3946 Christian Dating Nigeria, banked) + 2 dead WA, the rest Telegram; expect p5+ to be near-all Telegram. WhatsApp index fully mined through p4 (no p5). Ghana/Kenya/Saudi single-page each, fully mined. Scratch: wave_20261112/team14_raw/ (fetched HTML, resolved.jsonl, verify.jsonl, listing_pages.json, listing_names.json).",
+ "notes": [
+  "Platform filter is the whole story here: 104/170 listings (61%) are Telegram channels (t.me), only 64 are chat.whatsapp.com, plus 2 WA Channels (not groups, banked as leads).",
+  "Country pages are Telegram-heavy: Nigeria p1-p4 = 84 listings, 3 WA codes total (1 live, 2 dead); Ghana/Kenya/Saudi pages contributed 0 fresh WA codes (their WA listings were already in the union or Telegram). The WhatsApp index pages supplied nearly all fresh codes.",
+  "No personal info banked; no source name/link in any candidate field; names taken verbatim from live og:title (= directory name in every kept case)."
+ ]
+}

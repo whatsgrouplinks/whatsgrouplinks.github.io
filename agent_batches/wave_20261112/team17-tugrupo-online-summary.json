@@ -1,0 +1,79 @@
+{
+ "team": 17,
+ "slice": "tugrupo.online /whatsapp/ pages 2-10",
+ "controls": {
+  "known_live_code": "KrDwdK8EIkB6vgauHg5M7N",
+  "known_live_og_title": "JAY - PHP & Python Full Stack Developer",
+  "fabricated_code": "ZZZZZZZZZZZZZZZZZZZZ",
+  "fabricated_og_title": ""
+ },
+ "pages_done": [
+  2,
+  3,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "pages_failed": [
+  4
+ ],
+ "mined_listings": 67,
+ "already_in_union_skipped": 27,
+ "verified_kept": 30,
+ "pending": 0,
+ "dead_no_og_title": 3,
+ "exclusions": [],
+ "detail_fail_count": 5,
+ "leads": 27,
+ "resume": "Retry4 (final): page 9 recovered; page 4 NEVER loaded in any pass (bot-check every attempt) — its ~18 listings are unmined, banked as lead https://tugrupo.online/whatsapp/?query-eb715b85=4 for a later wave. Detail-fail URLs remaining: 26 (in leads file). Slice pages mined overall: [2, 3, 5, 6, 7, 8, 9, 10].",
+ "retry_pass": {
+  "pages_done": [],
+  "pages_failed": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "new_mined": 1,
+  "new_verified_kept": 1,
+  "new_pending": 0,
+  "new_dead": 0,
+  "new_exclusions": [],
+  "detail_fail": 2
+ },
+ "retry_pass3": {
+  "pages_done": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "pages_failed": [
+   4,
+   9
+  ],
+  "new_mined": 12,
+  "new_verified_kept": 6,
+  "new_pending": 0,
+  "new_dead": 1,
+  "new_exclusions": [],
+  "detail_fail": 25
+ },
+ "retry_pass4": {
+  "pages_done": [
+   9
+  ],
+  "pages_failed": [],
+  "new_mined": 11,
+  "new_verified_kept": 9,
+  "new_pending": 0,
+  "new_dead": 0,
+  "new_exclusions": [],
+  "detail_fail": 26
+ }
+}

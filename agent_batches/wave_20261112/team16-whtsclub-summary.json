@@ -1,0 +1,180 @@
+{
+ "team": 16,
+ "wave": "20261112",
+ "source": "whts.club news_pages.xml",
+ "pages_fetched": 1621,
+ "codes_verified": 1172,
+ "verified_live": 802,
+ "verified_dead_empty": 370,
+ "verified_pending": 0,
+ "union_dups_skipped": 62,
+ "candidates_kept": 784,
+ "pending": 0,
+ "leads": 372,
+ "exclusions": [
+  {
+   "code": "LWBkEdxzq2lBHUUP0DOjO3",
+   "name": "Gay morbo CDMX y Edomex",
+   "reason": "drop: morbo in 'Gay morbo CDMX y Edomex Un espacio exclusivo para #gay con gustos atrevidos y me'"
+  },
+  {
+   "code": "Ly27nP02a2y3YtIlAUbA4S",
+   "name": "Ludo Club World",
+   "reason": "drop: sports betting in 'Ludo Club World Este grupo se trata de un juego de telefono movil con que puedes'"
+  },
+  {
+   "code": "GYTkCcCtm4YC9641i8fTFp",
+   "name": "LATÁM PLUS 🥃🎸🎲+",
+   "reason": "drop: sexo in 'LATÁM PLUS 🥃🎸🎲+ Grupo para la expresión libre y plural, aquí podéis hablar de aq'"
+  },
+  {
+   "code": "GGVg8kkhRBVJmnhlMH8LhY",
+   "name": "ALV (frases)",
+   "reason": "drop: xxx in 'ALV (frases) frases, amistad memes, permitido enamorarse.publicaciones etc. XXXX'"
+  },
+  {
+   "code": "Imf277Sxbgc2GM60aFxaax",
+   "name": "Lesbianas Hot 🔥",
+   "reason": "drop: 'hot' + stickers/videos/girls (sexual content signal)"
+  },
+  {
+   "code": "DcusgSygKua1DNvmZfxamC",
+   "name": "Aviator free Ecuador -Ecuabet",
+   "reason": "drop: sports betting in 'Aviator free Ecuador -Ecuabet Hey, ¿qué tal? Bienvenidos al grupo Aviator free E'"
+  },
+  {
+   "code": "BBUoqgPcswIIPjWjU0vSrt",
+   "name": "El viejo verde",
+   "reason": "drop: sports betting in 'El viejo verde Copa Sudamericana hoy 🏆. Sigue las notificaciones para la apuesta'"
+  },
+  {
+   "code": "L11JJcM05sXGkJHTqZ44nI",
+   "name": "🇨🇺SOLTERAS Y SOLTEROS🇨🇺",
+   "reason": "drop: putas in '🇨🇺SOLTERAS Y SOLTEROS🇨🇺 ¡Bienvenidos a Solteras y Solteros! Un espacio para dive'"
+  },
+  {
+   "code": "FiPeBKSfnrNIvV0gGnHvha",
+   "name": "🚀🇨🇴 TRADERS Colombia y el Mundo 🌍💹",
+   "reason": "drop: trading + profit claims (scam signal)"
+  },
+  {
+   "code": "CRmZb512Jhe8BG8xTGFfs0",
+   "name": "Quantum Zone",
+   "reason": "drop: sports betting in 'Quantum Zone Si eres un apasionado de los deportes y quieres aumentar tus posibi'"
+  },
+  {
+   "code": "L12EDqUwmoMLwQ1hTF8gau",
+   "name": "ÁLAVA Gay Contactos",
+   "reason": "drop: sexo in 'ÁLAVA Gay Contactos ÁLAVA Contactos #gay es un grupo de Whatsapp destinado a hom'"
+  },
+  {
+   "code": "K19BwueY7RhA58O6seGl4s",
+   "name": "Grupo para jugar left 👻👻",
+   "reason": "drop: hentai in 'Grupo para jugar left 👻👻 Grupo pa socializar jugar otros juegos pero principal l'"
+  },
+  {
+   "code": "KArz083eIf0J7xTrcMw66D",
+   "name": "Lotto activo , la granjita",
+   "reason": "drop: sports betting in 'Lotto activo , la granjita Grupo de apuestas privado Lotto activo y la granjita '"
+  },
+  {
+   "code": "KKrntJikzbd5YGirTo8bcD",
+   "name": "Bandidos Thing Revolution",
+   "reason": "drop: xxx in 'Bandidos Thing Revolution 🟩 | BIN SPOTIFY PREMIUM + BIN ADICIONAL 💳 | 𝗕𝗜𝗡: 55711'"
+  },
+  {
+   "code": "FTkqL5Vziqw9t3cezgXrhp",
+   "name": "OVERFLOW PIXELEADOS 2.0",
+   "reason": "drop: hentai in 'OVERFLOW PIXELEADOS 2.0 Sería un placer tener te en mi grupo 😉 somos personas de'"
+  },
+  {
+   "code": "Lqhxl3d0HNe3pLFTSmDalX",
+   "name": "Apuestas gratis",
+   "reason": "drop: sports betting in 'Apuestas gratis LAS MEJORES APUESTAS EN UN SOLI GRUPO DE WHATSAPP. VAMOSSSSS APU'"
+  },
+  {
+   "code": "DgY5FIeKtiZLFVUucUNLS8",
+   "name": "★GRUPITO DE STREAMERS★",
+   "reason": "drop: puta in '★GRUPITO DE STREAMERS★ no hay reglas por qué no somos mamones 😸 #rol pueden hace'"
+  },
+  {
+   "code": "HPOoryQ8H5h35xJj5Mw7bl",
+   "name": "Apuestas el gran truco argentino",
+   "reason": "drop: sports betting in 'Apuestas el gran truco argentino Grupo de apuestas del gran truco argentino Míni'"
+  }
+ ],
+ "borderline_keeps": [
+  {
+   "code": "FrE7uQS1Cxe2btMxUyaX7m",
+   "name": "Los bebés leches",
+   "matched_text": "Los bebés leches De todo un poco,aceptamos de todo tipo de personas viva la música Balatro Balatrez Está Jugando: Roblox",
+   "note": "crude/suggestive wording kept (not explicit sexual content); coordinator review"
+  },
+  {
+   "code": "DBeBA2Rohsn0td1Da0uZKZ",
+   "name": "Los más del mundo",
+   "matched_text": "Los más del mundo Grupo para pasarla happy, cualquier tipo de humor es aceptado, amor y amistad encontrarás Los más puto",
+   "note": "crude/suggestive wording kept (not explicit sexual content); coordinator review"
+  },
+  {
+   "code": "EW0k6FlRfLy4p8NWSqvaiP",
+   "name": "Sheyyy",
+   "matched_text": "Sheyyy Hablar y joder un poco Tratemos de que sean menores de 20 para no incomodar ꧁Amigos x 💯pre 😉",
+   "note": "crude/suggestive wording kept (not explicit sexual content); coordinator review"
+  },
+  {
+   "code": "EsOJ6iTXaKi03ru6gkHjhU",
+   "name": "AVENTURA DE AMOR🫦😘💖",
+   "matched_text": "AVENTURA DE AMOR🫦😘💖 💖 Bienvenidos a la odisea más hermosa, Aventura de Amor 💖. Este grupo es una constelación de corazon",
+   "note": "crude/suggestive wording kept (not explicit sexual content); coordinator review"
+  },
+  {
+   "code": "JxnbUnyITk70Yp5LrwBEgA",
+   "name": "Lo más fresa del pedazo mami",
+   "matched_text": "Lo más fresa del pedazo mami Chat de amistad, humor roto. No 🔞. Todos los países gente amable!! Yo soy puto",
+   "note": "crude/suggestive wording kept (not explicit sexual content); coordinator review"
+  },
+  {
+   "code": "FIZ0bFGUuGV3mkMHNUVRDi",
+   "name": "Solo Dominicanos",
+   "matched_text": "Solo Dominicanos Únete a este grupo es divertido consigues amigos y parejas Confle con leche 🍆",
+   "note": "crude/suggestive wording kept (not explicit sexual content); coordinator review"
+  },
+  {
+   "code": "IISappzI8bLC1VLpP5OpzD",
+   "name": "Los seguidores  de instagram",
+   "matched_text": "Los seguidores  de instagram ¡Ey! ¿Quieres que tu #Instagram deje de ser un desierto de seguidores? ¡Bienvenid@ al grupo",
+   "note": "crude/suggestive wording kept (not explicit sexual content); coordinator review"
+  },
+  {
+   "code": "GzSuMJ0vo4w3bcxB1biIJq",
+   "name": "LOS VERGAS DEL FREESTYLE 🎤",
+   "matched_text": "LOS VERGAS DEL FREESTYLE 🎤 El grupo de WhatsApp está dedicado al freestyle y cuenta con horarios de torneos a las 4:00 p",
+   "note": "crude/suggestive wording kept (not explicit sexual content); coordinator review"
+  },
+  {
+   "code": "CZ7q2gMV6mNFWH7xEHNWEs",
+   "name": "Goblik",
+   "matched_text": "Goblik No por*o No gore Presentarse No joder No acosar Diviértanse :) ࿕_ᛋᛋ_𝗧ᵗ𝗘ᵉ𝗥ʳ𝗥ʳ𝗢ᵒ𝗥ʳ𝗜ⁱ𝗦ˢ𝗧ᵗ_ʷ𝗪ⁱ𝗜ⁿ𝗡_ᛋᛋ_࿕",
+   "note": "crude/suggestive wording kept (not explicit sexual content); coordinator review"
+  }
+ ],
+ "resume_sitemap_index": 1660,
+ "resume_next_url": null,
+ "sitemap_total_urls": 1660,
+ "controls": {
+  "known_live_code": "KrDwdK8EIkB6vgauHg5M7N -> live with og:title",
+  "fabricated_code": "ZZZZZZZZZZZZZZZZZZZZZZ -> dead-empty",
+  "note": "og:description is the constant generic string \"WhatsApp Group Invite\" on every invite page and must NOT be used as a live fallback; live = non-empty og:title only."
+ },
+ "notes": [
+  "FULL SITEMAP COVERAGE: news_pages.xml has 1660 URLs (indices 0-1659). Team28 mined indices 0-59 (newest 60) in wave 20261111; team16 mined indices 60-1659 (1600 pages) in this run. All 16 timed-out detail pages from team28 leads were retried and resolved (15 yielded codes, 1 zero-code). Team28 pending code HQPCFBLlmukBYsQQSedLPr (Entre amigos) re-checked: now dead-empty.",
+  "pages_fetched=1621 counts team16 fetches only (21 retry pages + 1600 sitemap pages). The other 39 of team28 newest-60 pages were already fetched+banked by team28 and were not re-fetched.",
+  "Zero-code pages (372 leads) are mostly WhatsApp Channel pages (whatsapp.com/channel/ links, no group invite) or pages with no invite link; all carry their sitemap index as resume point.",
+  "Verification: 3-worker parallel requests Session, warm ~1s/req; 0 transport failures in the whole run (0 pending). Live rate rose with page age: ~25% on newest pages, 65-100% on older pages.",
+  "Screening fixes applied after full-text review: word-boundary \bsexual\b (Homosexualis false positive), negation phrases for xxx/sexual/sexo prohibitions (nada sexual, no de sexo, no xxx, prohibido contenido sexual, etc.). 8 live codes restored from exclusions after review; 18 exclusions remain, all verified correct (betting x7, morbo/sex/hentai x6, trading x1, putas/hot x2, BIN carding x1, XXXX group-name x1).",
+  "Borderline keeps (9) are crude-but-not-explicit names flagged for coordinator review in summary borderline_keeps.",
+  "Controls: known-live KrDwdK8EIkB6vgauHg5M7N -> live; fabricated ZZZZZZZZZZZZZZZZZZZZZZ -> dead-empty. og:description is the constant generic string \"WhatsApp Group Invite\" on every invite page and was NOT used as a live fallback; live = non-empty og:title only.",
+  "Dedupe math: 1260 code occurrences extracted from 1621 pages (1233 unique). 62 unique codes already in .existing_codes.json (66 occurrences) skipped before verification; 27 repeat occurrences of the same code across pages; 1171 fresh page codes + 1 manually re-checked team28 pending code = 1172 verified."
+ ]
+}

@@ -1,0 +1,172 @@
+=== CONTROLS ===
+CONTROL known-live KrDwdK8EIkB6vgauHg5M7N -> live | 'JAY - PHP & Python Full Stack Developer' | http=200
+CONTROL fabricated ZZZZZZZZZZZZZZZZZZZZZZ -> empty | '' | http=200
+controls OK
+[25/1111] live=8 pending=0 dead=17 excluded=0 leads=0
+[50/1111] live=14 pending=0 dead=36 excluded=0 leads=0
+[75/1111] live=16 pending=0 dead=59 excluded=0 leads=0
+[83/1111] 5 consecutive transport failures — cooling down 120s
+[100/1111] live=16 pending=5 dead=79 excluded=0 leads=0
+[112/1111] 5 consecutive transport failures — cooling down 120s
+=== CONTROLS ===
+CONTROL known-live KrDwdK8EIkB6vgauHg5M7N -> live | 'JAY - PHP & Python Full Stack Developer' | http=200
+CONTROL fabricated ZZZZZZZZZZZZZZZZZZZZZZ -> empty | '' | http=200
+controls OK
+[125/1111] live=16 pending=10 dead=99 excluded=0 leads=0
+[150/1111] live=16 pending=10 dead=124 excluded=0 leads=0
+[156/1111] 5 consecutive transport failures — cooling down 120s
+=== CONTROLS ===
+CONTROL known-live KrDwdK8EIkB6vgauHg5M7N -> live | 'JAY - PHP & Python Full Stack Developer' | http=200
+CONTROL fabricated ZZZZZZZZZZZZZZZZZZZZZZ -> empty | '' | http=200
+controls OK
+[175/1111] live=16 pending=14 dead=144 excluded=1 leads=0
+[183/1111] 5 consecutive transport failures — cooling down 120s
+[200/1111] live=16 pending=19 dead=164 excluded=1 leads=0
+[225/1111] live=16 pending=19 dead=187 excluded=3 leads=0
+[250/1111] live=16 pending=19 dead=212 excluded=3 leads=0
+[258/1111] 5 consecutive transport failures — cooling down 120s
+[275/1111] live=22 pending=24 dead=225 excluded=4 leads=0
+[300/1111] live=23 pending=24 dead=249 excluded=4 leads=0
+[325/1111] live=24 pending=24 dead=273 excluded=4 leads=0
+[350/1111] live=27 pending=24 dead=295 excluded=4 leads=0
+[375/1111] live=34 pending=24 dead=313 excluded=4 leads=0
+[399/1111] 5 consecutive transport failures — cooling down 120s
+[400/1111] live=36 pending=29 dead=331 excluded=4 leads=0
+=== CONTROLS ===
+CONTROL known-live KrDwdK8EIkB6vgauHg5M7N -> live | 'JAY - PHP & Python Full Stack Developer' | http=200
+CONTROL fabricated ZZZZZZZZZZZZZZZZZZZZZZ -> empty | '' | http=200
+controls OK
+[425/1111] live=36 pending=31 dead=354 excluded=4 leads=0
+[428/1111] 5 consecutive transport failures — cooling down 120s
+[450/1111] live=36 pending=34 dead=376 excluded=4 leads=0
+[455/1111] 5 consecutive transport failures — cooling down 120s
+=== CONTROLS ===
+CONTROL known-live KrDwdK8EIkB6vgauHg5M7N -> live | 'JAY - PHP & Python Full Stack Developer' | http=200
+CONTROL fabricated ZZZZZZZZZZZZZZZZZZZZZZ -> empty | '' | http=200
+controls OK
+[475/1111] live=36 pending=39 dead=395 excluded=5 leads=0
+[498/1111] 5 consecutive transport failures — cooling down 120s
+[500/1111] live=36 pending=44 dead=415 excluded=5 leads=0
+[525/1111] live=36 pending=46 dead=438 excluded=5 leads=0
+[528/1111] 5 consecutive transport failures — cooling down 120s
+[550/1111] live=36 pending=49 dead=460 excluded=5 leads=0
+[555/1111] 5 consecutive transport failures — cooling down 120s
+[575/1111] live=39 pending=54 dead=477 excluded=5 leads=0
+[584/1111] 5 consecutive transport failures — cooling down 120s
+[600/1111] live=39 pending=59 dead=497 excluded=5 leads=0
+[613/1111] 5 consecutive transport failures — cooling down 120s
+[625/1111] live=44 pending=64 dead=512 excluded=5 leads=0
+[650/1111] live=55 pending=68 dead=521 excluded=6 leads=0
+[651/1111] 5 consecutive transport failures — cooling down 120s
+[675/1111] live=55 pending=69 dead=545 excluded=6 leads=0
+[700/1111] live=55 pending=71 dead=568 excluded=6 leads=0
+[706/1111] 5 consecutive transport failures — cooling down 120s
+[725/1111] live=55 pending=76 dead=588 excluded=6 leads=0
+[750/1111] live=55 pending=76 dead=613 excluded=6 leads=0
+[775/1111] live=55 pending=76 dead=638 excluded=6 leads=0
+[800/1111] live=55 pending=76 dead=663 excluded=6 leads=0
+[825/1111] live=56 pending=76 dead=687 excluded=6 leads=0
+[840/1111] 5 consecutive transport failures — cooling down 120s
+[850/1111] live=56 pending=81 dead=707 excluded=6 leads=0
+[875/1111] live=56 pending=81 dead=732 excluded=6 leads=0
+[894/1111] 5 consecutive transport failures — cooling down 120s
+[900/1111] live=56 pending=86 dead=752 excluded=6 leads=0
+[925/1111] live=56 pending=86 dead=777 excluded=6 leads=0
+[943/1111] 5 consecutive transport failures — cooling down 120s
+[950/1111] live=58 pending=91 dead=793 excluded=6 leads=2
+[975/1111] live=58 pending=95 dead=811 excluded=9 leads=2
+[976/1111] 5 consecutive transport failures — cooling down 120s
+[1000/1111] live=58 pending=96 dead=835 excluded=9 leads=2
+[1025/1111] live=58 pending=96 dead=860 excluded=9 leads=2
+[1050/1111] live=58 pending=96 dead=883 excluded=11 leads=2
+[1075/1111] live=59 pending=96 dead=904 excluded=14 leads=2
+[1083/1111] 5 consecutive transport failures — cooling down 120s
+[1100/1111] live=59 pending=101 dead=924 excluded=14 leads=2
+=== DONE ===
+{
+  "team": "team13",
+  "task": "wave_20261112 pending re-check of wave_20261111_pending_all.json",
+  "source_total": 1111,
+  "verified_kept_candidates": 60,
+  "still_pending": 101,
+  "dead": 934,
+  "excluded_existing_union": 11,
+  "excluded_content_screen": 3,
+  "leads_no_code": 2,
+  "exclusions": [
+    {
+      "code": "BT5lEoVolBhIgEd3H4gkjU",
+      "name": "Grupo de WhatsApp Resenha masculina 😏🔞 - LGBT",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "FWaLiQKDNJU8DW21dPcpgN",
+      "name": "Grupo de WhatsApp DIMI GAMER – Ofertas & Tecnolog... - Games",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "JtBJr5TXUJDFOR6Ngjw1Qn",
+      "name": "Grupo de WhatsApp ➤ Grupo de Amizade - Projeto C... - Namoro",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "Ewfc2LweXAlIXeqGlYA47g",
+      "name": "1850+ Entertainment WhatsApp Group Links 2026 | Join Now",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "KilgsNKL3aBEZGMvPYrK26",
+      "name": "2️⃣Radeon Airdrop international 📌",
+      "reason": "content screen DROP: crypto-airdrop scam"
+    },
+    {
+      "code": "JZB5dCny7LaACa8lMbizJy",
+      "name": "Malaysia WhatsApp Group Links 2026 – Jobs, Students & Community (Verified)",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "HpQ4LT9ZRXR2sUs9ABJ11X",
+      "name": "Friendship group (name to confirm)",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "CvWFcuISzqxIkmLCf0TAbE",
+      "name": "Saudi friendship group (name to confirm)",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "L0z8mtqCPV0CkfZnw76Iec",
+      "name": "Friendship group (name to confirm)",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "DBrKSi4LKgI62owtUqZqUQ",
+      "name": "Sex chat 😋😋",
+      "reason": "content screen DROP: explicit sexual content"
+    },
+    {
+      "code": "I4jvFgDg4j24YVVKWUfaVD",
+      "name": "Sexy chat",
+      "reason": "content screen DROP: explicit sexual content"
+    },
+    {
+      "code": "ChQ53L6gyJJChMeQDsTTcO",
+      "name": "Lahore Private Girls",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "HEd8YypmDP79JFDbMupwuS",
+      "name": "",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "LQsFNeDaq9W03ptXrgHcaK",
+      "name": "",
+      "reason": "already in .existing_codes.json union — never bank"
+    }
+  ],
+  "resume_point": "complete — all 1111 source entries processed",
+  "controls": "known-live KrDwdK8EIkB6vgauHg5M7N showed og:title (live); fabricated ZZZZZZZZZZZZZZZZZZZZZZ empty og:title (dead signal)",
+  "method": "python requests Session keep-alive, browser UA, 75s timeout, 1.5-2.5s spacing, one spaced retry (10s) on empty og:title before dead; 429/timeout -> pending. og:title ONLY: og:description is a constant 'WhatsApp Group Invite' on live and dead pages alike (verified on fabricated control), so it cannot serve as a live fallback.",
+  "category_mapping": "Online Earning -> Jobs; Buy Sell -> Buy & Sell; empty -> Community & Social"
+}

@@ -1,0 +1,11 @@
+[
+ "https://app.grupodewhatsapp.com/ - Next.js directory, 76 group slugs on homepage; /group/<uuid>/join is Cloudflare Turnstile-gated, no code in static HTML; browser-only.",
+ "https://app.grupodewhatsapp.com/es - same, Spanish version.",
+ "https://gruposdewats.com/ - JS app with obfuscated fetch endpoints; https TLS broken (SSL wrong version), http serves the app; no codes in static HTML; browser-only.",
+ "https://go.tuxmat.com/total-ask/bahrain-whatsapp-group-links-2024-join-now-1767648724 - Bahrain listicle, unreachable from VM (proxy disconnect); browser-only.",
+ "https://www.whatshub.es/ - homepage mined (9 inline codes); detail pages hide the invite link ('Oculto por privacidad', Blazor click-to-reveal); sitemap lists 2,781 group ids (max 4006); browser-only for the rest.",
+ "https://whts.club/sitemap.xml - team16 slice; 16 detail pages from team28 leads file still unmined: 6448-memes-conspiranoicos-247, 6450-unete-amor-si-estas-aburrido, 6451-chismoseando-con-las-girls, 6452-, 6455-grupo-disponible-si-estas-aburridoa-ok, 6456-los-herederos-del-tato, 6457-promociona-tu-grupo, 6459-amigos-sin-fronteras, 6460-unete-para-socializar-d, 6465-benebolivianos-del-5-planeta, 6466-buscar-el-amor, 6470-ivan, 6472-academia-de-soldadura, 6497-shadow-and-love-stickers, 6500-gta-san-andreas-wallpapers-amp-fans, 6501-adeleelham-shadow-love.",
+ "https://gruposwapp.net/ - no new listings (newest still gw_listing id 525, 2026-11-09); listing 525 invite not extractable via WP REST or page HTML (no code anywhere); exhausted.",
+ "https://play.google.com/store/apps/details?id=com.grupos.solion - Solion app-only directory; no website.",
+ "groupslinks.com pages 13+ - team15 slice (not mined here)."
+]

@@ -1,0 +1,14 @@
+stageA 50/241 fetched
+stageA 100/241 fetched
+stageA 150/241 fetched
+stageA 200/241 fetched
+STAGE A DONE fetched_ok=241 fetch_failed=0 pages_with_codes=4
+  CODE PAGE: https://linkado.app/grupo/69c2b410ade22d629a5db89b ['EFPQQcra3thKZRluqc8beL', 'L8eB46bi9VpCeLFCC6Z5GC']
+  CODE PAGE: https://linkado.app/grupo/69ff2c17d5fd7c2a1e6a51fb ['DgzCfnkK7axILOpOTZT0qd']
+  CODE PAGE: https://linkado.app/grupo/6a5071ce79e7e337eca87cec ['EFPQQcra3thKZRluqc8beL', 'L8eB46bi9VpCeLFCC6Z5GC']
+  CODE PAGE: https://linkado.app/grupo/6a6ba836e23989897b640afe ['EFPQQcra3thKZRluqc8beL', 'L8eB46bi9VpCeLFCC6Z5GC']
+CONTROL live: ('live', 'JAY - PHP &amp; Python Full Stack Developer')
+CONTROL fabricated: ('dead', '')
+unique codes found: 3
+dup vs existing: 2; dup vs team06 verified: 0; new to verify: 1
+FINAL verified=0 pending=0 dead=1 leads=237 exclusions=0

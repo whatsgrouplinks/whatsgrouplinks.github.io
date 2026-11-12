@@ -1,0 +1,460 @@
+{
+ "controls": {
+  "known_live": {
+   "code": "KrDwdK8EIkB6vgauHg5M7N",
+   "http": 200,
+   "og_title": "JAY - PHP &amp; Python Full Stack Developer"
+  },
+  "fabricated": {
+   "code": "ZZZZZZZZZZZZZZZZZZZZZZ",
+   "http": 200,
+   "og_title": ""
+  }
+ },
+ "sample": [
+  {
+   "code": "JR3jno9U6Yi5qidLG6SjTI",
+   "team": 1,
+   "banked_name": "Guilda BROTA MESTRE",
+   "category": "Gaming",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Guilda BROTA MESTRE",
+   "attempts": 1
+  },
+  {
+   "code": "JaQbUSDjTS4E6pOx9UJpja",
+   "team": 1,
+   "banked_name": "INVESTIDOR INTELIGENT...",
+   "category": "Community & Social",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Investidor inteligente #2",
+   "attempts": 1
+  },
+  {
+   "code": "ErCIQDVWE8X3T9VwFOcspC",
+   "team": 2,
+   "banked_name": "Manto Shop 1.1",
+   "category": "Sports",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Manto Shop 1.1 &#x1f1f9;&#x1f1ed;",
+   "attempts": 1
+  },
+  {
+   "code": "KPmXycylrun97oLH6BbzKB",
+   "team": 2,
+   "banked_name": "Calçados Femininos",
+   "category": "Jobs",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Cal&#xe7;ados Femininos",
+   "attempts": 1
+  },
+  {
+   "code": "JHEGQpLoN5O2oLyy5IKsi5",
+   "team": 3,
+   "banked_name": "Rajasthan Group",
+   "category": "Community & Social",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x1f64f;&#x1f3fb;&#x1f4f0; &#x930;&#x93e;&#x91c;&#x938;&#x94d;&#x925;&#x93e;&#x928; &#x92a;&#x924;&#x94d;&#x930;&#x93f;&#x915;&#x93e; &#x917;&#x94d;&#x930;&#x941;&#x92a; &#x1f4f0;&#x1f64f;&#x1f3fb;",
+   "attempts": 1
+  },
+  {
+   "code": "LsOOgZXegdu6fhioSSYibx",
+   "team": 3,
+   "banked_name": "Pakistani Group",
+   "category": "Community & Social",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x646;&#x6cc;&#x648;&#x632; &#x627;&#x67e;&#x688;&#x6cc;&#x679; &#x6a9;&#x6d2; &#x644;&#x6cc;&#x6d2; &#x646;&#x6cc;&#x627; &#x6af;&#x631;&#x648;&#x67e; &#x644;&#x646;&#x6a9; &#x62c;&#x648;&#x627;&#x626;&#x646; &#x6a9;&#x631; &#x644;&#x6cc;&#x6ba; &#x6cc;&#x6c1; &#x6af;&#x631;&#x648;&#x67e; &#x62e;&#x62a;&#x645; &#x6c1;&#x648; &#x686;&#x6a9;&#x627; &#x6c1;&#x6d2;",
+   "attempts": 1
+  },
+  {
+   "code": "EiRL9m24z3sGIJxRMBUkKe",
+   "team": 5,
+   "banked_name": "🐉RPG WARTRANE FICHA📜",
+   "category": "Gaming",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x1f409;RPG WARTRANE FICHA&#x1f4dc;",
+   "attempts": 1
+  },
+  {
+   "code": "DIwIJfNswpx54Gecm6OD2e",
+   "team": 5,
+   "banked_name": "CITY 2.2🥶",
+   "category": "Friendship",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "CITY 2.2&#x1f976;",
+   "attempts": 1
+  },
+  {
+   "code": "KuEzkA15lu1CX8y4H1MrOd",
+   "team": 6,
+   "banked_name": "Malaysia WhatsApp Group Links 2026 – Jobs, Students & Community (Verified)",
+   "category": "Community & Social",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Bachelor in Accounting (SFMCH/ SBSCH)",
+   "attempts": 1
+  },
+  {
+   "code": "GKeNQz9jXIC80FoHF410CM",
+   "team": 6,
+   "banked_name": "1850+ Entertainment WhatsApp Group Links 2026 | Join Now",
+   "category": "Community & Social",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Zambia investment",
+   "attempts": 1
+  },
+  {
+   "code": "F3MeWqXHSoQ26psCf63nEM",
+   "team": 7,
+   "banked_name": "P H 7 . V E N D A S 👺✨",
+   "category": "Buy Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "P H 7 . V E N D A S &#x1f47a;&#x2728;",
+   "attempts": 1
+  },
+  {
+   "code": "LavrOXqis171cmNLfZFzqz",
+   "team": 8,
+   "banked_name": "Achados moda,Casa e maternidade#1",
+   "category": "Community & Social",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Achados moda,Casa e maternidade#1",
+   "attempts": 1
+  },
+  {
+   "code": "KZmKdBEaEB7LQYv4Gy6rFu",
+   "team": 8,
+   "banked_name": "O MELHOR IPTV",
+   "category": "Finance",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "O MELHOR IPTV",
+   "attempts": 1
+  },
+  {
+   "code": "CGLh6WpUmB0LwniAH7bGPV",
+   "team": 10,
+   "banked_name": "CORRENDO ATRÁS DO LUCRO💸📊",
+   "category": "Online Earning",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "CORRENDO ATR&#xc1;S DO LUCRO&#x1f4b8;&#x1f4ca;",
+   "attempts": 1
+  },
+  {
+   "code": "EEYtYl02In8G7qQ75JwQte",
+   "team": 12,
+   "banked_name": "AI TOOLS BUY/SELL",
+   "category": "Buy Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "AI TOOLS BUY/SELL BY NISAR",
+   "attempts": 1
+  },
+  {
+   "code": "JMm902PcnJD1aydj6yQpog",
+   "team": 13,
+   "banked_name": "SEJA UM REVENDEDOR DE IPTV E P2P",
+   "category": "Buy Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "SEJA UM REVENDEDOR DE IPTV E P2P",
+   "attempts": 1
+  },
+  {
+   "code": "KlRcfsetITbDLVc0mJp3tP",
+   "team": 13,
+   "banked_name": "Dallas Shoes 4",
+   "category": "Buy Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Dallas Shoes 4",
+   "attempts": 1
+  },
+  {
+   "code": "LlPojV2TKsj9tXUsrCSklQ",
+   "team": 14,
+   "banked_name": "Online fashion hub👔👕👖🧥",
+   "category": "Buy Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Online fashion hub&#x1f454;&#x1f455;&#x1f456;&#x1f9e5;",
+   "attempts": 1
+  },
+  {
+   "code": "ImqSF3FlFN8FVA7qY4efMC",
+   "team": 14,
+   "banked_name": "Lucky Football Team",
+   "category": "Sports",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Lucky Football Team",
+   "attempts": 1
+  },
+  {
+   "code": "F1XRZCd8BUH14jTb6fGBZi",
+   "team": 15,
+   "banked_name": "مـتـجـر الـعـولـقي🌟",
+   "category": "Entertainment",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x645;&#x640;&#x62a;&#x640;&#x62c;&#x640;&#x631; &#x627;&#x644;&#x640;&#x639;&#x640;&#x648;&#x644;&#x640;&#x642;&#x64a;&#x1f31f;",
+   "attempts": 1
+  },
+  {
+   "code": "CcE4tgWXKYf8HWGM18Lwba",
+   "team": 15,
+   "banked_name": "Chef Mustafa food",
+   "category": "Community & Social",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Chef Mustafa (YouTube)",
+   "attempts": 1
+  },
+  {
+   "code": "FFOYfHeeTOZIKFB5z5YtGE",
+   "team": 16,
+   "banked_name": "Clan Eclipse 🌘 Free Fire",
+   "category": "Gaming",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Clan Eclipse &#x1f318;",
+   "attempts": 1
+  },
+  {
+   "code": "LFg2sptF95sEdE48utmhG9",
+   "team": 16,
+   "banked_name": "Canserbero",
+   "category": "Community & Social",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x1d60a;&#x1d622;&#x1d62f;&#x1d634;&#x1d626;&#x1d633;&#x1d623;&#x1d626;&#x1d633;&#x1d630;&#x1f451;",
+   "attempts": 1
+  },
+  {
+   "code": "JyGeRALku8qFJhDoG3nHTv",
+   "team": 17,
+   "banked_name": "𝘾𝙞𝙣𝙚𝙥𝙤𝙡𝙞𝙨",
+   "category": "Entertainment",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x1d63e;&#x1d65e;&#x1d663;&#x1d65a;&#x1d665;&#x1d664;&#x1d661;&#x1d65e;&#x1d668;",
+   "attempts": 1
+  },
+  {
+   "code": "Ly8K5FbKgjUGDGQsy9vuFj",
+   "team": 17,
+   "banked_name": "gamers",
+   "category": "Gaming",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x1f579;&#xfe0f;&#x2580;&#x2584;&#x2580;&#x2584;&#x2580;&#x2584;gamers una nueva temporada &#x2580;&#x2584;&#x2580;&#x2584;&#x2580;&#x2584;&#x1f3ae;",
+   "attempts": 1
+  },
+  {
+   "code": "DwIUKUJUXKFBKHrZy46t41",
+   "team": 18,
+   "banked_name": "3AM2",
+   "category": "Education",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "3AM2",
+   "attempts": 1
+  },
+  {
+   "code": "KNYrKEAyd8SFje3uL0B0sa",
+   "team": 18,
+   "banked_name": "5AM1 ISA 🌱♻💚",
+   "category": "Education",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "5AM1 ISA &#x1f331;&#x267b;&#x1f49a;",
+   "attempts": 1
+  },
+  {
+   "code": "H3azwfXsxL5FX2Ro2tS34b",
+   "team": 20,
+   "banked_name": "Notiz Ebk",
+   "category": "Education",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Notiz Ebk",
+   "attempts": 1
+  },
+  {
+   "code": "Ku5cFk9cviVJAxT5Krcf5T",
+   "team": 22,
+   "banked_name": "𝕮𝕬𝕻𝕾 𝕾𝕰𝕸 𝖁𝕺𝕷𝕿𝕬🔥",
+   "category": "Entertainment",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x1d56e;&#x1d56c;&#x1d57b;&#x1d57e; &#x1d57e;&#x1d570;&#x1d578; &#x1d581;&#x1d57a;&#x1d577;&#x1d57f;&#x1d56c;&#x1f525;",
+   "attempts": 1
+  },
+  {
+   "code": "FnjjN7KZ50KKmr0U92H95R",
+   "team": 23,
+   "banked_name": "LEGEND VIP GROUP ♨️",
+   "category": "Friendship",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "LEGEND VIP GROUP &#x2668;&#xfe0f;",
+   "attempts": 1
+  },
+  {
+   "code": "KzJBW7FX9Ng44olQ6Ibz6D",
+   "team": 30,
+   "banked_name": "Pakistan Mall",
+   "category": "Buy Sell",
+   "verdict": "dead",
+   "http": 200,
+   "og_title": "",
+   "attempts": 2
+  },
+  {
+   "code": "DNE8uAirOeaCFiHuz5uyL3",
+   "team": 31,
+   "banked_name": "💫👠👜MR Collections👗👖💫",
+   "category": "Buy Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x1f4ab;&#x1f460;&#x1f45c;MR Collections&#x1f457;&#x1f456;&#x1f4ab;",
+   "attempts": 1
+  },
+  {
+   "code": "Ivy3v4kzdSX1FUjJwILmg8",
+   "team": 31,
+   "banked_name": "Brand collection",
+   "category": "Buy Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Brand collection",
+   "attempts": 1
+  },
+  {
+   "code": "F1fnJ8Y5jV58xCA9ArQWUC",
+   "team": 32,
+   "banked_name": "Auto sirbal Shopee Tanam🌱",
+   "category": "Buy Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Auto sirbal Shopee Tanam&#x1f331;",
+   "attempts": 1
+  },
+  {
+   "code": "CjydHFTAeYD02WsheiYNhy",
+   "team": 32,
+   "banked_name": "Shoppe Tanam 99",
+   "category": "Buy Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Shoppe Tanam 99",
+   "attempts": 1
+  },
+  {
+   "code": "ID4VGOe1hpVHpxebYo7UZT",
+   "team": 33,
+   "banked_name": "Enjoy hiking",
+   "category": "Sports",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Enjoy hiking",
+   "attempts": 1
+  },
+  {
+   "code": "JwkpDTb345e8ktheR3KFa1",
+   "team": 33,
+   "banked_name": "El Camino • Yoga & Vida Consciente",
+   "category": "Health",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "El Camino &#x2022; Yoga &amp; Vida Consciente",
+   "attempts": 1
+  },
+  {
+   "code": "BCRlVboFT63ARVGaUBQmYS",
+   "team": 34,
+   "banked_name": "STRED YOGA",
+   "category": "Health",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "STRED YOGA",
+   "attempts": 1
+  },
+  {
+   "code": "CoJvzISpmnwKsxYV5DNDs3",
+   "team": 35,
+   "banked_name": "WORK FROM HOME// TEAM OWAIS",
+   "category": "Jobs",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "WORK FROM HOME// TEAM OWAIS",
+   "attempts": 1
+  },
+  {
+   "code": "CoB0oL4TJZRCBA43H3KrWf",
+   "team": 35,
+   "banked_name": "Forex trading",
+   "category": "Finance",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Forex trading",
+   "attempts": 1
+  },
+  {
+   "code": "Dtg17f3Hryq1XM9XjcMhcw",
+   "team": 5,
+   "banked_name": "Amizade Verdadeira",
+   "category": "Friendship",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x251;&#x271;iz&#x251;&#x257;&#x25b; &#x475;&#x25b;&#x280;&#x257;&#x251;&#x257;&#x25b;i&#x280;&#x251; &#x1f64c;&#x1fac2;&#x1f603;&#x1f49b;",
+   "attempts": 1
+  },
+  {
+   "code": "CYjh8YprII8GQ08sOuahLW",
+   "team": 16,
+   "banked_name": "🏳️‍🌈LGBTQ MUNDIAL 🚫NO NUDES",
+   "category": "Sports",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "&#x1f3f3;&#xfe0f;&#x200d;&#x1f308;LGBTQ MUNDIAL &#x1f605;",
+   "attempts": 1
+  },
+  {
+   "code": "KDjyNz7lzt5BMotyWRlBmL",
+   "team": 32,
+   "banked_name": "Shopee Tanam 🍇🍈🍉",
+   "category": "Buy & Sell",
+   "verdict": "live",
+   "http": 200,
+   "og_title": "Shopee Tanam &#x1f347;&#x1f348;&#x1f349;",
+   "attempts": 1
+  }
+ ],
+ "drops": [
+  {
+   "code": "KzJBW7FX9Ng44olQ6Ibz6D",
+   "team": 30,
+   "name": "Pakistan Mall",
+   "reason": "coordinator spot-verify: dead (empty og:title on 2 spaced checks)"
+  }
+ ],
+ "summary": {
+  "checked": 43,
+  "live": 42,
+  "dead": 1,
+  "pending": 0
+ }
+}

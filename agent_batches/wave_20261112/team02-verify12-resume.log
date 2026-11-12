@@ -1,0 +1,26 @@
+merged 524 progress rows into state; state now 1791 codes
+extracted 3603 ok 3603 fetch_fail 0 no_code 3
+cands 2911 dup_existing 743 (of which already-merged-live 526) dup_within 87 exclusions 88
+awaiting file 2160 codes; rebuilt candidates 2911; awaiting not in rebuilt 7; rebuilt not in awaiting 758 (new from retried 19 pages)
+reuse live 150 dead 884 to_check 1877
+COOLDOWN 300s before resume (WhatsApp throttling window)...
+cooldown done, resuming verification at slow pace
+verified 50/1877 live 178 pending 0 dead 906 elapsed 203s
+verified 100/1877 live 212 pending 0 dead 922 elapsed 335s
+verified 150/1877 live 238 pending 0 dead 946 elapsed 539s
+verified 200/1877 live 265 pending 0 dead 969 elapsed 726s
+verified 250/1877 live 292 pending 0 dead 992 elapsed 913s
+verified 300/1877 live 320 pending 0 dead 1014 elapsed 1091s
+verified 350/1877 live 356 pending 0 dead 1028 elapsed 1224s
+verified 400/1877 live 379 pending 0 dead 1055 elapsed 1425s
+verified 450/1877 live 408 pending 0 dead 1076 elapsed 1611s
+verified 500/1877 live 440 pending 0 dead 1094 elapsed 1753s
+verified 550/1877 live 467 pending 0 dead 1117 elapsed 1935s
+verified 600/1877 live 494 pending 0 dead 1140 elapsed 2113s
+verified 650/1877 live 523 pending 0 dead 1161 elapsed 2279s
+verified 700/1877 live 550 pending 0 dead 1184 elapsed 2463s
+verified 750/1877 live 582 pending 0 dead 1202 elapsed 2606s
+verified 800/1877 live 617 pending 0 dead 1217 elapsed 2731s
+verified 850/1877 live 650 pending 0 dead 1234 elapsed 2864s
+verified 900/1877 live 680 pending 0 dead 1254 elapsed 3023s
+verified 950/1877 live 707 pending 0 dead 1277 elapsed 3201s

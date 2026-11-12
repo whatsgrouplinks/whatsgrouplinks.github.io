@@ -1,0 +1,513 @@
+{
+ "https://www.facebook.com/linktogroups": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /linktogroups (Caused by ProxyErr",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.britsconnect.com/brits-in-thailand": {
+  "status": 403,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.britsconnect.com/brits-in-indonesia": {
+  "status": 403,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.facebook.com/groups/TheUPSCGroup": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /login/?next=https%3A%2F%2Fwww.fa",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.forexgdp.com/forex-signals/forex-trading-whatsapp-group-links": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.forexgdp.com', port=443): Max retries exceeded with url: /forex-signals/forex-trading-what",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.forexgdp.com/scams/avoid-whatsapp-groups": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.forexgdp.com', port=443): Max retries exceeded with url: /scams/avoid-whatsapp-groups/ (Ca",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.grouplinks.app/group/pulsedev": {
+  "status": 200,
+  "codes": 0,
+  "title": "PulseDEV - Group Links | Group Links",
+  "bytes": 222508,
+  "err": ""
+ },
+ "https://www.grouplinks.app/group/purrpaws-official-chat": {
+  "status": 200,
+  "codes": 0,
+  "title": "🐾 PurrPAWS - Official Chat🐾 - Group Links | Group Links",
+  "bytes": 222707,
+  "err": ""
+ },
+ "https://www.forexgdp.com/forex-signals-whatsapp-group-in-south-africa": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.forexgdp.com', port=443): Max retries exceeded with url: /forex-signals/whatsapp-group-sou",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.grouplinks.app/group/mina-protocol": {
+  "status": 200,
+  "codes": 0,
+  "title": "Mina Protocol - Group Links | Group Links",
+  "bytes": 223302,
+  "err": ""
+ },
+ "https://www.greenerpractice.co.uk/local-groups": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.greenerpractice.co.uk', port=443): Max retries exceeded with url: /local-groups/ (Caused b",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /%D8%A7%D8%AA%D8%B5%D9%84-%D8%",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/%d8%b1%d9%88%d8%a7%d8%a8%d8%b7-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d9%85%d8%b1%d8%a7%d9%87%d9%82%d9%8a%d9%86-2026-%d8%af%d9%84%d9%8a%d9%84%d9%83-%d9%84": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /%D8%B1%D9%88%D8%A7%D8%A8%D8%B",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /%D8%A7%D8%AA%D9%81%D8%A7%D9%8",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/%d8%b1%d9%88%d8%a7%d8%a8%d8%b7-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /%D8%B1%D9%88%D8%A7%D8%A8%D8%B",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/%d9%88%d8%a7%d8%a8%d8%b7-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%b4%d8%ba%d8%a7%d9%84%d8%a9-%d8%af%d9%84%d9%8a%d9%84%d9%83-%d8%a7%d9%84%d8%b4%d8%a7%d9%85": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /%D9%88%D8%A7%D8%A8%D8%B7-%D9%",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/add-new-whatsapp": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /add-new-whatsapp/ (Caused by ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/author/asfar": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /author/asfar/ (Caused by Prox",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/channels": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /channels/ (Caused by ProxyErr",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/ (Caused by ProxyError",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-204808": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-204808/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-209703": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-209703/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-211517": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-211517/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-211780": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-211780/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214103": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214103/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214260": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214260/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214162": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214162/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214266": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214266/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214269": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214269/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214271": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214271/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214277": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214277/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214284": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214284/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214289": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214289/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214303": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214303/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214305": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214305/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214311": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214311/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214313": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214313/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214321": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214321/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214383": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214383/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214395": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214395/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214385": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214385/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214414": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214414/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214405": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214405/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214418": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214418/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214416": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214416/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214428": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214428/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214433": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214433/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214516": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214516/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214504": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214504/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214518": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214518/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214520": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214520/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214522": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214522/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214524": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214524/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214540": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214540/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.groupslinks.com/groups/group-214542": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214542/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.whatsgroup.in/bgmi-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/free-fire-whatsapp-group-links/comment-page-6": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/hr-jobs-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/html-css-whatsapp-group-links": {
+  "status": 200,
+  "codes": 10,
+  "title": "HTML CSS WhatsApp Group Links",
+  "bytes": 34466,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/free-fire-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/free-fire-whatsapp-group-links/comment-page-5": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/lyrics-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/pubg-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.groupslinks.com/groups/group-214771": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='www.groupslinks.com', port=443): Max retries exceeded with url: /groups/group-214771/ (Caused ",
+  "bytes": 0,
+  "err": "transport: ProxyError"
+ },
+ "https://www.whatsgroup.in/newspaper-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/sub4sub-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/puzzles-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/whatsapp-groups-category": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/winzo-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whatsgroup.in/video-editors-whatsapp-group-links": {
+  "status": 404,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://www.whtsagrouplinks.com/blogger-whatsapp-group-link": {
+  "status": 200,
+  "codes": 36,
+  "title": "30+ Active Blogger WhatsApp Group Links 2026",
+  "bytes": 59619,
+  "err": ""
+ },
+ "https://www.whtsagroupslinks.com": {
+  "status": 403,
+  "codes": 0,
+  "title": "",
+  "bytes": 0,
+  "err": ""
+ },
+ "https://zoneofwagroup.com": {
+  "status": 0,
+  "codes": 0,
+  "title": "HTTPSConnectionPool(host='zoneofwagroup.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFErro",
+  "bytes": 0,
+  "err": "transport: SSLError"
+ }
+}

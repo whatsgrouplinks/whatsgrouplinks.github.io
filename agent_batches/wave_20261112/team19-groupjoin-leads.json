@@ -1,0 +1,14 @@
+[
+ {
+  "note": "WORKING newest-first feed (no tag param): page 1 spans 2026-11-08..2026-11-12; poll until created_at < cutoff. Page 2 spans 2026-11-05..2026-11-08, max 2026-11-08 06:08 — nothing fresher than yesterday's newest there.",
+  "url": "https://api.groupjoin.link/groups?page=1&limit=20&safeSearch=blur"
+ },
+ {
+  "note": "Homepage listing (JS-rendered, backed by the same API). Detail pages /group/<group_uid> return HTTP 200 — usable for content screening if a title is ambiguous.",
+  "url": "https://groupjoin.link/"
+ },
+ {
+  "note": "STALE — tag=onlynew feed is Adult-only, May-Aug 2026 items; do not use as the 'new' source.",
+  "url": "https://api.groupjoin.link/groups?tag=onlynew&page=1&limit=20&safeSearch=blur"
+ }
+]

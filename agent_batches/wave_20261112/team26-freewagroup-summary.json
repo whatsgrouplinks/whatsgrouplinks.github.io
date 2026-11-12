@@ -1,0 +1,27 @@
+{
+ "team": 26,
+ "slice": "freewagroup.com",
+ "wave": "20261112",
+ "checked_at": "2026-11-12T12:01:08+05:00",
+ "sources": [
+  "https://freewagroup.com/wp-json/wp/v2/posts?per_page=100&_fields=id,date,modified,slug,link,title&orderby=date&order=desc&page=1",
+  "https://freewagroup.com/wp-json/wp/v2/posts?per_page=5&_fields=id,date,modified,slug&orderby=modified&order=desc"
+ ],
+ "site_status": "UNCHANGED since 2026-11-08",
+ "post_count": 313,
+ "total_pages": 4,
+ "newest_post": {
+  "date": "2026-11-08T22:02:20",
+  "modified": "2026-11-08T22:02:21",
+  "slug": "gacha-life-club",
+  "id": 1495
+ },
+ "max_modified": "2026-11-08T22:02:21",
+ "verified": 0,
+ "pending": 0,
+ "leads": 38,
+ "dead": 0,
+ "exclusions": [],
+ "resume": "Site UNCHANGED since Nov 10/11: still 313 posts (X-WP-Total), newest post 2026-11-08T22:02:20 (gacha-life-club), global max modified 2026-11-08T22:02:21 (verified via orderby=modified desc). No posts added or modified after 2026-11-08. Per slice instructions, no mining/re-verification performed; the 106 fresh-vs-union codes remain the Nov 10 set already verified DEAD (team21 spot re-check Nov 11). Only re-run if the directory publishes new posts (check newest post date / max modified via the WP REST API).",
+ "notes": "Empty result is valid per task step 1. Leads = the same 38 category/theme listing-page URLs carried over from team21 (Nov 11), site unchanged. No controls run: no codes were verified this run because no new posts exist."
+}

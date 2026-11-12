@@ -1,0 +1,55 @@
+start retry2: banked=15 done_details=40
+  fetch https://tugrupo.online/whatsapp/chat/english-4-u-2/ HTTP 200 botcheck=True try 1
+  retry2-detail OK https://tugrupo.online/whatsapp/chat/english-4-u-2/ CbE5AGemOr7Lsp5XRtAC8a
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-clan/ HTTP 200 botcheck=True try 1
+  retry2-detail OK https://tugrupo.online/whatsapp/juegos/clash-royale-clan/ LCiYx9NH1IsDHITgR788Vs
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 4
+RETRY2 PAGE 4 FAILED
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=5 HTTP 200 botcheck=True try 1
+RETRY2 PAGE 5: 18 cards
+  fetch https://tugrupo.online/whatsapp/rol/el-reino-del-rol/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/rol/el-reino-del-rol/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/rol/el-reino-del-rol/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/juegos/playstation-online/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/juegos/playstation-online/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/juegos/playstation-online/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/anime/jojos-bizarre-adventure/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/anime/jojos-bizarre-adventure/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/anime/jojos-bizarre-adventure/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/chat/wattpad-2/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/chat/wattpad-2/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/chat/wattpad-2/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/juegos/astral1/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/anime/bits-de-amistad/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/anime/bits-de-amistad/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/anime/bits-de-amistad/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/rol/grupo-de-rol-de-one-piece/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/rol/grupo-de-rol-de-one-piece/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/rol/grupo-de-rol-de-one-piece/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=6 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=6 HTTP 200 botcheck=True try 2
+RETRY2 PAGE 6: 18 cards
+  fetch https://tugrupo.online/whatsapp/rol/looby-bluelock-futbol/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/rol/looby-bluelock-futbol/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/rol/looby-bluelock-futbol/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/juegos/%f0%9f%94%b0fornite-latinoamerica%f0%9f%9 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/juegos/%f0%9f%94%b0fornite-latinoamerica%f0%9f%9 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/juegos/%f0%9f%94%b0fornite-latinoamerica%f0%9f%9 HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/anime/%f0%9f%8d%acamistad-musica-anime-anko-mita HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/anime/%f0%9f%8d%acamistad-musica-anime-anko-mita HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/anime/%f0%9f%8d%acamistad-musica-anime-anko-mita HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/diversion/romance-wattpad/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/chat/bolivianidades/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/chat/bolivianidades/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/chat/bolivianidades/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/rol/de-todo-hay/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/rol/de-todo-hay/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/rol/de-todo-hay/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/diversion/%f0%9f%8c%b8floresplantas%f0%9f%8c%b1% HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/diversion/%f0%9f%8c%b8floresplantas%f0%9f%8c%b1% HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/musica/mundo-musical/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/musica/mundo-musical/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/musica/mundo-musical/ HTTP 200 botcheck=True try 3

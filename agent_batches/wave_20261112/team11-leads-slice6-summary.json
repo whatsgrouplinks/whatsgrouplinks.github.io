@@ -1,0 +1,36 @@
+{
+  "team": "team11",
+  "slice": "leads_slice6",
+  "task": "failed-listing retry of wave_20261111 team06 slice 6",
+  "sources": [
+    "linkado.app listing pages (241 failed/no-code pages from team06)"
+  ],
+  "pages_retried": 241,
+  "pages_fetch_ok": 241,
+  "pages_fetch_failed": 0,
+  "pages_with_codes_now": 4,
+  "codes_found": 3,
+  "dup_vs_existing": 2,
+  "dup_vs_team06_verified": 0,
+  "codes_verified": 1,
+  "verified": 0,
+  "pending": 0,
+  "dead": 1,
+  "leads": 241,
+  "exclusions": [],
+  "lead_reasons_sample": {
+    "https://linkado.app/grupo/685d442fd6ee77cc4e064aa7": "no WhatsApp invite; join button points to Telegram (https://t.me/sheikdostreaming)",
+    "https://linkado.app/grupo/685f373bd6ee77cc4e06c061": "no WhatsApp invite; join button points to Telegram (https://t.me/anabeatrizzps)",
+    "https://linkado.app/grupo/6860a08dd6ee77cc4e06fab7": "no WhatsApp invite; join button points to Telegram (https://t.me/superpromocoes_shopeekwai)",
+    "https://linkado.app/grupo/6867a914d6ee77cc4e084b41": "no WhatsApp invite; join button points to Telegram (https://t.me/ttopatudopordinheiro)",
+    "https://linkado.app/grupo/6867afa4d6ee77cc4e084bea": "no WhatsApp invite; join button points to Telegram (https://t.me/grupomagavideos)",
+    "https://linkado.app/grupo/686bce33d6ee77cc4e0907ad": "no WhatsApp invite; join button points to Telegram (https://t.me/elitemegavideos)",
+    "https://linkado.app/grupo/686be338d6ee77cc4e090c84": "no WhatsApp invite; join button points to Telegram (https://t.me/rashantystore)",
+    "https://linkado.app/grupo/686ddcc9d6ee77cc4e0977c9": "no WhatsApp invite; join button points to Telegram (https://t.me/achadinhosshoppe0001)",
+    "https://linkado.app/grupo/686feb83d6ee77cc4e09d07d": "no WhatsApp invite; join button points to Telegram (https://t.me/AulaseCursos)",
+    "https://linkado.app/grupo/68714ed18c0b9b89b4bfde78": "no WhatsApp invite; join button points to Telegram (https://t.me/+fAlP24pg-rM3YjNh)"
+  },
+  "team06_pending_recheck": "team06-leads-slice6-pending.json was empty ([]); nothing to re-check",
+  "resume": "complete: all 241 pages re-fetched; stageA checkpoint team11-stageA-checkpoint.json; stageB checkpoint team11-stageB-checkpoint.json; all 241 still-code-less pages in team11-leads-slice6-leads.json with reasons in team11-leads-slice6-lead-reasons.json",
+  "notes": "Retry of the 241 linkado.app pages that had no invite code on 2026-11-11. Join-button breakdown of all 241: 231 point to Telegram (t.me/...), 9 to a WhatsApp Channel (whatsapp.com/channel/..., not a group invite), 1 has no join button. 4 pages contained stray chat.whatsapp.com codes in the page body (cross-links/related-group cards, NOT the listing's own invite): EFPQQcra3thKZRluqc8beL + L8eB46bi9VpCeLFCC6Z5GC already in existing codes, DgzCfnkK7axILOpOTZT0qd verified DEAD. No usable own-group invite on any of the 241 pages; all 241 stay as leads. No codes guessed."
+}

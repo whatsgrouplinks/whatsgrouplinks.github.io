@@ -1,0 +1,239 @@
+{
+  "team": "team13",
+  "task": "wave_20261112 pending re-check of wave_20261111_pending_all.json",
+  "source_total": 1111,
+  "verified_kept_candidates": 57,
+  "still_pending": 101,
+  "dead": 934,
+  "excluded_existing_union": 11,
+  "excluded_content_screen": 6,
+  "leads_no_code": 2,
+  "exclusions": [
+    {
+      "code": "BT5lEoVolBhIgEd3H4gkjU",
+      "name": "Grupo de WhatsApp Resenha masculina 😏🔞 - LGBT",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "FWaLiQKDNJU8DW21dPcpgN",
+      "name": "Grupo de WhatsApp DIMI GAMER – Ofertas & Tecnolog... - Games",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "JtBJr5TXUJDFOR6Ngjw1Qn",
+      "name": "Grupo de WhatsApp ➤ Grupo de Amizade - Projeto C... - Namoro",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "Ewfc2LweXAlIXeqGlYA47g",
+      "name": "1850+ Entertainment WhatsApp Group Links 2026 | Join Now",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "KilgsNKL3aBEZGMvPYrK26",
+      "name": "2️⃣Radeon Airdrop international 📌",
+      "reason": "content screen DROP: crypto-airdrop scam"
+    },
+    {
+      "code": "JZB5dCny7LaACa8lMbizJy",
+      "name": "Malaysia WhatsApp Group Links 2026 – Jobs, Students & Community (Verified)",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "HpQ4LT9ZRXR2sUs9ABJ11X",
+      "name": "Friendship group (name to confirm)",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "CvWFcuISzqxIkmLCf0TAbE",
+      "name": "Saudi friendship group (name to confirm)",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "L0z8mtqCPV0CkfZnw76Iec",
+      "name": "Friendship group (name to confirm)",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "DBrKSi4LKgI62owtUqZqUQ",
+      "name": "Sex chat 😋😋",
+      "reason": "content screen DROP: explicit sexual content"
+    },
+    {
+      "code": "I4jvFgDg4j24YVVKWUfaVD",
+      "name": "Sexy chat",
+      "reason": "content screen DROP: explicit sexual content"
+    },
+    {
+      "code": "ChQ53L6gyJJChMeQDsTTcO",
+      "name": "Lahore Private Girls",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "HEd8YypmDP79JFDbMupwuS",
+      "name": "",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "LQsFNeDaq9W03ptXrgHcaK",
+      "name": "",
+      "reason": "already in .existing_codes.json union — never bank"
+    },
+    {
+      "code": "KQ8iq2xJWdwATy9BgcGvb9",
+      "name": "Bug mines #3🤑🤯",
+      "reason": "content screen DROP (post-pass re-screen): gambling Mines-bug/signal promo"
+    },
+    {
+      "code": "LmzOi65q7PLLdQDTGuFJ0T",
+      "name": "Grupo VIP SB 14 resultado e palpite",
+      "reason": "content screen DROP (post-pass re-screen): sports-betting tipster (palpite)"
+    },
+    {
+      "code": "KrlclnHLTF92zoufKilMdh",
+      "name": "Rajkot Village Bhabhi",
+      "reason": "content screen DROP (post-pass re-screen): bhabhi-genre group (Desi bhabhi rule)"
+    }
+  ],
+  "resume_point": "complete — all 1111 source entries processed",
+  "controls": "known-live KrDwdK8EIkB6vgauHg5M7N showed og:title (live); fabricated ZZZZZZZZZZZZZZZZZZZZZZ empty og:title (dead signal)",
+  "method": "python requests Session keep-alive, browser UA, 60s timeout (75s for first 115 codes), 1.5-2.5s spacing, one spaced retry (5s; 10s for first 115 codes) on empty og:title before dead; no in-run retry for codes whose source reason already documented empty og:title after spaced attempts (today's fresh empty = 3rd confirmation); 429/timeout -> pending. og:title ONLY: og:description is a constant 'WhatsApp Group Invite' on live and dead pages alike (verified on fabricated control), so it cannot serve as a live fallback.",
+  "category_mapping": "Online Earning -> Jobs; Buy Sell -> Buy & Sell; empty -> Community & Social",
+  "post_pass_fixup": {
+    "names_fixed_from_og_title": [
+      {
+        "code": "KUn3aLZV54FEBVS95SmHOP",
+        "old": "1000+ Online Earning WhatsApp Group Links 2026 | Join Now",
+        "new": "Earning App"
+      },
+      {
+        "code": "KQrNDwpu8CUD1KilfOAoyp",
+        "old": "1000+ Online Earning WhatsApp Group Links 2026 | Join Now",
+        "new": "Online Earning Pakistan"
+      },
+      {
+        "code": "KCH1mVenycH6kXAWmM5qrA",
+        "old": "1000+ Online Earning WhatsApp Group Links 2026 | Join Now",
+        "new": "🎁 Aviso Money Cash 💰"
+      },
+      {
+        "code": "EJ9tzBKeGoCB3ESOEIP8LF",
+        "old": "1000+ Online Earning WhatsApp Group Links 2026 | Join Now",
+        "new": "Watch & Earn 🤑❤️‍🔥💯"
+      },
+      {
+        "code": "Ek92sScI6KG3SI3TTbqBZU",
+        "old": "100+ Social Media Marketing WhatsApp Group Links 2026",
+        "new": "MUDDASIR SMM AGENCY"
+      },
+      {
+        "code": "DWyo0QkhFZFBNWbpPRKg91",
+        "old": "1850+ Entertainment WhatsApp Group Links 2026 | Join Now",
+        "new": "⇆♡V͇̿I͇̿P͇̿_◁➳ALL➳HD➳ˢᵒᶦⁿg▷⇆"
+      },
+      {
+        "code": "GKeNQz9jXIC80FoHF410CM",
+        "old": "1850+ Entertainment WhatsApp Group Links 2026 | Join Now",
+        "new": "Zambia investment"
+      },
+      {
+        "code": "JiIqOyzGs06G862f95PvRs",
+        "old": "850+ Join Active Faisalabad WhatsApp Group Links [2026]",
+        "new": "Just for funn🙌🏻😂"
+      },
+      {
+        "code": "Cny3X90YPUm47Kx7ieeMD3",
+        "old": "1460+ Best Pakistani WhatsApp Group Links 2026 | Join Now",
+        "new": "Test Preparation 4"
+      },
+      {
+        "code": "IDbSoF7KLcu6X6GYuVZcso",
+        "old": "995+ Active TikTok WhatsApp Group Links [2026]",
+        "new": "TIKTOK ACCOUNT BUY AND SALE FREE ENERING APP GROUP"
+      },
+      {
+        "code": "EVQlWXmWpGVAflCebhPzrH",
+        "old": "995+ Active TikTok WhatsApp Group Links [2026]",
+        "new": "Tik tok viral ads"
+      },
+      {
+        "code": "EpqbFvr6drlKYIvWO10lGp",
+        "old": "995+ Active TikTok WhatsApp Group Links [2026]",
+        "new": "Profit done ✅ alhumdulillah"
+      },
+      {
+        "code": "GUHSy4AR7V54le1sa5FfZd",
+        "old": "825+ Active Marathi WhatsApp Group Links [2026]",
+        "new": "गॅस सिलेंडर"
+      },
+      {
+        "code": "Ia9I0Mk4lS9BP3bqwMJRdN",
+        "old": "470+ Join Latest Breaking News WhatsApp Group Links 2026",
+        "new": "Greata social media services"
+      }
+    ],
+    "names_kept_on_refetch_failure": [],
+    "dropped_on_rescreen": [
+      {
+        "code": "KQ8iq2xJWdwATy9BgcGvb9",
+        "name": "Bug mines #3🤑🤯",
+        "reason": "gambling Mines-bug/signal promo"
+      },
+      {
+        "code": "LmzOi65q7PLLdQDTGuFJ0T",
+        "name": "Grupo VIP SB 14 resultado e palpite",
+        "reason": "sports-betting tipster (palpite)"
+      }
+    ],
+    "note": "Source names that were directory-page titles (e.g. '1000+ Online Earning WhatsApp Group Links 2026 | Join Now') were replaced with the live og:title (the real group name) for pre-patch banked items; the main script applied the same rule inline from index 461 on. Two pre-patch betting items were dropped by the extended PT screen (palpite / Mines-bug) on re-screen."
+  },
+  "post_pass_fixup2": {
+    "names_fixed_from_og_title": [
+      {
+        "code": "DDOg88ew0Ij4BN45qZqfpI",
+        "old": "930+ Active Palestine WhatsApp Groups Links [2026]",
+        "new": "SAVE PALESTINE (DONATION)"
+      },
+      {
+        "code": "EKNHSVyS7SpCeKe0XflqBF",
+        "old": "930+ Active Palestine WhatsApp Groups Links [2026]",
+        "new": "Free Palestine 🇵🇸"
+      },
+      {
+        "code": "F98lSFs2ge967dAABj29vO",
+        "old": "930+ Active Palestine WhatsApp Groups Links [2026]",
+        "new": "Free Palestine 🇵🇸🤲🏻😭💔"
+      },
+      {
+        "code": "KsvRhzdD0531gxndLSsz6y",
+        "old": "930+ Active Palestine WhatsApp Groups Links [2026]",
+        "new": "CHINA VS PALESTINE"
+      },
+      {
+        "code": "HebGTwGMxY010JUdUTS1Pv",
+        "old": "930+ Active Palestine WhatsApp Groups Links [2026]",
+        "new": "BKS group India 🇮🇳2"
+      },
+      {
+        "code": "GjmaqDGhfqj6jI6feLIVHz",
+        "old": "930+ Active Palestine WhatsApp Groups Links [2026]",
+        "new": "Free Palestine"
+      },
+      {
+        "code": "LWo3loVK53n7BZIsCAwJiL",
+        "old": "background: #ffffff;\"> 🌿 قَــرُوبْ",
+        "new": "رسم✏سكشن (١ ،٣)"
+      }
+    ],
+    "names_kept_on_refetch_failure": [],
+    "dropped_on_rescreen": [
+      {
+        "code": "KrlclnHLTF92zoufKilMdh",
+        "name": "Rajkot Village Bhabhi",
+        "reason": "bhabhi-genre group"
+      }
+    ],
+    "descriptions_normalized": "all 57 descriptions rewritten to schema format 'Join <name>, an active WhatsApp group for <category>...'",
+    "note": "Round 2 caught 6 'WhatsApp Groups Links' (plural) directory titles missed by round 1's singular filter, plus one CSS-fragment name; all re-fetched from live og:title. One bhabhi-genre group dropped under the listed Desi bhabhi rule."
+  }
+}

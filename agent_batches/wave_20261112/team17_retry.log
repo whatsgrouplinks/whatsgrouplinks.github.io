@@ -1,0 +1,43 @@
+start retry: banked=14 done_details=39 seen_codes=39
+  fetch https://tugrupo.online/whatsapp/chat/english-4-u-2/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/chat/english-4-u-2/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/chat/english-4-u-2/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-clan/ HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-clan/ HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-clan/ HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/juegos/clash-royale-deadbread-latinoamericana/ HTTP 200 botcheck=True try 1
+  retry-detail OK https://tugrupo.online/whatsapp/juegos/clash-royale-deadbread-latinoamericana/ BVjarCDl05AHtMgiktqmLe
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=4 HTTP 200 botcheck=True try 4
+RETRY PAGE 4 FAILED
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=5 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=5 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=5 HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=5 HTTP 200 botcheck=True try 4
+RETRY PAGE 5 FAILED
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=6 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=6 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=6 HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=6 HTTP 200 botcheck=True try 4
+RETRY PAGE 6 FAILED
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=7 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=7 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=7 HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=7 HTTP 200 botcheck=True try 4
+RETRY PAGE 7 FAILED
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=8 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=8 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=8 HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=8 HTTP 200 botcheck=True try 4
+RETRY PAGE 8 FAILED
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=9 HTTP 200 botcheck=True try 1
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=9 HTTP 200 botcheck=True try 2
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=9 HTTP 200 botcheck=True try 3
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=9 HTTP 200 botcheck=True try 4
+RETRY PAGE 9 FAILED
+RETRY MINED 1 pages_done=[] pages_failed=[4, 5, 6, 7, 8, 9] detail_fail=2
+  LIVE BVjarCDl05AHtMgiktqmLe 'Clash royale deadbread -Latinoamericana-'
+RETRY SUMMARY {"pages_done": [], "pages_failed": [4, 5, 6, 7, 8, 9], "new_mined": 1, "new_verified_kept": 1, "new_pending": 0, "new_dead": 0, "new_exclusions": [], "detail_fail": 2}
+TOTALS candidates= 15 pending= 0 leads= 8

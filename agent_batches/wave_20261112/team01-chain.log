@@ -1,0 +1,5 @@
+[07:50:17] chain: waiting for verifier pid 13421
+[08:20:04] chain: waiting for verifier pid 1767
+[09:19:04] chain: verifier pid 1767 exited; starting deep-candidates verify
+[10:11:09] chain: waiting for verifier pid 1748
+[10:43:10] chain: waiting for verifier pid 5261

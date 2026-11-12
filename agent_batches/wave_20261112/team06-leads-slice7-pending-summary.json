@@ -1,0 +1,61 @@
+{
+ "team": "TEAM06",
+ "wave": "20261112",
+ "slice": "7 pending re-check (source: wave_20261111/team07-leads-slice7-pending.json)",
+ "input_pending_codes": 599,
+ "processed": 599,
+ "verified_kept_live": 42,
+ "live_but_already_in_groups_json_dropped": 5,
+ "dup_existing": [
+  {
+   "invite": "https://chat.whatsapp.com/BT5lEoVolBhIgEd3H4gkjU",
+   "name": "Grupo de WhatsApp Resenha masculina 😏🔞 - LGBT",
+   "reason": "already in groups.json (.existing_codes.json)"
+  },
+  {
+   "invite": "https://chat.whatsapp.com/FWaLiQKDNJU8DW21dPcpgN",
+   "name": "Grupo de WhatsApp DIMI GAMER – Ofertas & Tecnolog... - Games",
+   "reason": "already in groups.json (.existing_codes.json)"
+  },
+  {
+   "invite": "https://chat.whatsapp.com/JtBJr5TXUJDFOR6Ngjw1Qn",
+   "name": "Grupo de WhatsApp ➤ Grupo de Amizade - Projeto C... - Namoro",
+   "reason": "already in groups.json (.existing_codes.json)"
+  },
+  {
+   "invite": "https://chat.whatsapp.com/Ewfc2LweXAlIXeqGlYA47g",
+   "name": "1850+ Entertainment WhatsApp Group Links 2026 | Join Now",
+   "reason": "already in groups.json (.existing_codes.json)"
+  },
+  {
+   "invite": "https://chat.whatsapp.com/JZB5dCny7LaACa8lMbizJy",
+   "name": "Malaysia WhatsApp Group Links 2026 – Jobs, Students & Community (Verified)",
+   "reason": "already in groups.json (.existing_codes.json)"
+  }
+ ],
+ "dead_empty_og_title": 520,
+ "still_pending_transport_failure": 31,
+ "excluded_content_screen": 1,
+ "exclusions": [
+  {
+   "invite": "https://chat.whatsapp.com/GmZZcuXaas4DtKJQAyTMVP",
+   "name": "Grupo de WhatsApp HACKER PARA FF - Comprar e venda",
+   "reason": "scam name (hack/trading/airdrop/betting)"
+  }
+ ],
+ "failed_listing_pages_sampled": 80,
+ "failed_listing_pages_resolved": 52,
+ "failed_listing_pages_still_failed_banked_as_leads": 28,
+ "fresh_codes_spotted_on_resolved_listing_pages_unverified": 111,
+ "fresh_codes_unverified_note": "111 fresh (not in groups.json) invite codes were seen on resolved listing pages; NOT verified against WhatsApp and NOT banked as candidates — they need a fresh verification pass.",
+ "resume_point": "COMPLETE — all 599 pending codes processed; no resume needed. Still-pending 31 codes remain for a future quiet-window re-check.",
+ "method_notes": [
+  "Controls first: known-live code from groups.json showed non-empty og:title; fabricated code showed empty og:title.",
+  "LIVE = non-empty og:title ONLY. og:description is always the generic 'WhatsApp Group Invite' on both live and dead pages, so it is not a live signal (an early run using it as fallback was discarded and re-run).",
+  "200 + empty og:title = dead/revoked invite page (full 220KB HTML); 30/30 such codes stayed empty on re-fetch, so no retry was done on empty pages in the final runs.",
+  "Transport failures (429/timeout) got one spaced retry (20-60s), then banked as pending — never called dead.",
+  "WhatsApp 429 walls hit repeatedly under concurrent wave load (team13 rechecking in parallel); auto 180s pauses after 3 consecutive failures; two manual pauses to let the throttle clear.",
+  "One code dropped by content screen (HACKER PARA FF — paid-hack group). 'Bursa Sohbet' kept (false-positive 'bet' inside Turkish 'Sohbet'); 'Crypto Trading' links group kept (generic trading name, not airdrop/binary/daily-profit scam).",
+  "All 47 live candidates checked against .existing_codes.json (112,070 codes) — zero duplicates; deduped within output."
+ ]
+}

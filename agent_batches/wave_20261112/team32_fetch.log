@@ -1,0 +1,17 @@
+tls_shopee: len=176577 via=requests status=200  codes=0 bitly=0 short=0
+tls_cat_grup: len=129187 via=curl rc=0  codes=0 bitly=0 short=0
+aussiesin: len=0 via=requests FAIL curl also failed rc=52 curl: (52) Empty reply from server codes=0 bitly=0 short=0
+joinnchat_ph_girl: len=120264 via=requests status=200  codes=0 bitly=0 short=0
+virenial_yt: len=193762 via=requests status=200  codes=0 bitly=0 short=0
+helloworldawaits: len=131151 via=requests status=200  codes=0 bitly=0 short=0
+whtsgrouplink_travel: len=12150 via=requests status=200  codes=0 bitly=0 short=0
+grouplink_intl: len=208604 via=requests status=200  codes=34 bitly=0 short=0
+scribd_11rb_a: len=1286650 via=requests status=200  codes=0 bitly=0 short=0
+scribd_11rb_b: len=1512315 via=curl rc=0  codes=0 bitly=0 short=0
+grouplinksforyou_feed: len=2900147 via=requests status=200  codes=0 bitly=0 short=0
+techsslash_ph: len=112310 via=requests status=200  codes=11 bitly=0 short=0
+whtsagrouplinks_intl: len=548 via=requests status=403  codes=0 bitly=0 short=0
+groupwa_jobs: len=199109 via=requests status=200  codes=10 bitly=0 short=0
+groupwa_education: len=197358 via=requests status=200  codes=10 bitly=0 short=0
+groupwa_gaming: len=198078 via=requests status=200  codes=10 bitly=0 short=0
+FETCH DONE

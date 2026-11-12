@@ -1,0 +1,22 @@
+[
+ {
+  "url": "https://www.whtsagroupslinks.com/",
+  "category": "Community & Social",
+  "note": "Carried from team30: fetched 2026-11-11, 342 bytes only (blocked/empty via curl); needs browser fetch. Not re-attempted this wave."
+ },
+ {
+  "url": "https://blog.toolkik.com/best-educational-whatsapp-telegram-groups-for-students-2026/",
+  "category": "Education",
+  "note": "Out of slice (education = team29); listed only as a pointer, not mined by team04."
+ },
+ {
+  "url": "https://77links.com/educational/",
+  "category": "Education",
+  "note": "NEW: 77links category pages are archives listing individual post pages (e.g. /active-hamster-kombat-whatsapp-group/, /educational-whatsapp-channels/), not invite links. The post pages themselves are unmined — fetch posts from /gaming/, /news/, /entertainment/, /jobs/, /education/, /islamic/, /cricket/, /poetry/ archives next wave. Homepage + /status/ + /romantic/ post pages already mined this wave."
+ },
+ {
+  "url": "https://grouplink.com.in/",
+  "category": "Entertainment",
+  "note": "Homepage mined this wave (313 unique codes, 55 fresh, 2 of the 4 live were scam/betting drops). Its 'Latest Articles' subpages are unmined — fetch next wave."
+ }
+]

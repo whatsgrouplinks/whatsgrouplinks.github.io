@@ -1,0 +1,83 @@
+input leads 73 existing-codes 112070
+CONTROL known-live KrDwdK8EIkB6vgauHg5M7N: status=live og_title='JAY - PHP & Python Full Stack Developer' err=
+CONTROL fabricated ZZZZZZZZZZZZZZZZZZZZ: status=dead og_title='' err=empty og:title after retry
+fetch 0 codes=0 bytes=0 https://www.facebook.com/linktogroups transport: ProxyError
+fetch 403 codes=0 bytes=0 https://www.britsconnect.com/brits-in-thailand 
+fetch 403 codes=0 bytes=0 https://www.britsconnect.com/brits-in-indonesia 
+fetch 0 codes=0 bytes=0 https://www.facebook.com/groups/TheUPSCGroup transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.forexgdp.com/forex-signals/forex-trading-whatsapp-group-links transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.forexgdp.com/scams/avoid-whatsapp-groups transport: ProxyError
+fetch 200 codes=0 bytes=222508 https://www.grouplinks.app/group/pulsedev 
+fetch 200 codes=0 bytes=222707 https://www.grouplinks.app/group/purrpaws-official-chat 
+fetch 0 codes=0 bytes=0 https://www.forexgdp.com/forex-signals-whatsapp-group-in-south-africa transport: ProxyError
+fetch 200 codes=0 bytes=223302 https://www.grouplinks.app/group/mina-protocol 
+fetch 0 codes=0 bytes=0 https://www.greenerpractice.co.uk/local-groups transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/%d8%b1%d9%88%d8%a7%d8%a8%d8%b7-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%a transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%a transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/%d8%b1%d9%88%d8%a7%d8%a8%d8%b7-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%a transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/%d9%88%d8%a7%d8%a8%d8%b7-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa-%d9% transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/add-new-whatsapp transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/author/asfar transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/channels transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-204808 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-209703 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-211517 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-211780 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214103 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214260 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214162 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214266 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214269 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214271 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214277 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214284 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214289 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214303 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214305 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214311 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214313 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214321 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214383 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214395 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214385 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214414 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214405 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214418 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214416 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214428 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214433 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214516 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214504 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214518 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214520 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214522 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214524 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214540 transport: ProxyError
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214542 transport: ProxyError
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/bgmi-whatsapp-group-links 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/free-fire-whatsapp-group-links/comment-page-6 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/hr-jobs-whatsapp-group-links 
+fetch 200 codes=10 bytes=34466 https://www.whatsgroup.in/html-css-whatsapp-group-links 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/free-fire-whatsapp-group-links 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/free-fire-whatsapp-group-links/comment-page-5 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/lyrics-whatsapp-group-links 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/pubg-whatsapp-group-links 
+fetch 0 codes=0 bytes=0 https://www.groupslinks.com/groups/group-214771 transport: ProxyError
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/newspaper-whatsapp-group-links 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/sub4sub-whatsapp-group-links 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/puzzles-whatsapp-group-links 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/whatsapp-groups-category 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/winzo-whatsapp-group-links 
+fetch 404 codes=0 bytes=0 https://www.whatsgroup.in/video-editors-whatsapp-group-links 
+fetch 200 codes=36 bytes=59619 https://www.whtsagrouplinks.com/blogger-whatsapp-group-link 
+fetch 403 codes=0 bytes=0 https://www.whtsagroupslinks.com 
+fetch 0 codes=0 bytes=0 https://zoneofwagroup.com transport: SSLError
+fetch done: ok=5 still-failing=68 code-less=3 raw-codes=46
+raw 46 unique-in-slice 46
+already-in-existing 42 fresh-to-verify 4
+pre-screen excluded 0 todo 4
+resume: already done 0 remaining to verify 4
+verify EEYtYl02In8G7qQ75JwQte LIVE cat=Buy & Sell name='AI TOOLS BUY/SELL BY NISAR'
+DONE verified=1 pending=0 leads=71 dead=3 exclusions=0

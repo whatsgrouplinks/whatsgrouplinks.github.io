@@ -1,0 +1,14 @@
+{
+ "team": 8,
+ "slice": "linkado sitemap 3100-3499",
+ "sources": [
+  "https://linkado.app/sitemap.xml (wave_20261110 copy; 19,731 grupo URLs, sitemap order = lastmod desc)"
+ ],
+ "verified": 40,
+ "pending": 0,
+ "leads": 25,
+ "dead": 236,
+ "exclusions": [],
+ "resume": "next index 3500, https://linkado.app/grupo/692b9aad3331053de980f389, lastmod 2025-11-30T01:15:25.000Z (last mined: index 3499, https://linkado.app/grupo/692ba29b3331053de980f38d, lastmod 2025-11-30T01:49:15.000Z)",
+ "notes": "Mined 400/400 grupo detail pages (indices 3100-3499). Fetch failures: 1. Pages with no chat.whatsapp.com join link (JS-gated/removed/Telegram-only): 24 (telegram-only 24) — banked as leads. Fresh candidates after dedupe vs 112070-code union: 276. Verification (python requests Session / curl, browser UA, 60-90s timeout, 2 spaced tries per pass): LIVE = non-empty og:title only. og:description is ALWAYS 'WhatsApp Group Invite' on live AND dead pages (verified directly), so it is NOT a valid fallback — the task's fallback wording is empirically invalid for chat.whatsapp.com and was not used. Pass 1 wrongly used the og:description fallback (213 banked, 173 of them dead). Pass 2 with og:title-only gave 21. Pass 3 re-checked all dead + kept and gave 9. og:title serving is intermittent (pass live counts 40/21/9; titles 100% consistent across passes, 0 inconsistencies), so the final set is the UNION of codes showing a real group-name og:title in any pass = 40. A dead page never serves a group name as og:title, so union membership is sound; codes never showing a title in 3 passes x 2 tries are counted dead. Controls first: known-live code from groups.json showed og:title; fabricated code showed empty og:title. All verified are Brazilian (country BR). No merge into groups.json, no generate.py, no deploy."
+}

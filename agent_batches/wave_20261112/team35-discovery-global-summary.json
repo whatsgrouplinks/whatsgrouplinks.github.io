@@ -1,0 +1,106 @@
+{
+  "team": "team35",
+  "slice": "fresh-directory discovery, global",
+  "date": "2026-11-12",
+  "controls": {
+    "known_live": "KrDwdK8EIkB6vgauHg5M7N -> live, og:title 'JAY - PHP & Python Full Stack Developer'",
+    "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz / QqQqQqQqQqQqQqQqQqQqQq / Xk9f2LmNpQrStUvWxYz1234 -> dead, og:title generic 'WhatsApp Group Invite' (generic title treated as dead)"
+  },
+  "sites_found_checked": [
+    "wagroupshub.com - already mined wave 20261111 team29/30, not re-mined",
+    "groupwa.link - already mined (w09/w10, team27), not re-mined",
+    "activewagroup.com - already mined wave 20261111 team29/30, not re-mined",
+    "groupwhat.com - already mined (team25/26 notes), not re-mined",
+    "instantgrouplink.com - already mined (team25/26/27 notes), not re-mined",
+    "whtsagrouplinks.com - already mined (team29/30), not re-mined",
+    "whtsagroupslinks.com - already mined (team26 Zimbabwe page), not re-mined",
+    "whatsappgrouplink.org / groupinvitelink.com / whatgroups.com / whtspgrouplink.com / groupsor.in - already mined per team25 notes / edopedia list, not re-mined",
+    "groupjoin.link / appgrouplink.com / whtsgrouplink.com / whatzgrouplink.com / groupsgyani.org - already mined per team25/26, not re-mined",
+    "freshnote.com.ng - already mined wave 20261111 team26, not re-mined",
+    "newgrouplinks.pk / wagroupslink.com - already mined wave 20261111 team25/29/30, not re-mined",
+    "wappgrouplinks.com - MINED this run: repurposed to MEDICAL WordPress blog, 0 chat codes on homepage, categories health/blog only; sitemap fetch failed (proxy disconnect). Dead directory.",
+    "whatsgroupjoinlinks.com - MINED this run: homepage clone of whtsagrouplinks.com content; 216 codes in static HTML, 319 unique codes across both mined sites, 274 already in union, 45 fresh.",
+    "groupslink.pk - MINED this run: homepage + 12 clean sub-pages fetched; 27 homepage + 99 sub-page raw codes; 0 of its fresh codes verified live (all dead or porn pre-drops); porn sub-pages /sexy-whatsapp-group-link/ and /xxx-video-whatsapp-group-links/ NOT fetched (hard-porn exclusion)."
+  ],
+  "counts": {
+    "raw_rows_extracted": 355,
+    "unique_codes": 319,
+    "already_in_union": 274,
+    "fresh_vs_union": 45,
+    "pre_verify_dropped_porn": 11,
+    "sent_to_verification": 34,
+    "verified_live_kept": 15,
+    "verified_dead": 19,
+    "pending_transport": 0
+  },
+  "live_rate_fresh_verified": "15/34",
+  "exclusions": [
+    {
+      "code": "HzDnHRm7AXk4vIxlTVgBx9",
+      "reason": "Pre-verify drop: listing name 'WhatsApp group link adult' - adult/porn group",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "I0dw4oL00D37D1gAyHexdA",
+      "reason": "Pre-verify drop: listing name 'WhatsApp group Aunty' - desi aunty sexual-content group",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "Dmod5JgezT41oDDFd6vz3L",
+      "reason": "Pre-verify drop: listing name 'Pakistan leaked Video WhatsApp group links' - leaked-video porn",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "FCovP6jEPeWAZfZNeVo0dM",
+      "reason": "Pre-verify drop: listing name 'WhatsApp join group 18+' - 18+ sexual group",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "BEXEViUjuEZDrnrmIbLzMP",
+      "reason": "Pre-verify drop: listing name 'Pakistani WhatsApp sexy group community' - sexual content",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "BRPiBfbYotm3HGCgF1FcE8",
+      "reason": "Pre-verify drop: listing name 'Pakistani WhatsApp sexy group community' - sexual content",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "LmKcttmdcCzDzfqVTsvJcR",
+      "reason": "Pre-verify drop: listing name 'Pakistani WhatsApp sexy group community' - sexual content",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "DrhPtk5b7Sq8HE8eoCyDVK",
+      "reason": "Pre-verify drop: listing name 'Pakistani WhatsApp sexy group community' - sexual content",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "DSQnzTptzcl8aTty4DfgSR",
+      "reason": "Pre-verify drop: listing name 'Pakistani WhatsApp sexy group community' - sexual content",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "D959Ymn0360CSqmMkz0HHl",
+      "reason": "Pre-verify drop: listing name 'Leaked viral video WhatsApp group' - leaked-video porn",
+      "stage": "pre-verify (listing name)"
+    },
+    {
+      "code": "IQfccLQOC6o8EOFye3ZLcC",
+      "reason": "Pre-verify drop: listing name 'Leaked Videos WhatsApp Group Links' - leaked-video porn",
+      "stage": "pre-verify (listing name)"
+    }
+  ],
+  "leads": 5,
+  "pending": 0,
+  "resume_point": "All 45 fresh codes resolved (15 live banked, 19 dead, 11 pre-dropped porn). No codes left to verify. Next wave: work the 5 leads (groupslink.pk 0-code sub-pages via browser leg; ghanacitizenship.com guide; wappgrouplinks.com /page/2/ low priority). Do NOT re-mine whatsgroupjoinlinks.com homepage or groupslink.pk static pages - exhausted for fresh codes (only 45/319 fresh, and groupslink.pk 0% live).",
+  "files": {
+    "candidates": "team35-discovery-global-candidates.json",
+    "pending": "team35-discovery-global-pending.json",
+    "leads": "team35-discovery-global-leads.json",
+    "raw_html": "team35_raw/",
+    "extract": "team35_extracted.jsonl / team35_fresh.jsonl",
+    "verify_log": "team35_verify_progress.jsonl",
+    "scripts": "team35_verify.py / team35_extract.py / team35_verify_fresh.py / team35_build.py"
+  }
+}

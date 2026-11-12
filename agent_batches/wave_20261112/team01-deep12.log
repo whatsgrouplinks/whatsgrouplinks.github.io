@@ -1,0 +1,46 @@
+DEEP gi: 769 to resolve (todo 1372, done 603)
+  gi 100/769: candidates=26
+  gi 200/769: candidates=47
+  gi 300/769: candidates=66
+  gi 400/769: candidates=90
+  gi 500/769: candidates=114
+  gi 600/769: candidates=133
+  gi 700/769: candidates=149
+DEEP gi DONE: candidates=163 done=1368
+DEEP linkado: 3597 to resolve (todo 3897, done 300)
+  linkado 100/3597: candidates=205
+  linkado 200/3597: candidates=265
+  linkado 300/3597: candidates=329
+  linkado 400/3597: candidates=370
+  linkado 500/3597: candidates=389
+  linkado 600/3597: candidates=430
+  linkado 700/3597: candidates=473
+  linkado 800/3597: candidates=518
+  linkado 900/3597: candidates=541
+  linkado 1000/3597: candidates=585
+  linkado 1100/3597: candidates=640
+  linkado 1200/3597: candidates=683
+  linkado 1300/3597: candidates=741
+  linkado 1400/3597: candidates=787
+  linkado 1500/3597: candidates=830
+  linkado 1600/3597: candidates=865
+  linkado 1700/3597: candidates=900
+  linkado 1800/3597: candidates=928
+  linkado 1900/3597: candidates=965
+  linkado 2000/3597: candidates=1027
+  linkado 2100/3597: candidates=1095
+  linkado 2200/3597: candidates=1163
+  linkado 2300/3597: candidates=1226
+  linkado 2400/3597: candidates=1290
+  linkado 2500/3597: candidates=1355
+  linkado 2600/3597: candidates=1418
+  linkado 2700/3597: candidates=1467
+  linkado 2800/3597: candidates=1526
+  linkado 2900/3597: candidates=1559
+  linkado 3000/3597: candidates=1600
+  linkado 3100/3597: candidates=1628
+  linkado 3200/3597: candidates=1651
+  linkado 3300/3597: candidates=1672
+  linkado 3400/3597: candidates=1700
+  linkado 3500/3597: candidates=1717
+DEEP linkado DONE: candidates=1738 done=3883

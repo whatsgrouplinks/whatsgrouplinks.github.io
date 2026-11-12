@@ -1,0 +1,45 @@
+{
+ "team": 29,
+ "slice": "walink.pk homepage re-check (clean groups only)",
+ "date": "2026-11-12",
+ "sources": [
+  "https://walink.pk/"
+ ],
+ "homepage_codes_today": 103,
+ "homepage_codes_yesterday": 103,
+ "new_codes_vs_yesterday_homepage": 0,
+ "new_codes_vs_union": 0,
+ "codes_not_in_union_on_homepage": 46,
+ "verified": 0,
+ "kept": 0,
+ "pending": 0,
+ "leads": 3,
+ "dead": 0,
+ "exclusions": [],
+ "exclusions_note": "No new codes appeared, so no new exclusions. The 46 homepage codes not in the 112,070-code union are all identical to yesterday's homepage set (new vs yesterday = 0); they were already screened by wave_20261111 team22, which excluded 7 of them as adult (IcidlK8xTVrEZyKxr1wNyb, KmC94dgF2oBJs3lHQwLMmR, LBAggolo7xTADdJyfbRblq, CLJEhxP1b2s0w1g3pSSaVT, KZrvxREFR1hBZNQvqVC01D, HkKpS6AHRGZ8OR4d3RWL91, GO5smywdOksJdfnS4u3ReD) and recorded the rest as seen Nov-10. No code was re-verified today because no new code exists to verify; the 3 Nov-10 pending codes (KzwO6LVoaS8DT0LBwqu16S, Fp53YAbEUa78T4zAZcCjRZ, KR7gWco4iCw3aRB8JtcI70) were already declared DEAD by team22 \u2014 Fp53YAbEUa78T4zAZcCjRZ and KR7gWco4iCw3aRB8JtcI70 still appear on today's homepage, KzwO6LVoaS8DT0LBwqu16S does not.",
+ "controls": {
+  "known_live": {
+   "code": "KrDwdK8EIkB6vgauHg5M7N",
+   "source": "groups.json[0]",
+   "http": 200,
+   "og_title": "JAY - PHP & Python Full Stack Developer",
+   "result": "PASS \u2014 non-empty og:title"
+  },
+  "fabricated": {
+   "code": "ZzZzQqQqZzZzQqQqZzZzQq",
+   "http": 200,
+   "og_title": "",
+   "result": "PASS \u2014 empty og:title"
+  }
+ },
+ "fetch": {
+  "method": "python requests Session, browser UA, 90s timeout",
+  "homepage_http": 200,
+  "homepage_bytes": 1129353,
+  "homepage_md5": "4ca7c8e80a77e2ead253ef90f29a9b76",
+  "homepage_md5_matches_yesterday": true,
+  "homepage_file": "team29_page_home.html"
+ },
+ "resume": "SOURCE STILL EXHAUSTED for clean groups \u2014 third consecutive wave with zero new clean codes. Today's homepage HTML is byte-identical (same MD5) to yesterday's fetch: 103 codes, 0 new, 0 dropped. Do NOT re-mine walink.pk listing pages for clean groups. Any future run should only re-check the homepage for newly added clean entries; diff against team29_home_codes.json.",
+ "notes": "Per task instruction, listing pages were NOT re-fetched. No verification runs were needed beyond the two controls (no new codes to verify). No transport failures. Union size at check time: 112,070 codes."
+}

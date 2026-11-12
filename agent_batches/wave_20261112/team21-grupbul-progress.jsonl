@@ -1,0 +1,24 @@
+{"kind": "control-live", "code": "KrDwdK8EIkB6vgauHg5M7N", "http": "200", "og_title": "JAY - PHP &amp; Python Full Stack Developer", "err": "", "len": 218739, "ts": "2026-11-12T06:59:17"}
+{"kind": "control-fake", "code": "ZZZZZZZZZZZZZZZZZZZZZZ", "http": "200", "og_title": "", "err": "", "len": 220080, "ts": "2026-11-12T06:59:17"}
+{"kind": "category", "key": "food_p1", "url": "https://grupbul.com/en/category/whatsapp/53/food", "http": "200", "len": 30417, "group_count": 0, "gids": [], "err": "", "ts": "2026-11-12T06:59:31"}
+{"kind": "category", "key": "food_p2", "url": "https://grupbul.com/en/category/whatsapp/53/food?page=2", "http": "200", "len": 30424, "group_count": 0, "gids": [], "err": "", "ts": "2026-11-12T06:59:51"}
+{"kind": "category", "key": "chat_p1", "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship", "http": "200", "len": 68918, "group_count": 27, "gids": ["175618", "197480", "223687", "250882", "315149", "377833", "380628", "383637", "430588", "444836", "593435", "674364", "696815", "721254", "743131", "743954", "757428", "791674", "791785", "792999", "813979", "856191", "913828", "940418", "962515", "976715", "982827"], "err": "", "ts": "2026-11-12T07:00:12"}
+{"kind": "category", "key": "chat_p2", "url": "https://grupbul.com/en/category/whatsapp/15/chat-friendship?page=2", "http": "200", "len": 69101, "group_count": 27, "gids": ["175618", "197480", "223687", "250882", "315149", "377833", "380628", "383637", "430588", "444836", "593435", "674364", "696815", "721254", "743131", "743954", "757428", "791674", "791785", "792999", "813979", "856191", "913828", "940418", "962515", "976715", "982827"], "err": "", "ts": "2026-11-12T07:00:32"}
+{"kind": "verify", "code": "ACtQYie1P32IceedwfPY9p", "attempt": 1, "http": "200", "og_title": "", "og_desc": "WhatsApp Group Invite", "err": "", "ts": "2026-11-12T07:01:02"}
+{"kind": "verify", "code": "ACtQYie1P32IceedwfPY9p", "attempt": 2, "http": "200", "og_title": "", "og_desc": "WhatsApp Group Invite", "err": "", "ts": "2026-11-12T07:01:48"}
+{"kind": "verify", "code": "ACtQYie1P32IceedwfPY9p", "attempt": 3, "http": "200", "og_title": "", "og_desc": "WhatsApp Group Invite", "err": "", "ts": "2026-11-12T07:02:34"}
+{"kind": "code-verdict", "gid": "440817", "name": "Tamil Jalsa", "code": "ACtQYie1P32IceedwfPY9p", "verdict": "DEAD", "og_title": "", "ts": "2026-11-12T07:02:34"}
+{"kind": "verify", "code": "I39fLwOHZ730XJ5glkcE82", "attempt": 1, "http": "200", "og_title": "", "og_desc": "WhatsApp Group Invite", "err": "", "ts": "2026-11-12T07:03:04"}
+{"kind": "verify", "code": "I39fLwOHZ730XJ5glkcE82", "attempt": 2, "http": "200", "og_title": "", "og_desc": "WhatsApp Group Invite", "err": "", "ts": "2026-11-12T07:03:50"}
+{"kind": "verify", "code": "I39fLwOHZ730XJ5glkcE82", "attempt": 3, "http": "200", "og_title": "", "og_desc": "WhatsApp Group Invite", "err": "", "ts": "2026-11-12T07:04:35"}
+{"kind": "code-verdict", "gid": "865745", "name": "Mumbaikar!", "code": "I39fLwOHZ730XJ5glkcE82", "verdict": "DEAD", "og_title": "", "ts": "2026-11-12T07:04:35"}
+{"kind": "verify", "code": "58IfJaAavCGId7CEz0vNJH", "attempt": 1, "http": "200", "og_title": "", "og_desc": "WhatsApp Group Invite", "err": "", "ts": "2026-11-12T07:05:06"}
+{"kind": "verify", "code": "58IfJaAavCGId7CEz0vNJH", "attempt": 2, "http": "200", "og_title": "", "og_desc": "WhatsApp Group Invite", "err": "", "ts": "2026-11-12T07:05:52"}
+{"kind": "verify", "code": "58IfJaAavCGId7CEz0vNJH", "attempt": 3, "http": "200", "og_title": "", "og_desc": "WhatsApp Group Invite", "err": "", "ts": "2026-11-12T07:06:37"}
+{"kind": "code-verdict", "gid": "219135", "name": "I Like India", "code": "58IfJaAavCGId7CEz0vNJH", "verdict": "DEAD", "og_title": "", "ts": "2026-11-12T07:06:37"}
+{"kind": "redirect", "gid": "662627", "name": "TIGER MAHARASTRA", "attempt": 1, "http": "200", "location": "", "len": 34804, "ts": "2026-11-12T07:07:18"}
+{"kind": "redirect", "gid": "662627", "name": "TIGER MAHARASTRA", "attempt": 2, "http": "200", "location": "", "len": 34804, "ts": "2026-11-12T07:08:04"}
+{"kind": "redirect", "gid": "662627", "name": "TIGER MAHARASTRA", "attempt": 3, "http": "200", "location": "", "len": 34804, "ts": "2026-11-12T07:08:49"}
+{"kind": "redirect", "gid": "400673", "name": "Yaar Beli", "attempt": 1, "http": "200", "location": "", "len": 34800, "ts": "2026-11-12T07:09:19"}
+{"kind": "redirect", "gid": "400673", "name": "Yaar Beli", "attempt": 2, "http": "200", "location": "", "len": 34800, "ts": "2026-11-12T07:10:06"}
+{"kind": "redirect", "gid": "400673", "name": "Yaar Beli", "attempt": 3, "http": "200", "location": "", "len": 34800, "ts": "2026-11-12T07:10:51"}

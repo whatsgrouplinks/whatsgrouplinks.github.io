@@ -1,0 +1,140 @@
+{
+ "excluded": [
+  {
+   "code": "lancamentoCvl30",
+   "name": "",
+   "reason": "dead: empty og:title",
+   "source": "sites.google CVL lancamento"
+  },
+  {
+   "code": "DuQxRBuqtMaEl6suPuxMw8",
+   "name": "Rotary Foro Amigos Rotarios",
+   "reason": "dead: empty og:title",
+   "source": "rotary2202.es"
+  },
+  {
+   "code": "CdupqBAqkaJ1GPHe4wJyvD",
+   "name": "Rotary IA en espanol",
+   "reason": "dead: empty og:title",
+   "source": "rotary2202.es"
+  },
+  {
+   "code": "J13HBw433fr2YYP7coVs91",
+   "name": "AESFAS Asociados",
+   "reason": "dead: empty og:title",
+   "source": "aesfas.org"
+  },
+  {
+   "code": "EpN7sLPb4o9FbPfzGmizQr",
+   "name": "Hacking Etico y Ciberseguridad",
+   "reason": "dead: empty og:title",
+   "source": "forum.elhacker.net"
+  },
+  {
+   "code": "JwTdxtBPAsn9LKVB1pHT94",
+   "name": "F8 Visoria Porteros",
+   "reason": "dead: empty og:title",
+   "source": "localgymsandfitness F8"
+  },
+  {
+   "code": "EvIhddU2hAp9TExwdiN9q3",
+   "name": "Clase 2AM1",
+   "reason": "dead: empty og:title",
+   "source": "google sheets class groups"
+  },
+  {
+   "code": "HDhsB4kqvbW19A5cac58cz",
+   "name": "Clase 2AV1",
+   "reason": "dead: empty og:title",
+   "source": "google sheets class groups"
+  },
+  {
+   "code": "DqQgKK7s4WqBI9BiIKodCT",
+   "name": "Semestre 1 General",
+   "reason": "dead: empty og:title",
+   "source": "wuolah semester groups"
+  },
+  {
+   "code": "E2DJ4n13hhe500EvhLcaDw",
+   "name": "Semestre 2 General",
+   "reason": "dead: empty og:title",
+   "source": "wuolah semester groups"
+  },
+  {
+   "code": "Ki92BbyVDcH2u17ITMZAkS",
+   "name": "Semestre 2 Sintesis",
+   "reason": "dead: empty og:title",
+   "source": "wuolah semester groups"
+  },
+  {
+   "code": "L9akdRIU8MiExQ4hC8XXOD",
+   "name": "Semestre 2 Sintesis",
+   "reason": "dead: empty og:title",
+   "source": "wuolah semester groups"
+  },
+  {
+   "code": "ICZqrYyVsIpDtQ1DnACbIo",
+   "name": "Semestre 3 General",
+   "reason": "dead: empty og:title",
+   "source": "wuolah semester groups"
+  },
+  {
+   "code": "Kp3e0zoRZGpEQDXUnwdtnG",
+   "name": "Semestre 3 Practicas",
+   "reason": "dead: empty og:title",
+   "source": "wuolah semester groups"
+  },
+  {
+   "code": "JJwTlPugEuyBj54jlVs0b8",
+   "name": "Semestre 3",
+   "reason": "dead: empty og:title",
+   "source": "wuolah semester groups"
+  },
+  {
+   "code": "JseOx4iUfekCASAGokvzei",
+   "name": "Semestre",
+   "reason": "dead: empty og:title",
+   "source": "wuolah semester groups"
+  },
+  {
+   "code": "D4kVigoFQCrEeMJMfB8l",
+   "name": "Semestre",
+   "reason": "dead: empty og:title",
+   "source": "wuolah semester groups"
+  }
+ ],
+ "dupes": [
+  {
+   "code": "KSM9yEUxixxGMM68h2AowG",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "HXTgGNcF2ySCciMg2wPYSg",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "CXsl7j1F7Jd31qTgm7VJbC",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "JJT9cvlv3iZKCEMpg4jh6e",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "CyycfKEeehSEUawdDYHAbq",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "LmzDCrYgFJP4p238831Pto",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "LdmMOtgch128E1l9WRZc3O",
+   "reason": "already in groups.json"
+  },
+  {
+   "code": "Bm85uxTOV0v6z0bBfoigcB",
+   "reason": "already in groups.json"
+  }
+ ]
+}

@@ -1,0 +1,3270 @@
+{
+ "team": "team05",
+ "slice": "leads_slice4",
+ "sources": [
+  "linkado.app grupo pages"
+ ],
+ "verified": 943,
+ "pending": 35,
+ "leads": 3,
+ "dead": 1413,
+ "exclusions": [
+  {
+   "code": "CVJaeiGs2goITa9pHuQPku",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "KIBa6cutpNq3vp3hoNAlKf",
+   "reason": "crypto/betting scam token 'bot mines'"
+  },
+  {
+   "code": "E7Q9ke7UCthHqd225kKMoE",
+   "reason": "adult sexual content (🔞 + sexual emoji/meetup og:title)"
+  },
+  {
+   "code": "LgRKA26lK5f7DvQQFKK5c9",
+   "reason": "hard porn/xxx marker 'goza'"
+  },
+  {
+   "code": "I0BVh0pjpHL2g0zYsF8SdQ",
+   "reason": "hard porn/xxx marker 'goza'"
+  },
+  {
+   "code": "GDqFZjlftt8FCXzocUDxqS",
+   "reason": "hard porn/xxx marker 'putaria'"
+  },
+  {
+   "code": "DZbM5NF1OshD9woJ6oa8hG",
+   "reason": "personal info (phone/email) in name"
+  },
+  {
+   "code": "GyTcFSkYpdmFhsMtsg0nPQ",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "Jgs0qF8hAYjJEHoeRbXtGF",
+   "reason": "hard porn/xxx marker 'putaria'"
+  },
+  {
+   "code": "HcDQBKLtBs6JhQnR3Kg60M",
+   "reason": "adult sexual content (🔞 + sexual emoji/meetup og:title)"
+  },
+  {
+   "code": "KW0YxT2E4wF0Cqjp4J2Doe",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "CjlMGhq2s0dIdnMy2nrxGv",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "Fmcae15Ju26CUHUsMnecJX",
+   "reason": "adult sexual content (🔞 + sexual emoji/meetup og:title)"
+  },
+  {
+   "code": "KwzXri3MLlPCo6XXrM8gX0",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "CvEUMCIlYcC4Otr7BxqnoL",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "Gk9zmQlZcwA5qAH7BiSeRr",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "BASm079wqxlJD2pvxosfkr",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "KOCK9D2q8IE1mbQojQddLI",
+   "reason": "hard porn/xxx marker 'putaria'"
+  },
+  {
+   "code": "E53TxOg97OlCvgpGCb1AsB",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "GDz4YnAExd63GiopxJ4GoH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HWLzwzc9PeZLV2Sj85B8S8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gtq4OdBGJjrE6swrA997mc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KUeKq7koYcaIRXawTEt4dF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DgzCfnkK7axILOpOTZT0qd",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HSgWfImuxHh0iT9ag4JFxu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KssJoolOCM34nqJmtssuCL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CzzuWss8gUiEsLxN6TWVs0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gwa134CvLyvJZpzB1omhy9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ctd2LfMOSjDFzxvqBS27t8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Flpf7MEFGpXHSl8BNPxoFc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bxacsomq3TpDZ72BcAqOWr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Esr93IN4eUSIWiMwAFizcu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DH9GWEAbGOqAgkMzK7I5Cs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IXSvDvll8Q96rXBNjtdj4m",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IQ81HLbFDiz2xsNXCEWV31",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CGiy17BOp4iJYlySnSuHBb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IeXrl7d91lBHyjGwvGPxcK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K3rROHBma1430D5ap0aBQk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G7uCq2ALEBJ4eYH8DgYdyX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HSs6D9Y4LEe5X4ZjzM4XMF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BueUbS9jPJIKBIpRAsRh3k",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C2ia381IKDCILWnmIzxP1e",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GYGdIdKpg2G1MRR9XYg37c",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E1q0XllyYbW8hXoTcgfMte",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I1JO8YR3OnK5RB4FH8h1Bg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "INnfGEhufD06Ub3ooAs43H",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KXMe0XWQ3U8AIBcSSEBbMS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HFSvwPpg2BkJkD3kxuAUP6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JKciePLcs0SHmJv7NMghe5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FmuKh2CMLmt0ZYYMRXlmwZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kr0WXjhX6wB0r4WYBJzx1q",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LSlPj4JmrX6FIpb4zvELQ0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EBBI6HCkmsN0tDGpq5exNV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DriYGEdJeGT96YpTyElQue",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IqaEdhmYTbAEahqqjvu6W2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HVapgInWpdh8h64GW8D5nt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DAjCk7dh09382rutbOABYp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DAwrWn15IC3EKuMoEPSqmx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ha5n0O4f61jCdimsbvIwqN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DSkPnlHlShg0HDfICdybhu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LY5imIm1o60Ap8hbFEptP2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KBTQAlsUg6wLkSkjSjAYbh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GaBMkytBgegIH2I04rP2DN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EJtiG147EJU0DXx1GelZkw",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JfJkh2koxFy3au8hNgl7fm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CUVxo1exA2nJWSkuhkEd9Y",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JBx5SvlE2Nw3xt8D2We0cZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FZWQathNIGf3U9Yu6KLRJu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EXUWwLdmG5J435DhZy3bCl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GjQa0fSw1yWDPiBqYFLKV6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DuA2N6zFihXD6ccHWo0wQB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DqSx9PwYEBNHI20qJ3Z1o8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GboOeNEK55ULXbusOlzZdV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EP07S5tq7EoAm3s9XCZFOu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GrujkUKHrDAAH0HnVhCtX3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H9qtRsWHZcP3DLMPRmaItX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CZCiLtDZ6mS2KXWtFmMlAI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I8V1G6Fm8CrKzXqGgVXRYb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jqy6fi3JgmhHDXqNvzlrIv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HbViFsKMR0ULqnmzilVyrO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Blfvsww12Fk8ch1TcERrpA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G2ZmCup24FKLbBqy8M4stL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FN2XZeEsYch6LSsbO4aUph",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HAgAaeZcKDg2wtxBIwJxtU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BLiwYupYlx08fkgaxDTNci",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I8hCLP5fZPFD26IWHZFmdp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EcJZsqBymLfApUrc2XceNC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Hov267pIjQbJgsr1z0kZHW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JIFeluY07eD29PDwxGSswH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GUBrCDeaQlxFNfcHEdRHO1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FGa37kQylst7bePZ00GtVc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JfgpwNR4qLo3No2AuM6EOi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KkiwWyLmk4T7xKKCbk5QqJ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GGr1qzwUIplEwn6zqoUsFn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LHNoDq4r8ttKKxH3bggJpx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fue3ea8Wf9bJWfUcKXCQz0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J5wOwsxe6Pp4JcCVJJP50M",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ke16Ic2uZYv34MUKICk476",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CeJng0jQqYJ4oNF2JEEXnG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KjJsTJT3LjzGzkdv3CTpbl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BiEjIetIjSUJCIBE9zHqeI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KbB8ULSDOgJ3fhv0KgVeeK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LDcPcOZy0LKJ0nXZqfcxlQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BD3rN5R3Tab8L8KcJgWTQI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I9F7anl8AwFLP5jZxinRRU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ll9fxat8IHl8RCeKTzUQvm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ifz54ZtXQEN4KfNpHqi5nj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IYGHphBOQLQLHT0ctxSLgV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K8CYTlGHVfl8IaGg7ml43d",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LogjTaYNdReKpRC43gpXCl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EowhrcSPWHKBQ3j9rTbqzG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "B59MquP9ui11N3GSso3rmq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KhXPg5I9qXhHE7nhmJxGBZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FjcGLWvXqbd9aKShb2tgOA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E3wa2w3cVC07aIi1GDDxO1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JUmHgHuY3Kq0DLoe5uwFHw",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CkckBiLSV0q2IwnPPNkRS3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JvoabPbiavl6OxqHpmBoGb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C2RyDSyCFdcEi8LMjotjyG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Lyfgtkenm0UHe5Vrmjr5yh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HAsc9PZ4tiy7uegMNbC8BA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HK8zIP6zyI88r5DApiIwMZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HxjEaweeinPKRKwL7pRuDT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ffx2uLmb59z69Oxh3ltyDg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LckbxadJbQP3SoXEhd1njG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GVAZFmWsonaK4eU2DtQ2wd",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cz5qSRLFjSNK682agIDQ1v",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CNNbhOzjKcA2UnrcRLSle2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CRCeQ2KSOfb5ZxEbHIpUUR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CZYdvCerTGB7IACABIKtB7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DZgtm3qmvKD7Rq5en4Ht94",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FiQfckoDb16DSYGUnBClKS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DD0Hl05I67mAOVShY8rGPd",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DBr2tWXvq0m05kpQXkZc30",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IOzfLCZrRSdJkwEZb2ymur",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CJVT2NaIjBBKWHWsbEajac",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F78TFRGhGJWAUEPGjql5f9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "7NfQ0MY3KEmAm79Xts3LUY",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HHmTuzrFkFBJUYfRKfZWny",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CSeaxWeUT1tCgZ3s93AiQt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Hp1crmiw68o89tToGaVRBk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CTzGadI7TU47zYbcwBpIg8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BkUEyk91eHTBAQkIK4MxSA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GSFpkh2xWpt6kJWCoOfEuW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GUXkd8qRXQr4echTT3bPwT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FQllBwXAD7X4JjQrgsLtQs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KheTwEbZWcT7pP9R6oDgT0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fj4ZVFgJZ0CBuVFFgkik6G",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IMuduWg8nvsINmVWACPrK9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BmLq2uQHTzg6csqkbFALGs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KLk3oaezrFx0llfcsu9Sz8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BEiubIn0blGAlHAsHlUthi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LctTdNToBSIJyf8j0W3Cso",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BErDS5syXbw4KmOrI7G1Oa",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HCj336WjDLU9mqoI3H3UhV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HIUGQM65oBqAuKTncjqffa",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C1ok6kc0yhk7CGcpniZkJc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KmALBxYtLH9KQG1niOoKgG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IG2oKcK2Zou80KbNqRN9Z5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LWvJSUYAaD7ELReFOTy2kX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GBQ2hnfuCRC54vS6Hw3pu6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GeNZrHBctNjGLX3tR8rpTl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G6eHnAFtfYyJjjQaZkgPA3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LZb96Ls7IPuHetniLgo75T",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kiz6UYGb4aJ4zATfJOh8VY",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ch9KiPCfBfXJWtbWX1IOzr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HSvsGlFSnWk5QZls4h5Eir",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K8Sb9HZOumqDIynvkiutek",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kcx6AuMWuWJLmpYJCuF3bl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E0WoHwFm2p5CYJQ1HAHuSH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JRu9CvcRRDEIhp6EFpj3Bh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IdVBfN3wsAz9BGbx24i7P3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BAOvAoqyMFS0IiDdBQXWPp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CvGOypUYREaLVQVo0Hwh5g",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ERMSR0vw6xhAMA8T844fjB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EiSYJ53gUZ0CBO5fWUcyJf",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HTbutfOvWr1BM6HD6ZlJjT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H98358EcqJC355NeuSviuI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gckq3CylVz9H2OeltLCjDF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J9KUExOPU7qE2QLxDtoL3P",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LrJF7DRFaqJLCLuRxQB6R4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EHItrFSVGVT8tln5Q5FtpL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HzFY666IN9gCgCW9nwVpYj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HGKpzYQY6Pe8fcDh57wejR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DIbjznQj8J96u1FpliUnzm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KROXsO9q6NJ0BiSjabVlgN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G0kKQJ6PzNE55h086aQvQ3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DtvtvAT4aYW7cusVhY2pQ7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ha0B6487htJ6GyBpc3Ey1M",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DqHOG1hZwzg8iRgfYWO3Me",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "B6iepMbZFRJEA3axnwTT6N",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K6YKwOIKJis7oIt1725AIX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FHDynEOEFwlGARfpo7Ax56",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G1AHykXZs5g69KpwADmcwR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ivbz743en3iDRnLU2hfdCl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KvkanQHZ9aK5EpMacXKHSK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KBcj7yFj9lm6912UqrQpnl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cgs9nBondixFG64JFnD6YL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BfhmyvEvReKGw2tLrJEsyQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IVyCROzw1qKDAmBG4YtdCj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L4Ny4kK8fFt3bUzn30vzej",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bm9P1RVBdsVH7z4pAVHxF6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LxIt0G4wfqtJBCiTP2ws8N",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I6upK7ySPhJLhDh1fr8ZUr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FJu99iA9yXa6F4tkRwVWEU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C72r2AHfQSjBgfwxAnCDbe",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JVMxtEtydhj9ZzNFTx8nAt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EH2ysVh0OJB21UUrRC122G",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Lg1IDVX172s6YZoSpPFqbu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Co2ccKlfwPRLEWlgVJTQ2k",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EMTkMvMyPv8605BdW1N1lM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cq5yRVd4bG8CgjPtcSQwOY",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JieyNuw0Git52cLgw07rqR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CYLkmraCpvRLcnNhdRjnFD",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LHEWn40nmJtLWeHD3juwnw",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ead4VjTc5dCIZKqMIcj3Mf",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BAwmvzD57rIGqo8R7sLsIx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ixuf55IbGO3IguLXJfLoe7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LXTWe81hJnzDPIKpqpPXkX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GkLcVoPFrBO3LzCSvZpmlW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KsMLhm160MYHKXWMN2kD63",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ETBgYBMOQCh9vLpvvfYYLh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E2HxDcoTQYmBDvjgdzb2UP",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IaCXM69mbS43wGzD9BOzFT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IvteGj7gdPXC0RaWD6dRmb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IBy31rTWC8N2xt9InVRRz5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E1LamgphDY96xiCEHDUXq6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BG7XktTRj3X6fItXgut9IO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "COYN9wIMcirDl7oZLN80f4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fj5s4UE2ZJYLAGEUzO1ojK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EuYr6T1WrSnA1yJG2GoFVI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jbu1VkElBFU8jl6am24xgi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ka2eEQfCGmx2g4aTDuQEuE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LRqKjnJUAmpFNQxHTOCKUt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FdCnXvbkpc154nOzgewS48",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K7H3EtNcmhKDjYrjB4cks0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I0IQIHF6vjmDmX6kMtM2pG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JlVFnWbsaXhDri1rTcwImH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GD39VDa6Lb31QWr5YB9n2T",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DiFM44EDKFb7SGwRBfoJbB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E6MxTMspqLhCR45Qb4LJsf",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fg5dV1Gd9qq889qfW2wIAL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IFlOUd2cjejEOx86kYU8o7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HHR9fCEIT396HXYOoT6hLn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ErtTgm488Ka03fSELjlrVt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Hseggni5cF3DRJJ2EaBsu0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ef0GunQkN7bKJiUe6u7vtw",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JYx4omcRay3G4QLOjAfVLF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CExnEIcwqUZ0HYXD1Q1gwT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G0gYJLP4YQ16C0pnX4wxhI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CqUFrOq1muQAPj0jwsGLcX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H8vUkxpIJ69AP29IXyOI61",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I4R7KXHT7M1EqatJSYMemC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FJqf9EsXBfCKjUiw6Rc5rL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JNvHkK0JaiSIzuigWucL0L",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F8c652X1rfv9kUQ2bQcIuH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BomzCNhyH0p54p610z1EMY",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HEX788JJ4GII4autGkUS4T",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KO6wq0Kd5ux4PD18MJl3LS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CS9xqvsLcHlBdFP7V9XVea",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KcnpHD6ehGX2cvy02XfvRL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J9kxtV401j66PEYggnhLvQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LcWWUFaPiOs0LFXLjZ2iiO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EDGwzhPXouw2dLt5ZfwEAj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DGbB8Mf8Tgb1oBpv4kiD5y",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KYHlRQI4rSb51fjPpsy4Kz",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D8TCx1hoKuBEt3EpZ484cG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IV7XHVJnS587miGYlCON8O",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LSLjORMMNul5jL84kvQkLJ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IKmpDVP4hSE7SaN3wFjicC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BwUU8v9lSlf3pwqX39lVJU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EFwXHfR193z652JeC7FBCS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HKuyusR3Ezu9fXc9tgmz6Q",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FFcUPBJ96OCGQc05MT6VI3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KdltXLZcQBBFOQ54kNgZTT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ESLSfaWvyMjKOCWYzZDwEN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gsn561yGqO27kAATdrZDER",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FKnT7MraTqc5KDtS4UuEMZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JY7YlWkPgImEMpBEiiozow",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G2FKLtelHJ1EU8GLRt60CC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Imh9La0cSN5DV45vEDrgJV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EC3Cckps76kJc93HeJOx4Y",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ChGFtzgJVXpCC41UN8CbnO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JvfQCRfXM6c5YyYB5wjblo",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KMKtBfAQBAx4hUxctSPrOy",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BDeacZmsOhmKLDednyS3bb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LsGLW1HEsix9T8Lu8gXTYi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ktex0qzfwhxFqup8Wen3fk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LLHaHmqlyKPGtStp54JwHm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BgMNrXvSPyzHUeCg8HsySL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CGu8FXyvwgSBt11Z7r7WIR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G5PovE50bTa9heo9KSAYZz",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FVu0AthZDRHHVAMKNNqMMT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EDIpBiPQVcU51AkFtwVaW0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BhKkycWpSyT2LhjxlFsfj6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "B9Q5nmgMd0uLDBIuVCx7s0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GGU1nXmDUj6BNnNV8fXSnh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Lie8skU7R4f8XoGcpoLmLe",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EEU8vIHu41E7oSfSFWhkFg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DTCpznC9ALo5BET6AzhLVU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DQ2KyPddfYgBY00NQBnLqK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LOG8WUHmzmU2aWYS3UaB3i",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EUF7Fv976ulCB21sjrHipj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EvodrJkcvK8H3dnN3kJdJK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dr8wSpmXyAJ0GLiQuLLoXE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FFpIhS7VPb58ANKhrMCx6U",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EKXKHHrYDSWL4oP9X6XTCP",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Chvu4KUi3xU42Zbo3Hhdw2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dq01rgnU6SuJpFxRiBBiC9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bbv7e87sNatGfgaKUSq4dg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ci0Ylfy1k1RG9vGoFxWffq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DtOiGDRHPKEAkf1KzLwxRA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JufAQXuC6RgBWVmBEMtAS9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DMez2FYzzQGHWQTXIdxrN4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HrCTOXDrRLwHN6Z7DfRHTu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BPE1SzKEAt2Cb7QqZUCoKk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JNhg7y0B8RqD0qPW1snV3y",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ctlyf4VJEXf6qnqC7a9ip0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JlXJXZ1buFtD87dvGeOnd6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BbFzvL3rvv05YeNvJPtlBs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I8Sm8JowV0lGF426qfagwD",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F4Rb8RE2DYbGZOCHaJ9CAy",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cu3BCW4J5li8vo3Vm9K48z",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BsP7KIUTDFjF6IGZKePdey",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E4CGTBBIwoU5zNCMnLyGlZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LEww1GQt5IYBqiTjJpkyJZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EbfFDpVG5tdDYBNSBykOWW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HsekfAZrB3e3S7gDCayUi8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fbkn1SqnTk96YTPOsvriuB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DxqJrmWAxZD1GXthkYmik6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EZXJUfhm2lZ9gmAbPxzTXl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JnjkARzEAr49efQY4ckuSb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JpIWciaMuEs1YvB1yfUGVb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KrpgPsETxsqDhFJbB95cHT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IXIZZQ6KGjjBZRoR5Zzpxi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IrVKpDh8LgD9Y19ElMr2Z1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IGW5fZB1GMS4sppnVY0hpg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JbsbgL90nIGGN5Eur1mOdc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L81mTYAVRZQDBfi8DVYgoU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DgoV7kkakvR6HWHMDASPDz",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C3wZwbTfNgv7B5SmFxcjHB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BUFo3MzfmgvJCstXxidndf",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LhktPHMyVIw3HNGzgs3WLG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DJaYuZvkUGC2SqL90R0b4H",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KUm0yFa2wnaDhfg9F0C3RK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F1Esq2xlUxQ59CQic1qy4C",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G6AkYM2pE7X95LX5GKeXAs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FSoLHcUBRSUJrlEHiKVs8D",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JH8FGH5x9Ix7BTq7ugZs7c",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bwbs2xxCWcC4pibNt8t1b6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LGeSr4YBwGu9JcF2faQZ2Z",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J6ycz5QbnLOBO8CJr215Lh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DKA8phaLNad1GIT4yVy6kA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FMPYKOhif9S2pE3bUGCLd4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HriM5eIF5mH5IQ58dFltkt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BVzkRvq7BOo04upDJV6qUQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BgpA9fHPxvT8LZx0oZdhJ8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FcWYPViB02w3QpXK03nJI1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HPC96ZJjYkK1acxFAx1EmH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EbPlcP7ziWB2KxC74WcNZh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Is2I1uEMS3H9nAPvkEnJGT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FHO4RAkmsOjEonIit0yEcM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LZtcP0FA7JJ0d41rcR6NHq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ehr9V3HwQNH9oQNVUruvwn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DAmMeXmmziP5uiZlIJhete",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BM5jsg3S0VPDJRebBl4Lt7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H3MZEySNP8u18Cu0m4tElB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IADCPNBuka617YAvMpZp9V",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H225ya9IiwVIVYfuu9H5xY",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FKN95d1TH24H96rb82fny6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FgrlIKTh9qqK6K4qjUxAkS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L3rYRLNAOsuBHu0yp5egi7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BeAA56ARO6N97J2kvOzvsT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bse3e4WDI7R2FFqomlklEV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gd8cp0k26tfLXarOvbnnq2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IaWxZG3czSAA8q3eH7m0TX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D0JmjBeX24XAHrmP64vjYE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kryzreq7X6zEiwYc6fo5u2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CADkSyO4OqUHqdZzxDF61R",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HI6DyJRkgVrJDGCEOJpYRe",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bz0pRXvvOLS3FfQg4IhYMc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BVM7AfzdWHYE3d9ILbXKNH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L9zKoiOPNQdJjkjKkeR2Og",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JsMYG1nv76R3tc3ErMrbzo",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JgB6I1gPN3mHpC49piqI31",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BprD5gKiN040qlS61ZCPYH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Eqo8E3zamy907HwXXr8lbM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GpNuwJFmaw6L2l0Oha1STf",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Lt2NzPk26KcL4Sp4kmv9M1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LEdegZnj3cj2bmKStm5BDn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J2uLJGn05MIFpJs73XpY1w",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C7pBMfTe2rPAgv0jouE0uK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I4wzeaO496vC0Kn0biR0KE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gxf5he0987v48W3gzU64dX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CBzQ6WOVwuzDWufI9F780g",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L8KedCsl2n4DsNbk8HnY91",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FILwYrRnox30NMy95YW0jw",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KDbbVWS1cI9AigX8njKDyE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DXZq93tlCysCUxMg5hrnGb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BynquCgYSglLjdRBSkBQlv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JbGnWg5YiYH3QHqQ9x7uFS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HHpC0tgqJ0p91yl00VeLTH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GRVK2Co07G3CWKM6DOilr9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GSSsaea99t41gCsYKf1sy1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CcHOS9fjzcWDF1M2QcDZ0E",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IBfDGqx5SeM38iAaiYBTrK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C8Eqzki60eu9B2xXTC54Ho",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KV2BT7DpcvT6I0P21nVreL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JdR6txMMj0M2cLQjMcdkoe",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EmnftyDmP7XDDwwOZwYUqs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HX1XjUDnfClBHFoXWph9F4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fizqd0wUc7zJCCGFtoRKJM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JSyrlCpuKiSAND4IfSmHwE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EdizYfLQTUlA71XVjvNl5n",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KCSRHluxyeQERP5zVBTFVS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KsOy6sEUuGf3zkkFFdDruM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DM5IxApAM4CDZ2ukq3d36u",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D14RCLAxxZ684BbdoF7eF5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LRX7vfN0D4mLlFSUrPdU2f",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LYMO0AdqX6N5vraPvfsw9T",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FSmk4Puobl8KtegYn131lA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IHYMrNXRHIWL7pdrUCP60U",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FmFGhesV33HEGGE5RvbfgN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EAUZM78xHQY7UTwJWtCo9F",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EvJ3xZjDgVy9IcSkK4go22",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F5ggVOZYv7V4DdLUaOwSKV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H0D8AIXbw252dBZeH2uM2T",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LidV9wyVqNSLixl8cm3kZM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BBWPuFAAQ4UDBl9HunlT32",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dm49q9ILPo5B9ablBtuJEH",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CUaMH9hgmplIHkdSLdUb3h",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CyjJZhsWruyLOIq0TRUzik",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H6UfQXPx7jC4rIEEo5q9L8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FHgSLjnEXbr3SgSDp8MUu7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FYx1m9kCKVb6eMxwKurrou",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jz1BzwfAH8I6DuPHwioXyT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jwslr0PlKdNDyoWduTRuFp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CndcyXJ8AXVEkqweJvfx6x",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JM1IsAi0ozCEeqUKcP1cLs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L52KE7iMnq9JzFt0ZCmz9V",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ByHk2nANfIlL7GWVerOpZA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FctbKcJQSLULS48NWVcZJU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K50x6h4og8JGiOT4Xf5ORZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F0E8snnvMmkDB9ylwIjLtt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FcpMG8EU6PHLSgiIKJq8zb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JrJsvZCz2jHJSjYhJF07gX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dw4CwAP8to9100GhMMHheg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KQrYT7uYSr01l5jaCHjWof",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GvNOA8NzPjF1yZZmMA9NOj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E6YAvurYWSFKvm49JLJw3u",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G5gUgUGWvVM1RAOShxxAh0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ElWdCoIE2spB00CrN9ggYo",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DHr3ZLqUaYx2zI8wn2hM8l",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DnFjuMt0GGvGkiHdqUEDQC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HSgCKHlKJkpCmS2WUE2Oak",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DuoFstYTgFr2rV6NDQFP5y",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IN5dsgSHW3C4zZF8hu2JvU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BlH5bQmbJdm89RM45kGDuO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GL8wmosr8iQ8ZOTUCQV7zE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GJ9nq1zxqaM2ugt9biXh8e",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IkBR1Wf4q7dGmHJABGNJ1N",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Irc3L6V21KHFHd4h8guE0I",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C02Z0dNdmo23knuGupvegn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kp55qMkHHPhCk39dKt5aYa",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LOJ21lnMY2x8NR2KGFQDHi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BoOLAkDH0GvLNhfPX1HNiN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EwzZA4z7w6o3ylzndkRBM0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DpI2qiykQHe4r9bUG92pFO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LrIztboO36WKVdtkvmrSXE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jw8FOOuX7bqFEv0wZwmyh3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KlUABb4CwvHHMxiTubHbrj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JsrSSbluTp66vFGQdVNmeP",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HYTmkGXUILzCweJYpWulxQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J47lJtLufr4236kPWN4fyh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BhTdjxnG01tLLd54iMX8ax",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KDHu0zlgIen0pjwHGb59Np",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DaYesJEiRtQKeACBf3Xekp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ce5hBWmfvmgKLAs5lwRRIh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IiFlLcfAhbk8zQVavOdp1n",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JTgPr67wpDd5sSwBiLWs1J",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I2kuy97zeNqGz1Hn8WYLCI",
+   "reason": "18+ sticker group (figurinhas + 🔞)"
+  },
+  {
+   "code": "JLSN8sunEuvEhbSyTLV30P",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FvsOguo8oLHDuQB8wa0kl7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IE0iqpnws1AJgH78ITrX7b",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BUDJ53xRCmaFdtFpRHBbFh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HNWM5qzQjBpL7Gt9Uxry8C",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BAXGSELj8JL0Bn82OLJjHv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IWYmUsEabNbHNpMAFLWeYW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IhrKYA7V1UC3Ct8LyldOu3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CBsK9DqUh0X8sqYOKykOLY",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HFMcqUEr7elHli2Aap72Sh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GpIddn5my6hCzeZu0IIBXk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GCPTtjQpQ9zGCIptAvmArK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bk3v0ZujjLICpvGFGIVY4w",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GzUFOrGq7Z2HDurXqNyVQK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EQS0DDLwMbmL7QSCjshwP2",
+   "reason": "18+ adult content offered (streaming + 🔞)"
+  },
+  {
+   "code": "B7O6a6LexC8714tevnEcGn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GMsBVaiJlJqHAx4tO7GfoQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HRSjHlQqiCSLLVsAbhlEEs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KYAEy1uYRgRGwXbtMXDuaO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ilwnlqg1Ns66344kpkWXH2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IsNK7KNoi8ECKjn3qmWqIX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gsz8lj3lyqBEryUG2cw6Gs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DOfRvWoZDgM0QHDZ3MkHTw",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FwoMPemTdWzA8GyZ946Azn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HUG1mEBjoTT70C5XitOJ5v",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K81HnZOKsgFD6eHKxgtkms",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HDqaHD0Yw4i9sFXg89hYqj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IjOtZKU9JYMB64YNyJAtEe",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G0lBnxggZo6FBAYfHgIjTX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HN4uTvwN55dDjuH7pMZrK5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HQzVerUSedQF3e408OKZti",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D6XoPXslq4y1bfzWJelNu2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KmpqDCyVqOt3SXVXEqYNau",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BuQsWEp4BEk8ShBjpsgxVG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BMvkDs3yBZ9IAyqS9cYTe5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CdU22TarXP452F7TvC1o3X",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LvuFfm4PDQ2Lf6hZO1KlDq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F0ovqKkZu7TEVCVUXtxqcB",
+   "reason": "18+ sticker group (figurinhas + 🔞)"
+  },
+  {
+   "code": "LMWnObFFnFjDq3B5kLaMiA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BXTjPUlU4k5IV8W0HSNnzC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DYay1kWupOY0K3V3rVK7qG",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LWUJ0lxA1gQ39bOtevt71q",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kk6j17XiYjhKcB7CX1YplO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CWNsFSjM1FCD51Fe705U0I",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CHEq5RAASPpBFm2o93SCQX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FqJGKtsImwO2ewSQxGI51V",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K21T5FLofd6JlV531MVrj7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CGpxREqyjPz2BbAB8Pgx1f",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BBCH9VKL0FH9kqC56JRit0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EywcaSNxoFwAvZs7dvH872",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L5bOWZn2zna7NqA4eRAdgF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JeQ21WlcSFTClSfIJIBhxt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K0NdBB4WOuYDtNhXkDhECx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BgynKJoqBJM8xISXZY5DAh",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H19zRJ5P53zJumoIGAiWVi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fh0YRHrfTHQ3E7nEAt9BXr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EbuXr0YxnTfFLHU8QldC25",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KuhcHMHbedEBCFth7IGpL5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cgv9GBxGJ4b1zah5xRhvZ8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DBTYbEzqnoT4KFqg52fSs1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CcE4ZHM2aEc84YYE6RCwZN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EwQSKShyYEvHBLBVEhZH99",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IXJYeE3EWw6JhxGHJfNVU0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DSQ3Hv9Cuzm9p1WVwRz0Su",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CzDVzWaUD196qW0jNfwsCl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CcwGMGkZogHCnSHDI8EKla",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BjXjS14W3jM4bQq4vP79RU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DYQCuMZlZNyFuKKFwbtbJW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BN9sB4420NW1R3GKRCQp19",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IoBYqZ3kgSx8jzOVGdbBn4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JUL9HjZiJB59DC9sjwfZa2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dfc139XEZi50RYD9sByHgj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IFbGdSCmUBlB7d5IHB2ZV1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KKUMv2UfP8oAPYAmTkCVbQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LVNfiZaeYm194xQZGf0eDa",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EiREtoMLqKn3cGRuePHF6m",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EDqBx7l1ppc7Qzv3Vgdl9Z",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JONzKd3bST7HWvZm3BD4ca",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G0JbIAhrKLD7XhN1TuttuA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EPg05AIISHd3Q5y0NnHUJJ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GRKQ3p5XR9oIuqsNKZz9hW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C31OPgJjCKJ4Z6gPAsVsDv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KuEBc0BtZYMAlXctMPAcJ1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GAIs1hcKBsH3UbSMxBxlji",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F7PtKJsyqvoBCkoQDW5DDS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jw0ctpwvrum6UdUR68u1zh",
+   "reason": "hard porn/xxx marker 'hentai'"
+  },
+  {
+   "code": "Lscaoyj1NzA4xwd36ob79G",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LG4POaZoLOf6mDx6qkl3dV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ckxdk0FV22L9xSozdGPWP6",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IQZUaXpfJIY409gcIcgVd4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Go8s2Gq6f5H5E2EiCjcBMB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BTK6Vvs3TEu6oW7joHtiY9",
+   "reason": "sports-betting promo (apostas esportivas)"
+  },
+  {
+   "code": "GkjmeV0LRBkIpYLWtSQ03S",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FZuvMQ2gjEQ58VAAdrnGdW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ku8VlzWBDVwHrmgpAclBeJ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DafEFiQqPhsJF8chNvRqEC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FxOc0H2tsCuI0mg8vRGNM1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ENxDMdXGRHYJox3WLby1BJ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KGuXnVC5TWFEVfzOkg1BSi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J5cqcmLsCQG3d4Z8rJ3THT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Lt46tWe5c1rJsQoH7kixLm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "B8UWUafQus2C6jXUnGDByP",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LxE8dTni0jcKVtUC2LtvLl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JqS6Pewq9n0DjGPr8iy8KB",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JdXijbMnFOrBTWKDF2GrXc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FelwdsmOCWjE4TJHNnkTbA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J8NLshLQS3PIhxCldy4FkV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JBGoTK7m9BHBUPDr7mARY9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HMQNcVV7pg08NqhSBPEGM9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LjmsITtuF4fFws1wvAQyUM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IzAdWXiXdR243PIjZg1BJt",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JuKDnuoRB7ADXAIaR1h5pO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GkUGocTZJfiDgx9VHG00y9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GUx9bIke60PKdviPO0hWGk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IB4ATTghXiZG9T6ykHHdyy",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CNLaD5pB3pvBnJeDETTJww",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LJhRW0GrNK2HQp09fyOkmv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C7vPJRzhHo1869ABto7o2S",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FoMjWyPU7sC9LCKRJHxiZK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G0L7NutyjJp3iyLnvYj3wx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IA0aEzQTEdmKJGGekx43Kr",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EqwSxkdR8bA77UQ1FJHw2F",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FVbOnaxdVYrD0g1r6RCeDd",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HrsUEgrFQyOKeFRQOubSD0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J9ILJsWj0v630CAW4Bk8dv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DoD0OCQW8Gg1AWtcmMH33F",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JzR8xEJXoMz6N5RvypNuDI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Fx5F6XospUo8Bqi5rJHNMg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gd7rAUpja6BCzfajBOYWj3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "If7IZLUgG7TDm7ukniVV0P",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F40p0CY5GbjK20HQlkdosT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ivy3cTKFeN73PxnBA8PSBc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BgGaz03Nqgt4rEk4WU6GsL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JQqaYHWJ2i85pheZHUHB2L",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EXyVjCleyWO2roqt4ncNp9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Io7OaI54gtl4NpUv9DmzdT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G0orNC1VuuyDfQV2cqpgoa",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DWFsZGz7nmwJTH4PbX0PaW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JeBTYEmSQq33TUpOQGCPMK",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HRVwOGBrfJg60czBUFpvp3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "G8mxlYK13l17xP8H4v9xgD",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LDUhcRDd4tNFswV5ZN1BTe",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CR7heA2VLUPEcmzggFVFXb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HuN39aiaLy697Uqsbvp0mg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EccbV424Nz11Obp2E7fCDb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KLFwBK6KNxW0Le3q5KB3Yg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LJAaKDqzf9L6Upa7eFQ5k4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bgsr32DF5rWFjadP9MvxT9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HvxZyPW71Hz9djtyZhbmXk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DMtbDxID6oCKla80S60ObW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "AlLPhzDZKlAKy8WdrBaRa8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FhFzTbUO23vIPe3Clxbdd0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C86alNWlVNdEw6dNE3yOsp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HCj8qoGxL8f98MvZG1JbvF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KO3tH9gqeC7DlVBQw5Bhaq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FyEqnpLidbMCf5trfQI1Fk",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IUIXDitV0qsHi4Vtt6pKyQ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F9MMdFVCkc4L5pxo1O5jQc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FgKozx56LUg9N9wBTuAb8v",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LGUktmDcxfAIfIzMeynduw",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DLrmlphKkg44jqOd2I1xRe",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gg8vrEqmvHE1V2lBe8TVuq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FXvR7tEDIZEEmPjSTOxPjU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DdBkcAzctMfCu9laMbDFNj",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CX2xQ1zi9lkC7zhKjCnQGX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BEqgOhQRIOm2dT6RduLXs2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LrPvwsbrFWB6mTJ9uRwtsV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KS1OjvtjbqFLgzgUb7RHbJ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LmFVncEMY3d1F7eMKRmG8I",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KD8rKRX5UyTC2MSpl4MnGf",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ENDv19Qnf0CBEF9vpZbbv8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JnmIAuZEuMvJVB06exT0j3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BgVWJOEu7pOIwAw84jya9h",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D2LFerldYpO8jdxNtyAtAi",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CvQupGzgDX56CRRhiLtbkv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DPpkh3N6oWq5yNjID4WuRn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IJ3DbSz24ib3tAsxRxAt86",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BsXmrgfjhzTCImEslRP1Rm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FU9FsDzwTQr6GOicRGPJp9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LmT7Es8HOneJWfekMcxIW3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DgdZ3D4YNeZ0Zbg403Z0T3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GGWWdkwXRLeARuTuk1rLCp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EDpwb5awSmGFnPVbBr4uyq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LmcFADUs9WAKFoxNJn5kUZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C0zmqSaDMzn6TrYVJCceZW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JOAFuwtOMMu3qBtPJJ5ra2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HiUJBX7pKfTET5YPFxZRXR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L5CB0mdzvPP4Wv8uOW8LYw",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Lf7dQNykeZI4hkhRQlgqD2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IYIqOwcyEzEBPwjyO8syzX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GXtBoZgmDXmAaeFnhwSVfN",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HX9xLWicWVV1m5PTEdzNy4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LsMDHsBF2Rr2jBsOz7xV6u",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CN9fH5Rv8DKJiNdfzpE4ov",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CddFzk9Ibkc4wxSgpXbch4",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DAIiSAKYUkZB5orWldxqqp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EF6J6kmbnh83wvr7pFsgOp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D3pvO1qbEmMJdKl84fQPQM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HUHsFoFYMZ74bCqy49x91g",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "I90LLaXmtVRFFQtU4MEziX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DArjjGFZgOO6RshTpJ7y1i",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "L8cLToszS8w8mLFknTrhO8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Hjg25xcOU8TLqc00NCdfB0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BRHi6L28AOlBjTw9x2S3zs",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BY9N7g62kX696IdjUiFs98",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JNz8vozgcQYI1ZyiDjkMGP",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "ByoNdxkwTolKhkYh6lOZUz",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GVVmmvzylVVAiD78eXadE9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KJP2rI3jj5PK2Y9wJX4EIc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HgyL4a0lZvcEr5OQzGZ4bA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dz6z2ea5ncI9aV0wjWghXF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IxxUGdZTt5W8DdFAyHVdAE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EfqPh5V5PC07ljhMtN57rd",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E8cx0Qm16H7KxtSe671Zip",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "H8M6k6YoQsg3iLvQDzOZPq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JZXznRnZR8Z4royP49PKWO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "C5aH2bVx2iE47LT3Wh3SgO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Go6Tz19AM1ICSLtjpo7maR",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dug2Sna1WXDA8NrOjrMYvZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Gz5C4FU135L9ZkU6XY52ij",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GDI2Z7LB5RnFmDqpAr8ocx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cy6AMWln7P1FHOCQ6T6W1I",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BKkotv7oiqaF6Fv15nIr2Z",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F2fabZKZYq7A4clxg70BGC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FTu02yIVUoa1pFOFMnLOeF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JfWTNdbR8QhDy1LCZZIcI7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EJ1OP6g9QmLDDkOcV8W7hx",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "J1BS0Co22hT33GWBBKAP3U",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GLLw2PS8cpV6qUTgjg8r2e",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "K6Y4by7iDvHC4pSLD1q3Cg",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FrxNwaFajvi2sKit2ckTTE",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EWEzUQES8UUFtGQpdXDB9R",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LsJB7ZRlrev5apB0bBRbhq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GdpraS6xkMq7XJmcAOJsJ3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BES4X8k3mIWJ9SuEs4Kq43",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Ew9DtW2IRhtKvA5yTL13jS",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DFcoILTi9mWE1bsScWwYBI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FYQsXQXFzDM5PtZoA2h3Kl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DlhIqjNtMOvFE26DF7fKo8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BhF0xePqCpwB3Vjph64AJL",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GA61lLywtrE7RUE63nYYnA",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GMOHfA4EZvYBdJ2Jv04v9B",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FLSPrZorezS96wBeWJ4Dj2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LSgrvljBznf5onNYPYHWTq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LuTqwBILQCT9XzbcW1iGHU",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EDmA8GvO61H8IbNIVuyC7z",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EtvXtv27XkuBUPftk5YR9E",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CaJUQAuk7Vq1xtWaXwlv1A",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EgL5EpYsExZF5DZduH3VKD",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DGi0jBpkWZ19UoEvoeZ4Z8",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LCbpLKx0AYT7mywyGjw81c",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FuIDZ7BjBDfL8RWMJK1xGm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KTZ2jxyHQOkJ2X5IeqJ351",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CHLYFUd6fkf91zvHZ30E8g",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JBHklldmBIqFSMytIIeaXM",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KbFe8dw0VdwALaxNhy706U",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Hh08DK6wDCiALWfBHyMR9f",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "EtCAaVcbV6V3Jq9qFqEUFT",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GzcMFd2P4pSL6XQ8MKfSfW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Cja0zahN3y4Lodyl4yUP8j",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JrspCmFAR41C22pQ9f43Ay",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CNzRk1EIh4DBQnKkjpE8gO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Jkv4gZhwxrWLy4QvWpQfSm",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kb92vSwROF3K7pGumrJPgv",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IuuT6AVjNpD7giSfK9fJiz",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Iif9QHZYcKl6Kwe0KTAbtp",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HHeCebLK3288pUalsuSGGZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JfhWs9J86dL9re5mgYn5Mf",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CRLbr04kqa87HRvM47LrH3",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KNof6NsXGKZGXwj3eFR9w9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Hqgy3SRHDHtA3s3R6p2NI2",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DYSZj3XnJmU3iOJwdaAB8H",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JsnQWcO1C1Z4k5HT2WKzk5",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D2rhBES2ZqBHQpMp2THnhP",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KLXCIDSV4Ro15nRa0URir0",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "FjqfgqZndTAC9d2G115r5F",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LiKJHCtDtwJASclFEEo2fu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IvnDc3slw1U40Wrm3IxDDe",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "DGAQJKyRvRN7WywjuFe8UW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JtwASdnRXP63zxsPMlWjYb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KYZ2m24SMV05tsL2vzQ1Uc",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Bo0AM17fBjtIXzw8w2sOeb",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "F6UIq6nrtyC43ze5Ga8vob",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LtdMb59H0qk11CZVhQ9dmo",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HiH9TEfvuRyB2isGh2hvp7",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BQb7Uk8jNzZGRwE5XOuqIV",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BTfl6roeJqw1cFw0Rn1uDn",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BtNBmafRhuXHmFfgRHl231",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "E1CePZymTv1I9ioycodKLC",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "D33zZ2cemVuJZircrL2wzW",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kqon2xheiVW3ALn2NZxLby",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GimXxEctVcPJRt4g8Qa8yu",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Dr3aFXPBKIf0nMHX9LjMaX",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "Kp2Lfpc0MtF9PeAvbQ7is9",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "KZIi4tdeA7FFExT1p3pCXI",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CFzbbyKPyKJJl32U3r2B1G",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "CQNRedbTxWzDtvw9wzhmYq",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "JjnwnXXy5mtBSqxQrkL6xZ",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "IW4Pbne43CzFCbcZ7WRCtl",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "BbtCHRz4PDbJBTj5SlVoxO",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GwpEiIeeUBm6ct1ck6pu7H",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "GggjsApBYj87lnZHBtUpJ1",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "LU5Qvjx1qVS2QskZMLliQF",
+   "reason": "already in groups.json (existing code)"
+  },
+  {
+   "code": "HwnZXAYctdA3RGrsAa3UiF",
+   "reason": "sports-betting promo (apostas esportivas)"
+  },
+  {
+   "code": "CKSYIh8pMxQIxJRNWUeQSY",
+   "reason": "sports-betting promo (apostador)"
+  },
+  {
+   "code": "EnSDiv88xaRCdxAU9ZMma8",
+   "reason": "sports-betting promo (links de apostas)"
+  },
+  {
+   "code": "GfbxvzVovOTKk2LlSWiFJ7",
+   "reason": "betting promo (fature de .../earnings claim)"
+  },
+  {
+   "code": "C1xsT2Y15rhICfm2WZPBbs",
+   "reason": "sports-betting promo (palpites/tips)"
+  },
+  {
+   "code": "JhR5HQOwsIcIflAncaPcPX",
+   "reason": "betting promo (lucro garantido/guaranteed profit)"
+  },
+  {
+   "code": "KrkYO7js0SiLJMjmdByFfH",
+   "reason": "sports-betting promo (palpites/tips)"
+  },
+  {
+   "code": "Bp4vJRdzuy7H7RyNiSXFWk",
+   "reason": "sports-betting promo (palpites/tips)"
+  },
+  {
+   "code": "GrTRJF3uTgoJtwumCq48gl",
+   "reason": "sports-betting promo (apostador)"
+  },
+  {
+   "code": "CeD7ZyPP4cM9ojkFl0VWHW",
+   "reason": "18+ sticker group (figurinhas + 🔞)"
+  },
+  {
+   "code": "DuC10LqhQhn7fCDRWgvW35",
+   "reason": "sports-betting promo (bilhetes/slips)"
+  },
+  {
+   "code": "HVMwNWLnAQy73BIMI8nxSC",
+   "reason": "sports-betting promo (palpites/tips)"
+  },
+  {
+   "code": "EfeTsmm6YM7DmG8WgeJtw2",
+   "reason": "sports-betting promo (palpites/tips)"
+  },
+  {
+   "code": "CdTGJGZKqcpAhjYzqovcJm",
+   "reason": "sports-betting promo (efootball betting)"
+  },
+  {
+   "code": "JpCEXAG87TQCIvXHpLGDXj",
+   "reason": "sports-betting promo (apostas esportivas)"
+  },
+  {
+   "code": "KOU9GFJDGTKE6MUVU5RERO",
+   "reason": "sports-betting promo (casa de aposta/bookmaker)"
+  },
+  {
+   "code": "GQWO6NW3mop5wsL7aArEyy",
+   "reason": "18+ betting-links group (🔞 + links da sorte)"
+  },
+  {
+   "code": "KZ9yAiLF8Ay7uB4IzD1NtQ",
+   "reason": "sports-betting promo (dicas de apostas)"
+  },
+  {
+   "code": "JIrezqFgEmpKSisvgscdN6",
+   "reason": "sports-betting promo (apostas esportivas)"
+  },
+  {
+   "code": "FeSfs98oPMnGW1bRQtXzJY",
+   "reason": "18+ anything-goes group (pode tudo + 🔞)"
+  },
+  {
+   "code": "GN9do5Ij0qr57jCB4DUNhy",
+   "reason": "sports-betting promo (aposta online)"
+  },
+  {
+   "code": "G5NV3hbPnM30ioxmnPqm0b",
+   "reason": "sports-betting promo (palpites/tips)"
+  },
+  {
+   "code": "H1ztnFZWwGuDw2PNUG8Mh1",
+   "reason": "sports-betting promo (casa de aposta/bookmaker)"
+  },
+  {
+   "code": "KOH5f0kg6Wc88NyB9FXYT0",
+   "reason": "sports-betting promo (bilhetes/slips)"
+  },
+  {
+   "code": "FqqCVhG2WC082N9EIBJLcr",
+   "reason": "betting recruitment (seja socio/partner)"
+  },
+  {
+   "code": "H3GVYKP5CX94bC3MZpmvCg",
+   "reason": "sports-betting promo (jogos de aposta)"
+  }
+ ],
+ "resume": "listings attempted: 3603 of 3603; next unattempted listing is index 3603 in leads_slice4.json order (first unattempted URL: none — slice fully attempted); re-run team05_mine.py (it skips mined URLs) to continue, then re-run this finalize script.",
+ "notes": [
+  "listings attempted so far: 3603 of 3603",
+  "listings with no invite found: 383",
+  "listings fetch-failed (in leads file for retry): 3",
+  "linkado.app is very slow from this VM (TTFB ~15-20s) and chat.whatsapp.com ~10s+ with occasional timeouts; throughput is network-bound. Many other wave teams are fetching the same hosts concurrently.",
+  "country BR for all (linkado.app is a Brazilian directory, locale pt_BR).",
+  "Descriptions use the listing's own description text where present, else a template from name/category. No source name/link stored in verified entries.",
+  "Finalize re-screen: adult-emoji combo (🔞 + sexual emoji/meetup wording), 'goza'/'vendo meus conteúdos' sexual-content selling, and 'bot mines' betting-signal bots excluded; 'Rifa da Vitória' kept (its description is a 🚫 prohibition, stripped before screening).",
+  "TEAM05 clean pass (post-finalize): removed 472 codes already in groups.json/.existing_codes.json (Nov 11 10:49 union rebuild merged team04's items; inherited miner/finalize only dedupe at mine time, so carried-over team04 items were stripped here and saved to team05-dedupe-removed.json).",
+  "TEAM05 clean pass: dropped 31 more by the task hard screen as proven by the Nov-11 coordinator's team04 exclusions — hentai (1), 18+ sticker/anything-goes/streaming groups (5), sports-betting promos/recruitment incl. palpites/apostas-esportivas/bilhetes/casa-de-aposta/lucro-garantido (25). 4 eFootball tournament/trading groups first flagged by the efootball rule were RESTORED (tournament/account-trading, not betting).",
+  "Kept per task false-positive restores: negated-prohibition groups (PROIBIDO PORNOGRAFIA / sem porno / proibido:hentai rules) and 18+ age gates on non-porn groups (alcohol sales, dark/reality-video group). Note: the Nov-11 coordinator screen strips a narrower prohibition set, so a preview run of its automated screen flags 10 of these keeps (prohibition-rule texts, the two 🔞 age gates, and a sex-substring hit on a no-sexual-content rule); they are kept here per the task restores and the merge may drop them.",
+  "Casino/slots gray zone: 123 kept groups are casino/slots signal-platform promos with no sports-betting markers (kept per the task's sports-only betting rule); listed in team05-casino-flagged.json for coordinator adjudication.",
+  "Descriptions follow the inherited team04 script convention: the listing's own description text where present, else the 'Join <name>, ...' template. Categories 'Buy Sell'/'Online Earning' per the inherited script mapping (both in the coordinator CANON).",
+  "VM rebooted ~08:18 UTC mid-verify of batch 18: 45 mined-but-unverified orphan codes were repaired by team05_repair_orphans.py (19 live, 26 dead, 0 pending) before the miner resumed; no listings were lost.",
+  "Controls (06:55 UTC): known-live KrDwdK8EIkB6vgauHg5M7N showed og:title 'JAY - PHP & Python Full Stack Developer' (HTTP 200); fabricated ZZZZZZZZZZZZZZZZZZZZZZ showed empty og:title (HTTP 200)."
+ ]
+}
