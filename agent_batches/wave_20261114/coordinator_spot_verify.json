@@ -1,0 +1,378 @@
+[
+ {
+  "http": 200,
+  "title": "JAY - PHP & Python Full Stack Developer",
+  "err": "",
+  "code": "KrDwdK8EIkB6vgauHg5M7N",
+  "label": "CONTROL-live",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "",
+  "err": "empty og:title",
+  "code": "ZzZzZzZzZzZzZzZzZzZzZzZz",
+  "label": "CONTROL-fabricated",
+  "verdict": "DEAD"
+ },
+ {
+  "http": 200,
+  "title": "SLOT DO M&#xc1;RIO &#x1f3b0;&#x1f340;",
+  "err": "",
+  "code": "I3BHBegFrp80rshSi3bJNi",
+  "label": "flag-casino-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "&#x1f525;GRUPO DE COOPERA&#xc7;&#xc3;O | LAN&#xc7;AMENTOS DI&#xc1;RIOS &#x1f352; &#x1f680;",
+  "err": "",
+  "code": "Cw03HFIMlRNGVoxvhxNTJF",
+  "label": "flag-casino-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "BET NETWORK &#x1f4b8;&#x1f3b0;",
+  "err": "",
+  "code": "FdX8dhBUX9u3yUjHA6yoyk",
+  "label": "flag-casino-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "&#x1f4b8;SLOTS DA SORTE &#x1f4b8;",
+  "err": "",
+  "code": "K7GLDAb3MB47gA0VxwnNxc",
+  "label": "flag-casino-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Ronaldo galan slots pagano muito",
+  "err": "",
+  "code": "Hdm6R4YF4s04tPzOp120Jo",
+  "label": "flag-casino-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "&#x1f9e1;&#x1f49b;Ofertas e Cupons da Sh&#xf4; &#x1f6cd;&#xfe0f;",
+  "err": "",
+  "code": "Ex8HvCVcqBF8Bjjtg6pazx",
+  "label": "flag-casino-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Trigre ganhos altos",
+  "err": "",
+  "code": "HaCZIssURNE0zn3uNXhqKZ",
+  "label": "flag-casino-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "&#x1f4b8;GGSLOTS 2&#x1f911;",
+  "err": "",
+  "code": "IH48Tm3GwYgGXQWLgFVvke",
+  "label": "flag-casino-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "ULTIMATEBROKER MONEY MAKING PLATFORM",
+  "err": "",
+  "code": "B946Y1yIg5AEOcMqgUO3Ox",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "JW TIPS FREE",
+  "err": "",
+  "code": "Csopw2EvxtiKKqUQqZM7xl",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "V&#xed;deos vazado",
+  "err": "",
+  "code": "EGCKrvzt3Nq5JnsVKlI6Tx",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Hot &#x1f975; Viral video",
+  "err": "",
+  "code": "EmGgfrPNWSWB4wjPlnBSi1",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Baddies &#x1f445;&#x1f444;&#x1f485;&#x1f3fc;",
+  "err": "",
+  "code": "Fu2xzLH9EisDq7x4VmVYaT",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "A",
+  "err": "",
+  "code": "HMif2lSTJhGAHEyO9d06zt",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Hot&#x1f525;videos18&#x1f51e;",
+  "err": "",
+  "code": "J0hBoywknE86GcSpKWO754",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "GRUPO ENCERRADO &#x1f6a8;&#x1f6a8;&#x1f6a8;&#x1f6a8;",
+  "err": "",
+  "code": "JEBd4Lb3h5A4sM6ewq76pr",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Grupo de sacanagem &#x1f60f;",
+  "err": "",
+  "code": "JqlWadz7x1ZJM0PkDfoE6k",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Dicas e apostas esportivas &#x2705;&#x1f4b8;",
+  "err": "",
+  "code": "K6O64hjoeX3II7ZdDXjZYe",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Only Girls&#x1fae6;",
+  "err": "",
+  "code": "KhXj8RYbOqnLikUft3PrNJ",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "PIX INFINITO -GRUPO 11",
+  "err": "",
+  "code": "LwwGKw8BzZW9KKbwMnetCI",
+  "label": "contested-team01-excluded",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "ULTIMATEBROKER MONEY MAKING PLATFORM",
+  "err": "",
+  "code": "B946Y1yIg5AEOcMqgUO3Ox",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Hot &#x1f975; Viral video",
+  "err": "",
+  "code": "EmGgfrPNWSWB4wjPlnBSi1",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Baddies &#x1f445;&#x1f444;&#x1f485;&#x1f3fc;",
+  "err": "",
+  "code": "Fu2xzLH9EisDq7x4VmVYaT",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Hot&#x1f525;videos18&#x1f51e;",
+  "err": "",
+  "code": "J0hBoywknE86GcSpKWO754",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Only Girls&#x1fae6;",
+  "err": "",
+  "code": "KhXj8RYbOqnLikUft3PrNJ",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Grupo de sacanagem &#x1f60f;",
+  "err": "",
+  "code": "JqlWadz7x1ZJM0PkDfoE6k",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "GRUPO ENCERRADO &#x1f6a8;&#x1f6a8;&#x1f6a8;&#x1f6a8;",
+  "err": "",
+  "code": "JEBd4Lb3h5A4sM6ewq76pr",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "A",
+  "err": "",
+  "code": "HMif2lSTJhGAHEyO9d06zt",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "V&#xed;deos vazado",
+  "err": "",
+  "code": "EGCKrvzt3Nq5JnsVKlI6Tx",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "PIX INFINITO -GRUPO 11",
+  "err": "",
+  "code": "LwwGKw8BzZW9KKbwMnetCI",
+  "label": "team32-only",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "O poder da sua mente",
+  "err": "",
+  "code": "LqcUnV2C2nQDeIGXIFAdMy",
+  "label": "random-team01",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Achadinhos da Shopee",
+  "err": "",
+  "code": "DSnpRSG8bubLdvqAkOGrzF",
+  "label": "random-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Ocorr&#xea;ncias Vila Real - ANEPC",
+  "err": "",
+  "code": "In8s90TkDWG7PwjU0yLCRD",
+  "label": "random-team27",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Zeal study primary 5",
+  "err": "",
+  "code": "LYKowdSHZnT7vTM797PmLu",
+  "label": "random-team29",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Granada: Expats, Business and Networking",
+  "err": "",
+  "code": "HgEtLrGFiTB8dQZ0qehPex",
+  "label": "random-team15",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Valencia Theatre Lab",
+  "err": "",
+  "code": "HARzJjv81KOG2zL1JpxNo1",
+  "label": "random-team15",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Roube brainrots",
+  "err": "",
+  "code": "LFa9045D0vY1qo6wuP2Nis",
+  "label": "random-team01",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Rebeldes&#x1f92a;&#x2618;&#xfe0f;",
+  "err": "",
+  "code": "JtH5G6xAlSA5OtzN72bZhz",
+  "label": "random-team15",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "United we stand &#x1f91d;&#x2764;&#xfe0f;",
+  "err": "",
+  "code": "DCGgs6KAQkN4qOjrtE9jot",
+  "label": "random-team01",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "New Youtuber Supporter",
+  "err": "",
+  "code": "KdDF3GvdPbhFKIUN5WhwGL",
+  "label": "random-team10",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "&#x1f49b; Achei pra Voc&#xea;! &#x1f9e1;",
+  "err": "",
+  "code": "IR3O6HXVqCJF7SCGdQGxMC",
+  "label": "random-team05",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Ff I&#039;d seller",
+  "err": "",
+  "code": "J2kEW205o0ZDzsxVdmtd0k",
+  "label": "random-team10",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "ACHADOS CULTURA B&#xcd;BLICA",
+  "err": "",
+  "code": "KQ8OoSf3dLb4TSXE2ODZaG",
+  "label": "random-team01",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "All message. ....post",
+  "err": "",
+  "code": "BdGAGl5sen6EIpjTfdeaen",
+  "label": "random-team01",
+  "verdict": "LIVE"
+ },
+ {
+  "http": 200,
+  "title": "Online Earning",
+  "err": "",
+  "code": "I0Cq0wkWy6g6RhKslS8udI",
+  "label": "random-team10",
+  "verdict": "LIVE"
+ }
+]

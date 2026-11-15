@@ -1,0 +1,344 @@
+{
+ "controls": {
+  "live_control": {
+   "code": "KrDwdK8EIkB6vgauHg5M7N",
+   "verdict": "live",
+   "title": "JAY - PHP &amp; Python Full Stack Developer"
+  },
+  "fab_control": {
+   "code": "ZZZZQQQQXXXXWWWWVVVV",
+   "verdict": "dead",
+   "title": ""
+  }
+ },
+ "clean_sample": [
+  {
+   "code": "GNsSCDne1Cz3l0egGSaf3O",
+   "name": "#01PromoçõesOficiais🛍️VS🛒",
+   "verdict": "live",
+   "title": "#01Promo&#xe7;&#xf5;esOficiais&#x1f6cd;&#xfe0f;VS&#x1f6d2;"
+  },
+  {
+   "code": "KfF28juFkX0CoIojVEzd9I",
+   "name": "مشروع مربح جداً لمن يبحث عن الحرية المالية",
+   "verdict": "live",
+   "title": "&#x645;&#x634;&#x631;&#x648;&#x639; &#x645;&#x631;&#x628;&#x62d; &#x62c;&#x62f;&#x627;&#x64b; &#x644;&#x645;&#x646; &#x64a;&#x628;&#x62d;&#x62b; &#x639;&#x646; &#x627;&#x644;&#x62d;&#x631;&#x64a;&#x629; &#x627;&#x644;&#x645;&#x627;&#x644;&#x64a;&#x629;"
+  },
+  {
+   "code": "CrDxzsZ3KiJ0emJkllUAve",
+   "name": "Fans of Manchester United",
+   "verdict": "live",
+   "title": "Fans of Manchester United"
+  },
+  {
+   "code": "IALCwcAhIBb5w0DpkFZpkp",
+   "name": "𝗣𝗜𝗡 𝗚𝗔𝗠𝗘 📌💥6️⃣",
+   "verdict": "live",
+   "title": "&#x1d5e3;&#x1d5dc;&#x1d5e1; &#x1d5da;&#x1d5d4;&#x1d5e0;&#x1d5d8; &#x1f4cc;&#x1f4a5;6&#xfe0f;&#x20e3;"
+  },
+  {
+   "code": "K3akx23RuAZEB0sHSHXtMt",
+   "name": "Deals & Discounts Group",
+   "verdict": "live",
+   "title": "Welcome to Our Deals &amp; Discounts Group! &#x1f389;"
+  },
+  {
+   "code": "F00kxDAJ9kUFM0ic4aLNkN",
+   "name": "WAKINGA FURUSA MKONONi SHARE PRODUCT",
+   "verdict": "live",
+   "title": "WAKINGA FURUSA MKONONi SHARE PRODUCT"
+  },
+  {
+   "code": "FzMmPZgIjZ19z904mSf7XG",
+   "name": "Jesus é o único caminho",
+   "verdict": "live",
+   "title": "Jesus &#xe9; o &#xfa;nico caminho"
+  },
+  {
+   "code": "Dzfyo1Y2qKiLQEQoufC3NK",
+   "name": "Multigrasa ✨✰STARS✩",
+   "verdict": "live",
+   "title": "Ulti&#x272d;&#x272e;stars&#x272f;&#x2730;"
+  },
+  {
+   "code": "Hl2IS7708Cj022E9E8baLu",
+   "name": "مرحبا بلكل 1",
+   "verdict": "live",
+   "title": "Ramadn&#x2b50;&#x2728;"
+  },
+  {
+   "code": "EmO6JC91mCa9ZKHJXvJFC1",
+   "name": "PAPO DE VISÃO $2 🇧🇷",
+   "verdict": "live",
+   "title": "PAPO DE VIS&#xc3;O $2 &#x1f1e7;&#x1f1f7;"
+  },
+  {
+   "code": "E53TxOg97OlCvgpGCb1AsB",
+   "name": "彡𝐙𝐎𝐄𝐈𝐑𝐀 𝐒𝐄𝐌 𝐋𝐈𝐌𝐈𝐓𝐄ᴾᴿᴼ ᭄",
+   "verdict": "live",
+   "title": "&#x5f61;&#x1d419;&#x1d40e;&#x1d404;&#x1d408;&#x1d411;&#x1d400; &#x1d412;&#x1d404;&#x1d40c; &#x1d40b;&#x1d408;&#x1d40c;&#x1d408;&#x1d413;&#x1d404;&#x1d3e;&#x1d3f;&#x1d3c; &#x1b44;"
+  },
+  {
+   "code": "IreJVCfeXi34Rh7l4XU3yB",
+   "name": "Trabalho Offshore 🚢⚓",
+   "verdict": "live",
+   "title": "Trabalho Offshore &#x1f6a2;&#x2693;"
+  },
+  {
+   "code": "Esc4l6TQRYJ9JXSileJjjm",
+   "name": "فرصة عمل اولاين 5",
+   "verdict": "live",
+   "title": "&#x634;&#x631;&#x64a;&#x643;&#x629; &#x627;&#x644;&#x639;&#x627;&#x644;&#x645;&#x64a;&#x629; Dxn"
+  },
+  {
+   "code": "Hlalm32ZQvFEm12Ssyg4OX",
+   "name": "رشاقة بلا حرمان 1",
+   "verdict": "live",
+   "title": "&#x631;&#x634;&#x627;&#x642;&#x629; &#x628;&#x644;&#x627; &#x62d;&#x631;&#x645;&#x627;&#x646;"
+  },
+  {
+   "code": "JUofEXRWMRn9yLYa0fnnBp",
+   "name": "مجموعة الرقية الشرعية الشيخ الراقي إسماعيل أبو رشيد المغرب",
+   "verdict": "live",
+   "title": "&#x645;&#x62c;&#x645;&#x648;&#x639;&#x629; &#x627;&#x644;&#x631;&#x642;&#x64a;&#x629; &#x627;&#x644;&#x634;&#x631;&#x639;&#x64a;&#x629; &#x627;&#x644;&#x634;&#x64a;&#x62e; &#x627;&#x644;&#x631;&#x627;&#x642;&#x64a; &#x625;&#x633;&#x645;&#x627;&#x639;&#x64a;&#x644; &#x623;&#x628;&#x648; &#x631;&#x634;&#x64a;&#x62f; &#x627;&#x644;&#x645;&#x63a;&#x631;&#x628;"
+  },
+  {
+   "code": "FQL5eiuZRwhJfGdOFnnX6J",
+   "name": "العالم كله 2",
+   "verdict": "live",
+   "title": "&#x62f;&#x628;&#x644;&#x648;&#x645; &#x627;&#x646;&#x62c;&#x644;&#x64a;&#x632;&#x64a; &#x1f468;&#x1f3fb;&#x200d;&#x1f393;&#x62c;7 &#x62f;72 h12"
+  },
+  {
+   "code": "D7EgFua3g030RwozS4lazt",
+   "name": "وذكر 6",
+   "verdict": "live",
+   "title": "&#xab;&#x648;&#x64e;&#x630;&#x64e;&#x643;&#x651;&#x650;&#x631;&#x652; &#xbb;&#x23f0;"
+  },
+  {
+   "code": "HMAqGEI8ZCI7uaNdah0GD3",
+   "name": "مجموعة خاصة لدعم النساء الناجحات 1",
+   "verdict": "live",
+   "title": "&#x627;&#x644;&#x627;&#x633;&#x62a;&#x62b;&#x645;&#x627;&#x631; &#x627;&#x644;&#x630;&#x643;&#x64a; &#x641;&#x631;&#x635;&#x629; &#x639;&#x645;&#x644; &#x628;&#x627;&#x644;&#x645;&#x62c;&#x627;&#x646;  &#x1f4b5;&#x1f4b5;"
+  },
+  {
+   "code": "IxblTiIlgFJ6RVXJwPmP39",
+   "name": "𝓇𝒶𝓂𝓏𝒶𝓃 𝑀𝓊𝒷𝒶𝓇𝒶𝓀",
+   "verdict": "live",
+   "title": "&#x1d4c7;&#x1d4b6;&#x1d4c2;&#x1d4cf;&#x1d4b6;&#x1d4c3; &#x1d440;&#x1d4ca;&#x1d4b7;&#x1d4b6;&#x1d4c7;&#x1d4b6;&#x1d4c0;"
+  },
+  {
+   "code": "EwMuT14bmgE6MsjrC7mK5Q",
+   "name": "⚔️ Ḅṛöẗḧëṛṡ ⚔️",
+   "verdict": "live",
+   "title": "&#x2694;&#xfe0f; &#x1e04;&#x1e5b;&#xf6;&#x1e97;&#x1e27;&#xeb;&#x1e5b;&#x1e61; &#x2694;&#xfe0f;"
+  },
+  {
+   "code": "EdMcEbbABqq9Fpl8IOi39k",
+   "name": "♥️íchαчαn fαnѕ cluв⚡💥",
+   "verdict": "live",
+   "title": "&#x2665;&#xfe0f;&#xed;ch&#x3b1;&#x447;&#x3b1;n f&#x3b1;n&#x455; clu&#x432;&#x26a1;&#x1f4a5;"
+  },
+  {
+   "code": "Lra98YjRdZP11LSwFfV6YP",
+   "name": "ريادة الأعمال مشروع العمر",
+   "verdict": "live",
+   "title": "&#x631;&#x64a;&#x627;&#x62f;&#x629; &#x627;&#x644;&#x623;&#x639;&#x645;&#x627;&#x644; &#x645;&#x634;&#x631;&#x648;&#x639; &#x627;&#x644;&#x639;&#x645;&#x631; &#x1f338;"
+  },
+  {
+   "code": "GACVZSKKnqD9LuaJQh5uuT",
+   "name": "قروب عروض وتسويق 2",
+   "verdict": "live",
+   "title": "Mr. Shoes Store | &#x645;&#x633;&#x62a;&#x631; &#x634;&#x648;&#x632;"
+  },
+  {
+   "code": "J33V3HUaUOhL0X7ICCB9Sv",
+   "name": "منصة الرياض للإعلانات",
+   "verdict": "live",
+   "title": "&#x645;&#x646;&#x635;&#x629; &#x627;&#x644;&#x631;&#x64a;&#x627;&#x636; &#x644;&#x644;&#x625;&#x639;&#x644;&#x627;&#x646;&#x627;&#x62a;"
+  },
+  {
+   "code": "CFMck8JCO6uBpSnVwWuYqp",
+   "name": "خش وكسب المال 1",
+   "verdict": "live",
+   "title": "&#x62c;&#x645;&#x639; &#x62a;&#x643;&#x633;&#x627;&#x628;"
+  },
+  {
+   "code": "GSMOeoUVJHvBeY2Sk7uQfo",
+   "name": "Global Manpower Solution ( Kolkata )",
+   "verdict": "live",
+   "title": "Global Manpower Solution ( Kolkata )"
+  },
+  {
+   "code": "C7T2tZsy3bpFFrZhwqqI6R",
+   "name": "تل رفعت حلب سوريا 1",
+   "verdict": "live",
+   "title": "&#x645;&#x62c;&#x645;&#x648;&#x639;&#x629; &#x62a;&#x62f;&#x631;&#x64a;&#x628; 1"
+  },
+  {
+   "code": "HD01v86sZYiHLKwvwfJRI2",
+   "name": "Valencia conscious families - Familias Concientes en Valencia",
+   "verdict": "live",
+   "title": "Valencia conscious families - Familias Concientes en Valencia"
+  },
+  {
+   "code": "Jy8SO2OvlKcF1L2jhyTk6Y",
+   "name": "اكادير حي السلام",
+   "verdict": "live",
+   "title": "HASNAE CHOUBING &#x644;&#x644;&#x639;&#x628;&#x627;&#x64a;&#x627;&#x62a; &#x1f451;&#x1f452;&#x1f45b;"
+  },
+  {
+   "code": "GQJQn2wBgRY4dTwF5NiRUA",
+   "name": "معا الى الجنة 1",
+   "verdict": "live",
+   "title": "&#x1f343; &#x645;&#x639;&#x627;&#x64b; &#x625;&#x644;&#x649; &#x627;&#x644;&#x62c;&#x646;&#x651;&#x64e;&#x629; &#x1f54a;"
+  },
+  {
+   "code": "BwfS2jlYwsU42hbIgRlkC8",
+   "name": "مجموعة كلاسيكو العالم",
+   "verdict": "live",
+   "title": "&#x1f3c6;&#x2749; &#x6af;&#x644;&#x64f;&#x622;&#x633;&#x64a;&#x64e;&#x6af;&#x6c6; &#x622;&#x644;&#x64f;&#x639;&#x622;&#x644;&#x64f;&#x645; &#x2749;&#x1f3c6;"
+  },
+  {
+   "code": "EMJ0rLDP6vC6jmhJ26jtD3",
+   "name": "Personal / Assistant / Executive Assistant / Secretary Jobs Alert Quick Jobs Placement",
+   "verdict": "live",
+   "title": "Personal / Assistant / Executive Assistant / Secretary  Jobs Alert Quick Jobs Placement - 1"
+  },
+  {
+   "code": "CTin39AR5mvHf7OMINtFgi",
+   "name": "ماجستير إدارة الرعاية الصحية 1",
+   "verdict": "live",
+   "title": "&#x645;&#x627;&#x62c;&#x633;&#x62a;&#x64a;&#x631; &#x625;&#x62f;&#x627;&#x631;&#x629; &#x627;&#x644;&#x631;&#x639;&#x627;&#x64a;&#x629; &#x627;&#x644;&#x635;&#x62d;&#x64a;&#x629;"
+  },
+  {
+   "code": "CMGHr5jjvfQ9Ntkn9yJdC5",
+   "name": "MANCHESTER UNITED FANS",
+   "verdict": "live",
+   "title": "MANCHESTER UNITED FANS"
+  },
+  {
+   "code": "IZL8qsptQgUC9ILy61sGLs",
+   "name": "7K Elite⚡️",
+   "verdict": "live",
+   "title": "7K   Elite&#x26a1;&#xfe0f;"
+  }
+ ],
+ "team24": [
+  {
+   "code": "BzD8xwxi9Dl5kpfqNSiB4C",
+   "name": "",
+   "verdict": "live",
+   "title": "Confession&#xe1;rio An&#xf4;nimo &#x1f92b;&#x1f51e;"
+  },
+  {
+   "code": "FSVxZQDm2Jz9fmzKndgbvi",
+   "name": "",
+   "verdict": "live",
+   "title": "Curtidas Escondidas &#x1f648;&#x1f51e;"
+  },
+  {
+   "code": "LXlFviZyzYt5y3XEcLNmHm",
+   "name": "",
+   "verdict": "live",
+   "title": "Mods Dormiram &#x1f634;&#x1f51e;"
+  },
+  {
+   "code": "G6UvTNAjewrIFpC7BR76kn",
+   "name": "",
+   "verdict": "live",
+   "title": "DDD Quente &#x1f525; Do 11 ao 99"
+  },
+  {
+   "code": "GRcsQrFQBxS0Ka5wbzzwCo",
+   "name": "",
+   "verdict": "live",
+   "title": "Anny | Parceira TON &#x2705;"
+  },
+  {
+   "code": "EpdfRt8EfuUDMxp9RiAZwz",
+   "name": "",
+   "verdict": "live",
+   "title": "&#x1d400;&#x1d413;&#x1d408;&#x1d415;&#x1d404; &#x1d400;&#x1d40f;&#x1d40f;&#x1d412; &#x2705;&#xfe0f;"
+  },
+  {
+   "code": "JQe8xWPbf5P8D6cr15Jee6",
+   "name": "",
+   "verdict": "live",
+   "title": "IPTV Seja UM REVENDEDOR &#x1f31f;"
+  }
+ ],
+ "wave12_weak": [
+  {
+   "code": "BnfNh3lujd2FCYrXcJa8Nh",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "Ht6lvqqIubo30cpr8HbyZg",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "FIXIB8ohQzKAALAwNu1jTO",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "EYHe6kXaN9tH6ob5lZwadV",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "EV9wlTaMZwfBdH1Btawvbn",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "DehRlBtQZQ9BBsUhBWktje",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "EdWo4isn2kt9lc68i3cl43",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "LTHz02aEPtdAv7dfPitfHi",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "Esix7AjDDoW3NseBW0pT8R",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "FgdNwlcS1yp8VOkffuyVwF",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "C2yCEA5mop46zUfERQaos2",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  },
+  {
+   "code": "KfIQbGOXAGm425UtL176Kh",
+   "name": "",
+   "verdict": "dead",
+   "title": ""
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+[
+ {
+  "kind": "url",
+  "value": "https://www.whtsagroupslinks.com/",
+  "note": "Directory homepage returned HTTP 403 on 3 attempts via curl (Nov 14); 0 codes extracted. Needs browser fetch."
+ },
+ {
+  "kind": "url",
+  "value": "https://grouplinks.co.uk/all-whatsapp-groups/",
+  "note": "Fetched OK but page carries 0 direct chat.whatsapp.com codes (hub page linking to topic lists, which were mined directly). No further action."
+ },
+ {
+  "kind": "url",
+  "value": "https://whatgroups.com/",
+  "note": "Carried from team31 (Nov 13): homepage Cloudflare-blocked via curl. Its /islamic-whatsapp-group-link/ subpage fetched fine this wave (169 codes, 3 fresh, all dead). Homepage still needs browser fetch."
+ }
+]

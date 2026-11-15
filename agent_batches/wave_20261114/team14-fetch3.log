@@ -1,0 +1,2 @@
+resumed: 200 done, 27 raw codes, 0 fails
+[1063] ProxyError attempt 1: HTTPSConnectionPool(host='www.whatshub.es', port=443): Max retries exceeded with url: /grupo/1063 (C

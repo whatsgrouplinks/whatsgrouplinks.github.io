@@ -1,0 +1,18 @@
+{
+ "raw": 92,
+ "verified": 1,
+ "dupes": 44,
+ "dead": 45,
+ "excluded": [
+  {
+   "code": "J4FDZkF49qEKHEeNlXAJWh",
+   "reason": "casino/betting/casino-signal"
+  },
+  {
+   "code": "JwmvJDtHEyvBFeqImUaOP2",
+   "reason": "casino/betting/casino-signal"
+  }
+ ],
+ "pending": 0,
+ "leads": 0
+}

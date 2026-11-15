@@ -1,0 +1,28 @@
+{
+ "team": "team13",
+ "slice": "JS-gated leftovers: (A) 61 groupsinvite.link/group/link pages from wave_20261112 team23 leads; (B) 120-page sample (prioritised by jobs/study/sports/education/news/health/music/movies/anime/gaming/friendship keywords) of 372 codeless whts.club pages from wave_20261112 team16 leads",
+ "sources": [
+  "agent_batches/wave_20261112/team23-groupsinvite-leads.json (61 pages)",
+  "agent_batches/wave_20261112/team16-whtsclub-leads.json (372 pages; 120 sampled)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS, dead)"
+ },
+ "raw": 4,
+ "verified": 0,
+ "dupes": 1,
+ "dead": 3,
+ "excluded": [],
+ "pending": 0,
+ "leads": 682,
+ "notes": [
+  "groupsinvite: all 61 listing pages returned HTTP 200; only 4 distinct real codes in static HTML (5th regex hit was a 30-char artifact of the dupe code + adjacent text 'Shopping'). All 61 rules pages returned 200 and ALL show 'Link Unavailable' — the site itself withholds the invite link; no code in any rules page.",
+  "Dupe: H9PX9qPXxhrLoDvPqGjqnu ('iPhone WhatsApp Group' page) already in .existing_codes.json — never banked.",
+  "Dead (empty og:title on two spaced curl fetches): IHMYgfkxQTLA1CNErFclp7 ('Free fire Id sale'), JN9z7LGePy8Ff0nfvbpdwK ('Free video editing course (43)'), LeR0V4S3GGV1EzzxI14MuF ('Free earning & verified airdrops' — would also have been excluded as crypto-airdrop had it been live).",
+  "whts.club: 120 sampled pages re-fetched; 0 chat.whatsapp.com codes. 116 pages carry a JSON-LD mainEntityOfPage.url that is a whatsapp.com/channel link (channel, not a group invite); 4 are blog-style pages with no link. The 'Unirme al chat' button is a Uniform form that POSTs a join REQUEST (phone number) to the author via engine/ajax/controller.php — it does not reveal an invite link, so no text route can extract codes from these pages.",
+  "groupsinvite Join button points to /group/rules/<slug>/ which renders 'Link Unavailable' for all 61 — both slices are unextractable by any text route and are browser-leg jobs.",
+  "562 additional unmined groupsinvite group pages discovered as related links on the 61 listing pages; banked as leads.",
+  "No transport-failure codes: all 3 verified codes returned complete pages on both fetches; the 3 whts.club pages that failed in phase 1 succeeded on retry (all channels)."
+ ]
+}

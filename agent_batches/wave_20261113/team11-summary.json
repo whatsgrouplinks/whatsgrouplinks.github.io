@@ -1,0 +1,122 @@
+{
+ "team": "team11",
+ "wave": "20261113",
+ "slice": "whts.club news_pages.xml — entries NOT in team16's Nov 12 mined set: 2 brand-new sitemap URLs (6558-comunidad-perrona, 6560-republica-memera) + 38 never-fetched Nov 12 sitemap URLs (sitemap indices 0-41 and 56-59, excl. 6554-entre-amigos whose code team16 already verified dead). NOTE: team16 did NOT exhaust the sitemap — it fetched 1621/1660 pages and left the newest ~39 unmined; this slice mined those plus the 2 new ones (40 pages total).",
+ "sources": [
+  "https://whts.club/news_pages.xml (1662 URLs on 2026-11-13; 1660 on 2026-11-12 snapshot, 0 removed)",
+  "whts.club listing pages fetched directly (40 pages)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> live, og:title 'JAY - PHP & Python Full Stack Developer'",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> dead, empty og:title"
+ },
+ "raw": 40,
+ "verified": 22,
+ "live": 3,
+ "dupes": 18,
+ "dead": 19,
+ "excluded": [
+  {
+   "code": "KByTwCwllZdFZQxVfEjKq0",
+   "name": "Grupo hormonal 🔥",
+   "reason": "drop (doubt-rule): 'Grupo hormonal' + meta_desc 'Es un grupo hormonal dónde puedes hablar y hacer otras cositas 🔥' reads as sexual-euphemism group; dropped when in doubt per task screen"
+  },
+  {
+   "code": "HgdxFY5PmuSJCmyZiLV5vl",
+   "name": "Amistad y migajeros",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "HIreug4zW3fAqEu3Cjz5pm",
+   "name": "Marina",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "LNL9FvoepFi5SJy0eb05yg",
+   "name": "Pokemon Deoxis",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "LVlFQiFGNC0JiR5geJCQ7U",
+   "name": "La legión",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "HPRDMhwaNY61jVz6ANz264",
+   "name": "Grupo",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "H3p8D41EZgqEwaaO8QNuPB",
+   "name": "Stickers Top Figurinhas",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "JC9PQOdrPZVLWNSVVrbOUm",
+   "name": "Hablemos de Series/Pelis",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "FVkThcVVs6T2kz0WzLyYDB",
+   "name": "Stickers y más",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "I4QvSAgLg6sCXm5qoqOS3r",
+   "name": "Secta incel",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "LQiFk4YWaqB2TNbiIRQ7Bd",
+   "name": "Videos Graciosos, Música y Stickers",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "F7SmC6xLojtKY5ZJZDoE87",
+   "name": "Naruto Grupo",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "FkFLcTdu1UmKaKS7MYO4Iv",
+   "name": "EXITOSO? CLARO!!GENIO",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "HuMlqtDmlw7LpsShEqQoiU",
+   "name": "Josue Marcelo Digital",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "Guprlyu8WPsGOfdFpfZ70Z",
+   "name": "Sociables de teclado",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "IiE8vmNKVE8LN0xLGKUIQY",
+   "name": "RyouSpace.world-MC.⛏️",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "DDIV1rgt0DMCLCCe08OFCG",
+   "name": "FurryArgento",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "LI2BmgAzrj0LGzTSvITFer",
+   "name": "ADV 🥝𝐊𝐈̶͠𝐖̶̷̸𝐈 ₊˚๑̶ 𝐒̶̶͠𝐌𝐎̸̷࣪𝐎̶̤͟𝐓࣪𝐇͞ 𝐈̸̸̷̶𝐄̶̤ 🍵⃝ㅤ",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "JLzCGXDg8irDsTjjFaBnKP",
+   "name": "Marvel Pro - Guión",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  }
+ ],
+ "pending": 0,
+ "leads": 0,
+ "pages_fetched": 40,
+ "pages_failed": 0,
+ "zero_code_pages": 0,
+ "candidates_kept": 2,
+ "notes": "18 of 40 extracted codes were already in .existing_codes.json (union dupes, skipped before verify). 22 codes curl-verified: 3 live, 19 dead-empty (each dead confirmed by a second spaced curl retry). 1 live code dropped under the when-in-doubt screen (Grupo hormonal, sexual-euphemism wording). 0 transport failures, 0 pending. No leads: every fetched page carried exactly one invite code. Sitemap grew 1660 -> 1662 URLs since Nov 12; nothing removed."
+}

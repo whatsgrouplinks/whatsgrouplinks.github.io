@@ -3,3 +3,9 @@
 [09:19:04] chain: verifier pid 1767 exited; starting deep-candidates verify
 [10:11:09] chain: waiting for verifier pid 1748
 [10:43:10] chain: waiting for verifier pid 5261
+[11:11:08] chain: waiting for verifier pid 11870
+[11:57:49] chain: waiting for verifier pid 1782
+[12:02:49] chain: verifier pid 1782 exited; starting deep-candidates verify
+[12:02:52] chain: deep verify exit=0
+[12:02:52] chain: finalize2 exit=0
+[12:02:52] chain: DONE

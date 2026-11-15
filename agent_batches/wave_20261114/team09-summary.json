@@ -1,0 +1,312 @@
+{
+ "team": "team09",
+ "slice": "team02-extracted.jsonl (wave_20261112) remainder reconciliation - codes never verified anywhere",
+ "sources": [
+  "wave_20261112/team02-extracted.jsonl",
+  "wave_20261112/team02-awaiting-verification.json",
+  "wave_20261113/team02-summary.json + team02-candidates.json",
+  "wave_20261113/team03-summary.json + team03-candidates.json",
+  "wave_20261112/team02-verify-state.json",
+  "wave_20261112/team02-leads-slice2-summary.json (exclusions + candidates)",
+  ".existing_codes.json (union, 119266 codes)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (LIVE)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead)",
+  "method": "one requests.Session, browser User-Agent, 60s timeout, empty og:title retried 3x spaced before dead; HTTP 429/transport -> pending"
+ },
+ "counts": {
+  "raw_extracted_lines": 3603,
+  "raw_unique_codes": 3601,
+  "no_code_entries": 3,
+  "verified_this_run": 80,
+  "live": 54,
+  "dead": 26,
+  "pending": 0,
+  "candidates": 11,
+  "excluded_live": 43,
+  "leads": 0,
+  "dupes_vs_union_in_remainder": 77
+ },
+ "reconciliation": {
+  "extracted_unique_codes": 3601,
+  "in_awaiting_file": 2160,
+  "awaiting_verified_by_wave13_team02": 1080,
+  "awaiting_verified_by_wave13_team03": 1080,
+  "awaiting_unverified": 0,
+  "in_wave12_verify_state_not_in_awaiting": 1284,
+  "wave12_verify_state_live": 528,
+  "wave12_verify_state_dead": 756,
+  "never_verified_anywhere": 157,
+  "never_verified_of_which_union_dupes": 77,
+  "never_verified_of_which_non_union_to_verify": 80,
+  "note": "The 80 to-verify codes are EXACTLY the 80 wave_20261112 slice2 exclusions sitting in the uncovered set (set equality checked): wave12 pre-screened them on directory name/desc without a live check. This run live-verified all 80 and re-screened on the LIVE og:title (+ group description text for borderline cases). 26 dead, 43 live-but-excluded, 11 restored as candidates. No wave13-verified code was re-verified. Wave12 verify-state 'live' entries were NOT re-verified (out of scope); see flags.",
+  "wave13_team02_counts_check": "2 verified + 611 dupes + 462 dead + 5 excluded = 1080 = raw",
+  "wave13_team03_counts_check": "0 verified + 643 dupes + 433 dead + 4 excluded = 1080 = raw"
+ },
+ "excluded": [
+  {
+   "code": "BQSo4FsUIqTAvfmQiEJ4mA",
+   "reason": "betting: live title 'CAMBISTA RAFAEL' (bookmaker/tout); dir desc betting tips",
+   "og_title": "CAMBISTA RAFAEL"
+  },
+  {
+   "code": "BXkhIXYcySlBBU59StsbVL",
+   "reason": "betting: live title 'Aposta Esportivas #1'",
+   "og_title": "Aposta Esportivas💰#1"
+  },
+  {
+   "code": "BcI9w95fxnE8jyl4HzYKr7",
+   "reason": "betting: live title 'Apostas esportivas'",
+   "og_title": "Apostas esportivas"
+  },
+  {
+   "code": "C1EDmo22BI2I3jkHINI81x",
+   "reason": "betting: live title '4X4 APOSTADO WAVE'",
+   "og_title": "4X4 APOSTADO WAVE 🌊"
+  },
+  {
+   "code": "CUvraq7w2ZM5E4Cu5D9Mw6",
+   "reason": "betting/lottery tips: live title 'Renda Extra' but group desc is lotofacil lottery-betting tips ('segredo da lotofacil', results on all your bets)",
+   "og_title": "Renda Extra 👩🏽‍💻"
+  },
+  {
+   "code": "Cb4ZY4EJlwf24ENsk4PVXO",
+   "reason": "PIX investment scheme: group desc asks for R$10 'investimento' via PIX to a personal email address",
+   "og_title": "PIX SOLIDÁRIO"
+  },
+  {
+   "code": "CrUYaN0ExzoDx1ue3HAfBA",
+   "reason": "sexual content: live title 'Fas do Richard G.' is clean but group desc explicitly permits sending nudes ('PODE MNDR NUDES SE QUISER')",
+   "og_title": "Fãs do Richard G."
+  },
+  {
+   "code": "DGSc0KMwKOdKC1BMR77Nex",
+   "reason": "earn-money referral scheme + phone-like numeric code as group name ('Kwai176551729'); desc 'grupo pra ganhar dinheiro com kwai'",
+   "og_title": "Kwai176551729"
+  },
+  {
+   "code": "DKEpXIogwuU8RcARJNXvpg",
+   "reason": "sexual content: live title 'Fas do Richard G.' is clean but group desc says 'ROLA PUTARIA TOTAL' (explicit sex)",
+   "og_title": "Fãs do Richard G."
+  },
+  {
+   "code": "DWjJTUZyCH2L3tPHzxOHYI",
+   "reason": "porn leaks: live title 'VIDEOS VAZADOS' (leaked videos)",
+   "og_title": "VÍDEOS VAZADOS 🔥😳"
+  },
+  {
+   "code": "DoEJCTwrjge3vyxl0pIbfZ",
+   "reason": "betting: live title 'FUT PRE E LIVE' (football pre-match/live betting); dir 'CORNER BETS', desc corner-betting group",
+   "og_title": "FUT PRÉ E LIVE🥅⚽⛳"
+  },
+  {
+   "code": "DqdpfejPMcS8YC8fU2cuG4",
+   "reason": "betting tips: live title 'Dicas Free' (free tips); dir 'Sportbet Brasil Cambista', desc sports-betting group",
+   "og_title": "Dicas Free 🍀"
+  },
+  {
+   "code": "E8O4xkaJtIoKevRUotDdw8",
+   "reason": "betting: live title 'X1 apostado'",
+   "og_title": "💰💞X1 apostado💞💰"
+  },
+  {
+   "code": "EKNoEAD9b91EDfasD5131L",
+   "reason": "betting: live title 'Aposta 24H FF'",
+   "og_title": "Aposta 24H FF😎"
+  },
+  {
+   "code": "EhK6KhlZbAjL55mL1P1HEF",
+   "reason": "betting: live title 'Aposta Esportivas #2'",
+   "og_title": "Aposta Esportivas💰#2"
+  },
+  {
+   "code": "EwtvI083nDRJXjjTrG9A8g",
+   "reason": "porn: live title 'Kawaii' is clean but group desc regulates posting pornographic videos",
+   "og_title": "Kawaii"
+  },
+  {
+   "code": "F0x4AfhzPlG0WxGFHma66l",
+   "reason": "hard porn/xxx: live title 'DIARIO DO XXX'",
+   "og_title": "DIÁRIO DO XXX 🏆📱🖥️"
+  },
+  {
+   "code": "FS78GVLCklI5Wf3oNd63nX",
+   "reason": "betting: live title 'Lidertoppp Free G&g'; desc 'grupo de apostas'",
+   "og_title": "Lidertoppp Free G&g ✅🌎"
+  },
+  {
+   "code": "FV7rX4uB4OiDzHQc6pKkox",
+   "reason": "betting: live title 'SUPERBETS88 TIPS E APOSTA'",
+   "og_title": "SUPERBETS88 TIPS E APOSTA"
+  },
+  {
+   "code": "FuBKONlfp2E0GHbdo3YVTD",
+   "reason": "betting: live title 'APOSTAS DO LUK | 10%'",
+   "og_title": "APOSTAS DO LUK | 10% 💸"
+  },
+  {
+   "code": "FwH1GABvjAR5XehCDG9fo9",
+   "reason": "betting: live title 'Sorte esportiva - sua aposta aki' (your bet here)",
+   "og_title": "Sorte esportiva☘️⚽ sua aposta aki."
+  },
+  {
+   "code": "G1a4FBi97EyJNmtKJ0lbe8",
+   "reason": "no usable name: live title and directory name are only the emoji",
+   "og_title": "🦋"
+  },
+  {
+   "code": "GFqgjUHbo011D2zdKbg047",
+   "reason": "betting promo: live title 'Ganhe 5 reais de Bonus' (win R$5 bonus); dir 'Apostas Free'",
+   "og_title": "Ganhe 5 reais de Bônus"
+  },
+  {
+   "code": "GORA4rfaLZI4VdQSoUEilF",
+   "reason": "earn-money referral scheme + phone-like numeric code in name ('Kwai236332278 dinheiro')",
+   "og_title": "Kwai236332278 dinheiro 💸✋"
+  },
+  {
+   "code": "GVDl3sdswUF5Jh33oydwHf",
+   "reason": "betting: live title '5 - BETS CARTOLAO'",
+   "og_title": "5 - BETS CARTOLÃO"
+  },
+  {
+   "code": "GWczr4W0GKKH39A8FPqZBo",
+   "reason": "betting: live title 'APOSTA 24HRS @WILL'",
+   "og_title": "APOSTA 24HRS @WILL✅"
+  },
+  {
+   "code": "GeG6FCcFKCYKtDSMOqhd5a",
+   "reason": "betting: paid betting league on Cartola per desc ('LIGA APOSTADA NO CARTOLA', R$3 per team)",
+   "og_title": "Cartoleiros 🎩⚽1.0"
+  },
+  {
+   "code": "GhpUY3vGFEd9pfHUdneENX",
+   "reason": "betting signals: live title 'Palpites Zero Grau' (palpites = betting predictions)",
+   "og_title": "Palpites Zero Grau😎🤑"
+  },
+  {
+   "code": "GnSt94nmjgDLPtmO7cIXFX",
+   "reason": "betting: live title '4 - BETS CARTOLAO'",
+   "og_title": "4 - BETS CARTOLÃO"
+  },
+  {
+   "code": "GvBsn0kLtjGF7jAm15OM8K",
+   "reason": "earn-money referral scheme: 'Cadastros Novos KWAI VIP' (Kwai signup recruitment for money)",
+   "og_title": "Cadastros Novos KWAI VIP"
+  },
+  {
+   "code": "HgjodQUE4md3Rwl2zRuJF7",
+   "reason": "betting: live title 'GALAXY APOSTAS GP-1'",
+   "og_title": "GALAXY APOSTAS GP-1🪐🚀"
+  },
+  {
+   "code": "Ho1XYfqQxJ91PcdPXd4ijQ",
+   "reason": "sexual content: live title 'Pau no cu' is explicit sexual slang; desc invites ages 13+ into a sexual group",
+   "og_title": "Pau no cu"
+  },
+  {
+   "code": "INVcmZVPuheAJXwmQlw1z6",
+   "reason": "betting: live title 'FAMILIA vL apostaaas'",
+   "og_title": "FAMÍLIA vL apostaaas🐉"
+  },
+  {
+   "code": "J1mCBWkQBiYKAaQycB3SZ7",
+   "reason": "betting: live title '4X4 ALEMAO/ apostado'",
+   "og_title": "4X4 ALEMÃO/ apostado 🔥🎮"
+  },
+  {
+   "code": "JGGeEo9rYNHI4jZOulGxxf",
+   "reason": "betting: live title '3 - BETS CARTOLAO'",
+   "og_title": "3 - BETS CARTOLÃO"
+  },
+  {
+   "code": "JP3zyiEZL2K5HkEnZwX2DZ",
+   "reason": "betting: live title 'Banca ilha bet'",
+   "og_title": "Banca ilha bet ⚽🏀🎾⚾"
+  },
+  {
+   "code": "JVAmYNlbTXzEzFbBykfzx6",
+   "reason": "betting: live title 'BANCA DO ELTONBETS88'",
+   "og_title": "🤑🤑🤑BANCA DO ELTONBETS88🤑🤑"
+  },
+  {
+   "code": "JgOljnheVuNCAeVt7xJIN9",
+   "reason": "betting: live title 'GORILA APOSTAS - 10%'",
+   "og_title": "GORILA APOSTAS - 10% 💸🥵"
+  },
+  {
+   "code": "K08Hb1Zcm62D8dcBG8eTD8",
+   "reason": "betting: 'Geração Milionária' group is a ColorWiz gambling group per desc ('APOSTA LUCRATIVA #COLORWIZ')",
+   "og_title": "Geração Milionária 💎"
+  },
+  {
+   "code": "K7JacPSLgnb2vHtoZQPzf9",
+   "reason": "betting signals: live title 'Gavião. Palpites free'; dir 'BET365 - SINAIS'",
+   "og_title": "Gavião. Palpites free"
+  },
+  {
+   "code": "KfLXQ12PUm0Ht0XOevPxK1",
+   "reason": "earn-money scheme: 'Kwai golds 2.000.000 =200' (trading Kwai virtual currency for cash)",
+   "og_title": "Kwai golds 2.000.000 =200"
+  },
+  {
+   "code": "KmZIXCLB3dwIWEDNkh8Lel",
+   "reason": "betting: live title 'Apostas esportivas gp#13'",
+   "og_title": "Apostas esportivas gp#13"
+  },
+  {
+   "code": "LIgMCJbsFpcBSOfEjyh909",
+   "reason": "betting signals: live title 'Placarbets palpite'; desc football predictions + betting",
+   "og_title": "Placarbets palpite"
+  }
+ ],
+ "dead_codes": [
+  "BPu31AMqn15E66xAtELe0M",
+  "BmkCPrwgaqk7515rbN8kE1",
+  "BqQnWI8q0M1B82OkjDxVX8",
+  "CIpJMIqsnPhLB0PHYgngDI",
+  "CKHDDpbDY47I121XqqrTue",
+  "CSICVsirmLVGHdOlLlJ6Py",
+  "E4D9ojGC0AAF8uJswQ0mq5",
+  "EfUXwa4R8hK2AkZllh1ex6",
+  "EhSagtTR7anFm3zhsbJJMx",
+  "FOdcDPhNhyrBZKoCTG8Akj",
+  "GFeITtq0q0J2uSUyFf2yLW",
+  "HDZCmJWsZ6GB6168oolk9J",
+  "HQvylfB1cXUAn7psbYVS5P",
+  "Hm0HM0cyxG5DzcnnsGASGN",
+  "IArqeiywcnDI8oF6qRF8VV",
+  "IIpiZfgl1V50FaZXr48bE8",
+  "ILssJfHakT41LkYVBJLpEZ",
+  "JGMYkCjI0Mo0KYnJrEScW7",
+  "KXnIey2QFtSFZuPfzAlNG3",
+  "Kb9BaAwVy5r5H5ZxdDrAbq",
+  "L9Afn89VN0z7waxPEjuNSm",
+  "LFABjRuZ2ZA3vQp25EAgb5",
+  "LXGePQECOtyFC1PSjnNPUy",
+  "LfYgTYvFtDGDEjv1t2WMIW",
+  "LiuBlHRaPccKCdThhI69IH",
+  "LvdPOHT7YSS5Ha8BmCcIvp"
+ ],
+ "flags": [
+  "Restored 10 false positives + 1 placeholder keep = 11 candidates; each restore is backed by the group's own rules text banning porn/nudes (negated-prohibition) or a clean live title (friendship/religion/buy-sell).",
+  "Live og:title often differs from the directory name - 2 codes (CrUYaN0ExzoDx1ue3HAfBA, DKEpXIogwuU8RcARJNXvpg) share live title 'Fas do Richard G.' but their group descriptions are sexual (nudes allowed / 'putaria total'), so both were EXCLUDED on description evidence, not the clean title.",
+  "Ho1XYfqQxJ91PcdPXd4ijQ ('Pau no cu'): explicit sexual live title AND its description invites ages 13+ - excluded; worst item in the slice.",
+  "Kwai referral groups (4): DGSc0KMwKOdKC1BMR77Nex, GORA4rfaLZI4VdQSoUEilF, GvBsn0kLtjGF7jAm15OM8K, KfLXQ12PUm0Ht0XOevPxK1 excluded as earn-money referral/free-money schemes (+ bare phone-like numeric code names on the first two). Judgment call - coordinator may restore if referral groups are wanted.",
+  "BmkCPrwgaqk7515rbN8kE1 ('Tudo estudado', desc says 'ND de PORNOGRAFIA' - negated prohibition) would have been a restore candidate but the link is DEAD, so no restore was possible.",
+  "J3piQqaXAdhA5wPKetGVMw kept as 'Exemplo' (Technology): live and clean, but the name/desc ('hello appstore') look like a directory test listing - coordinator may drop it.",
+  "Borderline keeps flagged in candidates notes above: EmO6JC91mCa9ZKHJXvJFC1 ('PAPO DE VISAO $2'), IWRqKhn92ATJlqpcYAjUqB ('Ganhe dinheiro em casa'), L23GzabfhdO2g75WkxzWCL ('VAMOS NOS AJUDAR', money emoji).",
+  "OBSERVATION (not re-verified, out of scope): wave12 team02-verify-state.json marks 1787 codes 'live', many with empty og:'' (e.g. first entries BnfNh3lujd2FCYrXcJa8Nh, Ht6lvqqIubo30cpr8HbyZg). An empty og:title would be dead under this wave's hard rule, so those live verdicts rest on a weaker/unknown signal. Only 3 of the 528 live remainder codes became slice2 candidates (rest were union/already-merged dupes), so exposure is limited to already-merged codes - but the coordinator may want a spot re-check of verify-state live-with-empty-og codes before trusting them.",
+  "No source name/link and no personal info stored in any output file; descriptions are generated from name/category/country only."
+ ],
+ "resume_point": "COMPLETE - all 80 remainder codes verified (54 live / 26 dead / 0 pending); outputs team09-candidates.json (11), team09-leads.json ([]), team09-pending.json ([]), team09-summary.json. No resume needed. Raw verification log: team09-verify-results.json (80 entries with og_title + wave12 reason).",
+ "files": {
+  "candidates": "team09-candidates.json",
+  "leads": "team09-leads.json",
+  "pending": "team09-pending.json",
+  "verify_log": "team09-verify-results.json",
+  "verify_list": "team09-verify-list.json",
+  "script": "team09-verify.py"
+ }
+}

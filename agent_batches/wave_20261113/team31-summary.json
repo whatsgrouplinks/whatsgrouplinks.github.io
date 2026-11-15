@@ -1,0 +1,52 @@
+{
+  "team": "team31",
+  "slice": "listicles / blogs",
+  "sources": [
+    {
+      "url": "https://grouplinks.co.uk/best-whatsapp-group-links/",
+      "codes_found": 19,
+      "fresh": 4,
+      "verified_live": 4,
+      "note": "Best-of page, published 2026-11-13, links verified Nov 2026 per site; all 4 survivors came from here"
+    },
+    {
+      "url": "https://whatgroups.com/",
+      "codes_found": 0,
+      "fresh": 0,
+      "verified_live": 0,
+      "note": "Cloudflare JS challenge via curl; banked as lead"
+    },
+    {
+      "url": "https://whatzgrouplink.com/latest-whatsapp-group-links/",
+      "codes_found": 80,
+      "fresh": 43,
+      "verified_live": 0,
+      "note": "Updated 2026-11-05; 22 of the 43 fresh codes came from the article comments section; all 43 verified dead"
+    },
+    {
+      "url": "https://www.whtsagrouplinks.com/",
+      "codes_found": 216,
+      "fresh": 4,
+      "verified_live": 0,
+      "note": "All 4 fresh codes verified dead"
+    },
+    {
+      "url": "https://groupwa.link/",
+      "codes_found": 229,
+      "fresh": 0,
+      "verified_live": 0,
+      "note": "All 229 codes already in the dedupe union"
+    }
+  ],
+  "controls": {
+    "live": "KrDwdK8EIkB6vgauHg5M7N og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+    "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz empty og:title (PASS, dead)"
+  },
+  "raw": 443,
+  "verified": 4,
+  "dupes": 392,
+  "dead": 47,
+  "excluded": [],
+  "pending": 0,
+  "leads": 21
+}

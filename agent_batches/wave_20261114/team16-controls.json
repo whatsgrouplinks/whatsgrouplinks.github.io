@@ -1,0 +1,18 @@
+[
+ {
+  "code": "KrDwdK8EIkB6vgauHg5M7N",
+  "status": "live",
+  "og_title": "JAY - PHP & Python Full Stack Developer",
+  "http": "200",
+  "elapsed_s": 4.4,
+  "rounds": 1
+ },
+ {
+  "code": "ZzZzZzZzZzZzZzZzZzZzZzZz",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 3.6
+ }
+]

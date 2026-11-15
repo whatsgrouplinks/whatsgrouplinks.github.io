@@ -1,0 +1,90 @@
+[
+ {
+  "code": "BBgLpWZFK2tLx3fnpQm3BH",
+  "status": "live",
+  "og_title": "Contact gain hub",
+  "http": "200",
+  "elapsed_s": 2.4,
+  "rounds": 1
+ },
+ {
+  "code": "JTOdM73dDmvJOfCsQxE149",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 2.0
+ },
+ {
+  "code": "Ci7uIG3eB43FOeDR2YNm9q",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 1.9
+ },
+ {
+  "code": "FLRH6pmw6Q2KiIsXctwoUC",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 1.3
+ },
+ {
+  "code": "JWsEWy3xERX6rIMRzRq7gW",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 2.3
+ },
+ {
+  "code": "JoB2NwzCAz9DaX7cTYt3Ha",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 1.3
+ },
+ {
+  "code": "I9SFGT3eSaxJHNEXmk7WVm",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 1.7
+ },
+ {
+  "code": "JlU47ERiwpz9o5I6LuqlOz",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 1.3
+ },
+ {
+  "code": "F8fLWGrtDwCKmDHfKhLUY1",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 1.0
+ },
+ {
+  "code": "LdA1a2OJrAE9RkLdUzm3LW",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 1.6
+ },
+ {
+  "code": "CGipcPUfo1sJf0OJPjHVDD",
+  "status": "dead",
+  "reason": "empty og:title after 3 spaced fetches",
+  "og_title": "",
+  "http": "200",
+  "elapsed_s": 1.5
+ }
+]

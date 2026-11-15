@@ -1,0 +1,32 @@
+{
+  "team": "team08",
+  "slice": "pending codes 142-284 (0-based) of wave_20261112_pending_all.json (143 codes)",
+  "sources": [
+    "wave_20261112_pending_all.json items 142-284; _team_file team13-pending-recheck-pending.json (72) + team20-77links-pending.json (71); all prior reason HTTP 429/transport"
+  ],
+  "controls": {
+    "live_KrDwdK8EIkB6vgauHg5M7N": {
+      "expected": "JAY - PHP & Python Full Stack Developer",
+      "got": "JAY - PHP & Python Full Stack Developer",
+      "pass": true
+    },
+    "fabricated_ZzZzZzZzZzZzZzZzZzZzZzZz": {
+      "expected": "empty",
+      "got_status": "dead",
+      "pass": true
+    }
+  },
+  "counts": {
+    "raw": 143,
+    "verified_live": 6,
+    "dupes": 0,
+    "dead": 137,
+    "excluded": 0,
+    "pending": 0,
+    "leads": 6
+  },
+  "excluded": [],
+  "pending_detail": [],
+  "resume_point": "slice fully processed (143/143); still-pending codes listed in team08-pending.json",
+  "notes": "Names taken from live og:title; category/country from pending file (Online Earning mapped to canonical Earning). Descriptions generated, never copied. No source name/link stored. FLAGS (kept per when-in-doubt-keep): HDfF73m9m3KGCAI58S7EOd live og:title is just \"Off\" (non-empty, non-generic per rule, kept); LR4iwuiy1tAERLW8Ij7Oo8 \"EARNING&BOOKS&COURSES\" kept — no free-money/airdrop/binary pattern in title, category Education per pending file. GiS18pwqvAn56GTopI3yXv \"WhatsApp Apps\" kept — app-sharing group, no scam pattern in title."
+}

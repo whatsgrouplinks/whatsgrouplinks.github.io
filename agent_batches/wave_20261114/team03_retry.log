@@ -1,0 +1,20 @@
+cooldown 300s before retrying 429s...
+retrying 168 pending codes, 3 workers
+retry progress 10/168
+retry progress 20/168
+retry progress 30/168
+retry progress 40/168
+retry progress 50/168
+retry progress 60/168
+retry progress 70/168
+retry progress 80/168
+retry progress 90/168
+retry progress 100/168
+retry progress 110/168
+retry progress 120/168
+retry progress 130/168
+retry progress 140/168
+retry progress 150/168
+retry progress 160/168
+Counter({'dead': 816, 'live': 134})
+retry done

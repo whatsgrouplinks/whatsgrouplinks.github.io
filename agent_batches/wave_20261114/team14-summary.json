@@ -1,0 +1,157 @@
+{
+ "team": "team14",
+ "slice": "whatshub.es sitemap group IDs 801-1600 (460 sitemap ids; all fetched, 0 fetch failures)",
+ "sources": [
+  "https://www.whatshub.es/sitemap.xml",
+  "https://www.whatshub.es/grupo/<id> for all 460 ids in 801-1600"
+ ],
+ "prior_wave13_team15_note": "wave13 team15 fetched whatshub.es sitemap ids 1-800 (first ~200 pages before throttling); my slice 801-1600 does not overlap it. BUT its related-card mining also surfaced codes from grupo pages outside 1-800, and 27 of my live codes were already banked in wave13 team15-candidates.json - excluded as dupes below (union file does not contain them; flag for coordinator: union appears stale vs wave13 candidates).",
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS, re-run at each verify pass)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title after retries (PASS, dead)"
+ },
+ "counts": {
+  "pages_fetched": 460,
+  "pages_failed": 0,
+  "raw_unique_codes_mined": 47,
+  "raw_note": "raw counts UNIQUE codes mined from related-group cards (occurrences not tracked); main-group invite is hidden on whatshub.es so codes come from related cards only",
+  "verified_live": 31,
+  "candidates": 3,
+  "dupes_vs_union_all_raw": 11,
+  "dupes_vs_prior_wave_candidates_live": 27,
+  "dupes_vs_prior_wave_candidates_all_raw": 27,
+  "dead": 5,
+  "excluded": 1,
+  "pending": 0,
+  "leads": 0
+ },
+ "dead_codes": [
+  "D2lHTVNx85TD9oVUWSU4xq",
+  "FCoA50XNMxo0XMSiUv7rPQ",
+  "CdS6MFQZM5oDFXWO7lOCJ5",
+  "K3gGNmVkTz77ZFnU0I9WpY",
+  "CSZpySWsOGUJwZHiWrDPRh"
+ ],
+ "excluded": [
+  {
+   "code": "F4hM6h4gVaBDps8xxr3m3B",
+   "reason": "live og:title 'CLOSED GROUP (Moved to new group)' - group closed/moved, not banked"
+  }
+ ],
+ "dupes_vs_prior_wave_candidates": [
+  {
+   "code": "EujPSUSv2HtJfaVVHIIRiy",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "LHX9hcrCIPzKnO1zEPNIU0",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "HBmYrJU3W1t8u5Rk4NTH5t",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "JFAnLKH77HB7EAVwB5m9KL",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "JEBLngi8PYE570RzMLofEG",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "HRSsNCi68wB5dzRSygEJIz",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "JtH5G6xAlSA5OtzN72bZhz",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "LUMZAqG2aGV6Jhs3NUFt5q",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "JPBvIpyfjDnJAbqY6eYLWn",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "J0unetS9lRF13qekvJ2QuO",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "LZFVESlP5udHNTNCF4XTxA",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "HkANAxyPandCf8NPwfUJ1r",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "HD01v86sZYiHLKwvwfJRI2",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "DsmdArv22Pf4316o9KNzfg",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "JXj6wqmnY0Z5UHhRabVmxC",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "DSw5GRJZQicKAXsz8RfJDh",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "KENBpfKe1D8A3nZJvFxHKt",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "KE1gYE5If8iGfAZczZpsx0",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "HARzJjv81KOG2zL1JpxNo1",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "JlAZJiBD70Y0oLkkquk8fP",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "HgEtLrGFiTB8dQZ0qehPex",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "LInyGumYO97HEAhlwnpPra",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "GpKiIgR6ffS3hOmDw7A8GD",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "Jl8QdMOrdPF6f0oXjZToLm",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "DJoWxNHYomqD1X2PObcvuE",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "FY1vdyPBUyWCQfoLBWKCN5",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  },
+  {
+   "code": "I6jEj7qGsHRJn4freBFR30",
+   "reason": "already banked as candidate in team15-candidates.json (wave13)"
+  }
+ ],
+ "dupes_vs_union_live": [],
+ "pending": [],
+ "leads": [],
+ "fetch_notes": "requests+proxy failed ~50% wave-wide (ProxyError/ReadTimeout bursts, incl. a stall at id 1049-1050); switched to curl subprocess fetcher which completed all 460 ids with 0 failures. 2.5-5s pauses between pages. One mid-run service restart killed the fetcher; resumed from checkpoint, no data lost.",
+ "verify_notes": "One requests.Session (keep-alive) per verify run, browser UA, 60-90s timeout; empty og:title retried 2-3x spaced before dead; 429/transport would be pending (none occurred). 2 dead codes (FCoA50XNMxo0XMSiUv7rPQ, CSZpySWsOGUJwZHiWrDPRh) were also dead in wave13 team15 - consistent. Names are live og:titles (verified group names); categories from tags+title; country ES where Spanish city/region indicated, else empty.",
+ "resume_point": "Slice COMPLETE: all 460 sitemap ids 801-1600 fetched, all fresh codes verified. No unfetched ids, no pending codes, no leads to resume."
+}

@@ -1,0 +1,88 @@
+{
+ "team": "team09",
+ "slice": "team10 wave_20261112 slice5: 172 linkado.app/grupo/ listing URLs re-fetched 2026-11-13",
+ "sources": [
+  "linkado.app"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title \"JAY - PHP & Python Full Stack Developer\" (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS, dead)"
+ },
+ "raw": 169,
+ "verified": 40,
+ "dupes": 8,
+ "dead": 95,
+ "excluded": [
+  {
+   "code": "BerBdmoRTgUCBcUOKWySAo",
+   "reason": "raffle/giveaway betting promo - sorteios group"
+  },
+  {
+   "code": "Chudvry6JsuK1hypdiaK6C",
+   "reason": "slots - Slots Brazil"
+  },
+  {
+   "code": "Cv5rlvdZExx9Rx65bpdqZr",
+   "reason": "suspected adult/sexual - descontrole total + peach emoji, dropped when in doubt"
+  },
+  {
+   "code": "DPoA0koqfuiFBcFodpF3u6",
+   "reason": "betting - lottery pools (Lotofacil boloes)"
+  },
+  {
+   "code": "DPuTTDI5xaB22j3CSrBa31",
+   "reason": "betting signals - page desc: sinais apostas slots"
+  },
+  {
+   "code": "DPxsMds4D5NG93cdWeyCAb",
+   "reason": "betting tips - PALPITES TIPS FREE"
+  },
+  {
+   "code": "DgmtMsAHZL2CBWlmelHtW3",
+   "reason": "fraud - FORNECEDOR INFO CCs (stolen credit-card info)"
+  },
+  {
+   "code": "DtqEDCi30Jd4U4fh6ozuBH",
+   "reason": "explicit sexual - Puteiro das ratas safadas"
+  },
+  {
+   "code": "DuENu7F49ip9zj3wtmbCPv",
+   "reason": "investment-platform scheme - page desc: lanco plataforma de investimento"
+  },
+  {
+   "code": "DvuJ6aaInlhB9dQQsblVwg",
+   "reason": "casino - Plataformas com bonus"
+  },
+  {
+   "code": "EeNxAM1PkNgAlrtnjCbcq4",
+   "reason": "betting - Sorteios e Apostas"
+  },
+  {
+   "code": "FG0cz2baCxuIh9GHzxdcDd",
+   "reason": "betting - OdinBets"
+  },
+  {
+   "code": "FH2x2DGwgzF8Qwg8dYHm7v",
+   "reason": "casino - PLATAFORMA NOVA (BRRICO) slot machine"
+  },
+  {
+   "code": "FjRUrL50k8M3mebojzhcsO",
+   "reason": "slots - Vanny_Slots agent recruitment"
+  },
+  {
+   "code": "HhMjjTJDQlUDA3cgSpJno5",
+   "reason": "casino - PLATAFORMAS PAGANTES 2024"
+  },
+  {
+   "code": "HoZny8ytCVC3kn5j6bbwac",
+   "reason": "raffle/betting - Rifa valendo 1000 no pix"
+  },
+  {
+   "code": "Lh02ltxyiwe2aSMgppMjjI",
+   "reason": "casino - plataformas pagantes (tiger emoji VIP group)"
+  }
+ ],
+ "pending": 0,
+ "leads": 15,
+ "notes": "169 codes extracted from 172 pages (15 pages no code; 9 intra-slice repeat codes across pages). 160 unique codes: 8 already in .existing_codes.json, 152 fresh curl-verified (2 passes, 45s spaced retry). 57 live, 95 dead, 0 transport failures. 17 live excluded on screening; 40 banked. All banked groups are Brazilian (pt_BR listings); country set to BR. Names use live WhatsApp og:title; categories mapped from linkado PT categories."
+}

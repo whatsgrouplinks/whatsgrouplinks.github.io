@@ -1,0 +1,38 @@
+{
+ "team": "team12",
+ "slice": "igrupos (?unirse=1 extraction) + grupodewhatsapp + gruposwhats.app + grupbul leftovers from wave_20261112 team18/team21. raw=270 input entries examined (268 team18 leads + 2 team21 grupbul). Of 248 unique igrupos gids: 33 WhatsApp codes extracted (2 dupes in union, 31 verified: 18 live, 13 dead; 4 live excluded on screening -> 14 banked), 159 Telegram-only, 50 geo-gated, 2 Signal, 1 Discord, 1 WhatsApp channel, 2 deleted pages (527109, 527217; 527217 was listed twice). First extraction run (6 workers) hit an igrupos IP tarpit (~35s/fetch, then timeouts) and its /tmp checkpoint was lost in a VM reboot; re-ran with checkpoint in the wave dir and finished cleanly. Web search does NOT surface igrupos invite codes (index shows the invite link with the code stripped). grupodewhatsapp join is Turnstile-gated; gruposwhats.app is JS/login-gated (Turnstile); grupbul redirect is a JS 5s countdown with no target in static HTML/JS - all three are browser-leg jobs.",
+ "sources": [
+  "igrupos.com (grupo pages with ?unirse=1 - reveals invite code in ACCEDER button)",
+  "app.grupodewhatsapp.com (Turnstile-gated, no code extracted)",
+  "gruposwhats.app (JS/login-gated, Turnstile, no code extracted)",
+  "grupbul.com (JS countdown redirect, no code extracted)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer'",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> og:title '' (empty, dead)"
+ },
+ "raw": 270,
+ "verified": 14,
+ "dupes": 2,
+ "dead": 13,
+ "excluded": [
+  {
+   "code": "FXFGfG1lUzG5x9YQIwkS2s",
+   "reason": "live og:title 'Femboys club' - ambiguous sexual-adjacent adult community, no description to clear it; dropped per doubt rule"
+  },
+  {
+   "code": "IG3I7xoRcDu4wGKEA2XRdz",
+   "reason": "live og:title 'Rells y clips de chicas trans' - sexualised video clips of trans girls; dropped as sexual content"
+  },
+  {
+   "code": "K0ncnEVDVE13MwFVnBXJlq",
+   "reason": "live og:title 'Mundo Libre Amistad'; lead name 'Puro edad 19' with age-19-only + 'under your own responsibility' disclaimer - adult-content signal; dropped"
+  },
+  {
+   "code": "KPulsYZtlG50X0frybe2gk",
+   "reason": "live og:title 'Desire' with kiss emojis - sexualised group name, no innocent description to clear it; dropped per doubt rule"
+  }
+ ],
+ "pending": 0,
+ "leads": 67
+}

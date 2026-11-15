@@ -1,0 +1,80 @@
+{
+ "team": "team10",
+ "slice": "team12 slice8 (71 listing URLs) + team30 South-Asia new dirs (75 listing URLs) = 146 listing URLs",
+ "sources": [
+  "/home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261112/team12-leads-slice8-leads.json",
+  "/home/hatch/workspace/whatsapp-groups-site/agent_batches/wave_20261112/team30-newdirs-southasia-leads.json"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (live as expected)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead as expected)"
+ },
+ "raw": 2801,
+ "verified": 568,
+ "dupes": 2233,
+ "dead": 486,
+ "excluded": [
+  {
+   "code": "BiP85LS33LJD6oFnIcyUbd",
+   "reason": "suspected sexual video clips in title (Arabic 'مقاطع سيكو' + hot-face emoji)"
+  },
+  {
+   "code": "CFkpBoYFIuSLPpzWTvHxE4",
+   "reason": "porn-pattern title 'Xxxxxxx'"
+  },
+  {
+   "code": "CpufHAGW2BuKIyJBlnTKzd",
+   "reason": "crypto mining-platform investment promo"
+  },
+  {
+   "code": "DFyECGcAomqIxZwSDVos49",
+   "reason": "title is an advert URL (nitrosmmpanel.com), not a group name"
+  },
+  {
+   "code": "EUbx2DzoEqmGANyA3LFrJM",
+   "reason": "phone number in title (personal info)"
+  },
+  {
+   "code": "FKBlxe0b3O69T8yS5nhRMT",
+   "reason": "Ludo cash/betting group ('5% Only' cut)"
+  },
+  {
+   "code": "GFCN2i903nrJBk9RsOAFUr",
+   "reason": "phone number in title (personal info)"
+  },
+  {
+   "code": "HoeLAYTskyBE0zRdFq6D7j",
+   "reason": "forex signals promo ('FOREX PIPS RIDER')"
+  },
+  {
+   "code": "JIdmuXiizpuLgsbt72FABx",
+   "reason": "porn-pattern title 'Xxxx left'"
+  },
+  {
+   "code": "JwalD5I1oas67DOiFg3uQv",
+   "reason": "explicit Arabic sexual profanity in title"
+  },
+  {
+   "code": "KGf9z68D9BE4k5owdDNe2u",
+   "reason": "paid Ludo tournament (betting)"
+  },
+  {
+   "code": "KMkUJIj4AlW1wwCqtHRYeJ",
+   "reason": "trading-signals promo ('TRADE GOLD MASTER')"
+  },
+  {
+   "code": "KkKQsWHSNibIMTA1wPN3h8",
+   "reason": "investment-scam pattern title ('daily profits from AI trading')"
+  },
+  {
+   "code": "LmPwjGdl9zT38oT1QmN7l8",
+   "reason": "title is an advert URL (monetizationkart.com), not a group name"
+  },
+  {
+   "code": "LsPUzO01El62OzhhTNfENq",
+   "reason": "hacker-for-hire services promo ('Cyber Hacker Expert')"
+  }
+ ],
+ "pending": 0,
+ "leads": 47
+}

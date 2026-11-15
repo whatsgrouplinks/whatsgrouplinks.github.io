@@ -1,0 +1,70 @@
+{
+ "team": "team21",
+ "slice": "groupsinvite.link NEW entries only (wave 20261114)",
+ "sources": [
+  "https://groupsinvite.link/sitemap.xml (index lastmod 2026-11-14 on all 11 sub-sitemaps; sitemap-1.xml..sitemap-11.xml fetched 2026-11-14; 4,354 total locs, up from 4,292 on Nov 13)",
+  "https://groupsinvite.link/ homepage (70 listing URLs, fetched 2026-11-14; all 70 already in sitemap, no homepage-only new slugs)",
+  "https://groupsinvite.link/group/find/ (totalCount=2799, up from 2779 on Nov 13)",
+  "21 new listing pages + 5 /group/rules/ pages fetched 2026-11-14 (codes for 5 JS-gated listings came from their rules pages, as in wave 20261113 team18)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS; returned HTML-entity-escaped as 'JAY - PHP &amp; Python Full Stack Developer', identical after unescape)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS, dead)"
+ },
+ "raw": 28,
+ "verified": 3,
+ "dupes": 7,
+ "dead": 0,
+ "excluded": [
+  {
+   "code": "EragQCCKHYiDMzne1RZ0Xw",
+   "reason": "EXCLUDED (screen): 'Crypto Trading Signals' — live (og:title confirmed) but trading-signals class; excluded like team18's prop-trading/investment promos."
+  },
+  {
+   "code": "0029vb8bach4inox9ecnz43v",
+   "reason": "DROPPED on sight: WhatsApp Channel (0029vb*), not a group listing."
+  },
+  {
+   "code": "0029vb9bkroixnlkpe1m2u23",
+   "reason": "DROPPED on sight: WhatsApp Channel (0029vb*), not a group listing."
+  },
+  {
+   "code": "0029vb9yszv2phhw4atuxw2y",
+   "reason": "DROPPED on sight: WhatsApp Channel (0029vb*), not a group listing."
+  },
+  {
+   "code": "0029vbdjp14hlhqvzq8ien1w",
+   "reason": "DROPPED on sight: WhatsApp Channel (0029vb*), not a group listing."
+  },
+  {
+   "code": "0029vbdtlvlgeheqjdw8ct3x",
+   "reason": "DROPPED on sight: WhatsApp Channel (0029vb*), not a group listing."
+  },
+  {
+   "code": "0029vbdwpubiyptk8e4yso1e",
+   "reason": "DROPPED on sight: WhatsApp Channel (0029vb*), not a group listing."
+  },
+  {
+   "code": "0029vbdyg7e2p59q6vawxl3i",
+   "reason": "DROPPED on sight: WhatsApp Channel (0029vb*), not a group listing; same channel team18 dropped Nov 13."
+  }
+ ],
+ "pending": 0,
+ "leads": 0,
+ "notes": "Sitemap lastmod bulk-flipped to 2026-11-14 on nearly ALL 4,354 entries (site-wide regeneration artifact again, NOT new groups), so lastmod alone was unusable; new entries found by URL-diff against wave_20261112 team23_work/all_link_urls_20261112.json (2,754 URLs): 46 new /group/link/ URLs, of which 19 were team18's Nov-13 set (matched by lowercased code/slug incl. 2 known slugs f04t1qpyjr7ckgbwkjrxtu, lj6vfsu3nry3gucsy6kdjf) and 1 was the /group/link/ archive page itself, leaving 28 genuinely new listing URLs. Of the 28: 7 are 0029vb* WhatsApp Channels (dropped on sight); 21 listing pages fetched. Unique codes from the 21 pages = 12. Dupes in .existing_codes.json (119,266-code union): 7 unique codes (BswneLL8V3i6YJn5KLpEfu, G39wYKWvQWeK7qf2TjQQER, H9PX9qPXxhrLoDvPqGjqnu, FdsdPtoDp6a0uqVUKYLQyW shared by 8 listings, FvDpTgpDn5W05I6jBlNxOX, HP0KYcR09nyC2x7nEo1jYx, INKMpjFWMmtByLWxDy6r3B). LeR0V4S3GGV1EzzxI14MuF reappeared (VIP GOLD SIGNAL) — team18's confirmed dead from Nov 13, not re-verified, not re-counted as dead. Fresh codes verified: 4, all live on first attempt (no retries needed, no transport failures). Of the 4 live, 1 screen-excluded (EragQCCKHYiDMzne1RZ0Xw, crypto trading signals), leaving 3 verified candidates. FLAG: 'SGZCHAT.COM' (IfhZ4VcooSsKATEqHiI9y3, Nigeria dating category) kept per girls/friendship-allowed rule — name is only a chat-site domain with no porn/xxx signal in the live og:title, but it is a dating-site promo name; coordinator may re-screen. Note: the FdsdPtoDp6a0uqVUKYLQyW crypto/investment cluster (8 listings, 1 code) is already in the union, so no new crypto funnel entries. No new leads: all 21 pages yielded codes. The 1,554 new /group/<tag>/ archive pages are not group listings. Resume for next run: diff sitemap URLs against today's full URL set (team21-sitemap-all.json, 4,354 locs) and homepage slugs against the sitemap set; filter out URLs already in team18's queue (its 18 codes) and this run's queue (team21-queue.json); note lastmod is bulk-regenerated and cannot be trusted for newness.",
+ "counts_detail": {
+  "sitemap_new_link_urls_vs_nov12": 46,
+  "team18_already": 19,
+  "archive_page": 1,
+  "new_listing_urls_today": 28,
+  "channels_dropped": 7,
+  "listing_pages_fetched": 21,
+  "unique_codes": 12,
+  "dupes_in_union": 7,
+  "team18_dead_reappeared": 1,
+  "fresh_codes": 4,
+  "fresh_live": 4,
+  "screen_excluded": 1,
+  "verified_candidates": 3
+ }
+}

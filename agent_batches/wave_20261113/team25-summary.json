@@ -1,0 +1,158 @@
+{
+ "team": "team25",
+ "slice": "South Asia fresh-directory discovery (Pakistan / India / Bangladesh / Sri Lanka / Nepal)",
+ "sources": [
+  {
+   "site": "activewagroup.com",
+   "urls": [
+    "https://activewagroup.com/pakistani-whatsapp-group-links/",
+    "https://activewagroup.com/indian-whatsapp-group-links/",
+    "https://activewagroup.com/bangladesh-whatsapp-group-links/",
+    "https://activewagroup.com/nepal-whatsapp-group-links/",
+    "https://activewagroup.com/sri-lanka-whatsapp-group-links/",
+    "https://activewagroup.com/students-whatsapp-group-links/",
+    "https://activewagroup.com/funny-memes-whatsapp-group-links/",
+    "https://activewagroup.com/lahore-whatsapp-group-links/",
+    "https://activewagroup.com/business-whatsapp-group-links/",
+    "https://activewagroup.com/sports-whatsapp-group-links/",
+    "https://activewagroup.com/online-earning-whatsapp-group-links/",
+    "https://activewagroup.com/single-girls-whatsapp-group-links/"
+   ],
+   "pages_mined": 12,
+   "yielded_codes": true,
+   "fresh": 1
+  },
+  {
+   "site": "sociallykeeda.com",
+   "urls": [
+    "https://www.sociallykeeda.com/pakistani-whatsapp-group/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 32
+  },
+  {
+   "site": "wagroupslink.com",
+   "urls": [
+    "https://wagroupslink.com/school-girl-whatsapp-study-group-link/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 1
+  },
+  {
+   "site": "wagroupshub.com",
+   "urls": [
+    "https://wagroupshub.com/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "389 unique codes, all already in union"
+  },
+  {
+   "site": "wagroupnest.com",
+   "urls": [
+    "https://wagroupnest.com/",
+    "https://wagroupnest.com/sri-lanka-whatsapp-group-links/"
+   ],
+   "pages_mined": 2,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "388 unique codes, all already in union"
+  },
+  {
+   "site": "whatzgrouplink.com",
+   "urls": [
+    "https://whatzgrouplink.com/bangladesh-whatsapp-group-link/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "16 codes, all already in union"
+  },
+  {
+   "site": "groupwhat.com",
+   "urls": [
+    "https://groupwhat.com/country/bangladesh"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "10 codes, all already in union"
+  },
+  {
+   "site": "wahublink.com",
+   "urls": [
+    "https://wahublink.com/indian-whatsapp-group-links/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "42 codes, all already in union"
+  },
+  {
+   "site": "grouplinks.app",
+   "urls": [
+    "https://www.grouplinks.app/group/wemastertrade-bd-community",
+    "https://www.grouplinks.app/"
+   ],
+   "pages_mined": 2,
+   "yielded_codes": true,
+   "fresh": 1,
+   "note": "partial reads salvaged via IncompleteRead; homepage yielded 0 codes in salvaged HTML"
+  },
+  {
+   "site": "whatgroups.com",
+   "urls": [
+    "https://whatgroups.com/whatsapp-group-links-pakistan/",
+    "https://whatgroups.com/bangladesh-whatsapp-group-links/"
+   ],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "Cloudflare challenge, unmined; see leads"
+  },
+  {
+   "site": "whtsagrouplinks.com",
+   "urls": [
+    "https://www.whtsagrouplinks.com/pakistani-whatsapp-group-link/"
+   ],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "IncompleteRead/Cloudflare, unmined; see leads"
+  },
+  {
+   "site": "tglinkhub.com",
+   "urls": [
+    "https://tglinkhub.com/whatsapp-group-links/"
+   ],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "Cloudflare challenge, unmined; see leads"
+  },
+  {
+   "site": "hubrecipes.com",
+   "urls": [
+    "https://hubrecipes.com/join-active-nepali-girls-whatsapp-group-links/"
+   ],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "REJECTED as a source: sexualized listings + personal phone numbers; see leads (DO NOT MINE)"
+  }
+ ],
+ "controls": {
+  "live": "JAY - PHP & Python Full Stack Developer",
+  "fabricated": ""
+ },
+ "raw": 1203,
+ "verified": 35,
+ "dupes": 1168,
+ "dead": 35,
+ "excluded": [],
+ "pending": 0,
+ "leads": 9
+}

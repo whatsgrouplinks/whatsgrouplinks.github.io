@@ -1,0 +1,1020 @@
+{
+ "team": "team23",
+ "slice": "South Asia fresh-directory discovery (Pakistan / India / Bangladesh / Sri Lanka / Nepal)",
+ "sources": [
+  {
+   "site": "groupslink.pk",
+   "urls": [
+    "https://groupslink.pk/"
+   ],
+   "pages_mined": 11,
+   "yielded_codes": true,
+   "fresh": 17,
+   "note": "Homepage 27 codes/1 fresh; 10 clean posts mined, 82 codes/16 fresh. Category archives 0 codes. Porn posts NOT mined."
+  },
+  {
+   "site": "grouplink.com.in",
+   "urls": [
+    "https://grouplink.com.in/explore-the-active-pakistani-whatsapp-group-links-right-here/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 22,
+   "note": "All 22 fresh verified DEAD (stale directory)."
+  },
+  {
+   "site": "groupssor.com",
+   "urls": [
+    "https://www.groupssor.com/"
+   ],
+   "pages_mined": 2,
+   "yielded_codes": true,
+   "fresh": 212,
+   "note": "Homepage JS-rendered (0 codes); public JSON API gave 500 entries (327 WhatsApp, 212 fresh). 89 SA kept; 123 pre-screen excluded."
+  },
+  {
+   "site": "groupwa.link",
+   "urls": [
+    "https://groupwa.link/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "230 codes, all in union."
+  },
+  {
+   "site": "whatsappgrouplink.org",
+   "urls": [
+    "https://whatsappgrouplink.org/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "Now a Yono Games gambling APK site. DO NOT MINE."
+  },
+  {
+   "site": "groupinvitelink.com",
+   "urls": [
+    "https://groupinvitelink.com/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "175 codes, all in union."
+  },
+  {
+   "site": "whtspgrouplink.com",
+   "urls": [
+    "https://whtspgrouplink.com/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "180 codes, all in union."
+  },
+  {
+   "site": "groupsor.in",
+   "urls": [
+    "https://groupsor.in/",
+    "https://groupsor.in/sitemap/groups"
+   ],
+   "pages_mined": 301,
+   "yielded_codes": true,
+   "fresh": 150,
+   "note": "Codes from /golink/wagroups-<CODE> href on detail pages in 7 SA category sitemaps (301 pages). 3,804 group pages total; only 7 SA categories mined."
+  },
+  {
+   "site": "wappgrouplinks.com",
+   "urls": [
+    "https://wappgrouplinks.com/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "Now a medical blog. DO NOT MINE."
+  },
+  {
+   "site": "whatsgroupjoinlinks.com",
+   "urls": [
+    "https://whatsgroupjoinlinks.com/"
+   ],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "Cloudflare challenge, unmined; see leads."
+  },
+  {
+   "site": "whtsagroupslinks.com",
+   "urls": [
+    "https://www.whtsagroupslinks.com/"
+   ],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "HTTP 403, unmined; see leads."
+  },
+  {
+   "site": "activesocilalinks.com",
+   "urls": [
+    "https://activesocilalinks.com/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 3,
+   "note": "390 codes, 3 fresh; 2 verified LIVE."
+  },
+  {
+   "site": "wagroup.in",
+   "urls": [
+    "https://wagroup.in/tag/lanka-whatsapp-groups/feed/"
+   ],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "Unreachable (proxy/connection failure); see leads."
+  },
+  {
+   "site": "whatstele.com",
+   "urls": [
+    "https://whatstele.com/whatsapp/group-links/tamil/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "206 codes, all in union."
+  },
+  {
+   "site": "whtsagrouplinks.com",
+   "urls": [
+    "https://www.whtsagrouplinks.com/"
+   ],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "Cloudflare challenge on homepage + IN + PK pages, unmined; see leads."
+  },
+  {
+   "site": "whatgroups.com",
+   "urls": [
+    "https://whatgroups.com/bangladesh-whatsapp-group-links/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "49 codes, all in union. Pakistan page unmined, see leads."
+  },
+  {
+   "site": "tglinkhub.com",
+   "urls": [
+    "https://tglinkhub.com/whatsapp-group-links/"
+   ],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "Cloudflare challenge, unmined; see leads."
+  },
+  {
+   "site": "whatzgrouplink.com",
+   "urls": [
+    "https://whatzgrouplink.com/bangladesh-whatsapp-group-link/"
+   ],
+   "pages_mined": 1,
+   "yielded_codes": true,
+   "fresh": 0,
+   "note": "16 codes, all in union."
+  },
+  {
+   "site": "web search (Nepal)",
+   "urls": [],
+   "pages_mined": 0,
+   "yielded_codes": false,
+   "fresh": 0,
+   "note": "No Nepal directory found (only hubrecipes.com, DO-NOT-MINE). Two Nepal codes in snippets (Nomads in Nepal; Live Guru NEB class) - both already in union."
+  }
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title after retries (PASS, dead)"
+ },
+ "verification": "One requests.Session per run, browser UA, 60-75s timeout. Live = non-empty, non-generic og:title (og:description ignored, always generic). Empty og:title retried 3x spaced before dead. HTTP 429 -> pending, never dead. NOTE: verify2 run was killed by a service restart at 120/239 and resumed from saved results; WhatsApp began rate-limiting (HTTP 429) partway through the groupsor.in batch - 65 went pending, a retry pass after a 7-min cooldown resolved 21 (16 to dead/live, 5 still 429) then stopped after 5 consecutive 429s. 44 never re-attempted + 5 re-429 = 49 pending.",
+ "raw": 1843,
+ "verified": 281,
+ "dupes": 1440,
+ "dead": 199,
+ "excluded": 124,
+ "excluded_breakdown": {
+  "groupssor_api_prescreen": 123,
+  "of_which_porn_xxx_by_directory_name": 38,
+  "of_which_betting_casino_by_directory_name": 6,
+  "of_which_crypto_airdrop_free_money_scam_by_directory_name": 2,
+  "of_which_non_sa_country": 77,
+  "live_title_screen": 1
+ },
+ "pending": 49,
+ "candidates": 32,
+ "leads": 15,
+ "excluded_list": [
+  {
+   "code": "Fo8o0ClDDZp5iM9xMFP2CA",
+   "name": "https://chat.whatsapp.com/Fo8o0ClDDZp5iM9xMFP2CA",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "CK8lLJeDGghF3yVay7I8VE",
+   "name": "Chauhan Sahab Satta tric imandar khaibar",
+   "reason": "betting/casino by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "LvkywXnuMqP16t35FhH4gZ",
+   "name": "DVoice Media",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "FJvnXcokMySDLKeaX8seHk",
+   "name": "Groupe  porno and sexe",
+   "reason": "non-SA country FR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "ICBDPgzznTr0rmp2xNEZu4",
+   "name": "Groupe yamo baise porno sexe 🌶️💖",
+   "reason": "non-SA country FR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "JpJ2dcf8kMJHj7vBA5xTH8",
+   "name": "10 to pack 100k only serious people needed",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "KnYV4NeUnhfKtNtBAfhQeL",
+   "name": "Xxx",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "J83uDsqabrkBsoRalkgbKs",
+   "name": "Groupe yamo baise porno🌶️💖",
+   "reason": "non-SA country FR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "HYxIXc2kv6CJG7TW5CrHSn",
+   "name": "SHEYI LEGIT ONLINE UPDATE",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "K6v2KBi5N3S56a1aRKDzQi",
+   "name": "Hot girl",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "KWO0HH2Uqa3FfoNR2oM1vB",
+   "name": "Gujarati Girl Sex",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GoX89ZQ8qAOB5OCQ5FxTW7",
+   "name": "Rekha Bhabhi sex",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "LVyy3x6MI2MI3w1Fm28Huq",
+   "name": "Gay porn'dating and more",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "KLrDAUUjmxe9EOAjTx3NoI",
+   "name": "GROUP JUAL BELI AKUN FREE FIRE AMANAH",
+   "reason": "non-SA country ID",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "HH4YyPGG8MPBbk0ldC87QV",
+   "name": "GROUP JUAL BELI AKUN FREE FIRE AMANAH",
+   "reason": "non-SA country ID",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "CJRPEV7EoYwJR5YS3meKY6",
+   "name": "Fuck",
+   "reason": "non-SA country FR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "B5zcfsP7IYUC4yQzxuuAvC",
+   "name": "Rani Phone Sex",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Bx4Z5sBAnlh9j3wYVOnIqP",
+   "name": "Connect",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "J3EZCuhlUszHxKHLPRn2KW",
+   "name": "Los we",
+   "reason": "non-SA country MX",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "BDwiVycgMkoB6wTcvYeX1s",
+   "name": "PRIXAL MONDIAL II",
+   "reason": "non-SA country EG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "K605fOM3hl4EbkrSpp6atY",
+   "name": "Sex chatting",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "EV7QUq24VCLFHomwTDnN9o",
+   "name": "TURKISHEXPORTER",
+   "reason": "non-SA country TR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "BlPYaUSW3ClIJGJdO0aGI1",
+   "name": "Phone Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "JRNoXFIvvQtGwGhyPd9ICa",
+   "name": "Si te unes Te beso zi",
+   "reason": "non-SA country MX",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "JBRx4mLbAeE0cwiGsAiZCE",
+   "name": "Socializar",
+   "reason": "non-SA country MX",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "HHNsBn3AsYZACL4wHSr2Az",
+   "name": "Lovely video call girl",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Cyxu758HcJUHzzbCZMfb36",
+   "name": "sex",
+   "reason": "non-SA country EG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "JqeZsvnFJOIDa6AvLXkYCA",
+   "name": "نودز VIP مولع نار 🔥🫦",
+   "reason": "non-SA country EG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "FWWSJqqnIBTD7HuJ4A45nj",
+   "name": "Noir society",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "DNlUMhPyyeeJfF2DBKbaXV",
+   "name": "Panda parla italiano",
+   "reason": "non-SA country MX",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Iy6ImgFHbCF3tNs5BVN4NM",
+   "name": "KRISH BHAI KHAIWAL 1️⃣0️⃣ KA 9️⃣5️⃣0️⃣",
+   "reason": "betting/casino by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "IuDrBEnzSooEpbnsQorxOS",
+   "name": "Legit update",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "B8XFi8p218BATjSTKRoqX5",
+   "name": "Lovely video call girl",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "DmsUs0DyWdxDZgwOM5TIi1",
+   "name": "Cp video xx",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Hlo9N7OUnvA34nkMrlYCDG",
+   "name": "CRYPTOCURRENCY AND AIRDROPS",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "EEtyC0LrPj9En6Afd6Bc6S",
+   "name": "Lovely video call girl",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "CX1qwe7ZXQaKVyrk9WYLim",
+   "name": "ASKORA DIGITAL",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Fx4N7UyYMtXGKDLkTTqw5A",
+   "name": "Batallas de freestyle",
+   "reason": "non-SA country MX",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "DvAAI22qge7GSx1eJ1qF1S",
+   "name": "1x BET Free Money 🤑",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "BdKfB1qK5nFFBTpVqLbzRX",
+   "name": "PRIXAL MONDIAL II",
+   "reason": "non-SA country SA",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "CHTuSiWwAREGhYUFnxGWDh",
+   "name": "CRB Home Ofertas 🚀",
+   "reason": "non-SA country BR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "D6B9Pa7FjLsFHllVksgirW",
+   "name": "UcheVin Income Strategy Money Update",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "EDX0Rm1vduMBkj8XxpIEi9",
+   "name": "FUN HOUSE",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Fbg48DIjIT13Ix1sw2XrBS",
+   "name": "Viral Leak Videos 🥶🍑",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "L2aKP3hdVbL0WmOksTUnyh",
+   "name": "1XBET",
+   "reason": "non-SA country FR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "KmvBxP1vMRF2dg9VaJorGl",
+   "name": "Gagner d'argent",
+   "reason": "non-SA country FR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "K4IwOtkgP3b4zGUdeJyUJY",
+   "name": "Phone Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "DViy9vx4MWpDREf2dyBgcJ",
+   "name": "King of virtual games",
+   "reason": "non-SA country KE",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "HhNSMUL1d93IdCNWaFOnST",
+   "name": "TODO EL MUNDO",
+   "reason": "non-SA country MX",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "FBHO6h3zeJYIUA9ZhgUk8M",
+   "name": "Priya Bhabhi Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "DP6fAzgZOvk53o7oMjxpmc",
+   "name": "Priya Bhabhi Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "I1eyzyumeOWFY2UlvIopmm",
+   "name": "T-TECH ANIMATION TUTORIAL WAITLIST",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "EqdIzHYqzRp8pc2J9QS9K6",
+   "name": "Phone Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "K0ASqYDV58vKcHxcoZszjM",
+   "name": "Phone Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "IOl8eAqqsIG1wvaHLkF2Wh",
+   "name": "Priya Bhabhi Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "B5NHzQFuMtxBjXRbTjxoNq",
+   "name": "Online Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "LARPBFRrQxP3R69FPsZYs8",
+   "name": "College Girl sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GPNpNoZ8i9rH1YjGNE3792",
+   "name": "Phone sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "IfIBs5LAaXZ6OiNcx80xGh",
+   "name": "Punjabi Girl sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "G1CmFy5d1Yy3DamkD1xBjg",
+   "name": "Punjabi Girl Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "DZqbh6I4YIq9K9Ky0fKkR3",
+   "name": "Pooja Rani Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "LMIA74qJoZp3TJzA4F6tzk",
+   "name": "Online Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "DiglzRiJVooI1KJwJqgTMv",
+   "name": "College Girl Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "HVYqxejUBBt7XazzGqzRWs",
+   "name": "Phone Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "E6IIF2bRU8C0KvHJSRJfGi",
+   "name": "Phone Sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "H2QjERSm2DD7sJO7lBUMpA",
+   "name": "Free money",
+   "reason": "crypto-airdrop/free-money scam by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Hsd30wbUtqT4nTnIfIUfxM",
+   "name": "Live Sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "IKMNoXTaldBFndwDh94mLF",
+   "name": "Phone Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Khld6MqHMk77IiKZQ0piWR",
+   "name": "Live Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Gwe1mHNrSJCFNgWsX9UcTC",
+   "name": "Phone Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "JrLSYalY4Ub9TEA53zBGY3",
+   "name": "Real meet Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "BcQgsHMtk5A6lsVsyZAmc4",
+   "name": "Hard sex videos",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "CFV3KlcouL123yfsCVygHI",
+   "name": "Premium sex group",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "B8HdJyY9UQR5RZIXaRESAi",
+   "name": "Phone Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "FLJggsfIwOlBMd8RAApeJN",
+   "name": "Pooja Rani Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GDN99M9GICMLGv3NAWHksb",
+   "name": "Phone Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "CRbo5Hw6sJEFKcQJbZmYDH",
+   "name": "Los nocturnos 🧟‍♂️",
+   "reason": "non-SA country MX",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "IybdBUbgpDDLZbUPW8jnXV",
+   "name": "🔞DOZEN🔞",
+   "reason": "non-SA country FR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "IZLbn4l9t5vJDxXZlI2Axw",
+   "name": "[𝐅𝐉𝐁] || 𝙑4𝙈𝙋 𝙓 𝙇𝙐𝙓𝙓𝙔 ||",
+   "reason": "non-SA country ID",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "C7kYJ3WkLnFHzj1iLK69kB",
+   "name": "Viral Child",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "KkxKYm7Y0si7UN843Wn3fe",
+   "name": "KARAN KHAIWAL",
+   "reason": "betting/casino by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "EXaINYiTVDML2e0xUN8dMq",
+   "name": "Rani bhabhi Sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "DDpFj9cnU965vzHNeByKmn",
+   "name": "General",
+   "reason": "non-SA country AR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "IF4Tp0dptiaL4X6uAUMLuL",
+   "name": "College Girl Sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "JfuHAXxGpiGKlrylt6UYhw",
+   "name": "Bot",
+   "reason": "non-SA country AR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "FjsGP77LB9lCzkRPfPIwe8",
+   "name": "Punjabi Girl Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Gv1XGsiJzebL0m9dGWh08F",
+   "name": "Online Sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GwwYHaCWPgH8p4EMR2SrGe",
+   "name": "PRONO VIP",
+   "reason": "non-SA country GH",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "KMkqZn8Dk0zDaMH3kJDdSJ",
+   "name": "Satta King ONline play",
+   "reason": "betting/casino by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "LSkmbmUcB1J7AKVa5zM14w",
+   "name": "Singh shab 10 ka 900",
+   "reason": "betting/casino by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "FtXq8WfzOAkAs84DoGRqpv",
+   "name": "AMIZADE E ZOEIRA",
+   "reason": "non-SA country BR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "L061gFmKrGYCXFUsHK7q7Y",
+   "name": "Sexy girl",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "LlYr9FZ0mX85KMm4KeBrlZ",
+   "name": "Sexy girl",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "CGPz8iV7WyWE1yHPtoFHqn",
+   "name": "Piu Piu Sticker Club 🐥🌟",
+   "reason": "non-SA country BR",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "L7W6lsjfKsO6guH9bYdY0l",
+   "name": "𝐖𝐄𝐍𝐈𝐗 𝟗𝟕𝟕 𝐀𝐑𝐄𝐀",
+   "reason": "non-SA country ID",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GDCeV7OSBeOGLdvwDRnGzC",
+   "name": "Punjabi Girl Sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GPAnEaU0FDB7TmrJg1USTS",
+   "name": "Roland Tips",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "Eps3RQ9RM6N6kVljNyRq2a",
+   "name": "Satta king",
+   "reason": "betting/casino by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GQRSYPeQdiMDabwMNGJfEs",
+   "name": "8850220715 hot sex girl free call message",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "BgAXtVDxdHI4yZ5iFkuH9z",
+   "name": "8850220715 sex girl",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "EQKWqtJiZUP82uOKZo9heI",
+   "name": "©️EO SMITH NET",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "JI9eKeHyjHy0dUqHE5oJWt",
+   "name": "𝐖𝐢𝐧𝐧𝐢𝐧𝐠 𝐙𝐨𝐧𝐞 👑",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "E6p25paVPIf0LjoTs2RZ7l",
+   "name": "Gold trading edge",
+   "reason": "non-SA country SA",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "C8kkYRKv82ZLcGUJIqWJq7",
+   "name": "KYC JUPITER",
+   "reason": "non-SA country ID",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "LQvRr8Hr1woEMDpqTiaapN",
+   "name": "Amistad Mundial",
+   "reason": "non-SA country PH",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "KHH1f5gCB6gBQFPsb89vOc",
+   "name": "Adult, xxx, videos, live, jobs",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GQNHy25v2mhIAMkAktHVKB",
+   "name": "USA / UK ONLINE JOB OPPORTUNITIES ✊ GROUP ❤️💯",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "IgoDMSVHdWS6UAueJrVznZ",
+   "name": "MUKKU TEAM ❤️✅",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "I2YcrrDAXAVCv4VaPn38ZR",
+   "name": "Divitogltd",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "H9ccQ8sFjsmFhPPavEdw4z",
+   "name": "Punjabi Girl Sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "FhTuahE2swa6cwI028SuAR",
+   "name": "🌷Punjabi Girl Sex 🌷",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "DbqslMnN3cSE0HAlPkhrgy",
+   "name": "Digital world 🌎",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "EyRCAMlqndm8BogQm1MvWW",
+   "name": "FOREX TRADING",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "EJ9N8ag4kN2JWz8UwQ3fL4",
+   "name": "Online Sex",
+   "reason": "porn/xxx by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "E7l0lTwKCP1FuTmAGkFmjQ",
+   "name": "Monika Sharma Sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "BXRSYw5mnMmHOPYV4BIwa1",
+   "name": "BINANCE MILLIONAIRE INVESTMENT PLATFORM",
+   "reason": "crypto-airdrop/free-money scam by directory name",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GYId7OP1VHO6aiV4HlY9ZP",
+   "name": "BINANCE MILLIONAIRE INVESTMENT PLATFORM",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "KcFFFmys1ECF30XF9DWYmw",
+   "name": "Friend Ships",
+   "reason": "non-SA country US",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GBsXnSBdPym7CVq3JPHNAe",
+   "name": "YOUR GLOBAL ADVANTAGE",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "EwU7blYH7C19eKyw6T6PVA",
+   "name": "FREAKY ßEX",
+   "reason": "non-SA country NG",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "CEd6by10AjA2QgJYkz2iQD",
+   "name": "MEET PEOPLE AROUND THE WORLD 🌎",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "GXRWQiBnpuYFzyTaYsThKT",
+   "name": "𝗚𝗕 | 𝙑4𝙈𝙋 𝙈𝘼𝙍𝙆𝙀𝙏𝙋𝙇𝘼𝘾𝙀",
+   "reason": "non-SA country ID",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "KTKLTAQsp8v2gfSJ2gZZGF",
+   "name": "Punjabi Aunty Sex",
+   "reason": "non-SA country GB",
+   "source": "groupssor.com API"
+  },
+  {
+   "code": "IHcUh0XeZt8B9j8YCWeW9g",
+   "name": "Provide service 💦🥵",
+   "reason": "sexual-service emoji combo in live og:title",
+   "source": "groupssor.com"
+  }
+ ],
+ "pending_codes": [
+  "K0EhVQQkrgP4tJsbgoBjh8",
+  "G6I8VRRBkHW8MSGt2gMUim",
+  "FrxbvwJP9wqCb5nLwb3xJD",
+  "DthjL8jZqMWGd2VaPQB6Zg",
+  "I9k5z2O9qrbCSL2PWbhuLu",
+  "HOZwUxygMdF9CzFZnUKqTm",
+  "Fx7QrN8F2ni5X4io3GMmUP",
+  "GCo6n1KBgc7FtLV65JJ0E6",
+  "DkadDHfA0ebCpTXWFzztDU",
+  "EK9lSi20RUXISLYNkes9tt",
+  "EALL2IQXXP13BeTXkupLeD",
+  "K4yHY4gnSqJBQyPPONiqFN",
+  "IHfwSh8fpKMHudYNKaxFCx",
+  "HiIsY0yh9VSF7hzbHvwMKd",
+  "BVa8drY39jsCfCGIRXJBw4",
+  "Gv6LCAxNzAR3fGV6yw5QAy",
+  "CfhikIKx9Ik5v0U0qrAytB",
+  "GoT6WX9aPW11ZRQUrSBjUO",
+  "CEd6by10AjA2QgJYkz2iQD",
+  "HWvk1M2WxxgILxzebn8tQ7",
+  "CGs1Ho3eLudK0708cDiP52",
+  "LYj3Up3F1lx8gN46sZAmqW",
+  "Gmay60rjoF7Hc0ZTjrIlUO",
+  "Gh9YmZxJdywIwiwpr0phUN",
+  "J2VvtNd1mfLGb2gikhFu3q",
+  "FJZNllwzZ8l7U3Oi3CiqD9",
+  "K8F3Ry2k08wCN92dlfgrgt",
+  "DO61cGkajKUAFUwRgdnZWf",
+  "LTGci5faD9YHNjgJ8lPypy",
+  "ICsYwYldGzeLTe96HHpZZj",
+  "E8ZhFfA5Nzz6BIahCy6Jz1",
+  "B6eHFGmHuPpHHCBMAAhflN",
+  "IvQ8g8kddO80y6XABXku52",
+  "KDzCLJRerBH05DQJFqLH2T",
+  "KSlHAdZpxv64Zyoy27wupM",
+  "KzMWWex2ta4ImphnEot2mx",
+  "KG9oOOSFbQ46oEtKlRoXW2",
+  "IivrOdkRbxt5kKpZhGwODC",
+  "DG0ySGqXUBa3AkwdHNC0Zc",
+  "GgeXPkADzIPKqS686VmsXy",
+  "H7EKNhi2aE5BJ6uvQPFh5Q",
+  "HOea0OvSv5SIe3IJeMEc5F",
+  "L3oSAfWOBbd5jkCJXgF4aT",
+  "ILqYFCkMaOWFXZ7juxOfOw",
+  "GREoqxG7lnfISwqEuzCHh9",
+  "KoRkZYH4x8kKaqME08Cmdi",
+  "GkWWz720J1y1TZV9X5FxWg",
+  "IOj9XhAtSO2B9lRAbK35j5",
+  "CHSuoHXkaMQDyQjxkVCNm2"
+ ],
+ "resume_point": "49 pending groupsor.in codes (all HTTP 429) in team23-pending.json - retry in a later run after a longer cooldown, fresh session, slower pace. groupsor.in still has ~3,500 unmined group pages (remaining categories in sitemap/groups). groupssor API re-poll for new submissions (500-entry cap). Cloudflare sites (whatsgroupjoinlinks.com, whtsagrouplinks.com, tglinkhub.com) need a browser leg.",
+ "flags": [
+  "Live og:title 'Inactive' (Gi8BfXNCsNi9RZOlop0J8U) kept as Education - group is literally named 'Inactive'; category from its groupsor.in education listing.",
+  "Country '' on 19 candidates: live title + directory gave no reliable country signal (groupsor.in education/jobs/friendship/entertainment categories are not country-specific).",
+  "Tamil newcomers group (G2NrbLdUhQxID1fAiiga86) country '' - Tamil could be IN or LK; left blank rather than guessed.",
+  "1 groupssor pre-screen-excluded code overlapped a code verified via another source (403 fresh = 281 verified + 122 never attempted; pre-screen list has 123 entries)."
+ ]
+}

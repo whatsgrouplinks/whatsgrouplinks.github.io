@@ -1,0 +1,67 @@
+[
+ {
+  "site": "groupwhat.com",
+  "value": "https://groupwhat.com/country/kenya",
+  "note": "14 Kenya groups listed; invite codes hidden behind /groups/<slug> pages. curl fails (connection refused) and browser outlink fetch failed (DNS/network). Needs live-browser resolution. Known group names: Top Connections 2024, East Africa tourism, African Women Audacity Conference - Kenya 1, KGN Reseller Group, Furaha Nikuwa na Marafiki, Nurses Life New Nurses in Kenya, Kicheche one, Fine Tech Kenya, Tafuta Mke au Mume, Utangulizi mafunzo ya Freelancers. One resolved slug: /groups/UbFgFgzzFbct6zmvihauH (Top Connections 2024). Also try country pages nigeria/ghana/south-africa/saudi-arabia/uae/egypt/tanzania/zimbabwe."
+ },
+ {
+  "site": "whatgroups.com",
+  "value": "https://whatgroups.com/whatsapp-group-links-tanzania/",
+  "note": "Cloudflare-blocked via curl (also blocked team25/30/31 Nov 13 for Pakistan/Bangladesh/Islamic pages). 1100+ Tanzania groups listed. Needs browser-task fetch. Related: https://whatgroups.com/islamic-whatsapp-group-link/"
+ },
+ {
+  "site": "grouplink.com.in",
+  "value": "https://grouplink.com.in/1300-international-whatsapp-group-link/",
+  "note": "53 codes extracted to team25_raw/li_team25_raw_https_grouplink_com_in_1300_international_whatsapp_group_link__html.json — NOT verified (out of Africa/ME slice: scholarships, IR, languages, USA/France/Korea groups). Needs category-team review/dedupe."
+ },
+ {
+  "site": "77links.com",
+  "value": "https://77links.com/islamic-whatsapp-group-links/",
+  "note": "Sister page to the Arabic page mined this run (72 codes, 71 already in union). Islamic groups page unmined; likely heavy union overlap but worth one pass."
+ },
+ {
+  "site": "docs.google.com",
+  "value": "https://docs.google.com/spreadsheets/d/1IRGWlPOBxyBZegI4zpkLKe82csROdWhrI79BivMC2gA/htmlview",
+  "note": "'Arab Socials Groups' Google Sheet — JS-rendered, 0 codes via curl. Needs browser-task read."
+ },
+ {
+  "site": "whatsagroupslinks.com",
+  "value": "https://whatsagroupslinks.com/",
+  "note": "Zimbabwe (50 codes) and Tanzania (12 codes) pages mined this run. Site likely has more country pages (Kenya/Nigeria/Ghana/South Africa) — check sitemap/index for unmined country pages next run."
+ },
+ {
+  "site": "groupwa.com",
+  "value": "https://groupwa.com/",
+  "note": "Jeddah/Riyadh/Zimbabwe pages mined this run. More city/country pages likely exist (Abu Dhabi, Dubai, Doha, Cairo, Nairobi, Lagos, Accra, Johannesburg) — enumerate and mine next run."
+ },
+ {
+  "site": "tglinkhub.com",
+  "value": "https://tglinkhub.com/whatsapp-group-links/",
+  "note": "Kenya/Tanzania/Zimbabwe sections mined (120 codes, 20 fresh). 'International Friend Groups' section (40 codes) NOT mined — out of slice; may hold Africa/ME groups. Also Education/Islamic sections are other teams' slices."
+ },
+ {
+  "site": "newgrouplinks.pk",
+  "value": "https://newgrouplinks.pk/",
+  "note": "Dubai page mined (20 codes, 0 fresh). Other country pages (Saudi Arabia, Nigeria, Kenya) untested — enumerate next run."
+ },
+ {
+  "site": "grouplink.com.in",
+  "value": "https://grouplink.com.in/",
+  "note": "UAE jobs page mined (45 codes, 0 fresh). Other Gulf job pages (Saudi/Qatar/Oman/Kuwait jobs) untested — enumerate next run."
+ },
+ {
+  "site": "pkwhatsgrouplinks.com",
+  "value": "https://pkwhatsgrouplinks.com/",
+  "note": "Zimbabwe page mined (16 codes, 7 fresh). Other country pages untested — enumerate next run."
+ },
+ {
+  "site": "zbinworld.com",
+  "value": "https://zbinworld.com/page/27/",
+  "note": "12 area/country groups mined from search snippet (all dead on verify). Site claims 30+ ZBIN groups across suburb/country pages — re-crawl index pages next run for newly posted groups."
+ },
+ {
+  "site": "techzim.co.zw",
+  "value": "https://www.techzim.co.zw/join-whatsapp-groups/",
+  "note": "11 of 12 Techzim codes live (7 banked as candidates). Recheck periodically — community groups A/F+ and News 2+ may exist or rotate."
+ }
+]

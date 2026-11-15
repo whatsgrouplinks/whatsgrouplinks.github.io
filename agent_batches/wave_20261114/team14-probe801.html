@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+    <base href="/">
+    <script src="js/origen-llegada.m5myhewe8b.js"></script>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css" />
+    <link rel="stylesheet" href="app.ivwkjj7uvm.css" />
+    <link rel="stylesheet" href="WhatsHubBlazor.1ta4qm7bd7.styles.css" />
+    <script type="importmap">{
+  "imports": {
+    "./js/anuncios.js": "./js/anuncios.55p3x9ph51.js",
+    "./js/charts.js": "./js/charts.l9fnqtbv7m.js",
+    "./js/origen-llegada.js": "./js/origen-llegada.m5myhewe8b.js",
+    "./js/reconexion.js": "./js/reconexion.z5pzs9fzop.js",
+    "./js/utils.js": "./js/utils.tvw5zj1van.js",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.js": "./lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.min.js": "./lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js",
+    "./lib/bootstrap/dist/js/bootstrap.esm.js": "./lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js",
+    "./lib/bootstrap/dist/js/bootstrap.esm.min.js": "./lib/bootstrap/dist/js/bootstrap.esm.min.8vyfqsqgz1.js",
+    "./lib/bootstrap/dist/js/bootstrap.min.js": "./lib/bootstrap/dist/js/bootstrap.min.4d85u1mtcx.js",
+    "./lib/bootstrap/dist/js/bootstrap.js": "./lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js"
+  },
+  "integrity": {
+    "./js/anuncios.55p3x9ph51.js": "sha256-CfejCZWv9cEqgWSRAyclMrvDi9NSbDSryy+/JELbXHo=",
+    "./js/anuncios.js": "sha256-CfejCZWv9cEqgWSRAyclMrvDi9NSbDSryy+/JELbXHo=",
+    "./js/charts.js": "sha256-9/Thf7NvnGCnO8H4io/O6F5b+6MCIdXR1dEDGt9yiEg=",
+    "./js/charts.l9fnqtbv7m.js": "sha256-9/Thf7NvnGCnO8H4io/O6F5b+6MCIdXR1dEDGt9yiEg=",
+    "./js/origen-llegada.js": "sha256-qs0uvj6jyQ8+BEcGeTjAuAhiXNeAqH1xla9rNZdJSxE=",
+    "./js/origen-llegada.m5myhewe8b.js": "sha256-qs0uvj6jyQ8+BEcGeTjAuAhiXNeAqH1xla9rNZdJSxE=",
+    "./js/reconexion.js": "sha256-J3rHhCcwzIUrxe0yY56XKedwH+yNKGfcov2J3WcGzzs=",
+    "./js/reconexion.z5pzs9fzop.js": "sha256-J3rHhCcwzIUrxe0yY56XKedwH+yNKGfcov2J3WcGzzs=",
+    "./js/utils.js": "sha256-uTSuuBXspNUkFaeWy43/rRHssEQDXnPhfNAMjtEanbk=",
+    "./js/utils.tvw5zj1van.js": "sha256-uTSuuBXspNUkFaeWy43/rRHssEQDXnPhfNAMjtEanbk=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js": "sha256-bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.js": "sha256-bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js": "sha256-6zfk2L8R3wCgRbZzpkEi7UYC2bc6fYGIgFfNeqyOWnQ=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.min.js": "sha256-6zfk2L8R3wCgRbZzpkEi7UYC2bc6fYGIgFfNeqyOWnQ=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.js": "sha256-idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js": "sha256-idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.min.8vyfqsqgz1.js": "sha256-REjSeieVKd00nAKwd6dv7MMhuVKvKctPmLI4iDRs/cc=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.min.js": "sha256-REjSeieVKd00nAKwd6dv7MMhuVKvKctPmLI4iDRs/cc=",
+    "./lib/bootstrap/dist/js/bootstrap.js": "sha256-vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA=",
+    "./lib/bootstrap/dist/js/bootstrap.min.4d85u1mtcx.js": "sha256-aCTIqw9op0XQGYnNe1649V7fnihACD48OP3M8BP2xVM=",
+    "./lib/bootstrap/dist/js/bootstrap.min.js": "sha256-aCTIqw9op0XQGYnNe1649V7fnihACD48OP3M8BP2xVM=",
+    "./lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js": "sha256-vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA="
+  }
+}</script>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <!--Blazor:{"type":"server","prerenderId":"99c283b9d8e04902aedcb4ad723f752b","key":{"locationHash":"77D12F14A8105320B1AAED6AE7E689DA0EC4483270A645E84079EAA0FFDF550D:22","formattedComponentKey":""},"sequence":0,"descriptor":"CfDJ8IcULnDe08ZHhKFnDd5WAe\u002BspP7PzOm6Etbe0bFpmB2IuVbjvKdOO0QeyCNr8Pk97G4ny/L3mtTvIE3ZzeLk8pI9SOs\u002BSDqqjgs8b5hscRigOsVCtin54vONnjjkk4SNiQo3V9h9Cmf/IiZkdJViy/V8ZrXJq4mWM5XDVFYHnPTaD4xO4Yr2cu7CqlnaPODEVvUJfNjfHLtCa0iC8vzcNC1rl39HwtqWMTN6EpdBgnzbRXAKmAPglqqQBdpxScjBkUOGYvt\u002BCLfuRHZBz986A2888JJJB4DFBrgWNIxtL21V1PuspTUSEpIpjapmh9sDrSLNZoVIT8XOdL65cZ481VhrfLRsMvKrgep9OjwJ6EQ0GHcnKK0d1HEKofFm6a/SVZZynZa\u002B\u002BXpovhDB48SEazQk0y9UltDq8oE5OH0G3dBXxfkpGkPowX41GSMrcxaACGi2te5nVQtEclmOF6M4BJzucj3nDiNtE7YnKtnqI2\u002Bu9LBIOyX2Pal6am99tx2i85PXNnUZx8o4iqpqdSX9igs4ckwYYeF8tTFoB6HgxLTfLPSDpYu7jGf/ROjFR7pRjC8OEeE7RBk0T1RNA379p7c="}--><title>Erasmus en Nicosia 2026/27 | Grupo de WhatsApp - WhatsHub</title><meta name="description" content="Erasmus en Nicosia 2026/27: Espacio para estudiantes que realizar&#xE1;n su movilidad en la ciudad para compartir informaci&#xF3;n sobre alojamiento, universidad,..." b-lfdt79d5fv />
+    <link rel="canonical" href="https://www.whatshub.es/grupo/801" b-lfdt79d5fv />
+    <meta property="og:title" content="Erasmus en Nicosia 2026/27 | Grupo de WhatsApp - WhatsHub" b-lfdt79d5fv />
+    <meta property="og:description" content="Erasmus en Nicosia 2026/27: Espacio para estudiantes que realizar&#xE1;n su movilidad en la ciudad para compartir informaci&#xF3;n sobre alojamiento, universidad,..." b-lfdt79d5fv />
+    <meta property="og:url" content="https://www.whatshub.es/grupo/801" b-lfdt79d5fv />
+    <meta property="og:type" content="website" b-lfdt79d5fv>
+    <meta property="og:image" content="https://www.whatshub.es/grupo/801/og.png" b-lfdt79d5fv />
+    <meta property="og:image:width" content="1200" b-lfdt79d5fv>
+    <meta property="og:image:height" content="630" b-lfdt79d5fv><script type="application/ld&#x2B;json" b-lfdt79d5fv>{"@context":"https://schema.org","@type":"WebPage","name":"Erasmus en Nicosia 2026/27 | Grupo de WhatsApp - WhatsHub","description":"Erasmus en Nicosia 2026/27: Espacio para estudiantes que realizar\u00E1n su movilidad en la ciudad para compartir informaci\u00F3n sobre alojamiento, universidad,...","url":"https://www.whatshub.es/grupo/801","keywords":"Chipre, Nicosia, Universidad, Estudiantes, Erasmus, Conocer gente, Compartir piso","about":{"@type":"Organization","name":"Erasmus en Nicosia 2026/27"}}</script><!--Blazor:{"prerenderId":"99c283b9d8e04902aedcb4ad723f752b"}--></head>
+
+<body><!--Blazor:{"type":"server","prerenderId":"5d0a2d5c721643c1932ac50eb57fa16b","key":{"locationHash":"85DF2D7C6FC824EBBB3F6116F1836B8311A23A88C0954CE7CBCDFA359B055783:25","formattedComponentKey":""},"sequence":1,"descriptor":"CfDJ8IcULnDe08ZHhKFnDd5WAe8ReBbExUCzQkqz37\u002BG8vypOgOh8E41pjNjy/faLjgvuuSSxaV03saFHUanV5VEGFYcdj9BD6edMUwQ7XknE9kC6tjvDIyN9IykbO1FX8cgAuPvYsfa\u002B75WNHLb1FGcBwj4k1u9qD\u002BLaqrmfgl1Bsbsbqw1himrN6\u002BO5gkvrfmtCudxkHsTKfpOPQD75ic4pnS1DbZb7GuPCxcj5MvZFRPZP/AVG1aUdLauk2P/1hjMofnVSGYDYLftdZcUbbtEbCWqHFsUkA2zTSD3ER3dcfkxqJ7Vu3Q1ktrarywMeNwWRrcnbNpjedl14EIfR9PxBMDYOb3V4lpKDba666VURLoI0qEKNxAVqWRbDWifwlx86EalljuRDB1qFRUIGjp5S1eoLC2AlEJHD86HRaJdOzp/pPTG/bA/HwVOYuASPsmfBJBpy9xCAYQvSP\u002BorgPkRIyurqbYKLCRQO7tOfXpp70ZYcR7pc7MZGX80trDI\u002BCUmJ6V6UO9n2bcYE5pxyYATH4="}-->
+<div class="app-toast-host" aria-live="polite" aria-atomic="false"></div>
+
+
+
+<div class="mobile-frame" b-qeh2i3y7fd><div b-qeh2i3y7fd><nav class="navbar navbar-white bg-white sticky-top shadow-sm wh-navigation" b-alqtzli1xw><div class="container-fluid flex-nowrap gap-2" b-alqtzli1xw><button class="btn btn-outline-light ms-2 wh-menu-button" type="button" aria-label="Abrir men&#xFA;" title="Abrir men&#xFA;" b-alqtzli1xw><span class="navbar-toggler-icon" b-alqtzli1xw></span></button>
+
+        <a class="navbar-brand m-0 p-0" href="/" aria-label="Inicio de WhatsHub" b-alqtzli1xw><img src="images/WhatsHubLogo.jpeg" alt="WhatsHub" b-alqtzli1xw></a>
+
+        
+
+        <div class="d-flex align-items-center flex-shrink-0 ms-auto wh-header-actions" b-alqtzli1xw><button type="button" class="btn wh-header-action" title="Notificaciones" aria-label="Notificaciones" aria-expanded="false" b-alqtzli1xw><i class="bi bi-bell" aria-hidden="true" b-alqtzli1xw></i></button>
+            <button type="button" class="btn wh-header-action" aria-label="Crear nuevo grupo" title="Crear nuevo grupo" b-alqtzli1xw><i class="bi bi-plus-lg" aria-hidden="true" b-alqtzli1xw></i></button></div></div></nav><div class="offcanvas offcanvas-start wh-offcanvas-min  " style="visibility:hidden" tabindex="-1" aria-label="Men&#xFA; de WhatsHub" b-alqtzli1xw><div class="offcanvas-head-min d-flex align-items-center justify-content-between px-3 py-2" b-alqtzli1xw><img src="images/WhatsHubShortLogo.jpeg" alt="WhatsHub" width="48" height="48" class="object-fit-contain" b-alqtzli1xw>
+        <button type="button" class="btn-close p-0" aria-label="Cerrar men&#xFA;" title="Cerrar men&#xFA;" b-alqtzli1xw></button></div>
+
+    
+    <div class="offcanvas-body wh-menu-columnas p-0" b-alqtzli1xw><div class="wh-menu-columna" b-alqtzli1xw><a class="list-group-item list-group-item-action item-xl menu-bajo" href="/" b-alqtzli1xw><i class="bi bi-house item-icon" b-alqtzli1xw></i> Inicio
+            </a>
+
+            <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/nuevo-grupo" b-alqtzli1xw><i class="bi bi-plus item-icon" b-alqtzli1xw></i> Compartir nuevo grupo
+            </a>
+
+            <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/perfil" b-alqtzli1xw><i class="bi bi-person item-icon" b-alqtzli1xw></i> Mi perfil
+            </a>
+
+            <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/mis-grupos" b-alqtzli1xw><i class="bi bi-list-check item-icon" b-alqtzli1xw></i> Mis grupos
+            </a>
+
+            <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/mis-recompensas" b-alqtzli1xw><i class="bi bi-coin item-icon" aria-hidden="true" b-alqtzli1xw></i> Mis recompensas
+            </a><a class="list-group-item list-group-item-action item-xl menu-bajo" href="/trends" b-alqtzli1xw><i class="bi bi-stars item-icon" b-alqtzli1xw></i> WhatsHub Trends
+            </a>
+
+            <a class="list-group-item list-group-item-action item-xl menu-bajo" href="/ads" b-alqtzli1xw><i class="bi bi-megaphone item-icon" b-alqtzli1xw></i> WhatsHub Ads
+            </a>
+
+            <div class="mt-auto pt-2" b-alqtzli1xw><a class="list-group-item list-group-item-action item-xl menu-bajo" b-alqtzli1xw><i class="bi bi-info-circle item-icon" b-alqtzli1xw></i> Acerca de WhatsHub
+                </a>
+
+                <a class="list-group-item list-group-item-action item-xl menu-bajo" b-alqtzli1xw><i class="bi bi-bug item-icon" b-alqtzli1xw></i> Reportar errores
+                </a>
+
+                <a class="list-group-item list-group-item-action item-xl menu-bajo" b-alqtzli1xw><i class="bi bi-lightbulb item-icon" b-alqtzli1xw></i> ¿Tienes una idea para mejorar WhatsHub?
+                </a></div>
+
+            <div class="offcanvas-foot-min" b-alqtzli1xw><div class="d-flex gap-2 flex-wrap justify-content-center icon-row" b-alqtzli1xw><a class="icon-btn m-1" target="_blank" rel="noopener" aria-label="Instagram" b-alqtzli1xw><i class="bi bi-instagram" b-alqtzli1xw></i><span class="visually-hidden" b-alqtzli1xw>Instagram</span></a>
+                    <a class="icon-btn m-1" target="_blank" rel="noopener" aria-label="X" b-alqtzli1xw><i class="bi bi-twitter-x" b-alqtzli1xw></i><span class="visually-hidden" b-alqtzli1xw>X</span></a></div>
+                <div class="text-center mt-1" b-alqtzli1xw><a href="/privacidad" class="text-muted small text-decoration-none" b-alqtzli1xw>Privacidad</a></div></div></div></div></div>
+
+<style b-alqtzli1xw>
+    .wh-navigation .navbar-brand {
+        min-width: 0;
+    }
+
+    .wh-menu-button {
+        flex: 0 0 auto;
+    }
+
+    .wh-header-action {
+        position: relative;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 44px;
+        height: 44px;
+        padding: 0;
+        color: #64bc6c;
+        font-size: 1.35rem;
+        line-height: 1;
+    }
+
+    .wh-menu-pending-dot {
+        position: absolute;
+        top: .2rem;
+        right: .2rem;
+        width: .6rem;
+        height: .6rem;
+        border-radius: 50%;
+        background: #64bc6c;
+        box-shadow: 0 0 0 2px #fff;
+    }
+
+    .wh-header-actions {
+        position: relative;
+    }
+
+    .wh-notificaciones-panel {
+        position: absolute;
+        top: calc(100% + .5rem);
+        inset-inline-end: 0;
+        width: min(25rem, calc(100vw - 1.5rem));
+        max-height: min(34rem, calc(100dvh - 6rem));
+        overflow-y: auto;
+        overscroll-behavior: contain;
+        padding: .9rem;
+        border: 1px solid var(--stripe-border);
+        border-radius: var(--stripe-radius);
+        background: var(--stripe-bg);
+        box-shadow: 0 6px 20px rgba(10, 37, 64, .1);
+    }
+
+    .wh-navigation .navbar-brand img {
+        width: 168px;
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    @media (max-width: 991.98px) {
+        .wh-navigation { min-height: 84px; }
+        .wh-navigation .navbar-brand img { width: 220px; }
+    }
+
+    .wh-menu-backdrop {
+        position: fixed;
+        inset: 0;
+        z-index: 1040;
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    .offcanvas-head-min .btn-close {
+        width: 44px;
+        height: 44px;
+    }
+
+    .offcanvas-foot-min {
+        padding: .5rem .75rem;
+    }
+
+    .offcanvas-foot-min .icon-row {
+        margin-bottom: .25rem;
+    }
+
+    .icon-btn {
+        background: none;
+        border: none;
+        padding: .25rem .4rem;
+        font-size: 1.25rem;
+        color: inherit;
+    }
+
+    .item-icon {
+        font-size: 1.15rem;
+        width: 1.4rem;
+        display: inline-block;
+        margin-right: .5rem;
+        vertical-align: -2px;
+        text-align: center;
+    }
+
+    .wh-menu-columnas {
+        display: grid;
+    }
+
+    .wh-menu-columna {
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+    }
+
+    .menu-bajo {
+        display: flex;
+        align-items: center;
+        width: auto;
+        min-height: 44px;
+        margin: 0 .65rem;
+        padding: .4rem .75rem;
+    }
+
+    .wh-menu-admin {
+        border-top: 1px solid #e1e4e8;
+    }
+
+    .wh-menu-admin-titulo {
+        margin: 0;
+        padding: 1rem 1.35rem .5rem;
+        font-size: .95rem;
+        font-weight: 600;
+    }
+
+    @media (min-width: 576px) {
+        .wh-offcanvas-min.wh-offcanvas-admin { --bs-offcanvas-width: min(600px, 94vw); }
+        .wh-offcanvas-admin .wh-menu-columnas { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+        .wh-menu-admin { border-top: 0; border-left: 1px solid #e1e4e8; }
+    }
+
+    @media (min-width: 992px) {
+        .wh-notificaciones-panel { inset-inline-end: 44px; }
+        .wh-navigation { min-height: 64px; padding: .35rem 1rem; border-bottom: 1px solid #e1e4e8; box-shadow: none !important; }
+        .wh-navigation .wh-menu-button { order: 0; margin: 0 !important; }
+        .wh-offcanvas-min:not(.wh-offcanvas-admin) { --bs-offcanvas-width: 300px; }
+        .wh-offcanvas-min .menu-bajo { border: 0; border-radius: 7px; font-size: .9rem; }
+        .wh-offcanvas-min .menu-bajo:hover { background: #f1f7f2; }
+    }
+</style></div>
+
+    <main class="main-content" b-qeh2i3y7fd><article class="content app-content" b-qeh2i3y7fd>
+
+
+<div class="detalle-grupo" b-lfdt79d5fv><header class="detalle-cabecera" b-lfdt79d5fv><button class="stripe-btn stripe-btn-secondary detalle-icono-boton detalle-volver" type="button" title="Volver atr&#xE1;s" aria-label="Volver atr&#xE1;s" b-lfdt79d5fv><i class="bi bi-chevron-left d-lg-none" aria-hidden="true" b-lfdt79d5fv></i>
+            <i class="bi bi-arrow-left d-none d-lg-inline" aria-hidden="true" b-lfdt79d5fv></i></button>
+
+        <div class="detalle-identidad" b-lfdt79d5fv><button type="button" class="avatar-btn flex-shrink-0" title="Ver foto" aria-label="Ver foto del grupo" b-lfdt79d5fv><img class="detalle-avatar" src="/imagenes_grupos/801.jpg?v=639162755431000000" alt b-lfdt79d5fv /></button><div class="detalle-titulo" b-lfdt79d5fv><h1 class="detalle-nombre mb-1" b-lfdt79d5fv>Erasmus en Nicosia 2026/27</h1>
+                <p class="text-muted small mb-0" b-lfdt79d5fv><i class="bi bi-calendar-event me-1" aria-hidden="true" b-lfdt79d5fv></i>
+                    Actualizado hace 5 meses</p></div></div>
+
+        <div class="detalle-acciones" b-lfdt79d5fv><button type="button" class="stripe-whatsapp-btn" aria-label="Unirse al grupo" b-lfdt79d5fv><i class="bi bi-whatsapp stripe-whatsapp-icon" aria-hidden="true" b-lfdt79d5fv></i>
+                <span b-lfdt79d5fv>Unirse<span class="detalle-unirse-largo" b-lfdt79d5fv> al grupo</span></span></button>
+            <div class="stripe-karma stripe-karma-horizontal"><button class="stripe-karma-btn stripe-karma-btn-up " type="button" title="Me gusta" aria-label="Me gusta" aria-pressed="false" __internal_stopPropagation_onclick><i class="bi bi-hand-thumbs-up" aria-hidden="true"></i></button>
+
+    <div class="stripe-karma-score neutral" title="Karma: 0. 0 votos"><span>0</span></div>
+
+    <button class="stripe-karma-btn stripe-karma-btn-down " type="button" title="No me gusta" aria-label="No me gusta" aria-pressed="false" __internal_stopPropagation_onclick><i class="bi bi-hand-thumbs-down" aria-hidden="true"></i></button></div>
+            <div class="detalle-acciones-secundarias" b-lfdt79d5fv><a class="stripe-comments-btn text-body text-decoration-none" href="https://www.whatshub.es/grupo/801#comentarios" title="Ver comentarios" aria-label="Ver comentarios (0)" b-lfdt79d5fv><i class="bi bi-chat" aria-hidden="true" b-lfdt79d5fv></i><span b-lfdt79d5fv>0</span></a>
+                <button type="button" class="btn btn-invisible detalle-icono-boton" title="Compartir" aria-label="Compartir grupo" b-lfdt79d5fv><i class="bi bi-share" aria-hidden="true" b-lfdt79d5fv></i></button><div class="dropdown" __internal_stopPropagation_onclick><button class="btn btn-invisible btn-sm" type="button" data-bs-toggle="dropdown" aria-expanded="false" title="Opciones del grupo" aria-label="Opciones de Erasmus en Nicosia 2026/27"><i class="bi bi-three-dots-vertical" aria-hidden="true"></i></button>
+    <ul class="dropdown-menu dropdown-menu-end"><li><button type="button" class="dropdown-item"><i class="bi bi-eye"></i> Acceder al grupo</button></li>
+        <li><button type="button" class="dropdown-item"><i class="bi bi-share"></i> Compartir grupo</button></li><li><a class="dropdown-item" href="/solicitar-propiedad/801"><i class="bi bi-person-plus"></i> Este grupo es mío</a></li><li><button type="button" class="dropdown-item" disabled><i class="bi bi-pencil"></i> Editar grupo</button></li>
+        <li><a class="dropdown-item" href="/reportar-grupo/801"><i class="bi bi-x-octagon"></i> Reportar grupo</a></li>
+        <li><button type="button" class="dropdown-item" disabled><i class="bi bi-trash"></i> Eliminar grupo</button></li></ul></div></div></div></header><div class="detalle-columnas detalle-columnas--con-relacionados" b-lfdt79d5fv><aside class="detalle-ficha" aria-label="Informaci&#xF3;n del grupo" b-lfdt79d5fv><div class="detalle-bloque detalle-bloque-metricas" b-lfdt79d5fv><div class="d-flex align-items-center gap-1" style="min-width: 0; max-width: 100%;"><i class="bi bi-people text-muted" aria-hidden="true"></i>
+    <select style="border-radius: .5rem; padding: 4px; font-size: 0.8rem; min-width: 0; max-width: 100%; flex: 1 1 auto; width: 100%; text-overflow: ellipsis;" aria-label="N&#xFA;mero de participantes" __internal_stopPropagation_onclick value="0"><option value="0" selected>Núm. participantes desconocido</option>
+        <option value="-1">Enlace caducado</option>
+        <option value="1">0 - 10 participantes</option>
+        <option value="2">10 - 50 participantes</option>
+        <option value="3">50 - 100 participantes</option>
+        <option value="4">100 - 200 participantes</option>
+        <option value="5">200 - 300 participantes</option>
+        <option value="6">300 - 400 participantes</option>
+        <option value="7">400 - 500 participantes</option>
+        <option value="8">500 - 600 participantes</option>
+        <option value="9">600 - 700 participantes</option>
+        <option value="10">700 - 800 participantes</option>
+        <option value="11">800 - 900 participantes</option>
+        <option value="12">900 - 1000 participantes</option>
+        <option value="13">&#x2B;1000 participantes</option></select></div>
+
+                <dl class="detalle-metricas small mb-0 mt-3" b-lfdt79d5fv><div b-lfdt79d5fv><dt b-lfdt79d5fv>Visitas</dt><dd b-lfdt79d5fv>3</dd></div>
+                    <div b-lfdt79d5fv><dt b-lfdt79d5fv>Accesos</dt><dd b-lfdt79d5fv>1</dd></div>
+                    <div b-lfdt79d5fv><dt b-lfdt79d5fv>Publicado</dt><dd b-lfdt79d5fv>28/12/2025</dd></div><div b-lfdt79d5fv><dt b-lfdt79d5fv>Última edición</dt><dd b-lfdt79d5fv>05/06/2026</dd></div></dl></div><div class="detalle-bloque" b-lfdt79d5fv><h2 class="detalle-section-title" b-lfdt79d5fv>Regiones</h2>
+                    <div class="tags" b-lfdt79d5fv><a class="tag region text-decoration-none" href="/r/chipre" b-lfdt79d5fv>Chipre</a><a class="tag region text-decoration-none" href="/r/nicosia" b-lfdt79d5fv>Nicosia</a></div></div><div class="detalle-bloque" b-lfdt79d5fv><h2 class="detalle-section-title" b-lfdt79d5fv>Categorías</h2>
+                        <div class="tags mb-3" b-lfdt79d5fv><a class="tag text-decoration-none d-inline-flex align-items-center gap-1" href="/c/estudios-y-universidad" b-lfdt79d5fv><i class="bi bi-mortarboard" aria-hidden="true" b-lfdt79d5fv></i> Estudios y universidad</a><a class="tag text-decoration-none d-inline-flex align-items-center gap-1" href="/c/vivienda" b-lfdt79d5fv><i class="bi bi-house" aria-hidden="true" b-lfdt79d5fv></i> Vivienda</a><a class="tag text-decoration-none d-inline-flex align-items-center gap-1" href="/c/amistad-y-planes" b-lfdt79d5fv><i class="bi bi-people" aria-hidden="true" b-lfdt79d5fv></i> Amistad y planes</a></div><h2 class="detalle-section-title" b-lfdt79d5fv>Etiquetas</h2>
+                    <div class="tags" b-lfdt79d5fv><a class="tag text-decoration-none" href="/e/universidad" b-lfdt79d5fv>Universidad</a><a class="tag text-decoration-none" href="/e/estudiantes" b-lfdt79d5fv>Estudiantes</a><a class="tag text-decoration-none" href="/e/erasmus" b-lfdt79d5fv>Erasmus</a><a class="tag text-decoration-none" href="/e/conocer gente" b-lfdt79d5fv>Conocer gente</a><a class="tag text-decoration-none" href="/e/compartir piso" b-lfdt79d5fv>Compartir piso</a></div></div><div class="detalle-bloque detalle-enlace" b-lfdt79d5fv><div b-lfdt79d5fv><h2 class="detalle-section-title mb-1" b-lfdt79d5fv>Enlace de invitación</h2>
+                    <p class="text-muted small mb-0" b-lfdt79d5fv>Oculto por privacidad.</p></div>
+                <button type="button" class="stripe-btn stripe-btn-secondary flex-shrink-0" title="Copiar enlace de invitaci&#xF3;n" disabled><i class="bi bi-copy" aria-hidden="true"></i> Copiar</button></div>
+
+            <aside class="recompensa-grupo" aria-label="Recompensas del grupo" b-1o7v1077t3><i class="bi bi-coin recompensa-grupo-icono" aria-hidden="true" b-1o7v1077t3></i>
+    <div b-1o7v1077t3><p class="small text-muted mb-0" role="status" b-1o7v1077t3>Cargando recompensas…</p></div></aside>
+            </aside><section class="detalle-relacionados" aria-labelledby="detalle-relacionados-titulo" b-lfdt79d5fv><h2 id="detalle-relacionados-titulo" class="detalle-section-title" b-lfdt79d5fv><span class="d-lg-none" b-lfdt79d5fv>Otros grupos similares</span><span class="d-none d-lg-inline" b-lfdt79d5fv>Grupos similares</span></h2>
+                <div class="detalle-relacionados-lista" b-lfdt79d5fv><a class="detalle-recomendacion" href="/grupo/639" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/639.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>ERASMUS/SICUE GRANADA 26/27 &#x1F1EA;&#x1F1F8;</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Andaluc&#xED;a</span><span class="tag region" b-lfdt79d5fv>Granada</span><span class="tag" b-lfdt79d5fv>Conocer gente</span><span class="tag" b-lfdt79d5fv>Erasmus</span><span class="tag" b-lfdt79d5fv>Sicue</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Bienvenido al grupo Sicue/Erasmus en Granada 2026/27. Este espacio re&#xFA;ne a estudiantes que participar&#xE1;n en el programa este curso, para compartir tips de vivienda, buscar compa&#xF1;eros de piso, planificar quedadas y practicar idiomas. &#xDA;nete para conocer a tus futuros compa&#xF1;eros y estar al d&#xED;a con la informaci&#xF3;n para el curso 2026/27.</p></a><a class="detalle-recomendacion" href="/grupo/635" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/635.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>ERASMUS/SICUE BARCELONA 26/27 &#x1F1EA;&#x1F1F8;</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Catalu&#xF1;a</span><span class="tag region" b-lfdt79d5fv>Barcelona</span><span class="tag" b-lfdt79d5fv>Conocer gente</span><span class="tag" b-lfdt79d5fv>Erasmus</span><span class="tag" b-lfdt79d5fv>Sicue</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Bienvenido al grupo Sicue/Erasmus en Barcelona 2026/27. Este espacio re&#xFA;ne a estudiantes que participar&#xE1;n en el programa este curso, para compartir tips de vivienda, buscar compa&#xF1;eros de piso, planificar quedadas y practicar idiomas. &#xDA;nete para conocer a tus futuros compa&#xF1;eros y estar al d&#xED;a con la informaci&#xF3;n para el curso 2026/27.</p></a><a class="detalle-recomendacion" href="/grupo/638" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/638.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>ERASMUS/SICUE C&#xD3;RDOBA 26/27 &#x1F1EA;&#x1F1F8;</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Andaluc&#xED;a</span><span class="tag region" b-lfdt79d5fv>Cordoba</span><span class="tag" b-lfdt79d5fv>Intercambio de idiomas</span><span class="tag" b-lfdt79d5fv>Sicue</span><span class="tag" b-lfdt79d5fv>Erasmus</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Bienvenido al grupo Sicue/Erasmus en C&#xF3;rdoba 2026/27. Este espacio re&#xFA;ne a estudiantes que participar&#xE1;n en el programa este curso, para compartir tips de vivienda, buscar compa&#xF1;eros de piso, planificar quedadas y practicar idiomas. &#xDA;nete para conocer a tus futuros compa&#xF1;eros y estar al d&#xED;a con la informaci&#xF3;n para el curso 2026/27.</p></a><a class="detalle-recomendacion" href="/grupo/45" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/45.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>SICUE M&#xC1;LAGA 25/26 &#x1F1EA;&#x1F1F8;</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Costa del Sol</span><span class="tag region" b-lfdt79d5fv>M&#xE1;laga</span><span class="tag" b-lfdt79d5fv>Fiesta</span><span class="tag" b-lfdt79d5fv>Sicue</span><span class="tag" b-lfdt79d5fv>Universidad</span></div></a><a class="detalle-recomendacion" href="/grupo/84" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/84.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Entradas  Parties Uma &#x1F38A;&#x1F389;&#x1F60E;&#x1F608;</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>M&#xE1;laga</span><span class="tag region" b-lfdt79d5fv>Costa del Sol</span><span class="tag" b-lfdt79d5fv>UMA</span><span class="tag" b-lfdt79d5fv>Fiesta</span><span class="tag" b-lfdt79d5fv>Universidad</span></div></a><a class="detalle-recomendacion" href="/grupo/632" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/632.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>ERASMUS/SICUE ALMER&#xCD;A 26/27 &#x1F1EA;&#x1F1F8;</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Andaluc&#xED;a</span><span class="tag region" b-lfdt79d5fv>Almeria</span><span class="tag" b-lfdt79d5fv>Intercambio de idiomas</span><span class="tag" b-lfdt79d5fv>Sicue</span><span class="tag" b-lfdt79d5fv>Erasmus</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Bienvenido al grupo Sicue/Erasmus en Almer&#xED;a 2026/27. Este espacio re&#xFA;ne a estudiantes que participar&#xE1;n en el programa este curso, para compartir tips de vivienda, buscar compa&#xF1;eros de piso, planificar quedadas y practicar idiomas. &#xDA;nete para conocer a tus futuros compa&#xF1;eros y estar al d&#xED;a con la informaci&#xF3;n para el curso 2026/27.</p></a><a class="detalle-recomendacion" href="/grupo/634" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/634.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Sicue/Erasmus en Bilbao 2026/27</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Pa&#xED;s Vasco</span><span class="tag region" b-lfdt79d5fv>Bilbao</span><span class="tag" b-lfdt79d5fv>Intercambio de idiomas</span><span class="tag" b-lfdt79d5fv>Sicue</span><span class="tag" b-lfdt79d5fv>Erasmus</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Bienvenido al grupo Sicue/Erasmus en Bilbao 2026/27. Este espacio re&#xFA;ne a estudiantes que participar&#xE1;n en el programa este curso, para compartir tips de vivienda, buscar compa&#xF1;eros de piso, planificar quedadas y practicar idiomas. &#xDA;nete para conocer a tus futuros compa&#xF1;eros y estar al d&#xED;a con la informaci&#xF3;n para el curso 2026/27.</p></a><a class="detalle-recomendacion" href="/grupo/630" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/630.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Sicue/Erasmus en Alicante 2026/27</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Comunidad Valenciana</span><span class="tag region" b-lfdt79d5fv>Alicante</span><span class="tag" b-lfdt79d5fv>Intercambio de idiomas</span><span class="tag" b-lfdt79d5fv>Sicue</span><span class="tag" b-lfdt79d5fv>Erasmus</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Bienvenido al grupo Sicue/Erasmus en Alicante 2026/27. Este espacio re&#xFA;ne a estudiantes que participar&#xE1;n en el programa este curso, para compartir tips de vivienda, buscar compa&#xF1;eros de piso, planificar quedadas y practicar idiomas. &#xDA;nete para conocer a tus futuros compa&#xF1;eros y estar al d&#xED;a con la informaci&#xF3;n para el curso 2026/27.</p></a><a class="detalle-recomendacion" href="/grupo/103" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/103.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Busco piso en M&#xE1;laga</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>M&#xE1;laga</span><span class="tag" b-lfdt79d5fv>Compartir piso</span><span class="tag" b-lfdt79d5fv>Vivienda</span></div></a><a class="detalle-recomendacion" href="/grupo/18" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/18.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Sicue M&#xE1;laga 25/26</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>M&#xE1;laga</span><span class="tag" b-lfdt79d5fv>Universidad</span><span class="tag" b-lfdt79d5fv>Sicue</span><span class="tag" b-lfdt79d5fv>Fiesta</span></div></a><a class="detalle-recomendacion" href="/grupo/636" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/636.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Sicue/Erasmus en C&#xE1;diz 2026/27</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Andaluc&#xED;a</span><span class="tag region" b-lfdt79d5fv>C&#xE1;diz</span><span class="tag" b-lfdt79d5fv>Intercambio de idiomas</span><span class="tag" b-lfdt79d5fv>Sicue</span><span class="tag" b-lfdt79d5fv>Erasmus</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Bienvenido al grupo Sicue/Erasmus en C&#xE1;diz 2026/27. Este espacio re&#xFA;ne a estudiantes que participar&#xE1;n en el programa este curso, para compartir tips de vivienda, buscar compa&#xF1;eros de piso, planificar quedadas y practicar idiomas. &#xDA;nete para conocer a tus futuros compa&#xF1;eros y estar al d&#xED;a con la informaci&#xF3;n para el curso 2026/27.</p></a><a class="detalle-recomendacion" href="/grupo/629" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/629.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Sicue/Erasmus en A Coru&#xF1;a 2026/27</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Galicia</span><span class="tag region" b-lfdt79d5fv>A Coru&#xF1;a</span><span class="tag" b-lfdt79d5fv>Conocer gente</span><span class="tag" b-lfdt79d5fv>Erasmus</span><span class="tag" b-lfdt79d5fv>Sicue</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Bienvenido al grupo Sicue/Erasmus en A Coru&#xF1;a 2026/27. Este espacio re&#xFA;ne a estudiantes que participar&#xE1;n en el programa este curso, para compartir tips de vivienda, buscar compa&#xF1;eros de piso, planificar quedadas y practicar idiomas. &#xDA;nete para conocer a tus futuros compa&#xF1;eros y estar al d&#xED;a con la informaci&#xF3;n para el curso 2026/27.</p></a><a class="detalle-recomendacion" href="/grupo/245" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/245.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Enjoy in Malaga</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>M&#xE1;laga</span><span class="tag" b-lfdt79d5fv>Expats</span><span class="tag" b-lfdt79d5fv>Vida social</span><span class="tag" b-lfdt79d5fv>Conocer gente</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>&#x1F4D0;We have ONLY 1 RULE&#x1F4CF; (Espa&#xF1;ol abajo)&#xA;&#x1F449; If you join us, You must Have Fun &#x1F973;&#x1F46F;&#x200D;&#x2642;&#xFE0F;&#x1F37E;&#x1F389;&#x1F38A;&#x1FA85;&#x1F386;&#xA;This is just for people with GOOD Vibes and willing to make new Local and International Friends&#xA;You will meet people from Malaga or Spain, Exparts, People on holidays willing to make new friends and enjoy the life, or Foreigners who have moved in Malaga.&#xA;&#x1F44F;We are best place to make new friends&#x1F44F;&#xA;Remember: &#x1F602;Smiling is the best medicine&#xA;Telegram: https://t.me/joinchat/SzYX5E7k4gRmZmVk&#xA;Whatsapp:&#xA;https://chat.whatsapp.com/IugV0BQ8FKeG1lzBWgtCa7&#xA;YOU DONT NEED TO PAY SUSCRIPTION&#xA;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#x3030;&#xFE0F;&#xA;&#x1F4D0;Tenemos Una Regla B&#xE1;sica&#x1F4CF;&#xA;&#x1F449; Si te unes, tienes que pasarlo bien &#x1F973;&#x1F46F;&#x200D;&#x2642;&#xFE0F;&#x1F37E;&#x1F389;&#x1F38A;&#x1FA85;&#x1F386;&#xA;Es una comunidad exclusivamente para personas que tienen energ&#xED;a positiva y desean conocer a gente sean de M&#xE1;laga, Espa&#xF1;a o extranjeros.&#xA;Conocer&#xE1;s a Malague&#xF1;os, espa&#xF1;oles residentes en M&#xE1;laga, extranjeros de Vacaciones, Exparts y Extranjeros que se han mudado a M&#xE1;laga&#xA;&#x1F44F;Somos el mejor lugar para hacer nuevos amigos&#x1F44F;&#xA;Recuerda: &#x1F602;sonreir es la mejor medicina&#x1F602;&#x1F604;&#xA;Telegram: https://t.me/joinchat/SzYX5E7k4gRmZmVk&#xA;Whatsapp:&#xA;https://chat.whatsapp.com/IugV0BQ8FKeG1lzBWgtCa7&#xA;NO TEN&#xC9;IS QUE PAGAR SUSCRIPCI&#xD3;N</p></a><a class="detalle-recomendacion" href="/grupo/509" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/509.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Mix N Mingle Torrevieja</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Torrevieja</span><span class="tag region" b-lfdt79d5fv>Comunidad Valenciana</span><span class="tag" b-lfdt79d5fv>Conocer gente</span><span class="tag" b-lfdt79d5fv>Networking</span><span class="tag" b-lfdt79d5fv>Eventos sociales</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>This group have moved to whatsapp&#xA;https://chat.whatsapp.com/EujPSUSv2HtJfaVVHIIRiy?mode=wwc&#xA;to join :)</p></a><a class="detalle-recomendacion" href="/grupo/60" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/60.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>B&#x27;roomies M&#xE1;laga</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>M&#xE1;laga</span><span class="tag" b-lfdt79d5fv>Encontrar compa&#xF1;eros</span><span class="tag" b-lfdt79d5fv>Vivienda</span><span class="tag" b-lfdt79d5fv>Compartir piso</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Grupo pensado para compartir piso en M&#xE1;laga</p></a><a class="detalle-recomendacion" href="/grupo/423" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/423.png" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Barcelona Language Exchange</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Barceloneta</span><span class="tag region" b-lfdt79d5fv>El Born</span><span class="tag" b-lfdt79d5fv>Conocer gente</span><span class="tag" b-lfdt79d5fv>Eventos sociales</span><span class="tag" b-lfdt79d5fv>Intercambio de idiomas</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>This is the main LANGUAGE EXCHANGE in Barcelona&#xA;We are a group of people meeting every week to practice languages while having a drink and lots of fun, since 2014!&#xA;This is a great chance to improve your language skills and meeting friends from all over the world. You don&#x27;t need to have a high level, you just need to put your knowlegde into action.&#xA;Let&#x27;s have fun meeting new people while learning and practicing different languages!&#xA;Come alone, leave with friends!&#xA;Follow us on Facebook&#xA;Join our FB group&#xA;Follow us on Instagram&#xA;Join our Whatsapp group&#xA;(there we only send reminders, it&#x27;s not possible to chat, and you still have to sign up through Meetup)&#xA;Here our usual venues (location might change, so sign up and make sure to go to the right place)&#xA;Monday&#xA;Meeting point: Space Cowboy - c/Carders 31 - Barcelona&#xA;Tuesday&#xA;Meeting point: Jardinet d&#x27;Aribau - c/Aribau 133 - Barcelona&#xA;Wednesday&#xA;Meeting point: Soda Bus - c/Aribau 150 - Barcelona&#xA;Thursday&#xA;Meeting point: Space Cowboy - c/Carders 31 - Barcelona&#xA;Friday&#xA;Meeting point: Fran&#xE7;a Railway Station&#x27;s Bar - Av. Marqu&#xE8;s de l&#x27;Argentera 6 - Barcelona&#xA;(there&#x27;s only one bar INSIDE the train station)&#xA;Saturday&#xA;Meeting point: Trafalgar Pizza Club - c/Trafalgar 19 - Barcelona&#xA;Weekend Special Events&#xA;It depends, check the event&#x27;s details</p></a><a class="detalle-recomendacion" href="/grupo/517" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/517.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Hotpot Lovers Valencia</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Estaci&#xF3;n del Norte</span><span class="tag region" b-lfdt79d5fv>Valencia</span><span class="tag" b-lfdt79d5fv>Comida china</span><span class="tag" b-lfdt79d5fv>Hot pot</span><span class="tag" b-lfdt79d5fv>Cena en grupo</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Are you a lover of Chinese hot pot, or spicy food in general? Join our small group to chat, have a laugh, and of course enjoy some great food in the many Chinese hot pot restaurants around Valencia. PLEASE NOTE: We do not meet at the North train station, but we usually go to restaurants near it. The exact restaurant and location of our Meetup will be confirmed in the group before the day. Join our WhatsApp group:&#xA;https://chat.whatsapp.com/LHX9hcrCIPzKnO1zEPNIU0</p></a><a class="detalle-recomendacion" href="/grupo/512" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/512.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Alicante internacional &#x1F5FA;&#xFE0F;&#x1F5FA;&#xFE0F;</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Alicante</span><span class="tag region" b-lfdt79d5fv>Costa Blanca</span><span class="tag" b-lfdt79d5fv>Verano</span><span class="tag" b-lfdt79d5fv>Conocer gente</span><span class="tag" b-lfdt79d5fv>Intercambio de idiomas</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Grupo de whatsapp&#x1F973;&#x1F973; :&#xA;https://chat.whatsapp.com/HBmYrJU3W1t8u5Rk4NTH5t&#xA;&#xBF;Quieres apoyar estos eventos? Puedes donar alg&#xFA;n dinerillo aqu&#xED;:&#xA;https://www.paypal.com/paypalme/welcometoalicante?country.x=ES&amp;locale.x=es_ES&#xA;Si ya has estudiado cuatro millones de libros de ingl&#xE9;s y s&#xF3;lo sabes chapurrear &quot;du yu spic espanis?&quot; cuando tienes que hablarlo, esta es tu o&#xA;portunidad para practicar y aprender de una vez por todas.&#xA;&#xBF;Cu&#xE1;l es el secreto? Muy sencillo, que nosotros no vamos a estudiar ingl&#xE9;s, vamos a hacer&#xA;planes divertidos e interesantes con gente que habla el idioma que queremos aprender&#xA;y as&#xED; vamos a&#xA;mejorar de una forma natural y sin ex&#xE1;menes&#xA;ni presiones.&#xA;La idea es&#xA;conocer gente nueva y divertida&#xA;al tiempo que salimos por ah&#xED; a pasar un buen verano compartiendo nuestro tiempo con gente interesante.&#xA;No lo dudes m&#xE1;s y ap&#xFA;ntate.&#xA;&quot;Si yu in de events&quot;!! :D</p></a><a class="detalle-recomendacion" href="/grupo/539" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/539.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Quedades i Activitats a Palma</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Islas Baleares</span><span class="tag region" b-lfdt79d5fv>Mallorca</span><span class="tag" b-lfdt79d5fv>Actividades en Palma</span><span class="tag" b-lfdt79d5fv>Tiempo libre</span><span class="tag" b-lfdt79d5fv>Comunidad</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Grup per compartir activitats i temps lliure a Palma. Group to share free time and do activities together in Palma.&#xA;Uneix-te a la nostra comunitat de WhatsApp:&#xA;https://chat.whatsapp.com/KOx9sVeDRhu8bhjcsOuiNp&#xA;== REGLES ==&#xA;&#x2022; Se borrar&#xE1; a los miembros que est&#xE9;n inactivos durante 3-4 meses.&#xA;&#x2022; Cualquiera puede ser anfitri&#xF3;n en un evento. Av&#xED;same y lo creamos.&#xA;&#x2022; Si est&#xE1;s apuntado a un evento y no te presentas o te borras con muy poca antelaci&#xF3;n, probablemente ser&#xE1;s expulsado.&#xA;== GROUP GROUND RULES ==&#xA;Inactive members for 3-4 months will be removed.&#xA;Anybody can create a meetup. Just contact an admin and they will create it with you as a host.&#xA;If you don&#x27;t show up to an event where you have signed up, or you changed your status to &quot;not going&quot; at short notice, you&#x27;ll probably will be removed from the group.</p></a><a class="detalle-recomendacion" href="/grupo/641" b-lfdt79d5fv><div class="detalle-recomendacion-cabecera" b-lfdt79d5fv><img class="detalle-recomendacion-foto" src="/imagenes_grupos/641.jpg" alt loading="lazy" b-lfdt79d5fv /><span class="detalle-recomendacion-nombre" b-lfdt79d5fv>Sicue/Erasmus en Huelva 2026/27</span></div><div class="tags detalle-recomendacion-etiquetas" b-lfdt79d5fv><span class="tag region" b-lfdt79d5fv>Huelva</span><span class="tag region" b-lfdt79d5fv>Andaluc&#xED;a</span><span class="tag" b-lfdt79d5fv>Conocer gente</span><span class="tag" b-lfdt79d5fv>Erasmus</span><span class="tag" b-lfdt79d5fv>Sicue</span></div><p class="detalle-recomendacion-descripcion" b-lfdt79d5fv>Bienvenido al grupo Sicue/Erasmus en Huelva 2026/27. Este espacio re&#xFA;ne a estudiantes que participar&#xE1;n en el programa este curso, para compartir tips de vivienda, buscar compa&#xF1;eros de piso, planificar quedadas y practicar idiomas. &#xDA;nete para conocer a tus futuros compa&#xF1;eros y estar al d&#xED;a con la informaci&#xF3;n para el curso 2026/27.</p></a></div></section><div class="detalle-contenido" b-lfdt79d5fv><section aria-labelledby="detalle-descripcion-titulo" b-lfdt79d5fv><h2 id="detalle-descripcion-titulo" class="detalle-section-title" b-lfdt79d5fv>Descripción</h2>
+                    <p id="detalle-descripcion" class="detalle-descripcion mb-0 detalle-descripcion-contraida" b-lfdt79d5fv>Espacio para estudiantes que realizar&#xE1;n su movilidad en la ciudad para compartir informaci&#xF3;n sobre alojamiento, universidad, tr&#xE1;mites y conocer gente.</p>
+                    <button type="button" class="detalle-descripcion-toggle" hidden data-description-toggle="6" aria-controls="detalle-descripcion" b-lfdt79d5fv>Ver m&#xE1;s</button></section><section id="comentarios" class="comentarios-grupo" aria-labelledby="comentarios-titulo" b-n95ke0z2k3><div class="comentarios-cabecera" b-n95ke0z2k3><h2 id="comentarios-titulo" b-n95ke0z2k3>Comentarios</h2></div><p class="comentarios-vacio" b-n95ke0z2k3>Todavía no hay comentarios.</p><div id="comentario-editor" class="comentario-editor" b-n95ke0z2k3><textarea class="form-control" rows="3" maxlength="1000" placeholder="Escribe un comentario" aria-label="Comentario" b-n95ke0z2k3></textarea>
+        <div class="comentario-editor-pie" b-n95ke0z2k3><small b-n95ke0z2k3>0/1000</small>
+            <button type="button" class="comentario-publicar" title="Publicar comentario" aria-label="Publicar comentario" disabled b-n95ke0z2k3><i class="bi bi-send" aria-hidden="true" b-n95ke0z2k3></i></button></div></div></section>
+
+<div class="modal fade visor-imagen-modal" id="visor-imagen-5bcb10a1405c4bb7ab1964fc27992233" tabindex="-1" aria-hidden="true" aria-label="Imagen ampliada" b-e8k1d11lts><div class="modal-dialog modal-dialog-centered modal-xl" b-e8k1d11lts><div class="modal-content" b-e8k1d11lts><button type="button" class="btn-close visor-imagen-cerrar" data-bs-dismiss="modal" aria-label="Cerrar" b-e8k1d11lts></button>
+            <div class="modal-body" b-e8k1d11lts></div></div></div></div></div></div><div class="modal fade visor-imagen-modal" id="visor-imagen-b7832d9002b841fe80a63e0091ae2792" tabindex="-1" aria-hidden="true" aria-label="Imagen ampliada" b-e8k1d11lts><div class="modal-dialog modal-dialog-centered modal-xl" b-e8k1d11lts><div class="modal-content" b-e8k1d11lts><button type="button" class="btn-close visor-imagen-cerrar" data-bs-dismiss="modal" aria-label="Cerrar" b-e8k1d11lts></button>
+            <div class="modal-body" b-e8k1d11lts></div></div></div></div>
+    <div class="modal fade" id="modalLimiteDiario" tabindex="-1" aria-hidden="true"><div class="modal-dialog modal-dialog-centered" style="max-width: 400px;"><div class="modal-content border-0 shadow-lg" style="border-radius: 1rem; background: var(--stripe-bg);"><div class="modal-header border-0 pb-0 justify-content-end"><button type="button" class="btn-close" aria-label="Cerrar" style="outline: none; box-shadow: none;"></button></div>
+            <div class="modal-body text-center px-4 pb-4 pt-0"><div class="mx-auto mb-3 d-flex align-items-center justify-content-center rounded-circle" style="width: 4.5rem; height: 4.5rem; background-color: #fff0f0; border: 1px solid #fecdd3; color: #e11d48; font-size: 2.2rem;"><i class="bi bi-shield-exclamation"></i></div>
+                
+                <h5 class="fw-bold mb-2.5" style="color: var(--stripe-text-main); font-size: 1.15rem;">Límite diario alcanzado</h5>
+                
+                <p class="text-muted mb-4" style="font-size: 0.82rem; line-height: 1.5;">
+                    Has alcanzado el límite máximo de <strong>15 grupos</strong> copiados o accedidos hoy.
+                    Esta medida de seguridad evita el uso de robots y spammers masivos en WhatsHub.
+                    <span class="d-block mt-2.5 fw-semibold text-dark">¡Vuelve mañana para continuar explorando!</span></p>
+                
+                <button type="button" class="stripe-btn stripe-btn-primary w-100 py-2" style="border-radius: 8px; font-size: 0.85rem;">
+                    Entendido
+                </button></div></div></div></div>
+    <div class="modal" id="eliminar-grupo-926c2881f2444ffdadec166ee6443a97" tabindex="-1" aria-labelledby="eliminar-grupo-926c2881f2444ffdadec166ee6443a97-titulo" aria-hidden="true"><div class="modal-dialog modal-dialog-centered"><div class="modal-content border-0 shadow rounded-4"><div class="modal-header border-bottom-0"><h2 class="modal-title h5" id="eliminar-grupo-926c2881f2444ffdadec166ee6443a97-titulo">¿Eliminar grupo?</h2>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button></div>
+            <div class="modal-body"><p>El grupo <strong></strong> se desactivará y dejará de aparecer en búsquedas y rankings.</p>
+                <fieldset class="mb-3"><legend class="form-label fs-6">¿Por qué decides quitar el grupo?</legend><label class="d-flex align-items-center gap-2 border rounded p-2 mb-2"><input type="radio" name="eliminar-grupo-926c2881f2444ffdadec166ee6443a97-motivo" />
+                            <span>El grupo est&#xE1; inactivo o sin participantes</span></label><label class="d-flex align-items-center gap-2 border rounded p-2 mb-2"><input type="radio" name="eliminar-grupo-926c2881f2444ffdadec166ee6443a97-motivo" />
+                            <span>Spam o contenido inapropiado</span></label><label class="d-flex align-items-center gap-2 border rounded p-2 mb-2"><input type="radio" name="eliminar-grupo-926c2881f2444ffdadec166ee6443a97-motivo" />
+                            <span>Enlace de invitaci&#xF3;n caducado o inv&#xE1;lido</span></label><label class="d-flex align-items-center gap-2 border rounded p-2 mb-2"><input type="radio" name="eliminar-grupo-926c2881f2444ffdadec166ee6443a97-motivo" />
+                            <span>Grupo duplicado</span></label><label class="d-flex align-items-center gap-2 border rounded p-2 mb-2"><input type="radio" name="eliminar-grupo-926c2881f2444ffdadec166ee6443a97-motivo" />
+                            <span>Otro motivo</span></label></fieldset></div>
+            <div class="modal-footer border-top-0"><button type="button" class="stripe-btn stripe-btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" class="stripe-btn btn-danger" disabled>Confirmar eliminación</button></div></div></div></div></div></article></main></div>
+
+<div id="blazor-error-ui" data-nosnippet b-qeh2i3y7fd>
+    An unhandled error has occurred.
+    <a href="." class="reload" b-qeh2i3y7fd>Reload</a>
+    <span class="dismiss" b-qeh2i3y7fd>🗙</span></div>
+        <!--Blazor:{"prerenderId":"5d0a2d5c721643c1932ac50eb57fa16b"}-->
+    <div id="components-reconnect-modal" hidden></div>
+    <script src="js/utils.tvw5zj1van.js"></script>
+    <script src="lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/charts.l9fnqtbv7m.js"></script>
+    <script src="_framework/blazor.web.js" autostart="false"></script>
+    <script src="js/reconexion.z5pzs9fzop.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/emoji-mart@5/dist/browser.css">
+    <script type="module" src="https://cdn.jsdelivr.net/npm/emoji-mart@5/dist/browser.js"></script></body></html><!--Blazor-Server-Component-State:CfDJ8IcULnDe08ZHhKFnDd5WAe+hH4plcqUoXk1tc8ph85QJbV2QdxTQPvmtr5DmQkXv+UcbKGjfMI8fJFYrGP/TvYn2PepEigXLvFpEj8I8RZDkJ01xSROhNWWA/wd6rtKGKYwxmX3dJVTD2Lownj45+X5uEJYDGuT8Ymep06o6GUMV6X+Md3eskYp18lF+MhSYaNtV2H2LWq2PVI/dkNk9GTSMdUlz9Iw3K0cBaauYIrfhWrn/LuGaIJHX9FRFYn4grkkBWM4U9heiqNcBdI1NAj3lnkhoaOP5Jzc/f0nRVVmHghsvdt7qvqc4vmflPX/f8wz5D96mvgrUoH0NGzIVAyu3ZxKCasTw7+hmBIDIWmdPesNp9Hf7y4TxK7XYYFdi2ZiGb1mArukkAzwVjqsahc0Rbfab5jkyAJXp+vZPWSazqC4Hv5NkENDW9LD250JVKC/sZoit4HnQNeVyAtIJ9shcGcxhz0AebZzEqOhcGB3Gu3vGp/ycvQuVyqFTCSC8HixkZhyYPKTVj0iWJKge/zQyU5LTeDPK4YbV9tTnJyS7-->

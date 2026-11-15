@@ -1,0 +1,4804 @@
+{
+  "team": "team30",
+  "slice": "groupizo.com + groupda.com fresh poll",
+  "sources": [
+    "groupizo.com sitemap groups 1-12 (2332 urls); fresh = lastmod >= 2026-11-12 (434 urls); detail page -> /verify/<slug> -> code",
+    "groupda.com wp-json wp/v2/posts orderby=modified desc (2300 posts fetched, sitemap lists 2654); newest post modified 2026-09-15 (Telegram carding, no WhatsApp codes); code-bearing posts mined for codes not in union",
+    "groupda HTML post pages are Cloudflare-challenged under desktop UA; mobile UA returns full page; wp-json route used instead"
+  ],
+  "controls": {
+    "live_KrDwdK8EIkB6vgauHg5M7N": {
+      "expected": "JAY - PHP & Python Full Stack Developer",
+      "got": "JAY - PHP & Python Full Stack Developer",
+      "status": "live",
+      "pass": true
+    },
+    "fabricated_ZzZzZzZzZzZzZzZzZzZzZzZz": {
+      "expected": "empty/dead",
+      "got": "",
+      "status": "dead",
+      "pass": true
+    }
+  },
+  "counts": {
+    "raw_mined_groupizo": 434,
+    "raw_mined_groupda_unique": 14407,
+    "queued_for_verify": 1306,
+    "verified_live": 145,
+    "dupes_vs_union_or_within_team": 11289,
+    "dead": 480,
+    "excluded": 8,
+    "pending": 673,
+    "leads": 145,
+    "groupda_codes_deferred_unverified": 2246
+  },
+  "excluded": [
+    {
+      "code": "JaMVR145al97YphnWD3sil",
+      "reason": "excluded: porn/xxx: \\bnekopoi\\b | title=𝐍𝐄𝐊𝐎𝐏𝐎𝐈 𝐗2𝐃 🪎",
+      "source": "groupizo"
+    },
+    {
+      "code": "LMMRrAv6mNd74UrSKpIwiH",
+      "reason": "excluded: porn/xxx: \\bxxx\\b | title=Only xxx videos",
+      "source": "groupda"
+    },
+    {
+      "code": "G9odd1zQrAc9DpxWKfovea",
+      "reason": "excluded: porn/xxx: \\bsex\\b | title=Kozhikode real meat sex 💦💋💋",
+      "source": "groupda"
+    },
+    {
+      "code": "FHLRcu2t3D96n9ybwPhaZf",
+      "reason": "excluded: porn/xxx: \\bsex\\b | title=Mysore sex 😍",
+      "source": "groupda"
+    },
+    {
+      "code": "CD7eZhwZzDd26o21rQdphp",
+      "reason": "excluded: porn/xxx: \\bsex\\b | title=Mysore sex🥵🔞",
+      "source": "groupda"
+    },
+    {
+      "code": "BnkK9SfXD0R5KFB2zwlqvP",
+      "reason": "excluded: porn/xxx: \\bxxx\\b | title=Xxx",
+      "source": "groupda"
+    },
+    {
+      "code": "K7kAxePXeHf9JxVbH9nCuE",
+      "reason": "excluded: porn/xxx: \\bsex\\b | title=Sex for 1 day 😘😘😘🔥",
+      "source": "groupda"
+    },
+    {
+      "code": "H7cPkq7K947BPrIdHpEMwh",
+      "reason": "excluded: porn/xxx: \\bsex\\b | title=Germany Sex Chatting🇩🇪",
+      "source": "groupda"
+    }
+  ],
+  "pending_detail": [
+    {
+      "code": "GlsJZqPSBMMFehecupeOzv",
+      "reason": "http 429 (attempt 2)",
+      "name": "Lucknow Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/GlsJZqPSBMMFehecupeOzv",
+      "source": "groupda"
+    },
+    {
+      "code": "BBMQNqpQF6NHUrBy5Zxbcz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BBMQNqpQF6NHUrBy5Zxbcz",
+      "source": "groupda"
+    },
+    {
+      "code": "I0GgbLMrjMXDkPSBVoxUK1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/I0GgbLMrjMXDkPSBVoxUK1",
+      "source": "groupda"
+    },
+    {
+      "code": "LX1olIalZzyCFjtw8d5ZEa",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LX1olIalZzyCFjtw8d5ZEa",
+      "source": "groupda"
+    },
+    {
+      "code": "E5qJAB2CRvMGhHuEw0IlYp",
+      "reason": "http 429 (attempt 2)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/E5qJAB2CRvMGhHuEw0IlYp",
+      "source": "groupda"
+    },
+    {
+      "code": "FTZDaZUnoUjHcy6TjrW8op",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/FTZDaZUnoUjHcy6TjrW8op",
+      "source": "groupda"
+    },
+    {
+      "code": "GRC464zqjnf7dChlt0sg7I",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/GRC464zqjnf7dChlt0sg7I",
+      "source": "groupda"
+    },
+    {
+      "code": "KvlDlNOxCdhBG2m2SxYYed",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KvlDlNOxCdhBG2m2SxYYed",
+      "source": "groupda"
+    },
+    {
+      "code": "EbJVibqPvZQ6MUzS3pDmt8",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/EbJVibqPvZQ6MUzS3pDmt8",
+      "source": "groupda"
+    },
+    {
+      "code": "BbqlXtnYDhwLeFtnykguBl",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BbqlXtnYDhwLeFtnykguBl",
+      "source": "groupda"
+    },
+    {
+      "code": "Hky4AaiBkBY414PNnmqR3s",
+      "reason": "http 429 (attempt 2)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Hky4AaiBkBY414PNnmqR3s",
+      "source": "groupda"
+    },
+    {
+      "code": "LlxKIbhzALg2sjalzFuVf3",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LlxKIbhzALg2sjalzFuVf3",
+      "source": "groupda"
+    },
+    {
+      "code": "HCmor7Ale9o3SIh0DgJRic",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/HCmor7Ale9o3SIh0DgJRic",
+      "source": "groupda"
+    },
+    {
+      "code": "KQyjZOjY0rI4tgAwJgBWGw",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KQyjZOjY0rI4tgAwJgBWGw",
+      "source": "groupda"
+    },
+    {
+      "code": "DGrUi6So7aS64DG7zfYJ2W",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/DGrUi6So7aS64DG7zfYJ2W",
+      "source": "groupda"
+    },
+    {
+      "code": "K8nira9SSFy7ZB1CaA4Wl0",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/K8nira9SSFy7ZB1CaA4Wl0",
+      "source": "groupda"
+    },
+    {
+      "code": "F9NUlITgd9Q5HqrxjHp67J",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/F9NUlITgd9Q5HqrxjHp67J",
+      "source": "groupda"
+    },
+    {
+      "code": "FXpfBNIch19D9NeS0F3Iih",
+      "reason": "http 429 (attempt 1)",
+      "name": "Indore Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/FXpfBNIch19D9NeS0F3Iih",
+      "source": "groupda"
+    },
+    {
+      "code": "GvcoV0QozZJ7Bde9xdXn1W",
+      "reason": "http 429 (attempt 1)",
+      "name": "Berlin Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/GvcoV0QozZJ7Bde9xdXn1W",
+      "source": "groupda"
+    },
+    {
+      "code": "B9a9YnuGIgeB6HzaXHnahS",
+      "reason": "http 429 (attempt 1)",
+      "name": "Berlin Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/B9a9YnuGIgeB6HzaXHnahS",
+      "source": "groupda"
+    },
+    {
+      "code": "CA9Vin9Ad7D0QIBzKHB3cC",
+      "reason": "http 429 (attempt 1)",
+      "name": "Berlin Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/CA9Vin9Ad7D0QIBzKHB3cC",
+      "source": "groupda"
+    },
+    {
+      "code": "LA2wkQ06P512fve0xM9BDU",
+      "reason": "http 429 (attempt 1)",
+      "name": "Berlin Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LA2wkQ06P512fve0xM9BDU",
+      "source": "groupda"
+    },
+    {
+      "code": "Db5NUNasCLfFkOzkzvpV3h",
+      "reason": "http 429 (attempt 1)",
+      "name": "Berlin Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Db5NUNasCLfFkOzkzvpV3h",
+      "source": "groupda"
+    },
+    {
+      "code": "I2LkltgvPSEFXLNkALlMOE",
+      "reason": "http 429 (attempt 1)",
+      "name": "Berlin Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/I2LkltgvPSEFXLNkALlMOE",
+      "source": "groupda"
+    },
+    {
+      "code": "KMhYFV1ZYApJIEfRvN6JJq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Berlin Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KMhYFV1ZYApJIEfRvN6JJq",
+      "source": "groupda"
+    },
+    {
+      "code": "JYscHrCinzBI31YLA39OVT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gospel Music WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JYscHrCinzBI31YLA39OVT",
+      "source": "groupda"
+    },
+    {
+      "code": "H68AmYdNgWi8JTucp7wxnE",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gospel Music WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/H68AmYdNgWi8JTucp7wxnE",
+      "source": "groupda"
+    },
+    {
+      "code": "IRMwLngQ9ce41cGAt8wHZq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gospel Music WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/IRMwLngQ9ce41cGAt8wHZq",
+      "source": "groupda"
+    },
+    {
+      "code": "Gatprai8R1mE8ZKiJhvyAV",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gospel Music WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Gatprai8R1mE8ZKiJhvyAV",
+      "source": "groupda"
+    },
+    {
+      "code": "JN79a8pV15S7zILpsRCbFi",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gospel Music WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JN79a8pV15S7zILpsRCbFi",
+      "source": "groupda"
+    },
+    {
+      "code": "EOzKnyeKiaH4atXymjPdSk",
+      "reason": "http 429 (attempt 2)",
+      "name": "Gospel Music WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EOzKnyeKiaH4atXymjPdSk",
+      "source": "groupda"
+    },
+    {
+      "code": "J94LtvdMush79JcRZMapiB",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gospel Music WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/J94LtvdMush79JcRZMapiB",
+      "source": "groupda"
+    },
+    {
+      "code": "EHpWT4ICAxBGiXyW6Dc9B4",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gospel Music WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EHpWT4ICAxBGiXyW6Dc9B4",
+      "source": "groupda"
+    },
+    {
+      "code": "JDlYxDG96Vi6b0b5YXxzLi",
+      "reason": "http 429 (attempt 1)",
+      "name": "China WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/JDlYxDG96Vi6b0b5YXxzLi",
+      "source": "groupda"
+    },
+    {
+      "code": "D6p5nsHPDJB1YObT3y5GGD",
+      "reason": "http 429 (attempt 1)",
+      "name": "China WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/D6p5nsHPDJB1YObT3y5GGD",
+      "source": "groupda"
+    },
+    {
+      "code": "K41ucXjv0Q2ILSjKP6vVQ2",
+      "reason": "http 429 (attempt 1)",
+      "name": "China WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/K41ucXjv0Q2ILSjKP6vVQ2",
+      "source": "groupda"
+    },
+    {
+      "code": "Dz7Y5372T7n2DeUlv16Plw",
+      "reason": "http 429 (attempt 1)",
+      "name": "Knowledge WhatsApp Group Links",
+      "invite": "https://chat.whatsapp.com/Dz7Y5372T7n2DeUlv16Plw",
+      "source": "groupda"
+    },
+    {
+      "code": "F481YQ7Id34BJHAEYWVGa8",
+      "reason": "http 429 (attempt 1)",
+      "name": "Knowledge WhatsApp Group Links",
+      "invite": "https://chat.whatsapp.com/F481YQ7Id34BJHAEYWVGa8",
+      "source": "groupda"
+    },
+    {
+      "code": "HjUVTLhJqYGEzUu4fwZCZc",
+      "reason": "http 429 (attempt 1)",
+      "name": "Hostel Girl WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/HjUVTLhJqYGEzUu4fwZCZc",
+      "source": "groupda"
+    },
+    {
+      "code": "KRkxb3cuerIEXLWy4B1e8b",
+      "reason": "http 429 (attempt 1)",
+      "name": "Hostel Girl WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/KRkxb3cuerIEXLWy4B1e8b",
+      "source": "groupda"
+    },
+    {
+      "code": "CbWCdWeyU0TGFxX5Fv4drD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Hostel Girl WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/CbWCdWeyU0TGFxX5Fv4drD",
+      "source": "groupda"
+    },
+    {
+      "code": "GnAODDDNtfhDYKpiACdlTw",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pakistan Girl WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/GnAODDDNtfhDYKpiACdlTw",
+      "source": "groupda"
+    },
+    {
+      "code": "LepRYo6BRoS8VC8tWotv4N",
+      "reason": "http 429 (attempt 1)",
+      "name": "Facebook WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LepRYo6BRoS8VC8tWotv4N",
+      "source": "groupda"
+    },
+    {
+      "code": "DqXIQWPi7ceJm79cl4yC1V",
+      "reason": "http 429 (attempt 1)",
+      "name": "Singles WhatsApp Group Links Join",
+      "invite": "https://chat.whatsapp.com/DqXIQWPi7ceJm79cl4yC1V",
+      "source": "groupda"
+    },
+    {
+      "code": "DWhkzBLzjdq7s627GJcadT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Singles WhatsApp Group Links Join",
+      "invite": "https://chat.whatsapp.com/DWhkzBLzjdq7s627GJcadT",
+      "source": "groupda"
+    },
+    {
+      "code": "IfYrNU5ChZ40r28HOynInk",
+      "reason": "http 429 (attempt 1)",
+      "name": "Giveaway WhatsApp Group Links Join",
+      "invite": "https://chat.whatsapp.com/IfYrNU5ChZ40r28HOynInk",
+      "source": "groupda"
+    },
+    {
+      "code": "FOJfsKcopNM8W5U85RDidU",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birthday Wishes WhatsApp Group Links Join",
+      "invite": "https://chat.whatsapp.com/FOJfsKcopNM8W5U85RDidU",
+      "source": "groupda"
+    },
+    {
+      "code": "ETra8bRpNK7DNy2Bxo9fok",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mehndi Design WhatsApp Group Links Join",
+      "invite": "https://chat.whatsapp.com/ETra8bRpNK7DNy2Bxo9fok",
+      "source": "groupda"
+    },
+    {
+      "code": "I8K4g9LvwP01zcU74xIXLC",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mehndi Design WhatsApp Group Links Join",
+      "invite": "https://chat.whatsapp.com/I8K4g9LvwP01zcU74xIXLC",
+      "source": "groupda"
+    },
+    {
+      "code": "BfaIz0dmNII34p0aoKOCHU",
+      "reason": "http 429 (attempt 1)",
+      "name": "Navaratri WhatsApp Group Links Join",
+      "invite": "https://chat.whatsapp.com/BfaIz0dmNII34p0aoKOCHU",
+      "source": "groupda"
+    },
+    {
+      "code": "H4mpZkFeMDn2uXr5q2LDvz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Navaratri WhatsApp Group Links Join",
+      "invite": "https://chat.whatsapp.com/H4mpZkFeMDn2uXr5q2LDvz",
+      "source": "groupda"
+    },
+    {
+      "code": "HAgV8uBLsHxDxChPxrpaNn",
+      "reason": "http 429 (attempt 1)",
+      "name": "Canada WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/HAgV8uBLsHxDxChPxrpaNn",
+      "source": "groupda"
+    },
+    {
+      "code": "L60Be96Ovjg6qaDjK8PljG",
+      "reason": "http 429 (attempt 1)",
+      "name": "Canada WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/L60Be96Ovjg6qaDjK8PljG",
+      "source": "groupda"
+    },
+    {
+      "code": "GXXt1FDOC6x26l02eM7CkF",
+      "reason": "http 429 (attempt 1)",
+      "name": "Canada WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/GXXt1FDOC6x26l02eM7CkF",
+      "source": "groupda"
+    },
+    {
+      "code": "CoYlkzWvSLX9mHNJsgbGZj",
+      "reason": "http 429 (attempt 1)",
+      "name": "Canada WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/CoYlkzWvSLX9mHNJsgbGZj",
+      "source": "groupda"
+    },
+    {
+      "code": "JjjgcsXPV99LjaWPURsa7A",
+      "reason": "http 429 (attempt 1)",
+      "name": "Canada WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/JjjgcsXPV99LjaWPURsa7A",
+      "source": "groupda"
+    },
+    {
+      "code": "DXqfBWqOq2uAAruDD6sdlX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Canada WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/DXqfBWqOq2uAAruDD6sdlX",
+      "source": "groupda"
+    },
+    {
+      "code": "DwHvcc2vxUhBAnrJDLxFbQ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Canada WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/DwHvcc2vxUhBAnrJDLxFbQ",
+      "source": "groupda"
+    },
+    {
+      "code": "EN88veIMRy3ALoqnzAUwZQ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Canada WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/EN88veIMRy3ALoqnzAUwZQ",
+      "source": "groupda"
+    },
+    {
+      "code": "EQWKr2ddA40CVoBUYvTyIM",
+      "reason": "http 429 (attempt 1)",
+      "name": "Canada WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/EQWKr2ddA40CVoBUYvTyIM",
+      "source": "groupda"
+    },
+    {
+      "code": "CypO56Ulqb1I7HMhgRVc7W",
+      "reason": "http 429 (attempt 1)",
+      "name": "Clothing WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/CypO56Ulqb1I7HMhgRVc7W",
+      "source": "groupda"
+    },
+    {
+      "code": "FSfvzveYDrbH4Cf5e5Zf0S",
+      "reason": "http 429 (attempt 1)",
+      "name": "Clothing WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/FSfvzveYDrbH4Cf5e5Zf0S",
+      "source": "groupda"
+    },
+    {
+      "code": "CKC5TQq8C7zGWdQwUPXLub",
+      "reason": "http 429 (attempt 1)",
+      "name": "FMCG WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/CKC5TQq8C7zGWdQwUPXLub",
+      "source": "groupda"
+    },
+    {
+      "code": "GPDFC8r7oXlCgTA0NEn78n",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/GPDFC8r7oXlCgTA0NEn78n",
+      "source": "groupda"
+    },
+    {
+      "code": "GFRPO64dmcv9Nz8UF7GUvL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/GFRPO64dmcv9Nz8UF7GUvL",
+      "source": "groupda"
+    },
+    {
+      "code": "HZHnQ5opikiHoc1G0idABl",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/HZHnQ5opikiHoc1G0idABl",
+      "source": "groupda"
+    },
+    {
+      "code": "IYUAIwXl9VrIdAE88O2min",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/IYUAIwXl9VrIdAE88O2min",
+      "source": "groupda"
+    },
+    {
+      "code": "Db0L1iIrSPO9uTXTqvoEDr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/Db0L1iIrSPO9uTXTqvoEDr",
+      "source": "groupda"
+    },
+    {
+      "code": "HYKZGTcQ9Hx8LrONjYMFvf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/HYKZGTcQ9Hx8LrONjYMFvf",
+      "source": "groupda"
+    },
+    {
+      "code": "LjPUbImgzfc9GrJP5Ud4m4",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/LjPUbImgzfc9GrJP5Ud4m4",
+      "source": "groupda"
+    },
+    {
+      "code": "HdrV95S8upvDnEWRIUvmM4",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/HdrV95S8upvDnEWRIUvmM4",
+      "source": "groupda"
+    },
+    {
+      "code": "G7n0DzofFv6KsBvW94fgRj",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/G7n0DzofFv6KsBvW94fgRj",
+      "source": "groupda"
+    },
+    {
+      "code": "Gq3DVyHOAW70Sdjq5qqcCj",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/Gq3DVyHOAW70Sdjq5qqcCj",
+      "source": "groupda"
+    },
+    {
+      "code": "F9WaeVxV6fr9TWcSZxwrQh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/F9WaeVxV6fr9TWcSZxwrQh",
+      "source": "groupda"
+    },
+    {
+      "code": "HCEPztQ2i33J45vg5mevPf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/HCEPztQ2i33J45vg5mevPf",
+      "source": "groupda"
+    },
+    {
+      "code": "HT1OV4wVEbi7hAf9I5oTrd",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/HT1OV4wVEbi7hAf9I5oTrd",
+      "source": "groupda"
+    },
+    {
+      "code": "G7kraJ1OvH15N6smD2180w",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/G7kraJ1OvH15N6smD2180w",
+      "source": "groupda"
+    },
+    {
+      "code": "IY6INTlZwXh8N9nD2JyEf7",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/IY6INTlZwXh8N9nD2JyEf7",
+      "source": "groupda"
+    },
+    {
+      "code": "LovwR0lzknP5xnxqekjQAG",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/LovwR0lzknP5xnxqekjQAG",
+      "source": "groupda"
+    },
+    {
+      "code": "Hn8dgo9B7caLJhw6WLmC70",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/Hn8dgo9B7caLJhw6WLmC70",
+      "source": "groupda"
+    },
+    {
+      "code": "DU0pbXWUcP8AT3jsdSsUja",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/DU0pbXWUcP8AT3jsdSsUja",
+      "source": "groupda"
+    },
+    {
+      "code": "Lw5uSV4pjWp6r4tFuFA3OB",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/Lw5uSV4pjWp6r4tFuFA3OB",
+      "source": "groupda"
+    },
+    {
+      "code": "LKk0dbfSXKi1AZ0qTYBjuG",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/LKk0dbfSXKi1AZ0qTYBjuG",
+      "source": "groupda"
+    },
+    {
+      "code": "HoSUxCXWcaO922SrdR7OgV",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/HoSUxCXWcaO922SrdR7OgV",
+      "source": "groupda"
+    },
+    {
+      "code": "JGa7ztmVhUp1JsKispr71x",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/JGa7ztmVhUp1JsKispr71x",
+      "source": "groupda"
+    },
+    {
+      "code": "FDrR7Uw1YKmA2tKYUTUU1Q",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/FDrR7Uw1YKmA2tKYUTUU1Q",
+      "source": "groupda"
+    },
+    {
+      "code": "FkxtrhIuQ0x5fZ1VlRdT14",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/FkxtrhIuQ0x5fZ1VlRdT14",
+      "source": "groupda"
+    },
+    {
+      "code": "FoYwW0bHobj05dEBe5xIV9",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/FoYwW0bHobj05dEBe5xIV9",
+      "source": "groupda"
+    },
+    {
+      "code": "JauAp4uVVtoFSheRJbiMar",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/JauAp4uVVtoFSheRJbiMar",
+      "source": "groupda"
+    },
+    {
+      "code": "CQPTr8TM2vdCpPjAuYfttj",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/CQPTr8TM2vdCpPjAuYfttj",
+      "source": "groupda"
+    },
+    {
+      "code": "LXvXykHwISjIpPI7Ct0eMe",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/LXvXykHwISjIpPI7Ct0eMe",
+      "source": "groupda"
+    },
+    {
+      "code": "C1HTtGbXbVW0xOi7uQG5m8",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/C1HTtGbXbVW0xOi7uQG5m8",
+      "source": "groupda"
+    },
+    {
+      "code": "LR3XdSei0DS4GxVcFTaJ0z",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/LR3XdSei0DS4GxVcFTaJ0z",
+      "source": "groupda"
+    },
+    {
+      "code": "KQXlawvGakC3W7xk7i9jfD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/KQXlawvGakC3W7xk7i9jfD",
+      "source": "groupda"
+    },
+    {
+      "code": "HhJ1UYCaFgQ4Co5k8ibQlU",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/HhJ1UYCaFgQ4Co5k8ibQlU",
+      "source": "groupda"
+    },
+    {
+      "code": "Fm9Q9WjTSYkFPFIeHDju6C",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/Fm9Q9WjTSYkFPFIeHDju6C",
+      "source": "groupda"
+    },
+    {
+      "code": "INWIFuWCIUxDzKvhASpMeE",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/INWIFuWCIUxDzKvhASpMeE",
+      "source": "groupda"
+    },
+    {
+      "code": "GwipSqTj229GAfXVY8mYtC",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/GwipSqTj229GAfXVY8mYtC",
+      "source": "groupda"
+    },
+    {
+      "code": "IztbYK2N2gW90qnGUiaOJe",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/IztbYK2N2gW90qnGUiaOJe",
+      "source": "groupda"
+    },
+    {
+      "code": "Hfkl4G95Yy6JH1JY6XVwxd",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/Hfkl4G95Yy6JH1JY6XVwxd",
+      "source": "groupda"
+    },
+    {
+      "code": "G2DJel1AxaU4Jnw0LA10BH",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/G2DJel1AxaU4Jnw0LA10BH",
+      "source": "groupda"
+    },
+    {
+      "code": "DbSlIP0bamvHyNuMA5igFG",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/DbSlIP0bamvHyNuMA5igFG",
+      "source": "groupda"
+    },
+    {
+      "code": "LbIKhgmNQDu9ieh3tmEqSt",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/LbIKhgmNQDu9ieh3tmEqSt",
+      "source": "groupda"
+    },
+    {
+      "code": "DRswwA2WNYmArgIFj0TKEk",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/DRswwA2WNYmArgIFj0TKEk",
+      "source": "groupda"
+    },
+    {
+      "code": "JADKUGGIIxqDBQlWHSj5Br",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/JADKUGGIIxqDBQlWHSj5Br",
+      "source": "groupda"
+    },
+    {
+      "code": "GgJOHMFkbPBHgb3veiRfEr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Techfinz Whatsapp Group For the Month of September 2026",
+      "invite": "https://chat.whatsapp.com/GgJOHMFkbPBHgb3veiRfEr",
+      "source": "groupda"
+    },
+    {
+      "code": "HZiZz19u5fQ0lQxgiJNSgG",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/HZiZz19u5fQ0lQxgiJNSgG",
+      "source": "groupda"
+    },
+    {
+      "code": "Cw9EekbUCTH9DnN8KQz5Gu",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Cw9EekbUCTH9DnN8KQz5Gu",
+      "source": "groupda"
+    },
+    {
+      "code": "FtsJvJY1Vcx6WwWIaBYZGB",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/FtsJvJY1Vcx6WwWIaBYZGB",
+      "source": "groupda"
+    },
+    {
+      "code": "Ct0J4rRbmuD9I32EGYYglD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Ct0J4rRbmuD9I32EGYYglD",
+      "source": "groupda"
+    },
+    {
+      "code": "Cb9JiiCM1nHBBjOEzBmZAF",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Cb9JiiCM1nHBBjOEzBmZAF",
+      "source": "groupda"
+    },
+    {
+      "code": "BzCm3Meby5B7sOFiuqUURt",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/BzCm3Meby5B7sOFiuqUURt",
+      "source": "groupda"
+    },
+    {
+      "code": "KibDcUHieJK6zCFzYQckUs",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/KibDcUHieJK6zCFzYQckUs",
+      "source": "groupda"
+    },
+    {
+      "code": "CCabnKIyiGb9gtT8cpTx6h",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/CCabnKIyiGb9gtT8cpTx6h",
+      "source": "groupda"
+    },
+    {
+      "code": "JA2nBHbIrQu9mlLpWpmGFL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/JA2nBHbIrQu9mlLpWpmGFL",
+      "source": "groupda"
+    },
+    {
+      "code": "JTwz96pwyjwFEqXzJu1KBs",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/JTwz96pwyjwFEqXzJu1KBs",
+      "source": "groupda"
+    },
+    {
+      "code": "JzHh8JiBwyb2hpcyPDleg1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/JzHh8JiBwyb2hpcyPDleg1",
+      "source": "groupda"
+    },
+    {
+      "code": "KqurP1GMnmRAnJEnKy44UH",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/KqurP1GMnmRAnJEnKy44UH",
+      "source": "groupda"
+    },
+    {
+      "code": "KFMTFYVLIg20xqdMcC4qPo",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/KFMTFYVLIg20xqdMcC4qPo",
+      "source": "groupda"
+    },
+    {
+      "code": "GD71kkNepq8Knwo5MIVSxt",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uganda Dating Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/GD71kkNepq8Knwo5MIVSxt",
+      "source": "groupda"
+    },
+    {
+      "code": "EIg71BokICSAjwdkw85dex",
+      "reason": "http 429 (attempt 1)",
+      "name": "86fb Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/EIg71BokICSAjwdkw85dex",
+      "source": "groupda"
+    },
+    {
+      "code": "BXqHph3PxCLA6nEX2CXqZS",
+      "reason": "http 429 (attempt 1)",
+      "name": "86fb Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BXqHph3PxCLA6nEX2CXqZS",
+      "source": "groupda"
+    },
+    {
+      "code": "Jgil3mjLKsHFNtMXr2U6dD",
+      "reason": "http 429 (attempt 1)",
+      "name": "86fb Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Jgil3mjLKsHFNtMXr2U6dD",
+      "source": "groupda"
+    },
+    {
+      "code": "GmHEBHjdxKv8xB3tujrYah",
+      "reason": "http 429 (attempt 1)",
+      "name": "CSS Books Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/GmHEBHjdxKv8xB3tujrYah",
+      "source": "groupda"
+    },
+    {
+      "code": "DUkxIsf2taB6444VprSogA",
+      "reason": "http 429 (attempt 1)",
+      "name": "CSS Books Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/DUkxIsf2taB6444VprSogA",
+      "source": "groupda"
+    },
+    {
+      "code": "Ht65vnMbpQHJxrOHhxZTql",
+      "reason": "http 429 (attempt 1)",
+      "name": "CSS Books Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/Ht65vnMbpQHJxrOHhxZTql",
+      "source": "groupda"
+    },
+    {
+      "code": "DxXv6Mq6U2Z7YIeweLWDdq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romantic Novels Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/DxXv6Mq6U2Z7YIeweLWDdq",
+      "source": "groupda"
+    },
+    {
+      "code": "CagKUWG5bL94AqmA3Uaz3P",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romantic Novels Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/CagKUWG5bL94AqmA3Uaz3P",
+      "source": "groupda"
+    },
+    {
+      "code": "LvO1FBGrAgGKlnvv4ll7Eh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romantic Novels Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/LvO1FBGrAgGKlnvv4ll7Eh",
+      "source": "groupda"
+    },
+    {
+      "code": "KPjlbwYeUnG8MebasafOM8",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romantic Novels Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/KPjlbwYeUnG8MebasafOM8",
+      "source": "groupda"
+    },
+    {
+      "code": "EjMjrVFEfTzGd5MGNTTCIm",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romantic Novels Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/EjMjrVFEfTzGd5MGNTTCIm",
+      "source": "groupda"
+    },
+    {
+      "code": "LLEepDBxJMw1kTxdGw6gQQ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romantic Novels Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/LLEepDBxJMw1kTxdGw6gQQ",
+      "source": "groupda"
+    },
+    {
+      "code": "DY74mNzeaVHJYfeV4AIyHT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romantic Novels Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/DY74mNzeaVHJYfeV4AIyHT",
+      "source": "groupda"
+    },
+    {
+      "code": "Bt6nwETi6mJHeYVOEEGGN6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romantic Novels Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/Bt6nwETi6mJHeYVOEEGGN6",
+      "source": "groupda"
+    },
+    {
+      "code": "Dm94bMMhB3xG9aG6vEo1oX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tamil Books Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/Dm94bMMhB3xG9aG6vEo1oX",
+      "source": "groupda"
+    },
+    {
+      "code": "IYG3tq8mkje4QzGNiUZQmq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tamil Books Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/IYG3tq8mkje4QzGNiUZQmq",
+      "source": "groupda"
+    },
+    {
+      "code": "Fz9QAAqg13vGz1l9AVfdTO",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tamil Books Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/Fz9QAAqg13vGz1l9AVfdTO",
+      "source": "groupda"
+    },
+    {
+      "code": "CZAMhp9iXsJ6YMtdA7j6cE",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tamil Books Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/CZAMhp9iXsJ6YMtdA7j6cE",
+      "source": "groupda"
+    },
+    {
+      "code": "JPbEJ0ROKIDBWf6MfIQ8cO",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bollywood Actress WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/JPbEJ0ROKIDBWf6MfIQ8cO",
+      "source": "groupda"
+    },
+    {
+      "code": "Kjq5lq94HKJISrIuyup5co",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bollywood Actress WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/Kjq5lq94HKJISrIuyup5co",
+      "source": "groupda"
+    },
+    {
+      "code": "LpuQLSKDveW5cDSs3laEE3",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bollywood Actress WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/LpuQLSKDveW5cDSs3laEE3",
+      "source": "groupda"
+    },
+    {
+      "code": "LVbsLyOutB26BYAMxxqRcX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/LVbsLyOutB26BYAMxxqRcX",
+      "source": "groupda"
+    },
+    {
+      "code": "F6IPOzhIkAkBCFFEGiHKlM",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/F6IPOzhIkAkBCFFEGiHKlM",
+      "source": "groupda"
+    },
+    {
+      "code": "HF1NtO82iBZG1cOzR4bGTj",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/HF1NtO82iBZG1cOzR4bGTj",
+      "source": "groupda"
+    },
+    {
+      "code": "DYN7Y5Dp1v677wPL7yIQvu",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/DYN7Y5Dp1v677wPL7yIQvu",
+      "source": "groupda"
+    },
+    {
+      "code": "L5Ea3reTDjxCRLyWvHeeuK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/L5Ea3reTDjxCRLyWvHeeuK",
+      "source": "groupda"
+    },
+    {
+      "code": "K54bCb7YfOP7iTBYybuWhW",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/K54bCb7YfOP7iTBYybuWhW",
+      "source": "groupda"
+    },
+    {
+      "code": "CEY7pTKxb2YJkWnp1ID1Bc",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/CEY7pTKxb2YJkWnp1ID1Bc",
+      "source": "groupda"
+    },
+    {
+      "code": "LrRzijqkrKf6D9rCKLXuqQ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/LrRzijqkrKf6D9rCKLXuqQ",
+      "source": "groupda"
+    },
+    {
+      "code": "GtAKk2DelbbAzpReySS2k2",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/GtAKk2DelbbAzpReySS2k2",
+      "source": "groupda"
+    },
+    {
+      "code": "H14xgCYVaFzJNzp0iRD8Mq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/H14xgCYVaFzJNzp0iRD8Mq",
+      "source": "groupda"
+    },
+    {
+      "code": "HHOOaaVi9wkJzFlnVKD7oP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/HHOOaaVi9wkJzFlnVKD7oP",
+      "source": "groupda"
+    },
+    {
+      "code": "LQ6Gj3x3KjJDUuxjvX9OCZ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/LQ6Gj3x3KjJDUuxjvX9OCZ",
+      "source": "groupda"
+    },
+    {
+      "code": "FME1aW9w6HU1t6t0N0LCqs",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kerala Bike Riders Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/FME1aW9w6HU1t6t0N0LCqs",
+      "source": "groupda"
+    },
+    {
+      "code": "BV6PD7e6bPEFyjdFrq2WTH",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/BV6PD7e6bPEFyjdFrq2WTH",
+      "source": "groupda"
+    },
+    {
+      "code": "JFjWOOm77CFJfwNCXuhQLD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JFjWOOm77CFJfwNCXuhQLD",
+      "source": "groupda"
+    },
+    {
+      "code": "D6GvmzDWmUpKqXhpZ6Zw5q",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/D6GvmzDWmUpKqXhpZ6Zw5q",
+      "source": "groupda"
+    },
+    {
+      "code": "BxjxfTdwb5PJu5LtblvY3J",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/BxjxfTdwb5PJu5LtblvY3J",
+      "source": "groupda"
+    },
+    {
+      "code": "Fz4k1diffdpITxEabmPGeB",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Fz4k1diffdpITxEabmPGeB",
+      "source": "groupda"
+    },
+    {
+      "code": "I5owWxIczXy5yFRZSGB9Hv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/I5owWxIczXy5yFRZSGB9Hv",
+      "source": "groupda"
+    },
+    {
+      "code": "LDEiv6v6NrYESL6gdmcV5W",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LDEiv6v6NrYESL6gdmcV5W",
+      "source": "groupda"
+    },
+    {
+      "code": "GqnHf7NP0Kl5tcfWlII44Y",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/GqnHf7NP0Kl5tcfWlII44Y",
+      "source": "groupda"
+    },
+    {
+      "code": "BsCNbQRrMMY4dfCmkoYP63",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/BsCNbQRrMMY4dfCmkoYP63",
+      "source": "groupda"
+    },
+    {
+      "code": "BHekWBIYBQFJgdHNaJwJQN",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/BHekWBIYBQFJgdHNaJwJQN",
+      "source": "groupda"
+    },
+    {
+      "code": "B7ooGei0VidIrItM6yZJ5t",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/B7ooGei0VidIrItM6yZJ5t",
+      "source": "groupda"
+    },
+    {
+      "code": "Fa6wvL9ZuwwI5KMcUXzKlg",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Fa6wvL9ZuwwI5KMcUXzKlg",
+      "source": "groupda"
+    },
+    {
+      "code": "LcJ6WN7fi0v4jXg1EqgApi",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LcJ6WN7fi0v4jXg1EqgApi",
+      "source": "groupda"
+    },
+    {
+      "code": "Fyyx2VcXkLg6P02RtBMlNR",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Fyyx2VcXkLg6P02RtBMlNR",
+      "source": "groupda"
+    },
+    {
+      "code": "IdU00X1jB6lL95G32zGPF9",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/IdU00X1jB6lL95G32zGPF9",
+      "source": "groupda"
+    },
+    {
+      "code": "H6BB9n1JFp4FsXDwE3Se53",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/H6BB9n1JFp4FsXDwE3Se53",
+      "source": "groupda"
+    },
+    {
+      "code": "Hs1WCFGrZ96BvL1lngrq8s",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Hs1WCFGrZ96BvL1lngrq8s",
+      "source": "groupda"
+    },
+    {
+      "code": "IKdftPT4oN702N81oS1eZa",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/IKdftPT4oN702N81oS1eZa",
+      "source": "groupda"
+    },
+    {
+      "code": "EChvhxkKiTDEQ3KQF6NvGx",
+      "reason": "http 429 (attempt 1)",
+      "name": "Automation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EChvhxkKiTDEQ3KQF6NvGx",
+      "source": "groupda"
+    },
+    {
+      "code": "BK6tmcHCb7N7DqHB0spOTr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bangkok Girl Whatsapp Group Links Join",
+      "invite": "https://chat.whatsapp.com/BK6tmcHCb7N7DqHB0spOTr",
+      "source": "groupda"
+    },
+    {
+      "code": "EE0rPxaPTYOCcfunnJoTkP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bangkok Girl Whatsapp Group Links Join",
+      "invite": "https://chat.whatsapp.com/EE0rPxaPTYOCcfunnJoTkP",
+      "source": "groupda"
+    },
+    {
+      "code": "BiVsIhB90mBASKXucDBavl",
+      "reason": "http 429 (attempt 1)",
+      "name": "Skin Care Tips Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BiVsIhB90mBASKXucDBavl",
+      "source": "groupda"
+    },
+    {
+      "code": "F97GKlJdelgD9GXnImtdf7",
+      "reason": "http 429 (attempt 1)",
+      "name": "Skin Care Tips Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/F97GKlJdelgD9GXnImtdf7",
+      "source": "groupda"
+    },
+    {
+      "code": "Iz4vzqw1Nj046TiWsxF0gM",
+      "reason": "http 429 (attempt 1)",
+      "name": "Blesser Finder Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Iz4vzqw1Nj046TiWsxF0gM",
+      "source": "groupda"
+    },
+    {
+      "code": "DE1N0OLuuRfIhWk6PCZRmD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Blesser Finder Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/DE1N0OLuuRfIhWk6PCZRmD",
+      "source": "groupda"
+    },
+    {
+      "code": "H4S8asoIfXUKI0otW0L9Vy",
+      "reason": "http 429 (attempt 1)",
+      "name": "Fino Bank Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/H4S8asoIfXUKI0otW0L9Vy",
+      "source": "groupda"
+    },
+    {
+      "code": "GAB2WYNZlbp4MU4H26zWvd",
+      "reason": "http 429 (attempt 1)",
+      "name": "SBI Bank Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/GAB2WYNZlbp4MU4H26zWvd",
+      "source": "groupda"
+    },
+    {
+      "code": "GiYrLakYBvZHd0nJj4Ef8P",
+      "reason": "http 429 (attempt 1)",
+      "name": "RBI Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/GiYrLakYBvZHd0nJj4Ef8P",
+      "source": "groupda"
+    },
+    {
+      "code": "LBE0X5m0pkuLq35Pge4UZi",
+      "reason": "http 429 (attempt 2)",
+      "name": "RBI Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LBE0X5m0pkuLq35Pge4UZi",
+      "source": "groupda"
+    },
+    {
+      "code": "G3cetSRJJckBrCAr4HlpRN",
+      "reason": "http 429 (attempt 1)",
+      "name": "RBI Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/G3cetSRJJckBrCAr4HlpRN",
+      "source": "groupda"
+    },
+    {
+      "code": "J70RIic2G7D2HY1jeC1vu3",
+      "reason": "http 429 (attempt 2)",
+      "name": "HDFC Bank Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/J70RIic2G7D2HY1jeC1vu3",
+      "source": "groupda"
+    },
+    {
+      "code": "LtQAzR00dgD3fvnUTIaHQX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Australia WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/LtQAzR00dgD3fvnUTIaHQX",
+      "source": "groupda"
+    },
+    {
+      "code": "HyDYiFP1xhG4qXbbFW6nMv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Australia WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/HyDYiFP1xhG4qXbbFW6nMv",
+      "source": "groupda"
+    },
+    {
+      "code": "Gu1yXEZMUQJFIQHX37o8AJ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Australia WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/Gu1yXEZMUQJFIQHX37o8AJ",
+      "source": "groupda"
+    },
+    {
+      "code": "ESy5ldJUQuUGu5Fm1npZhP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Australia WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/ESy5ldJUQuUGu5Fm1npZhP",
+      "source": "groupda"
+    },
+    {
+      "code": "CZzXWqk8biqGXW1Q1U0pAA",
+      "reason": "http 429 (attempt 1)",
+      "name": "Australia WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/CZzXWqk8biqGXW1Q1U0pAA",
+      "source": "groupda"
+    },
+    {
+      "code": "Juzo4O8evuPAQaRJqllVaK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Punjabi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Juzo4O8evuPAQaRJqllVaK",
+      "source": "groupda"
+    },
+    {
+      "code": "DVCgqRfgMVz4pDtPFw3KwS",
+      "reason": "http 429 (attempt 1)",
+      "name": "Punjabi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DVCgqRfgMVz4pDtPFw3KwS",
+      "source": "groupda"
+    },
+    {
+      "code": "CLbwtzpxpt4HmSrCAsmDnH",
+      "reason": "http 429 (attempt 1)",
+      "name": "Punjabi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/CLbwtzpxpt4HmSrCAsmDnH",
+      "source": "groupda"
+    },
+    {
+      "code": "EKn2aAoeil7E6kp7kNpifa",
+      "reason": "http 429 (attempt 1)",
+      "name": "Punjabi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EKn2aAoeil7E6kp7kNpifa",
+      "source": "groupda"
+    },
+    {
+      "code": "H4MSScJ7XFvFIPmQfFlmDD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Punjabi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/H4MSScJ7XFvFIPmQfFlmDD",
+      "source": "groupda"
+    },
+    {
+      "code": "HvJT0pYZF694PFAAPOjmNu",
+      "reason": "http 429 (attempt 1)",
+      "name": "Punjabi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/HvJT0pYZF694PFAAPOjmNu",
+      "source": "groupda"
+    },
+    {
+      "code": "FrfvZb8ExgQBTspSWsME0S",
+      "reason": "http 429 (attempt 2)",
+      "name": "Kannada WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/FrfvZb8ExgQBTspSWsME0S",
+      "source": "groupda"
+    },
+    {
+      "code": "CcIuYhg3ZK7Kt6senHjncz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kannada WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/CcIuYhg3ZK7Kt6senHjncz",
+      "source": "groupda"
+    },
+    {
+      "code": "B7VLETEPRAF1as50qsRDLp",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kannada WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/B7VLETEPRAF1as50qsRDLp",
+      "source": "groupda"
+    },
+    {
+      "code": "JR3C0iLm9U8HMH5kdBdSVW",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kannada WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JR3C0iLm9U8HMH5kdBdSVW",
+      "source": "groupda"
+    },
+    {
+      "code": "Cs8SL1XyjsUFYdaTd6FH3M",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kannada WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Cs8SL1XyjsUFYdaTd6FH3M",
+      "source": "groupda"
+    },
+    {
+      "code": "LFUXdxeCXnALhBA4N88RBv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kannada WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LFUXdxeCXnALhBA4N88RBv",
+      "source": "groupda"
+    },
+    {
+      "code": "BRJK1O6ZeY62KpvrCU5FEz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kannada WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/BRJK1O6ZeY62KpvrCU5FEz",
+      "source": "groupda"
+    },
+    {
+      "code": "KUxnK9ih6chAiCrjQrTTDS",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kannada WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/KUxnK9ih6chAiCrjQrTTDS",
+      "source": "groupda"
+    },
+    {
+      "code": "EOGZSSzUECULkBAM8xdlSF",
+      "reason": "http 429 (attempt 1)",
+      "name": "German Shepherd WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EOGZSSzUECULkBAM8xdlSF",
+      "source": "groupda"
+    },
+    {
+      "code": "KXCHkymJ0EH5CiFjKLgecq",
+      "reason": "http 429 (attempt 1)",
+      "name": "German Shepherd WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/KXCHkymJ0EH5CiFjKLgecq",
+      "source": "groupda"
+    },
+    {
+      "code": "GOpXJdwZ9XNKPVBNsIKuPd",
+      "reason": "http 429 (attempt 1)",
+      "name": "German Shepherd WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/GOpXJdwZ9XNKPVBNsIKuPd",
+      "source": "groupda"
+    },
+    {
+      "code": "FpuZEIenppcEpYvfLjmVk6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Actress WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/FpuZEIenppcEpYvfLjmVk6",
+      "source": "groupda"
+    },
+    {
+      "code": "B8BqsAiye4I7NuH9fYWQ0g",
+      "reason": "http 429 (attempt 1)",
+      "name": "Actress WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/B8BqsAiye4I7NuH9fYWQ0g",
+      "source": "groupda"
+    },
+    {
+      "code": "Hm8apUAGK8w7oaMsDYqX1E",
+      "reason": "http 429 (attempt 1)",
+      "name": "Vadivel WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Hm8apUAGK8w7oaMsDYqX1E",
+      "source": "groupda"
+    },
+    {
+      "code": "KJibVJW1jqEDLPzosR61We",
+      "reason": "http 429 (attempt 1)",
+      "name": "Vadivel WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/KJibVJW1jqEDLPzosR61We",
+      "source": "groupda"
+    },
+    {
+      "code": "KDmpKtkJZgF2MHwQLJn1vE",
+      "reason": "http 429 (attempt 2)",
+      "name": "Marathi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/KDmpKtkJZgF2MHwQLJn1vE",
+      "source": "groupda"
+    },
+    {
+      "code": "KJ7EGapXzCgLk5RD2LoU8r",
+      "reason": "http 429 (attempt 1)",
+      "name": "Marathi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/KJ7EGapXzCgLk5RD2LoU8r",
+      "source": "groupda"
+    },
+    {
+      "code": "EOQsmtrJ7pVANeihNRAWEk",
+      "reason": "http 429 (attempt 2)",
+      "name": "Marathi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EOQsmtrJ7pVANeihNRAWEk",
+      "source": "groupda"
+    },
+    {
+      "code": "KUR2UN9N9AYGucEJRbtfOz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Marathi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/KUR2UN9N9AYGucEJRbtfOz",
+      "source": "groupda"
+    },
+    {
+      "code": "GDv2HNCiJ3r2zPKTw6cFIt",
+      "reason": "http 429 (attempt 1)",
+      "name": "Marathi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/GDv2HNCiJ3r2zPKTw6cFIt",
+      "source": "groupda"
+    },
+    {
+      "code": "K6pR3gnu6qJ6XvodL0krYr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Marathi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/K6pR3gnu6qJ6XvodL0krYr",
+      "source": "groupda"
+    },
+    {
+      "code": "GSIDe2pBZ2pCt09ZzbPEnB",
+      "reason": "http 429 (attempt 1)",
+      "name": "Marathi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/GSIDe2pBZ2pCt09ZzbPEnB",
+      "source": "groupda"
+    },
+    {
+      "code": "KsWtgrTX6wf7CVokTntwKi",
+      "reason": "http 429 (attempt 1)",
+      "name": "Marathi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/KsWtgrTX6wf7CVokTntwKi",
+      "source": "groupda"
+    },
+    {
+      "code": "L7Vg3AxrrrdBZ8EpyIHv1F",
+      "reason": "http 429 (attempt 1)",
+      "name": "Marathi WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/L7Vg3AxrrrdBZ8EpyIHv1F",
+      "source": "groupda"
+    },
+    {
+      "code": "BrYDTlYhQxAFDWLRgeKzjv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Keerthy Suresh WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/BrYDTlYhQxAFDWLRgeKzjv",
+      "source": "groupda"
+    },
+    {
+      "code": "CkoSoUTXNdA01VrJYprI4I",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kajal Agarwal WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/CkoSoUTXNdA01VrJYprI4I",
+      "source": "groupda"
+    },
+    {
+      "code": "GF9fZCEtnTRHjWoJQppa7B",
+      "reason": "http 429 (attempt 1)",
+      "name": "Vijay Devarakonda WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/GF9fZCEtnTRHjWoJQppa7B",
+      "source": "groupda"
+    },
+    {
+      "code": "Eb6aJyw0bQa9dS36hgZ9GG",
+      "reason": "http 429 (attempt 1)",
+      "name": "Vijay Devarakonda WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/Eb6aJyw0bQa9dS36hgZ9GG",
+      "source": "groupda"
+    },
+    {
+      "code": "EL1qaVWwfV2EvBsFjiOv0C",
+      "reason": "http 429 (attempt 1)",
+      "name": "Vijay Devarakonda WhatsApp Group Links Join List",
+      "invite": "https://chat.whatsapp.com/EL1qaVWwfV2EvBsFjiOv0C",
+      "source": "groupda"
+    },
+    {
+      "code": "HPY8EKqTjABKtW0YKSHITd",
+      "reason": "http 429 (attempt 1)",
+      "name": "Chachi Gonzales WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/HPY8EKqTjABKtW0YKSHITd",
+      "source": "groupda"
+    },
+    {
+      "code": "II9lc7isGZf2ZVdVRbTLtG",
+      "reason": "http 429 (attempt 1)",
+      "name": "Chachi Gonzales WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/II9lc7isGZf2ZVdVRbTLtG",
+      "source": "groupda"
+    },
+    {
+      "code": "EXGJ7NQoHmdJmKvUrhRdJm",
+      "reason": "http 429 (attempt 1)",
+      "name": "Anushka Sen Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/EXGJ7NQoHmdJmKvUrhRdJm",
+      "source": "groupda"
+    },
+    {
+      "code": "FQGo4MgDKWW2wiJdzAAoNZ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Anushka Sen Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/FQGo4MgDKWW2wiJdzAAoNZ",
+      "source": "groupda"
+    },
+    {
+      "code": "Ghezgt1F3WuJFPzRl8Wwg2",
+      "reason": "http 429 (attempt 1)",
+      "name": "Erode item whatsapp group link",
+      "invite": "https://chat.whatsapp.com/Ghezgt1F3WuJFPzRl8Wwg2",
+      "source": "groupda"
+    },
+    {
+      "code": "Bd2YW2Egjkd28PM8nhw3Bs",
+      "reason": "http 429 (attempt 1)",
+      "name": "Erode item whatsapp group link",
+      "invite": "https://chat.whatsapp.com/Bd2YW2Egjkd28PM8nhw3Bs",
+      "source": "groupda"
+    },
+    {
+      "code": "GVykLXBS7sQKidV62r0Tix",
+      "reason": "http 429 (attempt 1)",
+      "name": "Erode item whatsapp group link",
+      "invite": "https://chat.whatsapp.com/GVykLXBS7sQKidV62r0Tix",
+      "source": "groupda"
+    },
+    {
+      "code": "JEZcCnxQkNzCipQfJ7p97p",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tovino Thomas Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/JEZcCnxQkNzCipQfJ7p97p",
+      "source": "groupda"
+    },
+    {
+      "code": "HHOTYF87kBn7DUNpVm3sAO",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tovino Thomas Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/HHOTYF87kBn7DUNpVm3sAO",
+      "source": "groupda"
+    },
+    {
+      "code": "GYMVfemBPTx3lFCmmLu20N",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tovino Thomas Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/GYMVfemBPTx3lFCmmLu20N",
+      "source": "groupda"
+    },
+    {
+      "code": "H381TggM9fx8t3WxVWA7MA",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tovino Thomas Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/H381TggM9fx8t3WxVWA7MA",
+      "source": "groupda"
+    },
+    {
+      "code": "JIe8GxwUufaIujLGeb1Ugv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tovino Thomas Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/JIe8GxwUufaIujLGeb1Ugv",
+      "source": "groupda"
+    },
+    {
+      "code": "EsmQUFxySaOFDW2mUI0zCh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tovino Thomas Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/EsmQUFxySaOFDW2mUI0zCh",
+      "source": "groupda"
+    },
+    {
+      "code": "BOdAPYls0lXLZBmOAmdOSW",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mallika Singh Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BOdAPYls0lXLZBmOAmdOSW",
+      "source": "groupda"
+    },
+    {
+      "code": "BkFgUZumVbu7FxHdirct2F",
+      "reason": "http 429 (attempt 2)",
+      "name": "Bengali WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/BkFgUZumVbu7FxHdirct2F",
+      "source": "groupda"
+    },
+    {
+      "code": "DFXsWf89FUm3UfF141umAl",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DFXsWf89FUm3UfF141umAl",
+      "source": "groupda"
+    },
+    {
+      "code": "D5pVMXuSs9SKhOTFocoFww",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/D5pVMXuSs9SKhOTFocoFww",
+      "source": "groupda"
+    },
+    {
+      "code": "DMqIQdBD4ZiEJGKg0LhT4X",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DMqIQdBD4ZiEJGKg0LhT4X",
+      "source": "groupda"
+    },
+    {
+      "code": "F2BEu5Kb9nwA0ZLS75x9U8",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/F2BEu5Kb9nwA0ZLS75x9U8",
+      "source": "groupda"
+    },
+    {
+      "code": "FtGAy4O2kUd99Tgf4tZV9O",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/FtGAy4O2kUd99Tgf4tZV9O",
+      "source": "groupda"
+    },
+    {
+      "code": "HVuIWvSy4zEDfRIthpEvrH",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/HVuIWvSy4zEDfRIthpEvrH",
+      "source": "groupda"
+    },
+    {
+      "code": "FQLusvQtsGFEdfECfTO2F2",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/FQLusvQtsGFEdfECfTO2F2",
+      "source": "groupda"
+    },
+    {
+      "code": "H6yz4jCJiryES53loTsX39",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/H6yz4jCJiryES53loTsX39",
+      "source": "groupda"
+    },
+    {
+      "code": "BAdw6lrX9x64fk9Q0whpqQ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/BAdw6lrX9x64fk9Q0whpqQ",
+      "source": "groupda"
+    },
+    {
+      "code": "Efjgiw4XhFBG2OIfocx8OH",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/Efjgiw4XhFBG2OIfocx8OH",
+      "source": "groupda"
+    },
+    {
+      "code": "DT473e9apwhDPvViyEYccT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/DT473e9apwhDPvViyEYccT",
+      "source": "groupda"
+    },
+    {
+      "code": "BTFmxia6haRFe3k7tSqKVw",
+      "reason": "http 429 (attempt 2)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/BTFmxia6haRFe3k7tSqKVw",
+      "source": "groupda"
+    },
+    {
+      "code": "BVwUacQNM9GCmwaXRTkKnP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/BVwUacQNM9GCmwaXRTkKnP",
+      "source": "groupda"
+    },
+    {
+      "code": "KYfh3bLe4KYCxcxuFPgMiY",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/KYfh3bLe4KYCxcxuFPgMiY",
+      "source": "groupda"
+    },
+    {
+      "code": "CP9DQ0ssRFs9rTCS9Zaf30",
+      "reason": "http 429 (attempt 2)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/CP9DQ0ssRFs9rTCS9Zaf30",
+      "source": "groupda"
+    },
+    {
+      "code": "EwawzgOrdJLKW6oL4C4Lla",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/EwawzgOrdJLKW6oL4C4Lla",
+      "source": "groupda"
+    },
+    {
+      "code": "LAIjhdIco4CFWGpHcwE10l",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/LAIjhdIco4CFWGpHcwE10l",
+      "source": "groupda"
+    },
+    {
+      "code": "EpQqH6sOGzd8Upynbe5PVL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/EpQqH6sOGzd8Upynbe5PVL",
+      "source": "groupda"
+    },
+    {
+      "code": "CB2tBilKtPyLxYZoRyL9I1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/CB2tBilKtPyLxYZoRyL9I1",
+      "source": "groupda"
+    },
+    {
+      "code": "Gfa7bRKvHiQ5deEgThu1p9",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/Gfa7bRKvHiQ5deEgThu1p9",
+      "source": "groupda"
+    },
+    {
+      "code": "KULl89UDFpRFAefleLjzZe",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/KULl89UDFpRFAefleLjzZe",
+      "source": "groupda"
+    },
+    {
+      "code": "F3BbuXt3zXxK3PTTH6xBnG",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/F3BbuXt3zXxK3PTTH6xBnG",
+      "source": "groupda"
+    },
+    {
+      "code": "CJc6DtT9XyE3IuyXdStcyK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/CJc6DtT9XyE3IuyXdStcyK",
+      "source": "groupda"
+    },
+    {
+      "code": "CwiNttI0nCu5nQD9ygg4j7",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/CwiNttI0nCu5nQD9ygg4j7",
+      "source": "groupda"
+    },
+    {
+      "code": "FVy4j0uL56qCXZZHC6MA9t",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/FVy4j0uL56qCXZZHC6MA9t",
+      "source": "groupda"
+    },
+    {
+      "code": "JXvBTsAKv9ZCLp0fgszdKh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/JXvBTsAKv9ZCLp0fgszdKh",
+      "source": "groupda"
+    },
+    {
+      "code": "EeFfDjsGlbYGw7EPgMEhsM",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/EeFfDjsGlbYGw7EPgMEhsM",
+      "source": "groupda"
+    },
+    {
+      "code": "KP41AJBA5pCAbMWj5Kb5JZ",
+      "reason": "http 429 (attempt 2)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/KP41AJBA5pCAbMWj5Kb5JZ",
+      "source": "groupda"
+    },
+    {
+      "code": "Cvoo6Z6WSKB3oi3CDxWuWf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/Cvoo6Z6WSKB3oi3CDxWuWf",
+      "source": "groupda"
+    },
+    {
+      "code": "ClezVas9CkQKO5TbFdzmeL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/ClezVas9CkQKO5TbFdzmeL",
+      "source": "groupda"
+    },
+    {
+      "code": "Bz8cC4BBeOUBZDxNmaPNus",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/Bz8cC4BBeOUBZDxNmaPNus",
+      "source": "groupda"
+    },
+    {
+      "code": "HDSX9eh9jYz43dCQFcw6Kz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/HDSX9eh9jYz43dCQFcw6Kz",
+      "source": "groupda"
+    },
+    {
+      "code": "KnEWDHO1Hd9AZcF5nd7IN3",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/KnEWDHO1Hd9AZcF5nd7IN3",
+      "source": "groupda"
+    },
+    {
+      "code": "Br4Z5GDqArQACJIOUvVDQA",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/Br4Z5GDqArQACJIOUvVDQA",
+      "source": "groupda"
+    },
+    {
+      "code": "C4jLWxoj8QwDj53IlUfh7l",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/C4jLWxoj8QwDj53IlUfh7l",
+      "source": "groupda"
+    },
+    {
+      "code": "LgNsLg3V09EHoxtUAEPH2y",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/LgNsLg3V09EHoxtUAEPH2y",
+      "source": "groupda"
+    },
+    {
+      "code": "IoRznOHHTudB5IduqAmb5W",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/IoRznOHHTudB5IduqAmb5W",
+      "source": "groupda"
+    },
+    {
+      "code": "BdDMQ2ygs43BBqZNyFhtzf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/BdDMQ2ygs43BBqZNyFhtzf",
+      "source": "groupda"
+    },
+    {
+      "code": "LG4W87hbc6v15GjKTJ0DB2",
+      "reason": "http 429 (attempt 2)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/LG4W87hbc6v15GjKTJ0DB2",
+      "source": "groupda"
+    },
+    {
+      "code": "Et45Nw6uVr0LB2cdBR9kbC",
+      "reason": "http 429 (attempt 2)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/Et45Nw6uVr0LB2cdBR9kbC",
+      "source": "groupda"
+    },
+    {
+      "code": "EN6lcrCOlFkGyFh29ZUzJz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/EN6lcrCOlFkGyFh29ZUzJz",
+      "source": "groupda"
+    },
+    {
+      "code": "JrgSNzpYiiT4BbrXHXx1vn",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/JrgSNzpYiiT4BbrXHXx1vn",
+      "source": "groupda"
+    },
+    {
+      "code": "FQJNXvybH2R5kBzr2CDgaB",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/FQJNXvybH2R5kBzr2CDgaB",
+      "source": "groupda"
+    },
+    {
+      "code": "HpSTrPPD4x3BhlPl6xXCI4",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/HpSTrPPD4x3BhlPl6xXCI4",
+      "source": "groupda"
+    },
+    {
+      "code": "EV9BPJVxLffKVROTkj3Gnv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/EV9BPJVxLffKVROTkj3Gnv",
+      "source": "groupda"
+    },
+    {
+      "code": "HTTpCM5I06w9kn7grrUe0d",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link Join Month of June-2026",
+      "invite": "https://chat.whatsapp.com/HTTpCM5I06w9kn7grrUe0d",
+      "source": "groupda"
+    },
+    {
+      "code": "DgAcemTKyhDGVmjkGF8S2q",
+      "reason": "http 429 (attempt 1)",
+      "name": "Broken Heart WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DgAcemTKyhDGVmjkGF8S2q",
+      "source": "groupda"
+    },
+    {
+      "code": "L2FfXtmERHuA7vACb9wNh6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Anime Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/L2FfXtmERHuA7vACb9wNh6",
+      "source": "groupda"
+    },
+    {
+      "code": "IYqv61b0LxcIc34ryqgka6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romania WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/IYqv61b0LxcIc34ryqgka6",
+      "source": "groupda"
+    },
+    {
+      "code": "GeOrotdVTgW0RoP1D1kLOe",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romania WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/GeOrotdVTgW0RoP1D1kLOe",
+      "source": "groupda"
+    },
+    {
+      "code": "ICdXG26tEql6AxMeeAiTG8",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romania WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/ICdXG26tEql6AxMeeAiTG8",
+      "source": "groupda"
+    },
+    {
+      "code": "HsTouqVruIdHWvRkVCHjJP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romania WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/HsTouqVruIdHWvRkVCHjJP",
+      "source": "groupda"
+    },
+    {
+      "code": "FDcbFmY1GytDQskjf8OLHY",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romania WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/FDcbFmY1GytDQskjf8OLHY",
+      "source": "groupda"
+    },
+    {
+      "code": "DNdOIecGRpAAc9HOdrP3Ls",
+      "reason": "http 429 (attempt 1)",
+      "name": "Romania WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DNdOIecGRpAAc9HOdrP3Ls",
+      "source": "groupda"
+    },
+    {
+      "code": "DYohDKi0SJjLUpuFRi9wg4",
+      "reason": "http 429 (attempt 1)",
+      "name": "Blackpink Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DYohDKi0SJjLUpuFRi9wg4",
+      "source": "groupda"
+    },
+    {
+      "code": "Jtq6tg29nQMI2Qs4WgkZIF",
+      "reason": "http 429 (attempt 1)",
+      "name": "Blackpink Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Jtq6tg29nQMI2Qs4WgkZIF",
+      "source": "groupda"
+    },
+    {
+      "code": "LWtb839RrNWECXuhv9BCKP",
+      "reason": "http 429 (attempt 2)",
+      "name": "Blackpink Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LWtb839RrNWECXuhv9BCKP",
+      "source": "groupda"
+    },
+    {
+      "code": "LFVK0EllCK5LVt6VWCbYSS",
+      "reason": "http 429 (attempt 2)",
+      "name": "Nct Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LFVK0EllCK5LVt6VWCbYSS",
+      "source": "groupda"
+    },
+    {
+      "code": "EDepRoQaMwJGCJQAyMDisf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Free Fire Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EDepRoQaMwJGCJQAyMDisf",
+      "source": "groupda"
+    },
+    {
+      "code": "EzbXNBT5tBF5bJ53aYl4iJ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Free Fire Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EzbXNBT5tBF5bJ53aYl4iJ",
+      "source": "groupda"
+    },
+    {
+      "code": "LvvnYxxRKDx4TjAZjxR0qK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Free Fire Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LvvnYxxRKDx4TjAZjxR0qK",
+      "source": "groupda"
+    },
+    {
+      "code": "CbYSqaXpzoq4NqaqQWmFbz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Free Fire Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/CbYSqaXpzoq4NqaqQWmFbz",
+      "source": "groupda"
+    },
+    {
+      "code": "Kw6V2jupynzDaW5aIyO2nT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Free Fire Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Kw6V2jupynzDaW5aIyO2nT",
+      "source": "groupda"
+    },
+    {
+      "code": "DK5U9hMXQeD8HX5xRRUfur",
+      "reason": "http 429 (attempt 1)",
+      "name": "Free Fire Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DK5U9hMXQeD8HX5xRRUfur",
+      "source": "groupda"
+    },
+    {
+      "code": "GruI05Waju91FojoTY5s3x",
+      "reason": "http 429 (attempt 1)",
+      "name": "Free Fire Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/GruI05Waju91FojoTY5s3x",
+      "source": "groupda"
+    },
+    {
+      "code": "DoN2Ma4fxVr2U35bklrUQX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Free Fire Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DoN2Ma4fxVr2U35bklrUQX",
+      "source": "groupda"
+    },
+    {
+      "code": "JDjKvqDeHlOJcto0u2TaS1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JDjKvqDeHlOJcto0u2TaS1",
+      "source": "groupda"
+    },
+    {
+      "code": "Dcpt2q1lAxVLW46hTHs8zl",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Dcpt2q1lAxVLW46hTHs8zl",
+      "source": "groupda"
+    },
+    {
+      "code": "K2pM8Ak3k2I65NzPgn63fC",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/K2pM8Ak3k2I65NzPgn63fC",
+      "source": "groupda"
+    },
+    {
+      "code": "FbnMxTZBszIFoMnRKsKm2u",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/FbnMxTZBszIFoMnRKsKm2u",
+      "source": "groupda"
+    },
+    {
+      "code": "LA9R9dptpaqH1vfmzcSSCm",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LA9R9dptpaqH1vfmzcSSCm",
+      "source": "groupda"
+    },
+    {
+      "code": "FO3sBHqM6ra4jK9jhXKs3W",
+      "reason": "http 429 (attempt 2)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/FO3sBHqM6ra4jK9jhXKs3W",
+      "source": "groupda"
+    },
+    {
+      "code": "EwKbC2psshT7XbYsWsIGsu",
+      "reason": "http 429 (attempt 2)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EwKbC2psshT7XbYsWsIGsu",
+      "source": "groupda"
+    },
+    {
+      "code": "LVWAhr6KZJY66snGGuntq5",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LVWAhr6KZJY66snGGuntq5",
+      "source": "groupda"
+    },
+    {
+      "code": "FpKsvQvPwaL0hERJiSSEhu",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/FpKsvQvPwaL0hERJiSSEhu",
+      "source": "groupda"
+    },
+    {
+      "code": "HmwBdEtQi43CAU086mUFv8",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/HmwBdEtQi43CAU086mUFv8",
+      "source": "groupda"
+    },
+    {
+      "code": "JPSalkDukO3EsgQqSL6vwV",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JPSalkDukO3EsgQqSL6vwV",
+      "source": "groupda"
+    },
+    {
+      "code": "L3CkDg5KKbw9MXJzNSsKKY",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/L3CkDg5KKbw9MXJzNSsKKY",
+      "source": "groupda"
+    },
+    {
+      "code": "LvFKABYQO69HxrRNqJ0EbO",
+      "reason": "http 429 (attempt 1)",
+      "name": "Money Donation WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LvFKABYQO69HxrRNqJ0EbO",
+      "source": "groupda"
+    },
+    {
+      "code": "JkvNXSzxUcU8dn80mPzAOM",
+      "reason": "http 429 (attempt 1)",
+      "name": "Amapiano WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JkvNXSzxUcU8dn80mPzAOM",
+      "source": "groupda"
+    },
+    {
+      "code": "LCy7s76LmxKAezt32Emcs6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Amapiano WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LCy7s76LmxKAezt32Emcs6",
+      "source": "groupda"
+    },
+    {
+      "code": "Dagi7jqX40Y3jefau69PMN",
+      "reason": "http 429 (attempt 1)",
+      "name": "Amapiano WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Dagi7jqX40Y3jefau69PMN",
+      "source": "groupda"
+    },
+    {
+      "code": "C8XJtilKk176EwXxzQrUBJ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Amapiano WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/C8XJtilKk176EwXxzQrUBJ",
+      "source": "groupda"
+    },
+    {
+      "code": "DTUTid0g58qDgx4RH3qizg",
+      "reason": "http 429 (attempt 1)",
+      "name": "Korean Friends WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DTUTid0g58qDgx4RH3qizg",
+      "source": "groupda"
+    },
+    {
+      "code": "KvMo5LmQ448460XuHGieOG",
+      "reason": "http 429 (attempt 2)",
+      "name": "Sticker Malaysia WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/KvMo5LmQ448460XuHGieOG",
+      "source": "groupda"
+    },
+    {
+      "code": "IQRXjxB10EZHBuZLHszSqG",
+      "reason": "http 429 (attempt 1)",
+      "name": "WhatsApp Status Views Increase Group Link Join List",
+      "invite": "https://chat.whatsapp.com/IQRXjxB10EZHBuZLHszSqG",
+      "source": "groupda"
+    },
+    {
+      "code": "IqTNeCnBKKVAljFFmzW6zX",
+      "reason": "http 429 (attempt 1)",
+      "name": "WhatsApp Status Views Increase Group Link Join List",
+      "invite": "https://chat.whatsapp.com/IqTNeCnBKKVAljFFmzW6zX",
+      "source": "groupda"
+    },
+    {
+      "code": "JTOjO4pLrat7L8o2iihaVu",
+      "reason": "http 429 (attempt 2)",
+      "name": "WhatsApp Status Views Increase Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JTOjO4pLrat7L8o2iihaVu",
+      "source": "groupda"
+    },
+    {
+      "code": "KHqsAq1jANRJHFjs9yq47I",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kenya Dating Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/KHqsAq1jANRJHFjs9yq47I",
+      "source": "groupda"
+    },
+    {
+      "code": "KSQ1nQ1xfnGEHEYhSndHm9",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kenya Dating Whatsapp Group Link Join",
+      "invite": "https://chat.whatsapp.com/KSQ1nQ1xfnGEHEYhSndHm9",
+      "source": "groupda"
+    },
+    {
+      "code": "JS4nayRpAMw4Gvis3XmwMx",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/JS4nayRpAMw4Gvis3XmwMx",
+      "source": "groupda"
+    },
+    {
+      "code": "LBsy2gS9Iw1F5kqQL80CLm",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/LBsy2gS9Iw1F5kqQL80CLm",
+      "source": "groupda"
+    },
+    {
+      "code": "KabpKv2SSCH6nOvIyIKwx5",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/KabpKv2SSCH6nOvIyIKwx5",
+      "source": "groupda"
+    },
+    {
+      "code": "I49MDvgySu68LgZezgWtLE",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/I49MDvgySu68LgZezgWtLE",
+      "source": "groupda"
+    },
+    {
+      "code": "LAvfkseKrOw59qV8cAcBfO",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/LAvfkseKrOw59qV8cAcBfO",
+      "source": "groupda"
+    },
+    {
+      "code": "CvNo3a3fF55KWphUdioiTr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/CvNo3a3fF55KWphUdioiTr",
+      "source": "groupda"
+    },
+    {
+      "code": "FmgYaWKyYEDLLYJUXN3vsB",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/FmgYaWKyYEDLLYJUXN3vsB",
+      "source": "groupda"
+    },
+    {
+      "code": "HATNY6SNBH87rHMgEZYDNN",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/HATNY6SNBH87rHMgEZYDNN",
+      "source": "groupda"
+    },
+    {
+      "code": "H4pVvQDqTS7EnJxY5vlf99",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/H4pVvQDqTS7EnJxY5vlf99",
+      "source": "groupda"
+    },
+    {
+      "code": "Jwx8e0o8IWa1OpRDRaA8z1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Jwx8e0o8IWa1OpRDRaA8z1",
+      "source": "groupda"
+    },
+    {
+      "code": "HICqv9cf6fAK6a9d8ckbQi",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/HICqv9cf6fAK6a9d8ckbQi",
+      "source": "groupda"
+    },
+    {
+      "code": "Diko0yOVY3H50ftdyUI7yq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Diko0yOVY3H50ftdyUI7yq",
+      "source": "groupda"
+    },
+    {
+      "code": "H0sL5ux87MtG5AeZ2HGxV7",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/H0sL5ux87MtG5AeZ2HGxV7",
+      "source": "groupda"
+    },
+    {
+      "code": "LRg5JLMuAmVGrpgOy4K1hI",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/LRg5JLMuAmVGrpgOy4K1hI",
+      "source": "groupda"
+    },
+    {
+      "code": "LuTkXKukfjI6UP2TCrscwu",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/LuTkXKukfjI6UP2TCrscwu",
+      "source": "groupda"
+    },
+    {
+      "code": "BoWLw9tMyhOAi5YG6gVsH3",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/BoWLw9tMyhOAi5YG6gVsH3",
+      "source": "groupda"
+    },
+    {
+      "code": "HSeH4aS28Cf1fh4REqAx7R",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/HSeH4aS28Cf1fh4REqAx7R",
+      "source": "groupda"
+    },
+    {
+      "code": "L8QoCpsFsv57QmnNvxHGYT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/L8QoCpsFsv57QmnNvxHGYT",
+      "source": "groupda"
+    },
+    {
+      "code": "KQNlga0qGt27535r7sfem9",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/KQNlga0qGt27535r7sfem9",
+      "source": "groupda"
+    },
+    {
+      "code": "LF46gg5Jdo10BLa1loiIta",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/LF46gg5Jdo10BLa1loiIta",
+      "source": "groupda"
+    },
+    {
+      "code": "D6amejTWYar0Pz4HsfF3Ra",
+      "reason": "http 429 (attempt 1)",
+      "name": "Friends Forever Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/D6amejTWYar0Pz4HsfF3Ra",
+      "source": "groupda"
+    },
+    {
+      "code": "Fvk8pwXi7Lr9qGWORJwLNy",
+      "reason": "http 429 (attempt 1)",
+      "name": "Deaf Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Fvk8pwXi7Lr9qGWORJwLNy",
+      "source": "groupda"
+    },
+    {
+      "code": "E62ZW5NkO205x8hNgsBNPc",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shetkari Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/E62ZW5NkO205x8hNgsBNPc",
+      "source": "groupda"
+    },
+    {
+      "code": "HM820aZCqgH8ODYeRbbUxb",
+      "reason": "http 429 (attempt 1)",
+      "name": "Stress Buster Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/HM820aZCqgH8ODYeRbbUxb",
+      "source": "groupda"
+    },
+    {
+      "code": "G2Ja9hqxpp53xTfvHZsHyX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Stress Buster Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/G2Ja9hqxpp53xTfvHZsHyX",
+      "source": "groupda"
+    },
+    {
+      "code": "EtXzI5deHDLIZi3pInpKlf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Assamese Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/EtXzI5deHDLIZi3pInpKlf",
+      "source": "groupda"
+    },
+    {
+      "code": "Gg4ClKlnhwFJjL2vy2M0q5",
+      "reason": "http 429 (attempt 1)",
+      "name": "Assamese Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/Gg4ClKlnhwFJjL2vy2M0q5",
+      "source": "groupda"
+    },
+    {
+      "code": "LhSCf5YN2Jb6arzIjSMTbx",
+      "reason": "http 429 (attempt 1)",
+      "name": "Assamese Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LhSCf5YN2Jb6arzIjSMTbx",
+      "source": "groupda"
+    },
+    {
+      "code": "LWInD6w4OSZDolmuhoSo9V",
+      "reason": "http 429 (attempt 1)",
+      "name": "Assamese Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/LWInD6w4OSZDolmuhoSo9V",
+      "source": "groupda"
+    },
+    {
+      "code": "DB9YW0bqgWP0HTdrND2PyH",
+      "reason": "http 429 (attempt 1)",
+      "name": "Assamese Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/DB9YW0bqgWP0HTdrND2PyH",
+      "source": "groupda"
+    },
+    {
+      "code": "BNJdVENZMAI653H9gxmdHe",
+      "reason": "http 429 (attempt 1)",
+      "name": "Assamese Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/BNJdVENZMAI653H9gxmdHe",
+      "source": "groupda"
+    },
+    {
+      "code": "BXoVvK5ph6z5ig2RZqVSal",
+      "reason": "http 429 (attempt 1)",
+      "name": "Assamese Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/BXoVvK5ph6z5ig2RZqVSal",
+      "source": "groupda"
+    },
+    {
+      "code": "G8gUtgDwOaN6Yuo4Ecw2w1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Assamese Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/G8gUtgDwOaN6Yuo4Ecw2w1",
+      "source": "groupda"
+    },
+    {
+      "code": "H3Z6Sr4ylPX3myTFDjRING",
+      "reason": "http 429 (attempt 1)",
+      "name": "Assamese Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/H3Z6Sr4ylPX3myTFDjRING",
+      "source": "groupda"
+    },
+    {
+      "code": "JXdoOochqZ67ccclRSA6Js",
+      "reason": "http 429 (attempt 1)",
+      "name": "Hindi Songs WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JXdoOochqZ67ccclRSA6Js",
+      "source": "groupda"
+    },
+    {
+      "code": "G83bQzLd9KxEhrK53pS9cO",
+      "reason": "http 429 (attempt 1)",
+      "name": "Hindi Songs WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/G83bQzLd9KxEhrK53pS9cO",
+      "source": "groupda"
+    },
+    {
+      "code": "BWKpYJkSpvJFTlt28nlJg6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Hindi Songs WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/BWKpYJkSpvJFTlt28nlJg6",
+      "source": "groupda"
+    },
+    {
+      "code": "FcGgM02wRoNLU0I4IqJmOp",
+      "reason": "http 429 (attempt 1)",
+      "name": "Singer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/FcGgM02wRoNLU0I4IqJmOp",
+      "source": "groupda"
+    },
+    {
+      "code": "F2BxDPTxL8JEV49MV00EW0",
+      "reason": "http 429 (attempt 1)",
+      "name": "Singer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/F2BxDPTxL8JEV49MV00EW0",
+      "source": "groupda"
+    },
+    {
+      "code": "DBxEpcpBGOAH3lV38lYtux",
+      "reason": "http 429 (attempt 1)",
+      "name": "Singer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/DBxEpcpBGOAH3lV38lYtux",
+      "source": "groupda"
+    },
+    {
+      "code": "JcETJVlaO8VDh5z5PIOlIn",
+      "reason": "http 429 (attempt 1)",
+      "name": "Financial News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/JcETJVlaO8VDh5z5PIOlIn",
+      "source": "groupda"
+    },
+    {
+      "code": "JLRoEIiP9Oo5KhCCPIR5l3",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/JLRoEIiP9Oo5KhCCPIR5l3",
+      "source": "groupda"
+    },
+    {
+      "code": "C5JGvKfs4vzIVzhbTpm2BT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Bengali News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/C5JGvKfs4vzIVzhbTpm2BT",
+      "source": "groupda"
+    },
+    {
+      "code": "HBFxXR9IenUIRnGvWjeSpr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Otv News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/HBFxXR9IenUIRnGvWjeSpr",
+      "source": "groupda"
+    },
+    {
+      "code": "CITJt8RtJZtLwW1gX3Bnir",
+      "reason": "http 429 (attempt 1)",
+      "name": "Otv News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/CITJt8RtJZtLwW1gX3Bnir",
+      "source": "groupda"
+    },
+    {
+      "code": "CTx7PnndjJAClxpJ42xhjw",
+      "reason": "http 429 (attempt 1)",
+      "name": "Otv News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/CTx7PnndjJAClxpJ42xhjw",
+      "source": "groupda"
+    },
+    {
+      "code": "Gl7UPYVs170BWBPJGWKSWd",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kashmir News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Gl7UPYVs170BWBPJGWKSWd",
+      "source": "groupda"
+    },
+    {
+      "code": "KANpYhbLyoE6v9KcWDRu6Q",
+      "reason": "http 429 (attempt 2)",
+      "name": "Kashmir News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KANpYhbLyoE6v9KcWDRu6Q",
+      "source": "groupda"
+    },
+    {
+      "code": "EfFeCZvhjtzIP9q86LKUur",
+      "reason": "http 429 (attempt 2)",
+      "name": "Kashmir News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/EfFeCZvhjtzIP9q86LKUur",
+      "source": "groupda"
+    },
+    {
+      "code": "BVdx3CacyUK3AoGNRnhHeE",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BVdx3CacyUK3AoGNRnhHeE",
+      "source": "groupda"
+    },
+    {
+      "code": "HdVE1OrTyTYDLBE87KqnKi",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/HdVE1OrTyTYDLBE87KqnKi",
+      "source": "groupda"
+    },
+    {
+      "code": "Ej9mfYfLHCn7nP6SeFTo4G",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Ej9mfYfLHCn7nP6SeFTo4G",
+      "source": "groupda"
+    },
+    {
+      "code": "BW6MwCB99Gm9CnPGOmhVLQ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BW6MwCB99Gm9CnPGOmhVLQ",
+      "source": "groupda"
+    },
+    {
+      "code": "KGj6K6NPuG9Hy8mtwh5Mbq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KGj6K6NPuG9Hy8mtwh5Mbq",
+      "source": "groupda"
+    },
+    {
+      "code": "Hu0dxLiqkWpDPCl0JtZynx",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Hu0dxLiqkWpDPCl0JtZynx",
+      "source": "groupda"
+    },
+    {
+      "code": "CQPhlxtNb1I5bxoKu86vk4",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/CQPhlxtNb1I5bxoKu86vk4",
+      "source": "groupda"
+    },
+    {
+      "code": "GjTXBW2HQWRE6D4bOWuH5W",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/GjTXBW2HQWRE6D4bOWuH5W",
+      "source": "groupda"
+    },
+    {
+      "code": "Iw467T5o3COEcLnC8xQfKH",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Iw467T5o3COEcLnC8xQfKH",
+      "source": "groupda"
+    },
+    {
+      "code": "L2ZtqGmXGJ83wJNZ4W0VQz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/L2ZtqGmXGJ83wJNZ4W0VQz",
+      "source": "groupda"
+    },
+    {
+      "code": "G1utr5AJulG2hW0LQsFOeK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Shia News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/G1utr5AJulG2hW0LQsFOeK",
+      "source": "groupda"
+    },
+    {
+      "code": "Kjtc1psKvJyKrnchdlswQf",
+      "reason": "http 429 (attempt 1)",
+      "name": "All News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Kjtc1psKvJyKrnchdlswQf",
+      "source": "groupda"
+    },
+    {
+      "code": "LTSSeKHBxla7Mr4kh9Gir9",
+      "reason": "http 429 (attempt 2)",
+      "name": "All News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LTSSeKHBxla7Mr4kh9Gir9",
+      "source": "groupda"
+    },
+    {
+      "code": "KU8l6fQKRQn24LlxjdU91v",
+      "reason": "http 429 (attempt 1)",
+      "name": "All News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KU8l6fQKRQn24LlxjdU91v",
+      "source": "groupda"
+    },
+    {
+      "code": "KcKdUbh4LsH6W1O7UCSBzP",
+      "reason": "http 429 (attempt 1)",
+      "name": "All News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KcKdUbh4LsH6W1O7UCSBzP",
+      "source": "groupda"
+    },
+    {
+      "code": "Hds9IgkyEuv0E11uPJ6MDW",
+      "reason": "http 429 (attempt 1)",
+      "name": "Social Media News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Hds9IgkyEuv0E11uPJ6MDW",
+      "source": "groupda"
+    },
+    {
+      "code": "HYrB4KtJpMl1Ar9md8tQYg",
+      "reason": "http 429 (attempt 2)",
+      "name": "Social Media News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/HYrB4KtJpMl1Ar9md8tQYg",
+      "source": "groupda"
+    },
+    {
+      "code": "BrGYmtgUeAU6Aow8i4hwbV",
+      "reason": "http 429 (attempt 1)",
+      "name": "Social Media News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BrGYmtgUeAU6Aow8i4hwbV",
+      "source": "groupda"
+    },
+    {
+      "code": "JnpgfuP4TM6J34z0HI3Sgj",
+      "reason": "http 429 (attempt 1)",
+      "name": "Social Media News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/JnpgfuP4TM6J34z0HI3Sgj",
+      "source": "groupda"
+    },
+    {
+      "code": "BDA8wfBOsAM6CYp1glTaZ5",
+      "reason": "http 429 (attempt 1)",
+      "name": "Social Media News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BDA8wfBOsAM6CYp1glTaZ5",
+      "source": "groupda"
+    },
+    {
+      "code": "FN5ftSU4xuAGlPoE07Mxql",
+      "reason": "http 429 (attempt 1)",
+      "name": "4Tv News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/FN5ftSU4xuAGlPoE07Mxql",
+      "source": "groupda"
+    },
+    {
+      "code": "BcWXj8kJ9trKWkipTabAGr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Sindhi News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BcWXj8kJ9trKWkipTabAGr",
+      "source": "groupda"
+    },
+    {
+      "code": "FtFUyPIpghO8VuKwNzzwZz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Sindhi News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/FtFUyPIpghO8VuKwNzzwZz",
+      "source": "groupda"
+    },
+    {
+      "code": "IPtnNWdqDuFHYO1uyVDYL6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Surat News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/IPtnNWdqDuFHYO1uyVDYL6",
+      "source": "groupda"
+    },
+    {
+      "code": "IkVoXKe9MuE2BJmlkdxraD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Goa 365 Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/IkVoXKe9MuE2BJmlkdxraD",
+      "source": "groupda"
+    },
+    {
+      "code": "ITAbUKvcyK745H8F8QBR8s",
+      "reason": "http 429 (attempt 1)",
+      "name": "Goa 365 Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/ITAbUKvcyK745H8F8QBR8s",
+      "source": "groupda"
+    },
+    {
+      "code": "DbpLFhq7G0CASzLrFJ0cKm",
+      "reason": "http 429 (attempt 1)",
+      "name": "Goa 365 Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/DbpLFhq7G0CASzLrFJ0cKm",
+      "source": "groupda"
+    },
+    {
+      "code": "HQ3n9hgSDyK9jlj0MKr3iR",
+      "reason": "http 429 (attempt 1)",
+      "name": "Goa 365 Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/HQ3n9hgSDyK9jlj0MKr3iR",
+      "source": "groupda"
+    },
+    {
+      "code": "Hrj3EdXQiW33mFxjT2nFkT",
+      "reason": "http 429 (attempt 2)",
+      "name": "Goa 365 Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Hrj3EdXQiW33mFxjT2nFkT",
+      "source": "groupda"
+    },
+    {
+      "code": "Ba8GH73SqMIKN4LGVdC74s",
+      "reason": "http 429 (attempt 1)",
+      "name": "Goa 365 Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Ba8GH73SqMIKN4LGVdC74s",
+      "source": "groupda"
+    },
+    {
+      "code": "FG3k88WhXGy4Z4rGpyVMSV",
+      "reason": "http 429 (attempt 1)",
+      "name": "Goa 365 Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/FG3k88WhXGy4Z4rGpyVMSV",
+      "source": "groupda"
+    },
+    {
+      "code": "D1Vs0jwIXlBINplT2ssS4t",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kanpur News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/D1Vs0jwIXlBINplT2ssS4t",
+      "source": "groupda"
+    },
+    {
+      "code": "Ggaii4BhGZc80fY7PCgCHv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kanpur News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Ggaii4BhGZc80fY7PCgCHv",
+      "source": "groupda"
+    },
+    {
+      "code": "CAQWX5DEiIVIEQEc5ouJ6l",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kanpur News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/CAQWX5DEiIVIEQEc5ouJ6l",
+      "source": "groupda"
+    },
+    {
+      "code": "K1dnm2CRalBHLoT3qPo0p6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Uttarakhand News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/K1dnm2CRalBHLoT3qPo0p6",
+      "source": "groupda"
+    },
+    {
+      "code": "2cnIMd5omkuAcblwJ2hfAf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Puthiya Thalaimurai News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/2cnIMd5omkuAcblwJ2hfAf",
+      "source": "groupda"
+    },
+    {
+      "code": "KoMTfc3T8yGFFkyzPfm1Az",
+      "reason": "http 429 (attempt 1)",
+      "name": "Puthiya Thalaimurai News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KoMTfc3T8yGFFkyzPfm1Az",
+      "source": "groupda"
+    },
+    {
+      "code": "JNon1WAGvqPEQrH3k3R09b",
+      "reason": "http 429 (attempt 1)",
+      "name": "Puthiya Thalaimurai News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/JNon1WAGvqPEQrH3k3R09b",
+      "source": "groupda"
+    },
+    {
+      "code": "H7333Mf9qi9EOrrtnVaSZv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Puthiya Thalaimurai News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/H7333Mf9qi9EOrrtnVaSZv",
+      "source": "groupda"
+    },
+    {
+      "code": "BJQqGphloGp6j1reTuxi8i",
+      "reason": "http 429 (attempt 1)",
+      "name": "Puthiya Thalaimurai News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BJQqGphloGp6j1reTuxi8i",
+      "source": "groupda"
+    },
+    {
+      "code": "0iVzu2KUk0L5jMI6ACGzov",
+      "reason": "http 429 (attempt 1)",
+      "name": "Puthiya Thalaimurai News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/0iVzu2KUk0L5jMI6ACGzov",
+      "source": "groupda"
+    },
+    {
+      "code": "DgaTgntAz9t35Eji34xsCF",
+      "reason": "http 429 (attempt 2)",
+      "name": "Puthiya Thalaimurai News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/DgaTgntAz9t35Eji34xsCF",
+      "source": "groupda"
+    },
+    {
+      "code": "I38g3rdxz98315swQqBLp0",
+      "reason": "http 429 (attempt 1)",
+      "name": "Puthiya Thalaimurai News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/I38g3rdxz98315swQqBLp0",
+      "source": "groupda"
+    },
+    {
+      "code": "LaUr1lPC6w1G2mvxfDBtUz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Puthiya Thalaimurai News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LaUr1lPC6w1G2mvxfDBtUz",
+      "source": "groupda"
+    },
+    {
+      "code": "CMELU156Ms2DGoAMDIlwWA",
+      "reason": "http 429 (attempt 1)",
+      "name": "Palamu News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/CMELU156Ms2DGoAMDIlwWA",
+      "source": "groupda"
+    },
+    {
+      "code": "Ey7T9odQl6V5dvShvcCRRE",
+      "reason": "http 429 (attempt 2)",
+      "name": "Palamu News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Ey7T9odQl6V5dvShvcCRRE",
+      "source": "groupda"
+    },
+    {
+      "code": "JdHuyLsjTI7JTd6xlg3QWU",
+      "reason": "http 429 (attempt 1)",
+      "name": "Spreadit News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/JdHuyLsjTI7JTd6xlg3QWU",
+      "source": "groupda"
+    },
+    {
+      "code": "B9e4IKUxOgNLqJFBrbZ5ZJ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Ahmedabad News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/B9e4IKUxOgNLqJFBrbZ5ZJ",
+      "source": "groupda"
+    },
+    {
+      "code": "HK31C7nPaik3EqxI9K1OMr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Opera News Hub Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/HK31C7nPaik3EqxI9K1OMr",
+      "source": "groupda"
+    },
+    {
+      "code": "EgCQfeNZhZP4nMicScmsO5",
+      "reason": "http 429 (attempt 2)",
+      "name": "Opera News Hub Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/EgCQfeNZhZP4nMicScmsO5",
+      "source": "groupda"
+    },
+    {
+      "code": "GYe93dBwyUH3SkmkrxWwIq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Opera News Hub Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/GYe93dBwyUH3SkmkrxWwIq",
+      "source": "groupda"
+    },
+    {
+      "code": "Jnozj953axSH10Gfh2neMD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Opera News Hub Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Jnozj953axSH10Gfh2neMD",
+      "source": "groupda"
+    },
+    {
+      "code": "IjE1PBqa7D3ElZ0cy0LVKv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Opera News Hub Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/IjE1PBqa7D3ElZ0cy0LVKv",
+      "source": "groupda"
+    },
+    {
+      "code": "IN8Kpm563YG5mPW8yEAxjy",
+      "reason": "http 429 (attempt 1)",
+      "name": "Opera News Hub Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/IN8Kpm563YG5mPW8yEAxjy",
+      "source": "groupda"
+    },
+    {
+      "code": "KEtXTfecki930Re0H7yzWs",
+      "reason": "http 429 (attempt 1)",
+      "name": "Khyber News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KEtXTfecki930Re0H7yzWs",
+      "source": "groupda"
+    },
+    {
+      "code": "K66G1eVhzilLapYVxegrj2",
+      "reason": "http 429 (attempt 1)",
+      "name": "Khyber News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/K66G1eVhzilLapYVxegrj2",
+      "source": "groupda"
+    },
+    {
+      "code": "JQHo3ylub5j4oyqetRmjYx",
+      "reason": "http 429 (attempt 1)",
+      "name": "Khyber News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/JQHo3ylub5j4oyqetRmjYx",
+      "source": "groupda"
+    },
+    {
+      "code": "KnfSuZsCGlJLSeQvTrvDBL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Khyber News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KnfSuZsCGlJLSeQvTrvDBL",
+      "source": "groupda"
+    },
+    {
+      "code": "EAWcQV1HB1T3VPQj97sZjT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Prabhat Khabar Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/EAWcQV1HB1T3VPQj97sZjT",
+      "source": "groupda"
+    },
+    {
+      "code": "CnGBwWOjbrJD4KDX1OTxoP",
+      "reason": "http 429 (attempt 2)",
+      "name": "Prabhat Khabar Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/CnGBwWOjbrJD4KDX1OTxoP",
+      "source": "groupda"
+    },
+    {
+      "code": "FIIaMnhyDsLKzyaWULio0s",
+      "reason": "http 429 (attempt 2)",
+      "name": "Prabhat Khabar Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/FIIaMnhyDsLKzyaWULio0s",
+      "source": "groupda"
+    },
+    {
+      "code": "IjrYE21X0hlB0DZofdgcHO",
+      "reason": "http 429 (attempt 1)",
+      "name": "Prabhat Khabar Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/IjrYE21X0hlB0DZofdgcHO",
+      "source": "groupda"
+    },
+    {
+      "code": "KzLFuNcHx7XJNBE85SrzDv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Amar Ujala Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KzLFuNcHx7XJNBE85SrzDv",
+      "source": "groupda"
+    },
+    {
+      "code": "HuJDyQbL3xrGU34bBQWLUg",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rizvi Media Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/HuJDyQbL3xrGU34bBQWLUg",
+      "source": "groupda"
+    },
+    {
+      "code": "LerrSn9BWL2IENoe3a62H6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rizvi Media Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/LerrSn9BWL2IENoe3a62H6",
+      "source": "groupda"
+    },
+    {
+      "code": "JXton6qpzaR68tTHypn4Od",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rizvi Media Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/JXton6qpzaR68tTHypn4Od",
+      "source": "groupda"
+    },
+    {
+      "code": "DfYfwhM4tbtDgfA39Knmao",
+      "reason": "http 429 (attempt 2)",
+      "name": "Rizvi Media Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/DfYfwhM4tbtDgfA39Knmao",
+      "source": "groupda"
+    },
+    {
+      "code": "LMP0ySEzH7AJyuV1DUAh4h",
+      "reason": "http 429 (attempt 1)",
+      "name": "Kadaba News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LMP0ySEzH7AJyuV1DUAh4h",
+      "source": "groupda"
+    },
+    {
+      "code": "D5UnikLt2ps6NnKSGdNDzS",
+      "reason": "http 429 (attempt 1)",
+      "name": "KTR Whatsapp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/D5UnikLt2ps6NnKSGdNDzS",
+      "source": "groupda"
+    },
+    {
+      "code": "FrMEjeNluZK4e42g203vMt",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tamil Breaking News WhatsApp Group Link",
+      "invite": "https://chat.whatsapp.com/FrMEjeNluZK4e42g203vMt",
+      "source": "groupda"
+    },
+    {
+      "code": "JkvXYGDVWhiGqd07ux24f1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tamil Breaking News WhatsApp Group Link",
+      "invite": "https://chat.whatsapp.com/JkvXYGDVWhiGqd07ux24f1",
+      "source": "groupda"
+    },
+    {
+      "code": "DMHe6GAI6UY1ss0LutaYvI",
+      "reason": "http 429 (attempt 1)",
+      "name": "Tamil Breaking News WhatsApp Group Link",
+      "invite": "https://chat.whatsapp.com/DMHe6GAI6UY1ss0LutaYvI",
+      "source": "groupda"
+    },
+    {
+      "code": "IYTOJglHkJRBmGJ9ePb6J5",
+      "reason": "http 429 (attempt 2)",
+      "name": "Gujarati News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/IYTOJglHkJRBmGJ9ePb6J5",
+      "source": "groupda"
+    },
+    {
+      "code": "BEj9uUa7ykpIAUscVudGqE",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gujarati News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BEj9uUa7ykpIAUscVudGqE",
+      "source": "groupda"
+    },
+    {
+      "code": "FTdNqiMfMJk0P0pP9gA9RA",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gujarati News Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/FTdNqiMfMJk0P0pP9gA9RA",
+      "source": "groupda"
+    },
+    {
+      "code": "DYJSTuwXjMoGJEkUDFjGB9",
+      "reason": "http 429 (attempt 2)",
+      "name": "Daily Newspaper Whatsapp Group Link Join 2026 Gujarati",
+      "invite": "https://chat.whatsapp.com/DYJSTuwXjMoGJEkUDFjGB9",
+      "source": "groupda"
+    },
+    {
+      "code": "IffxftlGt0W7X7TpBBei0X",
+      "reason": "http 429 (attempt 1)",
+      "name": "Times of India Newspaper Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/IffxftlGt0W7X7TpBBei0X",
+      "source": "groupda"
+    },
+    {
+      "code": "KCKFrjhq6piK1rCUfGIu6E",
+      "reason": "http 429 (attempt 1)",
+      "name": "Times of India Newspaper Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/KCKFrjhq6piK1rCUfGIu6E",
+      "source": "groupda"
+    },
+    {
+      "code": "ElvfaODBJgIK9nlIOuwhea",
+      "reason": "http 429 (attempt 1)",
+      "name": "Times of India Newspaper Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/ElvfaODBJgIK9nlIOuwhea",
+      "source": "groupda"
+    },
+    {
+      "code": "GovWo6uGqgtHogObdAhab5",
+      "reason": "http 429 (attempt 1)",
+      "name": "Times of India Newspaper Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/GovWo6uGqgtHogObdAhab5",
+      "source": "groupda"
+    },
+    {
+      "code": "FzrjrfELYvSBpoFQijYffc",
+      "reason": "http 429 (attempt 1)",
+      "name": "Gujarat Samachar Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/FzrjrfELYvSBpoFQijYffc",
+      "source": "groupda"
+    },
+    {
+      "code": "JvdfkycE2uWBqqtELkBRYq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Dainik Jagran Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/JvdfkycE2uWBqqtELkBRYq",
+      "source": "groupda"
+    },
+    {
+      "code": "GyRgfWnrmjOGvr38WV0jdf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Dainik Jagran Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/GyRgfWnrmjOGvr38WV0jdf",
+      "source": "groupda"
+    },
+    {
+      "code": "E38tlNl6sH5KoIF73az9jP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Dainik Jagran Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/E38tlNl6sH5KoIF73az9jP",
+      "source": "groupda"
+    },
+    {
+      "code": "EGD6MtbiU3dLlMPuTSYQi8",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/EGD6MtbiU3dLlMPuTSYQi8",
+      "source": "groupda"
+    },
+    {
+      "code": "G6orSQcQIf1J8vzBqI6vSf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/G6orSQcQIf1J8vzBqI6vSf",
+      "source": "groupda"
+    },
+    {
+      "code": "J8A7kmaEvOZGVFOQqBsmcK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/J8A7kmaEvOZGVFOQqBsmcK",
+      "source": "groupda"
+    },
+    {
+      "code": "JcUpYm88lGGGKIlh5uQvx0",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/JcUpYm88lGGGKIlh5uQvx0",
+      "source": "groupda"
+    },
+    {
+      "code": "BKCUcptUOju8wbjWQm7hCn",
+      "reason": "http 429 (attempt 2)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/BKCUcptUOju8wbjWQm7hCn",
+      "source": "groupda"
+    },
+    {
+      "code": "J1neQpTDwRIIRngV38S6qe",
+      "reason": "http 429 (attempt 2)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/J1neQpTDwRIIRngV38S6qe",
+      "source": "groupda"
+    },
+    {
+      "code": "LgjriuhFqMtKY8CIvTYKHq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/LgjriuhFqMtKY8CIvTYKHq",
+      "source": "groupda"
+    },
+    {
+      "code": "DgQIMbMmu3cCC6cnU4ppVm",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/DgQIMbMmu3cCC6cnU4ppVm",
+      "source": "groupda"
+    },
+    {
+      "code": "CDbPzQThVzV7UH3FQPaCnp",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/CDbPzQThVzV7UH3FQPaCnp",
+      "source": "groupda"
+    },
+    {
+      "code": "ETMt2ZbRHwx1rh3hDG3NXL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/ETMt2ZbRHwx1rh3hDG3NXL",
+      "source": "groupda"
+    },
+    {
+      "code": "LaSqI58UVyj9ZuJE3hCyoa",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/LaSqI58UVyj9ZuJE3hCyoa",
+      "source": "groupda"
+    },
+    {
+      "code": "GaGgzA1CZaqIuNfk5R0p8f",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/GaGgzA1CZaqIuNfk5R0p8f",
+      "source": "groupda"
+    },
+    {
+      "code": "CqbDC1FshsX2Nb273kaRN6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/CqbDC1FshsX2Nb273kaRN6",
+      "source": "groupda"
+    },
+    {
+      "code": "ImtaX7OTbnNCRJtfmiflYv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/ImtaX7OTbnNCRJtfmiflYv",
+      "source": "groupda"
+    },
+    {
+      "code": "GQgiGvEngoaDlSsOPueJrk",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/GQgiGvEngoaDlSsOPueJrk",
+      "source": "groupda"
+    },
+    {
+      "code": "KiwZGqSfOEGCE79AZOO7FU",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/KiwZGqSfOEGCE79AZOO7FU",
+      "source": "groupda"
+    },
+    {
+      "code": "Fwm0tWBXzoH1SbLrmecEit",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/Fwm0tWBXzoH1SbLrmecEit",
+      "source": "groupda"
+    },
+    {
+      "code": "FziZ5bRGhwqG3iWsp2vcGV",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/FziZ5bRGhwqG3iWsp2vcGV",
+      "source": "groupda"
+    },
+    {
+      "code": "Gdh2Ju6hOdC13Pby3P7UIL",
+      "reason": "http 429 (attempt 2)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/Gdh2Ju6hOdC13Pby3P7UIL",
+      "source": "groupda"
+    },
+    {
+      "code": "D4vLDzTC7JFIltdvalPrWo",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/D4vLDzTC7JFIltdvalPrWo",
+      "source": "groupda"
+    },
+    {
+      "code": "DLQWiPEfZSBHAdaITg3EV9",
+      "reason": "http 429 (attempt 2)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/DLQWiPEfZSBHAdaITg3EV9",
+      "source": "groupda"
+    },
+    {
+      "code": "BmIClrDlK3eGZwMrsc6rdh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/BmIClrDlK3eGZwMrsc6rdh",
+      "source": "groupda"
+    },
+    {
+      "code": "DIBbKIQUUqiBMViAOSq8BT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/DIBbKIQUUqiBMViAOSq8BT",
+      "source": "groupda"
+    },
+    {
+      "code": "FmKnoPZBjv0JIHxFrsgq6S",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/FmKnoPZBjv0JIHxFrsgq6S",
+      "source": "groupda"
+    },
+    {
+      "code": "GtbCzu5UDal2vOFdVuTo1m",
+      "reason": "http 429 (attempt 1)",
+      "name": "Birds Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/GtbCzu5UDal2vOFdVuTo1m",
+      "source": "groupda"
+    },
+    {
+      "code": "IR9BW8QEpz2GSAfsStJUlL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/IR9BW8QEpz2GSAfsStJUlL",
+      "source": "groupda"
+    },
+    {
+      "code": "EYAGdM8gEqO13s2vALVqWU",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/EYAGdM8gEqO13s2vALVqWU",
+      "source": "groupda"
+    },
+    {
+      "code": "KRtFno3cugg0uRfl1v6WBF",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/KRtFno3cugg0uRfl1v6WBF",
+      "source": "groupda"
+    },
+    {
+      "code": "D3P1V3EplEhJidEWdHskQD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/D3P1V3EplEhJidEWdHskQD",
+      "source": "groupda"
+    },
+    {
+      "code": "Dq8AvG8OSch98eps7ZMx9j",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/Dq8AvG8OSch98eps7ZMx9j",
+      "source": "groupda"
+    },
+    {
+      "code": "CjnuO4f3D2j6u5Euyqu1gu",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/CjnuO4f3D2j6u5Euyqu1gu",
+      "source": "groupda"
+    },
+    {
+      "code": "DsxQjgkzNT6ItnscKpv71i",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/DsxQjgkzNT6ItnscKpv71i",
+      "source": "groupda"
+    },
+    {
+      "code": "HhdBJjogEMw2NpI4YmnJCF",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/HhdBJjogEMw2NpI4YmnJCF",
+      "source": "groupda"
+    },
+    {
+      "code": "Es1XgiNsn2YGnoBzj4fXc1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/Es1XgiNsn2YGnoBzj4fXc1",
+      "source": "groupda"
+    },
+    {
+      "code": "FLdXPHs4X04ACMzI49JcF7",
+      "reason": "http 429 (attempt 2)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/FLdXPHs4X04ACMzI49JcF7",
+      "source": "groupda"
+    },
+    {
+      "code": "GyV25EjBMJVGmdU7HfF2P9",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/GyV25EjBMJVGmdU7HfF2P9",
+      "source": "groupda"
+    },
+    {
+      "code": "FkKphYTdPBC8eK5T5IRTHW",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/FkKphYTdPBC8eK5T5IRTHW",
+      "source": "groupda"
+    },
+    {
+      "code": "JmQFtMqBmlrJkRWnPPXVM2",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/JmQFtMqBmlrJkRWnPPXVM2",
+      "source": "groupda"
+    },
+    {
+      "code": "Dk1G7327Ech5z0m7yFrapF",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/Dk1G7327Ech5z0m7yFrapF",
+      "source": "groupda"
+    },
+    {
+      "code": "GZw6ySLRudq47JU9ppd7jN",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/GZw6ySLRudq47JU9ppd7jN",
+      "source": "groupda"
+    },
+    {
+      "code": "KleO6huU91qIHwYESj6KAh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/KleO6huU91qIHwYESj6KAh",
+      "source": "groupda"
+    },
+    {
+      "code": "FAppm8tb6vkD03VBQkAdxi",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/FAppm8tb6vkD03VBQkAdxi",
+      "source": "groupda"
+    },
+    {
+      "code": "H1uxIvDJUqM2wp7GL1vkQo",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/H1uxIvDJUqM2wp7GL1vkQo",
+      "source": "groupda"
+    },
+    {
+      "code": "D9rRrIEVdQjLUEf4rX2vBG",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/D9rRrIEVdQjLUEf4rX2vBG",
+      "source": "groupda"
+    },
+    {
+      "code": "I7xcjhbLW7kAEs7oh4vHwJ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/I7xcjhbLW7kAEs7oh4vHwJ",
+      "source": "groupda"
+    },
+    {
+      "code": "J5yEQf7LHDXHHmMcUq1CaU",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/J5yEQf7LHDXHHmMcUq1CaU",
+      "source": "groupda"
+    },
+    {
+      "code": "Jqu6Db6N1kY2IjEtEyAiMK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/Jqu6Db6N1kY2IjEtEyAiMK",
+      "source": "groupda"
+    },
+    {
+      "code": "EMO0GcImd3aIL2SyF4ShvK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/EMO0GcImd3aIL2SyF4ShvK",
+      "source": "groupda"
+    },
+    {
+      "code": "FyT9NfGgKteIvXXc64vFcn",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/FyT9NfGgKteIvXXc64vFcn",
+      "source": "groupda"
+    },
+    {
+      "code": "GKNJuB599u2AXo9OmjXQTD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/GKNJuB599u2AXo9OmjXQTD",
+      "source": "groupda"
+    },
+    {
+      "code": "E4AMd3jxput6tZ9h5h1zzX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/E4AMd3jxput6tZ9h5h1zzX",
+      "source": "groupda"
+    },
+    {
+      "code": "LTEk8s3RXcTEvVP42z35YS",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/LTEk8s3RXcTEvVP42z35YS",
+      "source": "groupda"
+    },
+    {
+      "code": "JXrax6zv3D043PROqEAW1U",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/JXrax6zv3D043PROqEAW1U",
+      "source": "groupda"
+    },
+    {
+      "code": "L7aWZbudUmW8C5BvHLb4PQ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/L7aWZbudUmW8C5BvHLb4PQ",
+      "source": "groupda"
+    },
+    {
+      "code": "BbNlzrRefRQHZVnzWCE4mJ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/BbNlzrRefRQHZVnzWCE4mJ",
+      "source": "groupda"
+    },
+    {
+      "code": "LZZ4F6vMCrwHO9H17IDOJq",
+      "reason": "http 429 (attempt 2)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/LZZ4F6vMCrwHO9H17IDOJq",
+      "source": "groupda"
+    },
+    {
+      "code": "JsHh5NzWtasH32WA9kU2RT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/JsHh5NzWtasH32WA9kU2RT",
+      "source": "groupda"
+    },
+    {
+      "code": "B7EHMByskn68uVqleg05pv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/B7EHMByskn68uVqleg05pv",
+      "source": "groupda"
+    },
+    {
+      "code": "CF6R4zX8tf6KBFknLEoH8q",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/CF6R4zX8tf6KBFknLEoH8q",
+      "source": "groupda"
+    },
+    {
+      "code": "KZKEGEJkO2w4HMDiHGhpui",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/KZKEGEJkO2w4HMDiHGhpui",
+      "source": "groupda"
+    },
+    {
+      "code": "LnExdJChEQa1qpeYBf0C4w",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/LnExdJChEQa1qpeYBf0C4w",
+      "source": "groupda"
+    },
+    {
+      "code": "IXJd7aW3LfZ4A2M7zyJKAv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Pigeon Whatsapp Group Link Pakistan Join 2026",
+      "invite": "https://chat.whatsapp.com/IXJd7aW3LfZ4A2M7zyJKAv",
+      "source": "groupda"
+    },
+    {
+      "code": "F8acNvJmrzGFYUWi22C4aw",
+      "reason": "http 429 (attempt 1)",
+      "name": "Delhi Police Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/F8acNvJmrzGFYUWi22C4aw",
+      "source": "groupda"
+    },
+    {
+      "code": "LrGypTPE6YuFSeZua9ZZJv",
+      "reason": "http 429 (attempt 1)",
+      "name": "Delhi Police Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LrGypTPE6YuFSeZua9ZZJv",
+      "source": "groupda"
+    },
+    {
+      "code": "8Un4M5rJoa212gx9qkEu2E",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rajasthan Police Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/8Un4M5rJoa212gx9qkEu2E",
+      "source": "groupda"
+    },
+    {
+      "code": "FSFWLqm4SBqBKY0qxgLUGc",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rajasthan Police Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/FSFWLqm4SBqBKY0qxgLUGc",
+      "source": "groupda"
+    },
+    {
+      "code": "2OSmZnl2T2pKQhGEmGSOQL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rajasthan Police Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/2OSmZnl2T2pKQhGEmGSOQL",
+      "source": "groupda"
+    },
+    {
+      "code": "9zGbCtltmNR6nk02MLuRBq",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rajasthan Police Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/9zGbCtltmNR6nk02MLuRBq",
+      "source": "groupda"
+    },
+    {
+      "code": "HQ0oIGijL0XIyHZTxzPwIh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rajasthan Police Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/HQ0oIGijL0XIyHZTxzPwIh",
+      "source": "groupda"
+    },
+    {
+      "code": "LeaXecJyHYn7fwJqQAxKvh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rajasthan Police Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LeaXecJyHYn7fwJqQAxKvh",
+      "source": "groupda"
+    },
+    {
+      "code": "24K8HtcPsCVLtdszeAjkqd",
+      "reason": "http 429 (attempt 1)",
+      "name": "Rajasthan Police Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/24K8HtcPsCVLtdszeAjkqd",
+      "source": "groupda"
+    },
+    {
+      "code": "Gze0e7yzqUtGyDWfif7BT7",
+      "reason": "http 429 (attempt 1)",
+      "name": "Karnataka Police Exam Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Gze0e7yzqUtGyDWfif7BT7",
+      "source": "groupda"
+    },
+    {
+      "code": "Cs1Li9Z4br2DbGpJZgF5Zy",
+      "reason": "http 429 (attempt 1)",
+      "name": "Samajwadi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Cs1Li9Z4br2DbGpJZgF5Zy",
+      "source": "groupda"
+    },
+    {
+      "code": "DNCv2n9eAKqI0NCFkM3gNd",
+      "reason": "http 429 (attempt 1)",
+      "name": "Samajwadi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/DNCv2n9eAKqI0NCFkM3gNd",
+      "source": "groupda"
+    },
+    {
+      "code": "IuufLeVStVZ9WyX7LGYsBM",
+      "reason": "http 429 (attempt 1)",
+      "name": "Samajwadi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/IuufLeVStVZ9WyX7LGYsBM",
+      "source": "groupda"
+    },
+    {
+      "code": "D0TJ5NwqXggBiSrnqLOd2c",
+      "reason": "http 429 (attempt 1)",
+      "name": "Samajwadi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/D0TJ5NwqXggBiSrnqLOd2c",
+      "source": "groupda"
+    },
+    {
+      "code": "BUu0fjIDxvj1hMOUJ2AeIs",
+      "reason": "http 429 (attempt 1)",
+      "name": "Aam Aadmi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/BUu0fjIDxvj1hMOUJ2AeIs",
+      "source": "groupda"
+    },
+    {
+      "code": "Gi7IS0R1UK2LJtUixzb8TP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Aam Aadmi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Gi7IS0R1UK2LJtUixzb8TP",
+      "source": "groupda"
+    },
+    {
+      "code": "EhXrE1n1naiDzqjdPXKaya",
+      "reason": "http 429 (attempt 1)",
+      "name": "Aam Aadmi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/EhXrE1n1naiDzqjdPXKaya",
+      "source": "groupda"
+    },
+    {
+      "code": "C0TN4fauJcaGILiKwvPXYb",
+      "reason": "http 429 (attempt 1)",
+      "name": "Aam Aadmi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/C0TN4fauJcaGILiKwvPXYb",
+      "source": "groupda"
+    },
+    {
+      "code": "DPHzRu6LdcvFZGSXQlnFok",
+      "reason": "http 429 (attempt 1)",
+      "name": "Aam Aadmi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/DPHzRu6LdcvFZGSXQlnFok",
+      "source": "groupda"
+    },
+    {
+      "code": "Ks8kigErdbhCL7gEcbQJNd",
+      "reason": "http 429 (attempt 1)",
+      "name": "Aam Aadmi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Ks8kigErdbhCL7gEcbQJNd",
+      "source": "groupda"
+    },
+    {
+      "code": "L91Mp2yb3KE5NCn4loHhp9",
+      "reason": "http 429 (attempt 1)",
+      "name": "Aam Aadmi Party Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/L91Mp2yb3KE5NCn4loHhp9",
+      "source": "groupda"
+    },
+    {
+      "code": "KqXBOaCpKKQD98tsvrzidK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/KqXBOaCpKKQD98tsvrzidK",
+      "source": "groupda"
+    },
+    {
+      "code": "JBY8kPtm2t5LOibJcbgX8w",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/JBY8kPtm2t5LOibJcbgX8w",
+      "source": "groupda"
+    },
+    {
+      "code": "GSWdLv4vUsMCRaX4mNu2er",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/GSWdLv4vUsMCRaX4mNu2er",
+      "source": "groupda"
+    },
+    {
+      "code": "CaaORoqFaFtBLBFLYgKwPw",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/CaaORoqFaFtBLBFLYgKwPw",
+      "source": "groupda"
+    },
+    {
+      "code": "LoaYzQJGe3PCtweBlbp1IY",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/LoaYzQJGe3PCtweBlbp1IY",
+      "source": "groupda"
+    },
+    {
+      "code": "DNMzhUD4QJJLMz3JqcUlGi",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/DNMzhUD4QJJLMz3JqcUlGi",
+      "source": "groupda"
+    },
+    {
+      "code": "FpZTv9wByS1KqRmxqyLhEj",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/FpZTv9wByS1KqRmxqyLhEj",
+      "source": "groupda"
+    },
+    {
+      "code": "InnnfiPzSpL9KWVkaccXjQ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/InnnfiPzSpL9KWVkaccXjQ",
+      "source": "groupda"
+    },
+    {
+      "code": "GVP1DUA8xjs8JGxQood1Ut",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/GVP1DUA8xjs8JGxQood1Ut",
+      "source": "groupda"
+    },
+    {
+      "code": "D3lLhs7dfSoLRVqnAjMs6o",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/D3lLhs7dfSoLRVqnAjMs6o",
+      "source": "groupda"
+    },
+    {
+      "code": "DEX7BDqsk9l0qfyErKiuvZ",
+      "reason": "http 429 (attempt 2)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/DEX7BDqsk9l0qfyErKiuvZ",
+      "source": "groupda"
+    },
+    {
+      "code": "K96diFwfaf6D1gt8CZQfDs",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/K96diFwfaf6D1gt8CZQfDs",
+      "source": "groupda"
+    },
+    {
+      "code": "LAIOuyGBo6y5AYkkxyCXUX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/LAIOuyGBo6y5AYkkxyCXUX",
+      "source": "groupda"
+    },
+    {
+      "code": "JuwZcDpaICRGu5dKlYTPgd",
+      "reason": "http 429 (attempt 1)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/JuwZcDpaICRGu5dKlYTPgd",
+      "source": "groupda"
+    },
+    {
+      "code": "FEIDzSeAp4oGe54iaeSYwS",
+      "reason": "http 429 (attempt 2)",
+      "name": "Mom Lover Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/FEIDzSeAp4oGe54iaeSYwS",
+      "source": "groupda"
+    },
+    {
+      "code": "CMF6ixhxPl5GBDMELjDDZP",
+      "reason": "http 429 (attempt 1)",
+      "name": "TTV Dinakaran Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/CMF6ixhxPl5GBDMELjDDZP",
+      "source": "groupda"
+    },
+    {
+      "code": "H3NybgV7TFPBw5GPYJCCLY",
+      "reason": "http 429 (attempt 1)",
+      "name": "TTV Dinakaran Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/H3NybgV7TFPBw5GPYJCCLY",
+      "source": "groupda"
+    },
+    {
+      "code": "EGi58HHMZ95ASCJhx7YtzR",
+      "reason": "http 429 (attempt 1)",
+      "name": "TTV Dinakaran Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/EGi58HHMZ95ASCJhx7YtzR",
+      "source": "groupda"
+    },
+    {
+      "code": "LKwiqaBv6u8HFoJPenncVl",
+      "reason": "http 429 (attempt 1)",
+      "name": "TTV Dinakaran Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/LKwiqaBv6u8HFoJPenncVl",
+      "source": "groupda"
+    },
+    {
+      "code": "H6iMsrsKr8p6X1e7ddWuvu",
+      "reason": "http 429 (attempt 1)",
+      "name": "YSRCP Official Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/H6iMsrsKr8p6X1e7ddWuvu",
+      "source": "groupda"
+    },
+    {
+      "code": "6ngPlqzfjeICuSJ6kxqJ0e",
+      "reason": "http 429 (attempt 1)",
+      "name": "YSRCP Official Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/6ngPlqzfjeICuSJ6kxqJ0e",
+      "source": "groupda"
+    },
+    {
+      "code": "GZJ16vdJTcH0VwpubsBmee",
+      "reason": "http 429 (attempt 1)",
+      "name": "YSRCP Official Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/GZJ16vdJTcH0VwpubsBmee",
+      "source": "groupda"
+    },
+    {
+      "code": "Fhmf4LpdK630u7d3j46Ta0",
+      "reason": "http 429 (attempt 1)",
+      "name": "YSRCP Official Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Fhmf4LpdK630u7d3j46Ta0",
+      "source": "groupda"
+    },
+    {
+      "code": "FM2Aiu0LdnIHLvzsQuc7Rc",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/FM2Aiu0LdnIHLvzsQuc7Rc",
+      "source": "groupda"
+    },
+    {
+      "code": "ENKsktPUstk8BXXgpCCuTT",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/ENKsktPUstk8BXXgpCCuTT",
+      "source": "groupda"
+    },
+    {
+      "code": "DoPDXcFg4vrJKo2qLveWOU",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/DoPDXcFg4vrJKo2qLveWOU",
+      "source": "groupda"
+    },
+    {
+      "code": "E6FxGDDbjjz9IbAvGFfOa7",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/E6FxGDDbjjz9IbAvGFfOa7",
+      "source": "groupda"
+    },
+    {
+      "code": "G9eYLlT4dCn0HGi5s3VmbJ",
+      "reason": "http 429 (attempt 2)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/G9eYLlT4dCn0HGi5s3VmbJ",
+      "source": "groupda"
+    },
+    {
+      "code": "BqRCsDOXkeKLExoHutXq8r",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/BqRCsDOXkeKLExoHutXq8r",
+      "source": "groupda"
+    },
+    {
+      "code": "HvQOwiecvDtJsKTMFyQ9xO",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/HvQOwiecvDtJsKTMFyQ9xO",
+      "source": "groupda"
+    },
+    {
+      "code": "HkcfIyrbpXO7CdEFXnDZwt",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/HkcfIyrbpXO7CdEFXnDZwt",
+      "source": "groupda"
+    },
+    {
+      "code": "IEBFLBaMcQO2XPc9n4P1BD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/IEBFLBaMcQO2XPc9n4P1BD",
+      "source": "groupda"
+    },
+    {
+      "code": "F2wkfmgLF3eEjnUFy5v5Pu",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/F2wkfmgLF3eEjnUFy5v5Pu",
+      "source": "groupda"
+    },
+    {
+      "code": "G5RZUrOolkgAfPvrHGoAIP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/G5RZUrOolkgAfPvrHGoAIP",
+      "source": "groupda"
+    },
+    {
+      "code": "DNnpJ2Xy7ML3IomujO7WQI",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/DNnpJ2Xy7ML3IomujO7WQI",
+      "source": "groupda"
+    },
+    {
+      "code": "Cmm9n67eEwe1sE7Pu3dZqX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Cmm9n67eEwe1sE7Pu3dZqX",
+      "source": "groupda"
+    },
+    {
+      "code": "CkQBCCB6Uh5HdPkhg7TK3Q",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/CkQBCCB6Uh5HdPkhg7TK3Q",
+      "source": "groupda"
+    },
+    {
+      "code": "Dq3JqPnv2EL5ZdcjSJT5nx",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Dq3JqPnv2EL5ZdcjSJT5nx",
+      "source": "groupda"
+    },
+    {
+      "code": "GPqj1u7JoZU7D3cqFr6n6l",
+      "reason": "http 429 (attempt 1)",
+      "name": "Viral Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/GPqj1u7JoZU7D3cqFr6n6l",
+      "source": "groupda"
+    },
+    {
+      "code": "GOAWDgjRAMlHyf4fHc2sre",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/GOAWDgjRAMlHyf4fHc2sre",
+      "source": "groupda"
+    },
+    {
+      "code": "HP1WUXJKaVpF63AqsDjGlA",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/HP1WUXJKaVpF63AqsDjGlA",
+      "source": "groupda"
+    },
+    {
+      "code": "FwkM9YvkUdbB4hjmgMNewk",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/FwkM9YvkUdbB4hjmgMNewk",
+      "source": "groupda"
+    },
+    {
+      "code": "HqyCflW7IijDdviOTTFZgg",
+      "reason": "http 429 (attempt 2)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/HqyCflW7IijDdviOTTFZgg",
+      "source": "groupda"
+    },
+    {
+      "code": "DkSyz5W6lRoCdMDvE1sCjr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/DkSyz5W6lRoCdMDvE1sCjr",
+      "source": "groupda"
+    },
+    {
+      "code": "Eo2n6FeQ8Lj18VRspcGYb7",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Eo2n6FeQ8Lj18VRspcGYb7",
+      "source": "groupda"
+    },
+    {
+      "code": "EGAXVCJW5STETbe19hV1nP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/EGAXVCJW5STETbe19hV1nP",
+      "source": "groupda"
+    },
+    {
+      "code": "DKJgD3cAgo7AFzuBazenF4",
+      "reason": "http 429 (attempt 2)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/DKJgD3cAgo7AFzuBazenF4",
+      "source": "groupda"
+    },
+    {
+      "code": "LRDZLelDhNP6H3PtLs4V0P",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/LRDZLelDhNP6H3PtLs4V0P",
+      "source": "groupda"
+    },
+    {
+      "code": "IaEWzhW8L8nBWZIIDPmElK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/IaEWzhW8L8nBWZIIDPmElK",
+      "source": "groupda"
+    },
+    {
+      "code": "BDQNMT66PsbGGablQRDury",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/BDQNMT66PsbGGablQRDury",
+      "source": "groupda"
+    },
+    {
+      "code": "JO2KkG0Stb0DBHPRFfp7qm",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/JO2KkG0Stb0DBHPRFfp7qm",
+      "source": "groupda"
+    },
+    {
+      "code": "KcqnVW1bCz41qZoZxQbuNs",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/KcqnVW1bCz41qZoZxQbuNs",
+      "source": "groupda"
+    },
+    {
+      "code": "Lc6UEFF4X660io6l0N1kWX",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Lc6UEFF4X660io6l0N1kWX",
+      "source": "groupda"
+    },
+    {
+      "code": "BZON1AOnzYd0ANLjABNeJI",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/BZON1AOnzYd0ANLjABNeJI",
+      "source": "groupda"
+    },
+    {
+      "code": "Cq1y4me6nl4EqMFlf8uluP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Insta Gamer Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Cq1y4me6nl4EqMFlf8uluP",
+      "source": "groupda"
+    },
+    {
+      "code": "LEiUyi8nc6P0mQWKyGBDzP",
+      "reason": "http 429 (attempt 1)",
+      "name": "Advocate Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/LEiUyi8nc6P0mQWKyGBDzP",
+      "source": "groupda"
+    },
+    {
+      "code": "I9w40KcfCn29ggvzxpCauS",
+      "reason": "http 429 (attempt 1)",
+      "name": "Saree Manufacturer WhatsApp Group Links",
+      "invite": "https://chat.whatsapp.com/I9w40KcfCn29ggvzxpCauS",
+      "source": "groupda"
+    },
+    {
+      "code": "IXM1Nz2VGUDJ64CNzRRd6O",
+      "reason": "http 429 (attempt 1)",
+      "name": "Aerospace Engineering WhatsApp Group Links",
+      "invite": "https://chat.whatsapp.com/IXM1Nz2VGUDJ64CNzRRd6O",
+      "source": "groupda"
+    },
+    {
+      "code": "L6p38eyeRQuDeSNgtajnZY",
+      "reason": "http 429 (attempt 2)",
+      "name": "Sidhu Moose Wala Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/L6p38eyeRQuDeSNgtajnZY",
+      "source": "groupda"
+    },
+    {
+      "code": "BrXjUEACnE156yDXYarclZ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Sidhu Moose Wala Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/BrXjUEACnE156yDXYarclZ",
+      "source": "groupda"
+    },
+    {
+      "code": "GwdMLjSAjQVDEW5n0Y03rn",
+      "reason": "http 429 (attempt 1)",
+      "name": "Sidhu Moose Wala Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/GwdMLjSAjQVDEW5n0Y03rn",
+      "source": "groupda"
+    },
+    {
+      "code": "HmZJD0M9BPDKTvov6vO2SB",
+      "reason": "http 429 (attempt 1)",
+      "name": "Sidhu Moose Wala Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/HmZJD0M9BPDKTvov6vO2SB",
+      "source": "groupda"
+    },
+    {
+      "code": "LngEFg7imWdL4FTLm6bdin",
+      "reason": "http 429 (attempt 1)",
+      "name": "Sidhu Moose Wala Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/LngEFg7imWdL4FTLm6bdin",
+      "source": "groupda"
+    },
+    {
+      "code": "KVwWLNeD6ku9zt9XfbOdiN",
+      "reason": "http 429 (attempt 1)",
+      "name": "Sidhu Moose Wala Whatsapp Group Link 2026",
+      "invite": "https://chat.whatsapp.com/KVwWLNeD6ku9zt9XfbOdiN",
+      "source": "groupda"
+    },
+    {
+      "code": "INhEEQIf0nDCSEHCqqdfB8",
+      "reason": "http 429 (attempt 1)",
+      "name": "Dubai Sugar Mummy whatsapp group Link",
+      "invite": "https://chat.whatsapp.com/INhEEQIf0nDCSEHCqqdfB8",
+      "source": "groupda"
+    },
+    {
+      "code": "GOOF0zC0b3YBFn7b8oo0PF",
+      "reason": "http 429 (attempt 1)",
+      "name": "Urban WhatsApp Group Links Join List 2026",
+      "invite": "https://chat.whatsapp.com/GOOF0zC0b3YBFn7b8oo0PF",
+      "source": "groupda"
+    },
+    {
+      "code": "GEjlqDOpHteL1uN5l7Ld8S",
+      "reason": "http 429 (attempt 1)",
+      "name": "AKC Sarees Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/GEjlqDOpHteL1uN5l7Ld8S",
+      "source": "groupda"
+    },
+    {
+      "code": "EthtrhQVCdH5qekxE2rF4b",
+      "reason": "http 429 (attempt 1)",
+      "name": "AKC Sarees Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/EthtrhQVCdH5qekxE2rF4b",
+      "source": "groupda"
+    },
+    {
+      "code": "Lts2zsh6u4Z8EAB1RJ1d2A",
+      "reason": "http 429 (attempt 1)",
+      "name": "AKC Sarees Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Lts2zsh6u4Z8EAB1RJ1d2A",
+      "source": "groupda"
+    },
+    {
+      "code": "JdQ5kM7vwIS2pV6Q1YRZMK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Abp Maza Marathi News WhatsApp Group Link Join List",
+      "invite": "https://chat.whatsapp.com/JdQ5kM7vwIS2pV6Q1YRZMK",
+      "source": "groupda"
+    },
+    {
+      "code": "FbbgIrjZQMGEDZLR4p7YkQ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/FbbgIrjZQMGEDZLR4p7YkQ",
+      "source": "groupda"
+    },
+    {
+      "code": "FGyU5pFirZyKobCpnDoEIW",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/FGyU5pFirZyKobCpnDoEIW",
+      "source": "groupda"
+    },
+    {
+      "code": "FZM4t0zZIng02snWUdOloE",
+      "reason": "http 429 (attempt 2)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/FZM4t0zZIng02snWUdOloE",
+      "source": "groupda"
+    },
+    {
+      "code": "F8eBNm4jpMlDh5JiCi3ClE",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/F8eBNm4jpMlDh5JiCi3ClE",
+      "source": "groupda"
+    },
+    {
+      "code": "LNYSXnn8SS0727Imz9SbC6",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/LNYSXnn8SS0727Imz9SbC6",
+      "source": "groupda"
+    },
+    {
+      "code": "HeVpRSo00HeGW71fLLAAjr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/HeVpRSo00HeGW71fLLAAjr",
+      "source": "groupda"
+    },
+    {
+      "code": "KgJAQONcLxhJdlY5qK4rU1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/KgJAQONcLxhJdlY5qK4rU1",
+      "source": "groupda"
+    },
+    {
+      "code": "D1j2T8i65VV0UqsuC2oSit",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/D1j2T8i65VV0UqsuC2oSit",
+      "source": "groupda"
+    },
+    {
+      "code": "D1KasgJUmtBKnE6JpZCFau",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/D1KasgJUmtBKnE6JpZCFau",
+      "source": "groupda"
+    },
+    {
+      "code": "D4nQnMdn2x0IABmU2fCXjp",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/D4nQnMdn2x0IABmU2fCXjp",
+      "source": "groupda"
+    },
+    {
+      "code": "B8HtBWRVmOxBtKCSk1ZvLt",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/B8HtBWRVmOxBtKCSk1ZvLt",
+      "source": "groupda"
+    },
+    {
+      "code": "EXI5KF8HuBc7lKke62lr2n",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/EXI5KF8HuBc7lKke62lr2n",
+      "source": "groupda"
+    },
+    {
+      "code": "HS6cUquZ98iLqAH3RegNCI",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/HS6cUquZ98iLqAH3RegNCI",
+      "source": "groupda"
+    },
+    {
+      "code": "Dbi6wAsgSAxHY6llyIVqlc",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/Dbi6wAsgSAxHY6llyIVqlc",
+      "source": "groupda"
+    },
+    {
+      "code": "DkZ53O1M1oU65J2lDxneEf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/DkZ53O1M1oU65J2lDxneEf",
+      "source": "groupda"
+    },
+    {
+      "code": "HpvmeeMQpSXHCR0W5YZd6R",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/HpvmeeMQpSXHCR0W5YZd6R",
+      "source": "groupda"
+    },
+    {
+      "code": "CG5txLPXqm6EOoUW5jxowz",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/CG5txLPXqm6EOoUW5jxowz",
+      "source": "groupda"
+    },
+    {
+      "code": "CAVB9CoH8RM7RPPH2QKata",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/CAVB9CoH8RM7RPPH2QKata",
+      "source": "groupda"
+    },
+    {
+      "code": "Fl5RQsZyHWA371R08mkW4X",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/Fl5RQsZyHWA371R08mkW4X",
+      "source": "groupda"
+    },
+    {
+      "code": "HtDe0TibsuZJC58pcqgnjh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/HtDe0TibsuZJC58pcqgnjh",
+      "source": "groupda"
+    },
+    {
+      "code": "L9sx24ThG4QEuekVXdZqmB",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/L9sx24ThG4QEuekVXdZqmB",
+      "source": "groupda"
+    },
+    {
+      "code": "CeXqbjIU2Yi71FFzcFGRfr",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/CeXqbjIU2Yi71FFzcFGRfr",
+      "source": "groupda"
+    },
+    {
+      "code": "ED9ToI6oDubEbezuMiDYiJ",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/ED9ToI6oDubEbezuMiDYiJ",
+      "source": "groupda"
+    },
+    {
+      "code": "BqaIzNRLWlq09lGuVUVcZw",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/BqaIzNRLWlq09lGuVUVcZw",
+      "source": "groupda"
+    },
+    {
+      "code": "EWht0kj6ZbDDN8lBHSCWMg",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/EWht0kj6ZbDDN8lBHSCWMg",
+      "source": "groupda"
+    },
+    {
+      "code": "KEKWpvU4BNaA0GxZvdrGpY",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/KEKWpvU4BNaA0GxZvdrGpY",
+      "source": "groupda"
+    },
+    {
+      "code": "BhKCPEtdfxlFEj6ty4HxW5",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/BhKCPEtdfxlFEj6ty4HxW5",
+      "source": "groupda"
+    },
+    {
+      "code": "GrntOps2VzQC3SzVy0DNS1",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/GrntOps2VzQC3SzVy0DNS1",
+      "source": "groupda"
+    },
+    {
+      "code": "D1BkNBVchZd6fqnbBXZClY",
+      "reason": "http 429 (attempt 2)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/D1BkNBVchZd6fqnbBXZClY",
+      "source": "groupda"
+    },
+    {
+      "code": "GkAQY3Ldhpe7kcskM4uRRp",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/GkAQY3Ldhpe7kcskM4uRRp",
+      "source": "groupda"
+    },
+    {
+      "code": "BQsPSbV6TKn3wkyJDrDL8T",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/BQsPSbV6TKn3wkyJDrDL8T",
+      "source": "groupda"
+    },
+    {
+      "code": "GR9xEhMOrwHIVjlhBNekqy",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/GR9xEhMOrwHIVjlhBNekqy",
+      "source": "groupda"
+    },
+    {
+      "code": "GXeJzuVvzSoJfWCqbndiuy",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/GXeJzuVvzSoJfWCqbndiuy",
+      "source": "groupda"
+    },
+    {
+      "code": "DeWgfI5V7Dc8n33ryx9K0z",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/DeWgfI5V7Dc8n33ryx9K0z",
+      "source": "groupda"
+    },
+    {
+      "code": "K8ZWtNoF6dHLNFC8EoWfJ4",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/K8ZWtNoF6dHLNFC8EoWfJ4",
+      "source": "groupda"
+    },
+    {
+      "code": "GuN0PVK6ZsFAjgtWzCAUKL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/GuN0PVK6ZsFAjgtWzCAUKL",
+      "source": "groupda"
+    },
+    {
+      "code": "BSmXjEBM9esF9qvsK2ozU2",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/BSmXjEBM9esF9qvsK2ozU2",
+      "source": "groupda"
+    },
+    {
+      "code": "GsVyh1O5znu99ubIAeUmou",
+      "reason": "http 429 (attempt 1)",
+      "name": "Whatsapp Group Link For The Month of June-2026",
+      "invite": "https://chat.whatsapp.com/GsVyh1O5znu99ubIAeUmou",
+      "source": "groupda"
+    },
+    {
+      "code": "JX0d4tWWZRJ63X6wjHGBKf",
+      "reason": "http 429 (attempt 1)",
+      "name": "Coreldraw Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/JX0d4tWWZRJ63X6wjHGBKf",
+      "source": "groupda"
+    },
+    {
+      "code": "Kglu6tzJnJ5JojvIqPpGx5",
+      "reason": "http 429 (attempt 1)",
+      "name": "Coreldraw Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/Kglu6tzJnJ5JojvIqPpGx5",
+      "source": "groupda"
+    },
+    {
+      "code": "G3wmDcymCiQ2lRzb3edByh",
+      "reason": "http 429 (attempt 1)",
+      "name": "Coreldraw Whatsapp Group Link Join 2026",
+      "invite": "https://chat.whatsapp.com/G3wmDcymCiQ2lRzb3edByh",
+      "source": "groupda"
+    },
+    {
+      "code": "BILKzXWXqpTKCu7QHkj9vK",
+      "reason": "http 429 (attempt 1)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/BILKzXWXqpTKCu7QHkj9vK",
+      "source": "groupda"
+    },
+    {
+      "code": "F06BKMW869KIiL6JhJqQtC",
+      "reason": "http 429 (attempt 1)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/F06BKMW869KIiL6JhJqQtC",
+      "source": "groupda"
+    },
+    {
+      "code": "CJlwAoHoAOFBLy5JRCotBC",
+      "reason": "http 429 (attempt 1)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/CJlwAoHoAOFBLy5JRCotBC",
+      "source": "groupda"
+    },
+    {
+      "code": "BdmMPiLyr7C6BCaPGlcODw",
+      "reason": "http 429 (attempt 1)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/BdmMPiLyr7C6BCaPGlcODw",
+      "source": "groupda"
+    },
+    {
+      "code": "Gq47TgWnt5zJkDsvoO45JD",
+      "reason": "http 429 (attempt 1)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/Gq47TgWnt5zJkDsvoO45JD",
+      "source": "groupda"
+    },
+    {
+      "code": "BbT6KrxYljEID9aaXMWwso",
+      "reason": "http 429 (attempt 2)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/BbT6KrxYljEID9aaXMWwso",
+      "source": "groupda"
+    },
+    {
+      "code": "CeWE7S9LQ8bHp9szibkZ1J",
+      "reason": "http 429 (attempt 1)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/CeWE7S9LQ8bHp9szibkZ1J",
+      "source": "groupda"
+    },
+    {
+      "code": "CpSdkx9JmVI3cPpJBhY5wj",
+      "reason": "http 429 (attempt 1)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/CpSdkx9JmVI3cPpJBhY5wj",
+      "source": "groupda"
+    },
+    {
+      "code": "JTedxyWBbpQ5ojk0546fqW",
+      "reason": "http 429 (attempt 1)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/JTedxyWBbpQ5ojk0546fqW",
+      "source": "groupda"
+    },
+    {
+      "code": "C27ki6O6A7oLxp5cXefOrL",
+      "reason": "http 429 (attempt 1)",
+      "name": "Arakkal Tharavadu Whatsapp Group Link",
+      "invite": "https://chat.whatsapp.com/C27ki6O6A7oLxp5cXefOrL",
+      "source": "groupda"
+    },
+    {
+      "code": "EWuTzIaGbiVFP94vWswR4m",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysian Girls Whatsapp Group Links",
+      "invite": "https://chat.whatsapp.com/EWuTzIaGbiVFP94vWswR4m",
+      "source": "groupda"
+    },
+    {
+      "code": "LUp1ptJbIOAIfgLH4dtE7C",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysian Girls Whatsapp Group Links",
+      "invite": "https://chat.whatsapp.com/LUp1ptJbIOAIfgLH4dtE7C",
+      "source": "groupda"
+    },
+    {
+      "code": "FDRqgJdH9dOLefiKi4GfzS",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysian Girls Whatsapp Group Links",
+      "invite": "https://chat.whatsapp.com/FDRqgJdH9dOLefiKi4GfzS",
+      "source": "groupda"
+    },
+    {
+      "code": "C260bAwgmzMFmmkyQTZHHo",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysian Girls Whatsapp Group Links",
+      "invite": "https://chat.whatsapp.com/C260bAwgmzMFmmkyQTZHHo",
+      "source": "groupda"
+    },
+    {
+      "code": "FvInt8ljTch1tFF2aRI5dM",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysian Girls Whatsapp Group Links",
+      "invite": "https://chat.whatsapp.com/FvInt8ljTch1tFF2aRI5dM",
+      "source": "groupda"
+    },
+    {
+      "code": "IgEN1PUpSkG2Wr1xE3QabR",
+      "reason": "http 429 (attempt 1)",
+      "name": "Malaysian Girls Whatsapp Group Links",
+      "invite": "https://chat.whatsapp.com/IgEN1PUpSkG2Wr1xE3QabR",
+      "source": "groupda"
+    }
+  ],
+  "resume_point": "verify progress banked in team30-verify-progress.json (1306 codes checked). Recheck pass re-verified 55 of the 728 HTTP-429 pending codes after a cool-off (35 more live found) before WhatsApp 429-blocked the IP again after ~180 requests; 673 still pending (all HTTP 429). Rate-limit pattern observed: ~150-200 chat.whatsapp.com fetches per window, then 429 block — next run should recheck remaining pending in chunks of ~100 with 15-20 min cool-offs between chunks, 1-2 workers. groupda codes not in union: 3446 (non-adult 2567, adult 879); 2246 deferred unverified this run (adult cat_path + non-adult beyond the 1200 freshest-first cap); all listed in team30-groupda-mined.json with in_union flags — rerun team30_verify.py with TEAM30_GD_CAP=<n> to continue. groupizo fresh set fully mined in team30-mined-raw.json.",
+  "notes": "Names taken from live og:title (capped 120 chars). Category from groupizo breadcrumb / groupda post path, mapped to canonical list; country from groupizo breadcrumb via ISO lookup, groupda country left empty (not guessed). Descriptions generated, never copied. No source name/link stored. Girls/friendship kept; hard porn/casino/scam dropped on live title with false-positive restores (negated prohibitions, sexta-feira, chuta, 18+ age gates, food/fitness). Recheck: pending codes were HTTP 429 from the 5-worker verify run; after a cool-off a gentle 2-worker recheck resolved 55 (35 more live) before 429 recurred after ~180 requests; remaining pending left as HTTP 429, never marked dead.",
+  "flagged_kept": [
+    {
+      "code": "GM0a7Qzz2fZ7jGs9L3BSC8",
+      "title": "IBMX | TRADING SYSTEMS📊",
+      "note": "forex/trading-systems group — not in the casino/scam drop list (no airdrop/binary/free-money wording); kept per when-in-doubt-keep, parent may drop"
+    },
+    {
+      "code": "Lspkhv0BhfT3eMi5JCg8mR",
+      "title": "ADD WHATSAPP PRO 1 ✅",
+      "note": "modded-WhatsApp (WhatsApp Pro) group — not in drop list; kept, parent may drop"
+    }
+  ]
+}

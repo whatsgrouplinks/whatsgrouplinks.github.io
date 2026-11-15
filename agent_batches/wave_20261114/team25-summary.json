@@ -1,0 +1,44 @@
+{
+ "team": "team25",
+ "slice": "fresh-directory discovery — Africa + Middle East (Nigeria, Kenya, Ghana, South Africa, UAE, Saudi Arabia, Egypt, Morocco, Tanzania, Zimbabwe, Ethiopia, etc.)",
+ "sources": [
+  "https://newgrouplinks.pk/dubai-whatsapp-group-links/ (NEW — 20 codes, 0 fresh)",
+  "https://grouplink.com.in/join-uae-job-whatsapp-group-links-instant-hiring/ (NEW — 45 codes, 0 fresh)",
+  "https://groupwa.com/city/jeddah-whatsapp-groups/ (NEW — 9 codes, 3 fresh) + https://groupwa.com/city/riyadh-whatsapp-groups/ (NEW — 9 codes, 0 fresh) + https://groupwa.com/country/zimbabwe-whatsapp-groups/ (NEW — 10 codes, 4 fresh)",
+  "https://anygulfjobs.com/saudi-arabia-jobs-whatsapp-group-ksa/ (NEW — 1 code, 0 fresh)",
+  "https://whatsagroupslinks.com/zimbabwe-whatsapp-group-links/ (NEW — 50 codes, 13 fresh) + https://whatsagroupslinks.com/tanzania-whatsapp-group-links/ (NEW — 12 codes, 0 fresh)",
+  "https://pkwhatsgrouplinks.com/zimbabwe-whatsapp-group-links/ (NEW — 16 codes, 7 fresh)",
+  "https://tglinkhub.com/whatsapp-group-links/ (NEW — Kenya/Tanzania/Zimbabwe sections, 120 codes, 20 fresh; other sections out of slice)",
+  "https://activewagroup.com/ (International section only, 20 codes, 0 fresh; other sections mined Nov 13 or out of slice)",
+  "https://77links.com/arabic-whatsapp-group-links/ (NEW — 72 codes, 1 fresh; 71 already in union)",
+  "https://zbinworld.com/page/27/ (NEW, via search snippet — 12 codes, all dead)",
+  "https://www.techzim.co.zw/join-whatsapp-groups/ (NEW, via search snippet — 11 codes, 8 live)",
+  "Search-snippet codes: mylifesamovie.com evacuation groups (3, 0 fresh), human-unity.org PDF (4, 0 fresh), cdn.uww.org wrestling PDF (1, live), meetup.com North Indian Community Dubai (1, live), tiktok.com Akwaaba NYC (1, live), tiktok.com Ethiopian community (1, live)",
+  "Tried, 0 codes: https://thediplomariot.com/blog/whatsapp-group-links-morocco-join-now-1764799473 (generic advice, no links); https://grupbul.com/group/798419 (Cairo Medics — no invite exposed); https://www.whatsapplink.cazajobz.com/residential-uae-whatsapp-group-link/ (keyword-stuffed, no links); https://assengaonline.com/ (Tanzania article — no real links); Arab Socials Google Sheet (JS-rendered, 0 codes via curl)",
+  "NOT mined (prior-team bans / already mined / out of slice): hubrecipes.com (team25 Nov 13: DO NOT MINE — sexualized listings + personal phone numbers); groupjoin.link, appgrouplink.com, whtspgrouplink.com, linktogroups.com, grouplinksforyou.com, whtsagrouplinks.com, whatzgrouplink.com, ghanainfo.net, freshnote.com.ng, 7hubent.com.ng, lagoswiki.com.ng, eduresourcza.com ZA PDF, PFTC newsletters, uaedesertraiders.com (all mined Nov 12-13); imetamba.co.tz Baikoko (adult-content risk, skipped); ms.valuer.ai Wasmo Somali (adult content, skipped); grouplink.com.in International page (53 codes extracted, out of slice — banked as lead, not verified)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS at start; re-checked mid-run, still PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS at start; re-checked mid-run, still PASS)"
+ },
+ "raw": 389,
+ "verified": 74,
+ "dupes": 315,
+ "dead": 62,
+ "excluded": [
+  {
+   "code": "HONFw9OK6v480aotr78mXh",
+   "reason": "live og:title 'Forsage Kenya & SA Team' — Forsage/crypto-MLM scam"
+  }
+ ],
+ "pending": 0,
+ "leads": 13,
+ "candidates": 11,
+ "notes": [
+  "Names use the LIVE og:title (real group name), not the directory label, where they differ: 'Techzim News Updates 1' (dir: 'Techzim News 1'), 'Techzim Community GenZ' (dir: 'Techzim Airtime and Internet 2'), 'The Vibe Chat' (dir: 'Akwaaba NYC Young Ghanaians'), Amharic og:title for the Ethiopian group (dir: 'Seada Kasim Ethiopian Community').",
+  "Old directory listings (2024-2025: whatsagroupslinks, pkwhatsgrouplinks, groupwa, tglinkhub) are ~90% dead; only fresh Nov 2026 pages (Techzim, ZBIN was dead anyway) yielded live groups. 62/74 fresh codes dead.",
+  "groupwhat.com country pages could not be resolved this run (curl refused, browser outlink fetch failed once — not retried per runtime instruction). Banked as lead with 10 Kenya group names.",
+  "Verification used one requests.Session with browser UA, 60-90s timeout, up to 3 attempts with 8s spacing before dead. No 429s encountered; pending=0."
+ ],
+ "resume_point": "Verification complete for this wave's pool. Next run: resolve groupwhat.com country pages via live browser; fetch whatgroups.com Tanzania (Cloudflare); enumerate whatsagroupslinks.com / groupwa.com / newgrouplinks.pk / grouplink.com.in / pkwhatsgrouplinks.com country pages; re-crawl zbinworld.com and techzim.co.zw for new groups; review grouplink.com.in International page (53 codes in team25_raw/li_*.json) with the category team."
+}

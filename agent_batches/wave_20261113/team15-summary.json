@@ -1,0 +1,30 @@
+{
+ "team": "team15",
+ "slice": "whatshub.es sitemap ids 1-800 (first 200 fetched; fetch throttled/stalled after ~198 pages) + grupodewhatsapp (Turnstile-gated) + grupbul 2 carried leads",
+ "sources": [
+  "https://www.whatshub.es/sitemap.xml",
+  "https://www.whatshub.es/grupo/<id> (first 200 ids)",
+  "https://app.grupodewhatsapp.com/",
+  "https://app.grupodewhatsapp.com/group/gc-ofertas-cupons-msjduzis",
+  "https://grupbul.com/group/621903",
+  "https://grupbul.com/group/419221",
+  "https://gruposdewats.com/"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS, dead)"
+ },
+ "raw": 1079,
+ "verified": 60,
+ "dupes": 1010,
+ "dead": 8,
+ "excluded": [
+  {
+   "code": "F4hM6h4gVaBDps8xxr3m3B",
+   "reason": "live og:title 'CLOSED GROUP (Moved to new group)' - group closed/moved, not banked"
+  }
+ ],
+ "pending": 0,
+ "leads": 2660,
+ "notes": "whatshub.es main invite is hidden ('Oculto por privacidad', Blazor click-to-reveal); codes mined from related-group cards' descriptions, verified via live og:title as group name. Fetch: 800-id slice, first 200 sitemap ids fetched (198 pages OK, 2 fetch failures); site then throttled hard (direct curl to /grupo/3 timed out at 30s, no checkpoint progress 07:22-07:29) so fetch was stopped; ids 201-800 + 801-2787 banked as leads. grupodewhatsapp: /group/<slug>/join is Cloudflare Turnstile-gated, zero codes in static HTML - 51 unique slug URLs banked as browser-only leads. grupbul /redirect endpoints return homepage template with no code (same as team21) - 2 groups banked as leads. Dead codes (8, empty og:title after spaced retry with controls passing): BCdkAD9vhRuI1iNYVcXaLb, CSZpySWsOGUJwZHiWrDPRh, EiljbkWPUqK3RvVNt5pUfy, FCoA50XNMxo0XMSiUv7rPQ, H04EBeTAcOiGZWlAMIPYo5, HD01v86sZYiHLKwvw, JN2X25sHRhtCXSk9JRWwK3, LC4b8JcNebQ7V6GcYxNOTy. No porn/casino/betting/crypto-scam signals among live titles; 1 closed-group exclusion only."
+}

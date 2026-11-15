@@ -1,0 +1,43 @@
+{
+  "team": "team28",
+  "slice": "fresh-directory discovery — Africa + Middle East (Nigeria / Kenya / Ghana / South Africa / UAE)",
+  "sources": [
+    "https://whatzgrouplink.com/football-whatsapp-group-links/ (NEW site — 30 codes extracted, 15 fresh)",
+    "https://whatzgrouplink.com/data-analyst-whatsapp-group-links/ (NEW site — fresh Nov 2026 page)",
+    "https://whatzgrouplink.com/chat-room-whatsapp-group-links/ (NEW site)",
+    "https://whatzgrouplink.com/whatsapp-groups/ (NEW site index — 0 direct codes, category links banked as leads)",
+    "https://www.ghanainfo.net/category/international/ + https://www.ghanainfo.net/whatsapp-networking-group-links/ (NEW site — 4 codes, ALL dupes)",
+    "https://www.freshnote.com.ng/2025/10/36-nigerian-university-students.html (NEW site — 1 code, dupe)",
+    "https://www.7hubent.com.ng/2025/11/2026-nigeria-active-business-whatsapp.html + https://www.lagoswiki.com.ng/2025/01/nigeria-active-business-whatsapp-group.html (NEW sites — only site float-button code, dupe)",
+    "search-indexed PDFs (eduresourcza.com ZA syllabi PDF — Cloudflare-blocked, codes taken from search-result text; kaapjag.co.za branch PDFs; uaedesertraiders.com; PFTC newsletters) — 24 codes, 17 already dupes",
+    "Excluded/mined-already (not reused): groupjoin.link, appgrouplink.com, techsslash.com, wagroupshub.com, whtsagrouplinks.com, whtspgrouplink.com, grouplinksforyou.com, linktogroups.com (all touched in wave 20261112 or in the task exclusion list)"
+  ],
+  "controls": {
+    "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+    "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS, dead)"
+  },
+  "raw": 83,
+  "verified": 45,
+  "dupes": 38,
+  "dead": 34,
+  "excluded": [
+    {
+      "code": "B4qo61dnfpJ7N53YGIfPRd",
+      "reason": "live og:title \"🌗Projektgruppe Vermögenssteigerung\" (wealth-increase/investment scheme) — suspected investment scam, dropped"
+    },
+    {
+      "code": "5INfL6MsbsfDwonJktNGFl",
+      "reason": "live og:title \"Message me for private chat\" — 1:1 chat solicitation, not a group; spam bait, dropped"
+    },
+    {
+      "code": "KnD5PUkyf9G45DEveKo3Jv",
+      "reason": "live og:title \"LEGITIMATE POS HAKING UPDATED\" — hacking/fraud content, dropped"
+    },
+    {
+      "code": "9Jx26J7IeDc6IpCDkM1yQK",
+      "reason": "live og:title \"Trading 3\" — trading-signals group, suspected investment-signals scheme, dropped"
+    }
+  ],
+  "pending": 0,
+  "leads": 17
+}

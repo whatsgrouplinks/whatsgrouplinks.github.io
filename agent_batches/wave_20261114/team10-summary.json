@@ -1,0 +1,68 @@
+{
+ "team": "team10",
+ "wave": "20261114",
+ "date": "2026-11-14",
+ "slice": "igrupos remainder only: the 50 gids wave-20261113 team12 banked as geo-gated leads (of team18's 248 unique igrupos gids; team12's other 198 gids - 33 codes extracted, 159 Telegram-only, 2 Signal, 1 Discord, 1 WhatsApp channel, 2 deleted - were NOT re-processed, per the slice) + the 19 team18 fallback-site entries (grupodewhatsapp/gruposwhats.app) + 2 team21 grupbul entries. Team12 pending file was empty, so no pending gids carried over.",
+ "sources": [
+  "igrupos.com (grupo pages with ?unirse=1 - straight retry, no header spoofing)",
+  "app.grupodewhatsapp.com (detail + /group/<uuid>/join + JS-chunk inspection)",
+  "gruposwhats.app (detail pages)",
+  "grupbul.com (group pages + /redirect/<gid>/<rid> countdown pages)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' - PASS",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> og:title '' (empty, dead) - PASS"
+ },
+ "raw": 71,
+ "raw_breakdown": {
+  "igrupos_geo_gids_retried": 50,
+  "fallback_urls_attempted": 14,
+  "fallback_name_only": 7
+ },
+ "verified": 0,
+ "verified_note": "Zero WhatsApp codes were extracted from any source in this slice, so zero verifications ran and zero candidates were banked. This is an honest zero, not a skipped step: every remaining igrupos gid is still geo-gated and every fallback join flow is JS/Turnstile-gated (see findings).",
+ "dupes": 0,
+ "dead": 2,
+ "dead_list": [
+  {
+   "gid": 527131,
+   "reason": "igrupos detail page now 404 on 2026-11-14 re-check (was a geo-gated lead in team12); NOT re-banked as a lead"
+  },
+  {
+   "gid": 527190,
+   "reason": "igrupos detail page now 404 on 2026-11-14 re-check (was a geo-gated lead in team12); NOT re-banked as a lead"
+  }
+ ],
+ "excluded": [],
+ "excluded_note": "No codes extracted, so no content screening ran and nothing was excluded. No porn/scam/casino material was encountered in the slice.",
+ "pending": 0,
+ "pending_note": "No transport failures: no HTTP 429, no timeouts. One transient ProxyError on gruposwhats.app/group/1165645 resolved on immediate retry (HTTP 200, still no code - JS-gated, banked as lead, not pending).",
+ "leads": 69,
+ "leads_breakdown": {
+  "igrupos_geo_gated_still": 48,
+  "fallback_urls": 14,
+  "fallback_name_only": 7
+ },
+ "findings": {
+  "igrupos_geo_gate": "All 50 retried gids fetched fast (~0.3-0.5s each, no tarpit this run, single-threaded session). 48 still show 'Grupo solo para gente de <CC>' vs 'Pais detectado US' with no invite in the ?unirse=1 HTML - the gate is deterministic from this VM's US-detected IP. No geo spoofing was attempted. Browser leg needs a matching-country IP/VPN per gid (need-country mix: ES 33, CO 4, AR 2, CL 2, PE 2, EC 1, BO 1, PA 1, MX 1, CU 1). The join flow has no AJAX endpoint in page JS (only a reportargrupo.php XHR and the +18 modal); the ACCEDER button is server-rendered only when the country matches.",
+  "igrupos_deleted": "Gids 527131 and 527190 flipped to 404 since team12 (Nov 13). Team12's other deleted gids 527109/527217 were already dead and are out of slice.",
+  "grupodewhatsapp": "Detail pages now return HTTP 200 via curl (no Cloudflare block today, unlike team18). No invite code in static HTML. Found the real join path in the page: /group/<uuid>/join (slug /join returns 'Link invalido'). The UUID join page loads but the invite comes only from POST /api/groups/<uuid>/invite with a Turnstile captcha token (found in Next.js chunk 0ljleqf2lb1ez.js: fetch-invite executor, token from the Turnstile widget; inviteLink returned as JSON). No curl route without solving Turnstile - browser-leg job. UUID join URLs for all 9 groups are banked in team10-leads.json so the browser leg can open them directly.",
+  "gruposwhats_app": "Detail pages load (200) but no invite code in static HTML; 'Entrar' is Turnstile-gated (6 turnstile refs in page). Browser-leg job.",
+  "grupbul": "Group pages load (200); /redirect/<gid>/<rid> pages load (200) but the 5s-countdown JS has NO redirect target - no meta refresh, no Location header, 'Click if not directed' href='#', redirect code commented out. Invite not obtainable via curl. Browser-leg job (wait out countdown / click through).",
+  "freelancer_clt": "team18 fallback entry 'vagas de freelancer e CLT' had no URL in team12-leads.json; resolved via predictable slug app.grupodewhatsapp.com/group/vagas-de-freelancer-e-clt (UUID b75c2786-2480-4ceb-b53e-fbab7bd39f49) - same Turnstile gate, banked as a URL lead."
+ },
+ "flags_for_browser_leg": [
+  "gid 527192 'Bisex Asturias' (ES): 18+ age gate on a friendship group - kept per team18, not porn; screen at bank time.",
+  "gid 527138 'Mundo Crypto' (team18 flag): WhatsApp CHANNEL, not a group - confirm at bank time; also in team12 leads as channel.",
+  "grupodewhatsapp join URLs in team10-leads.json are the /group/<uuid>/join form - open those directly, not the slug /join (invalid).",
+  "Do NOT re-run the 198 non-geo igrupos gids team12 already resolved (33 codes, 159 Telegram-only, 2 Signal, 1 Discord, 1 channel, 2 deleted) - out of this slice, already settled."
+ ],
+ "resume": "Next run: browser leg with (a) matching-country IP/VPN per gid for the 48 geo-gated igrupos leads (start ES, the largest block, 33 gids), (b) Turnstile-capable browser for the 9 grupodewhatsapp UUID join URLs + 3 gruposwhats.app Entrar buttons, (c) grupbul countdown pages (2). Fresh igrupos gids above 527264 are unmined (team18 resume point) and belong to a future mining team, not this slice.",
+ "files": {
+  "candidates": "team10-candidates.json (empty - 0 verified)",
+  "leads": "team10-leads.json (69 leads: 48 igrupos geo-gated + 14 fallback URLs + 7 name-only)",
+  "pending": "team10-pending.json (empty - 0 transport failures)",
+  "summary": "team10-summary.json",
+  "work_files": "team10_geo.py, team10_lib.py, team10-geo-slice.json, team10-geo-results.jsonl, team10-fallback-slice.json, team10-fallback-results.json, team10-gdw-join-results.json, team10-gdw-uuid-join-results.json, team10-gdw-freelancer.json, team10-probe-526727.html, team10-grupbul-redirect.html, team10-grupodewhatsapp-mj.html, team10-gdw-join-page.html, team10-gruposwhats-1161011.html"
+ }
+}

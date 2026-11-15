@@ -1,0 +1,82 @@
+{
+ "team": "team33",
+ "slice": "grupbul re-check (chat-friendship, food, job-postings, sport) + fresh discovery overflow (groupwa.link, instantgrouplink.com, wagroupshub.com, activewagroup.com, whatzgrouplink.com, techsslash.com)",
+ "sources": [
+  "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+  "https://grupbul.com/en/category/whatsapp/15/chat-friendship?page=2",
+  "https://grupbul.com/en/category/whatsapp/53/food",
+  "https://grupbul.com/en/category/whatsapp/53/food?page=2",
+  "https://grupbul.com/en/category/whatsapp/9/job-postings",
+  "https://grupbul.com/en/category/whatsapp/9/job-postings?page=2",
+  "https://grupbul.com/en/category/whatsapp/4/sport",
+  "https://grupbul.com/en/category/whatsapp/4/sport?page=2",
+  "https://grupbul.com/group/621903",
+  "https://grupbul.com/group/419221",
+  "https://grupbul.com/group/320563",
+  "https://grupbul.com/group/503833",
+  "https://grupbul.com/group/977190",
+  "https://grupbul.com/group/113756",
+  "https://groupwa.link/",
+  "https://groupwa.link/jobs/",
+  "https://groupwa.link/education/",
+  "https://groupwa.link/cricket/",
+  "https://groupwa.link/business/",
+  "https://groupwa.link/entertainment/",
+  "https://instantgrouplink.com/",
+  "https://instantgrouplink.com/single-girl-whatsapp-group-links/",
+  "https://instantgrouplink.com/tamil-whatsapp-group-links/",
+  "https://instantgrouplink.com/usa-whatsapp-group-links/",
+  "https://instantgrouplink.com/sri-lanka-whatsapp-group-links/",
+  "https://wagroupshub.com/",
+  "https://activewagroup.com/",
+  "https://whatzgrouplink.com/football-whatsapp-group-links/",
+  "https://techsslash.com/kenya-whatsapp-group-links/"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N HTTP 200 og:title 'JAY - PHP & Python Full Stack Developer' — PASS",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz HTTP 200 empty og:title — PASS (dead as expected)"
+ },
+ "raw": 755,
+ "verified": 0,
+ "dupes": 747,
+ "dead": 6,
+ "excluded": [
+  {
+   "code": "B4qo61dnfpJ7N53YGIfPRd",
+   "reason": "LIVE og:title 'Projektgruppe Vermögenssteigerung' (German wealth-growth/investment project group) — listed as 'Borrusia Dortmund Australia' football, code repurposed; investment-scheme signal, dropped on screening."
+  },
+  {
+   "code": "5INfL6MsbsfDwonJktNGFl",
+   "reason": "LIVE og:title 'Message me for private chat' — listed as 'Kenya Football WhatsApp Group', code repurposed to a private-chat lure, not a group; dropped, cannot bank under listed name."
+  }
+ ],
+ "dead_codes": [
+  {
+   "code": "HAoV9n1JzMfJMInlLzfUGz",
+   "name": "Brazil Football"
+  },
+  {
+   "code": "Gaa9ViVGUq3I2ytyFE1d0O",
+   "name": "Indian Super League Addicts"
+  },
+  {
+   "code": "FN1W7jeIG9j0fE1PTC5Oa0",
+   "name": "Football Fans"
+  },
+  {
+   "code": "07tOqXdRi3DAxTnFzeqKE4",
+   "name": "WORLD OF SOCCER"
+  },
+  {
+   "code": "7pZEoOtflS36pxOvKKAj9X",
+   "name": "Football Match Prediction (also betting-prediction, would have been excluded anyway)"
+  },
+  {
+   "code": "1ZMjfhhzDepFes6pi8V90I",
+   "name": "Barcelona"
+  }
+ ],
+ "pending": 0,
+ "leads": 6,
+ "notes": "GRUPBUL (A): chat-friendship p1+p2 byte-identical gid set to Nov-12 (same 27 gids, added none, removed none); food p1+p2 still ZERO /group/ links. Team21 summary listed only those 2 categories, so no other baseline existed; category index is JS-driven, but /en/whatsapp-groups exposed the category list — checked 2 more, job-postings (same 3 gids p1=p2: 320563, 503833, 977190) and sport (same 1 gid p1=p2: 113756). No new grupbul codes obtainable via HTTP anywhere: every group page hides the invite behind /redirect/<gid>/<n> which returns HTTP 200 + homepage template, no Location, 0 chat.whatsapp.com links (re-confirmed for 621903 + 419221 redirects). Team21's 2 redirect pendings (662627 TIGER MAHARASTRA, 400673 Yaar Beli) remain unresolved the same way — not re-banked. The 6 grupbul JS-hidden listicle pages mentioned in the brief were NOT in team21-grupbul-leads.json (it held only the 2 group URLs above, now processed); no listicle URLs were found to try. FRESH DISCOVERY (B): mined 15 listing pages across 6 sites (groupwa.link home+jobs+4 cats, instantgrouplink home+4 sub-pages, wagroupshub home, activewagroup home, whatzgrouplink football, techsslash Kenya). 755 unique codes (len>=15) extracted; 747 already in the 119,266-code union — these directory networks share one heavily-covered code pool (wagroupshub/activewagroup/instantgrouplink homepages are near-identical templates). Only 8 fresh codes, all from whatzgrouplink football page: 6 confirmed DEAD (empty og:title on 2 spaced attempts each, HTTP 200, healthy transport, controls passed), 2 live-but-excluded (repurposed codes, see exclusions). Zero bankable candidates. LESSON for future runs: several directories use chat.whatsapp.com/invite/<code> URLs — a naive regex capturing the segment after chat.whatsapp.com/ records the literal string 'invite' and LOSES the real code; extractors must handle the optional /invite/ prefix (this fix is what surfaced the 8 fresh codes here). No porn/casino/betting signals appeared among verified-live titles except the two exclusions above; no transport failures (no 429s, no HTTP 000 on WhatsApp fetches) — pending is 0."
+}

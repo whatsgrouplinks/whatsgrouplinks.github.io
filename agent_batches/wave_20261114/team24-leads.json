@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://linkado.app/sitemap.xml",
+  "note": "Resume: grupo URLs with lastmod > 2026-11-12T15:19:36Z (newest mined this run: 6a50715c79e7e337eca87ce9). 70 new pages mined Nov 14 (lastmod 2026-11-10..12); sitemap order is lastmod desc, so new listings appear at the top."
+ },
+ {
+  "url": "https://whts.club/news_pages.xml",
+  "note": "Resume: sitemap entries above index 6560 (newest mined: 6560-republica-memera). 41 new pages mined Nov 14; note the site's fetch is flaky from the VM (proxy errors on ~half of first-pass fetches) — retry with pauses."
+ },
+ {
+  "url": "https://freewagroup.com/wp-json/wp/v2/posts?per_page=20&_fields=id,date,modified,slug,link,title&orderby=date&order=desc&page=1",
+  "note": "No new posts since 2026-11-08 (checked Nov 12 by team26 and again Nov 14). Re-check for posts dated after 2026-11-08; each post page carries its group's invite code."
+ },
+ {
+  "url": "https://gruposdewhatss.app/",
+  "note": "Geo-blocked from VM; already a team32 leads-slice item. Browser-only lead — do not re-attempt via curl."
+ },
+ {
+  "url": "https://grupodewhatsapp.com/",
+  "note": "Turnstile-gated (per team33). Browser-only lead."
+ },
+ {
+  "url": "https://gruposwhats.app/",
+  "note": "JS/login-gated, Turnstile; invite codes not in static HTML. Active directory (groups added Nov 2026, links re-checked 13/11/2026). Browser-only lead."
+ },
+ {
+  "url": "https://igrupos.com/",
+  "note": "Invite codes NOT in static HTML (JS/login-gated). Newest gids above 527264 (Nov 12 ceiling). Browser-only lead."
+ },
+ {
+  "url": "https://elyex.com/grupos-de-whatsapp-ecuador-link-unirse-colegios-amistad-ligar-5/",
+  "note": "Ecuador groups page; invite links hidden behind JS 'CLIC AQUÍ' buttons, 0 codes in static HTML. Browser-only lead."
+ },
+ {
+  "url": "https://gruposwapp.net/",
+  "note": "Checked Nov 13 (team27): exhausted — homepage newest still Nov 9 listings (id 525). Re-check only for new listings above id 525."
+ },
+ {
+  "url": "https://losgrupos.app/grupos?page=1",
+  "note": "Checked Nov 13 (team27): exhausted — newest still id 210. Re-check only for new listings above id 210."
+ }
+]

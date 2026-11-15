@@ -1,0 +1,222 @@
+# WhatsGroupLinks — Wave 20261114 manifest (coordinator)
+Date: Sat 2026-11-14. Start state: groups.json 83,643 groups; union .existing_codes.json 119,266 codes.
+Wave dir: ~/workspace/whatsapp-groups-site/agent_batches/wave_20261114/
+Parent merges + deploys after this delivery. No merge into groups.json, no generate.py, no deploy was done in this wave.
+
+## DELIVERABLES
+- wave_20261114_clean.json — 2,158 verified-unique new groups (Part A 632 + Part B 1,526, net of cross-dedupe and final drops)
+- wave_20261114_pending_all.json — 1,608 transport-pending codes with reasons (all HTTP 429)
+- wave_20261114_leads_all.json — 11,801 unique leads (listing URLs / unverified code strings)
+- wave_20261114_excluded.json — 468 unique excluded codes with reasons
+- manifest_table.json — per-team table (machine-readable)
+- partA_clean.json / partA_excluded.json / partA_report.json — Part A consolidation
+- coordinator_spot_verify.py + coordinator_spot_targets.json + coordinator_spot_verify.json — coordinator's own 47 curl checks
+- coordinator_consolidate_partA.py / coordinator_merge_final.py / coordinator_finalize.py — consolidation scripts
+- merge_report.json / finalize_report.json — merge validation reports
+
+## VALIDATION REPORT
+- Clean count: 2,158 (all unique codes; 0 duplicates inside the file)
+- Clean ∩ excluded: 0; clean ∩ pending: 0 (checked after the overlap resolution below)
+- Cross-team dup count: Part A 169 duplicate instances across wave-20261113 team files (825 raw -> 656 unique);
+  Part B 64 cross-team dups + 37 dups vs Part A clean + 2 dups vs Part A excluded + 0 dups vs the 119,266-code union
+  (every Part B team checked the union; the 2 Part-A-excluded overlaps were caught by the coordinator cross-check)
+- Union-leak count: 0 (every clean code checked against .existing_codes.json)
+- Schema errors: 0 (all items have name/category/country/description/invite; invite == https://chat.whatsapp.com/<code>;
+  country 2-letter-or-empty; categories all present in groups.json)
+- Final keyword screen (NFKD-normalized name+description, porn/scam/casino patterns + de-spaced check):
+  1 remaining hit is a known false positive kept deliberately — Ex8HvCVcqBF8Bjjtg6pazx
+  (coupons group; hit is the negated sentence "NÃO É GRUPO DE APOSTAS" = "this is NOT a betting group").
+  1 de-spaced hit is a false positive kept deliberately — FEkheJzFJPF1jbpObSWevz "BETTAS BC"
+  (Betta splendens fish sales group; "BET" is inside "BETTA").
+- Category mix (clean): Community & Social 1,487; Buy Sell 122; Entertainment 90; Education 82; Gaming 61;
+  Friendship 56; Jobs 49; Finance 39; News 37; Sports 28; Technology 23; Online Earning 22; Business 18;
+  Islamic 14; Funny 8; Health 8; Girls 4; Poetry 2; Crypto 2; Earning 2; Travel 2; Music 1; Movies 1; Cooking 1.
+- Top countries: (blank) 791; BR 284; EG 263; YE 157; SA 128; GB 76; SY 67; MA 65; ES 63; PK 35.
+
+## PART A — LEFTOVERS CONSOLIDATED
+- Wave 20261113: 825 raw items -> 656 unique codes, 0 in union. Stream file (377) fully accounted:
+  172 in clean, 12 in excluded (contested), 193 excluded by team01 only (162 union dups + 31 content/dead).
+- 12 contested codes (team01 excluded on live og:title; team32/team05 re-added unscreened) — all 12 confirmed
+  excludable by coordinator spot-check (porn/scam/betting/closed). team32 contributes 0 clean items.
+- 7 more casino/slots codes team05 kept (incl. one "slot Tiger" caught via its description despite a benign
+  live title) — excluded after coordinator spot-check. 1 coupons group kept (negated prohibition).
+- Part A clean: 637. Part A excluded: 212 entries.
+
+## COORDINATOR SPOT-VERIFICATION (own curl checks, keep-alive session, browser UA)
+- Controls: live KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS);
+  fabricated ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS).
+- 47 codes checked: 46 live / 1 dead (the fabricated control). 15/15 random sample live with benign titles
+  matching stored names. 12/12 contested exclusions confirmed (titles matched team01's reasons exactly).
+- All 30 teams reported both controls PASS in their summaries (live + fabricated, same codes).
+
+## PER-TEAM TABLE (team | source slice | raw | kept-clean | dups | excluded | pending | leads)
+- team01 | tglinkhub resume (verify2 remainder) | 65 checked | 0 | 0 | 5 | 0 | 0
+- team02 | linkado indices 6000-8499 (2,500 URLs) | 2,305 codes | 3 | 3 | 24 | 922 | 0
+- team03 | linkado indices 9000-10999 (2,000 URLs) + 41 retries | 2,041 | 21 | 1 | 106 | 0 | 8,731
+- team04 | groupslinks.com pages 31-60 (960 cards) | 318 codes | 209 | 0 | 6 | 0 | 384
+- team05 | groupslinks.com pages 61-160 + label pages (3,736 cards) | 1,775 codes | 889 | 22 | 5 | 1 | 988
+- team06 | whts.club sitemap NEW entries only | 39 pages | 0 | 0 | 19 | 0 | 0
+- team07 | pending codes 0-141 (285-file first half) | 142 | 0 | 0 | 3 | 0 | 0
+- team08 | pending codes 142-284 (second half) | 143 | 6 | 0 | 0 | 0 | 6
+- team09 | team02-extracted.jsonl remainder reconciliation | 80 verified | 10 | 1 | 43 | 0 | 0
+- team10 | igrupos remainder (71 gids/entries) | 71 | 0 | 0 | 0 | 0 | 69
+- team11 | groupsinvite 61 JS-gated pages (via wp-json API) | 61 | 0 | 0 | 0* | 0 | 0
+- team12 | whts.club remaining 252 codeless pages | 252 pages | 0 | 0 | 0 | 0 | 252
+- team13 | tugrupo.online p4,11-19 + 26 detail pages | 151 codes | 81 | 0 | 0 | 0 | 93
+- team14 | whatshub.es ids 801-1600 (460 pages) | 47 codes | 3 | 0 | 1 | 0 | 0
+- team15 | whatshub.es ids 1601-2781 (96 pp, throttled) + grupodewhatsapp | 26 codes | 2 | 0 | 0 | 0 | 1,176
+- team16 | groupjoin.link newest poll | 14 fresh | 1 | 0 | 3 | 0 | 3
+- team17 | 77links 195 banked + newest poll | 195 | 10 | 0 | 4 | 0 | 1
+- team18 | linktogroups continuation (131 new IDs) | 131 | 0 | 0 | 131† | 0 | 3
+- team19 | groupsnest + grouplinksforyou new-post poll | 0 new | 0 | 0 | 4‡ | 0 | 0
+- team20 | groupssor API newest poll | 4 fresh | 1 | 0 | 3 | 0 | 0
+- team21 | groupsinvite.link NEW entries only | 28 URLs | 3 | 0 | 8§ | 0 | 0
+- team22 | whtspgrouplink + freewagroup freshness | 38 items | 3 | 0 | 0 | 0 | 38
+- team23 | South Asia fresh discovery | 281 verified | 32 | 0 | 124 | 49 | 15
+- team24 | LATAM + Spain/Portugal fresh discovery | 110 fresh | 28 | 19 | 0 | 0 | 10
+- team25 | Africa + Middle East fresh discovery | 74 fresh | 11 | 0 | 1 | 0 | 13
+- team26 | Europe + global-English fresh discovery | 146 fresh | 69 | 6 | 0 | 0 | 24
+- team27 | category/country listing pages | 27 fresh | 1 | 0 | 0 | 0 | 0
+- team28 | listicles/blogs (35 pages, 1,887 codes) | 113 fresh | 0¶ | 50 | 1 | 0 | 3
+- team29 | grupbul re-check + overflow (1,104 codes) | 162 fresh | 0 | 0 | 5 | 0 | 33
+- team30 | groupizo.com + groupda.com fresh poll | 1,306 queued | 144 | 1 | 8 | 673 | 145
+* team11: 43 union dupes + 17 dead + 1 channel (counted under dupes/dead, not content exclusions).
+† team18: 120 Telegram destinations + 9 WhatsApp (8 dead, 1 union dupe) + 1 channel + 1 wa.me.
+‡ team19: 4 crypto-airdrop carry-overs (not re-verified; see parent flags).
+§ team21: 1 trading-signals + 7 WhatsApp Channels.
+¶ team28: all 50 candidates were cross-team dups of team26's same grouplinks.co.uk pages (kept once, under team26).
+
+## TOP SOURCES (by kept candidates)
+1. groupslinks.com pages 61-160 + labels (team05): 889
+2. groupslinks.com pages 31-60 (team04): 209
+3. groupizo.com + groupda.com (team30): 144
+4. tugrupo.online (team13): 81
+5. Europe/global-English discovery, mostly grouplinks.co.uk (team26): 69
+6. South Asia discovery, mostly groupsor.in (team23): 32
+7. LATAM/Spain discovery, mostly linkado new pages (team24): 28
+8. linkado 9000-10999 (team03): 21
+9. Africa/ME discovery (team25): 11; 77links (team17): 10; team02-extracted restores (team09): 10
+10. Part A leftovers: 632 (wave13 teams + stream re-verification, after 4 final drops + 1 overlap drop)
+
+## COORDINATOR ADJUDICATIONS (merge/final drops — all recorded in wave_20261114_excluded.json)
+- C516urnVfHg4P6yjwbKcR2 (team13 keep): live og:title sexualized 'Chicas con senos' — dropped per wave13 team01 precedent.
+- J3piQqaXAdhA5wPKetGVMw 'Exemplo' (team09 flag; found in Part A clean): directory test listing, no real identity.
+- GT1ysM3lNwCA5GHPQeQtIy (team04 flag): 'guaranteed investment' wording — guaranteed-returns pitch.
+- HIhIXMu1HjX7UojAK9W1w5 'GRUPO HACKEADO' (team03 flag): hacked-content group.
+- HSaFF1Gi3IF7gdcEEOawZN 'Lançamentos plataforma' (team03 flag): casino-platform promo phrasing.
+- CkFWiYl4T29H7vTGUxfh0D bare 'Plataforma' in Finance (team03 flag): casino-platform promo in a casino-saturated slice.
+- FfMen8t7ySDHpgbboLswIq bare 'Jogos' in Finance + CxtLPVfzMwPAQnApYvRrDY 'GRUPO JOGOS' in Finance (team03 flags): betting.
+- HYYdA8kMuje1irthS3ik17 'ÁGUIA PLAY' in Finance (team03 flag): casino-platform pattern.
+- KByTwCwllZdFZQxVfEjKq0 'Grupo hormonal' (team24 keep): dropped — wave13 team11 + wave14 team06 both dropped it under the doubt-rule (2 teams vs 1).
+- CtQAkW75l298Pq4g5gREm9 (Part A item): description is Chinese casino-houses + roulette promo ('BAÚ E ROLETA DE 100 VEM FATURAR').
+- CbZlXX0nQNH3lfFhDwX1aa 'Pagol.bet Insiders' (Part A item): betting-site promo group.
+- CKzkMugEOJp6dT1ZQ38BTz 'Forsage' (team30 item): crypto-pyramid scam.
+- GAeHcFVi9L9BENBtBlxayJ 'Tesão em Lucrar - 81BET' (Part A item): betting promo, gambling/adrenaline/money description.
+- C2kTPht1iDpHrZmgz7qPCC 'Cabare Da Lana' (team24 keep): already excluded in Part A (team01, adult-entertainment live title).
+- OVERLAP RESOLUTION (final integrity check found 2 codes in BOTH clean and excluded):
+  * CrUYaN0ExzoDx1ue3HAfBA 'Fãs do Richard G.' — DROPPED from clean. Team09's exclusion evidence wins:
+    the live group description explicitly permits sending nudes ('PODE MNDR NUDES SE QUISER') = sexual
+    content; the wave13 team banked it on the clean live title without reading the description.
+  * 4alacXkfikk4ijHLeWQS8w 'Umb' — KEPT in clean; team29's exclusion OVERRULED. The live og:title 'Umb'
+    IS the group's real name (banked as such by wave13 team28 and by the coordinator); the listing name
+    'Forca CR7' not matching is a rename/repurpose, not a drop reason under the rules. Exclusion entry removed.
+- IwpaSmSnBql9pCQzvjr1qa '24 HORAS DE DIVULGAÇÃO' (team02 keep): already excluded in Part A (team01, tigrinho casino-platform links).
+- Recategorized: JzWs9w4vi5F0VKkxMcbnxb 'Cointiply' Business -> Earning (team27 suggestion).
+
+## KEPT-FLAGGED ITEMS (in the clean set; flagged here for parent review, not dropped)
+- team21 IfhZ4VcooSsKATEqHiI9y3 'SGZCHAT.COM' — Nigeria dating-category listing; kept per girls/friendship rule, no porn signal in live title; name is only a chat-site domain.
+- team15 'Creonary' (directory page 'Trabaja desde casa') + 'PICO DE ORO - ALMERÍA' (card-game name) — live titles carry no scam/betting signal.
+- team02 'TROPA DO JOÃO' (Finance; tropa squads are often tipsters, no hard token) + 'Sorte no Gamer' (luck wording, no casino token).
+- team03 Fi7ZECIBLM8L1DueP9YjeK 'ECONOMIA PREMIUM' + FssyORA0hoWGhdYge5nlS5 'Grupo da kah' (heavy money emojis) — no hard tokens.
+- team04 11 kept investment items (crypto trading, USDT P2P, generic earn-online, Sham Cash, Amplicloud, wealth/AI/invest-from-home pitches, DXN x2) — kept per team15 DXN/earn-online precedent; the one 'guaranteed investment' pitch was dropped (above).
+- team05 ~25 earn-online/DXN items (Arabic 'profit from the internet/ads/games/Temu', DXN) — kept per the same precedent.
+- team09 EmO6JC91mCa9ZKHJXvJFC1 'PAPO DE VISÃO $2', IWRqKhn92ATJlqpcYAjUqB 'Ganhe dinheiro em casa', L23GzabfhdO2g75WkxzWCL 'VAMOS NOS AJUDAR' (money emoji) — no scam pattern in live titles.
+- team13 Cf9Hk8PCbg7Ajxt8JbqUaH 'Binance Actividades y Recompensas' — crypto-rewards themed, no explicit airdrop wording.
+- team24 7 kept borderline (18+ confessions/suggestive groups, TON crypto affiliate, money-apps group, IPTV reseller, 'Quente' flirting group, 'mods asleep' 18+ group) — no explicit porn/scam words in live titles.
+- team30 GM0a7Qzz2fZ7jGs9L3BSC8 'IBMX | TRADING SYSTEMS' (forex/trading-systems) + Lspkhv0BhfT3eMi5JCg8mR 'ADD WHATSAPP PRO 1' (modded-WhatsApp group).
+- team08 HDfF73m9m3KGCAI58S7EOd og:title just 'Off' + LR4iwuiy1tAERLW8Ij7Oo8 'EARNING&BOOKS&COURSES' — kept per doubt rule.
+- team23: one group literally named 'Inactive' — live but no identity beyond the name.
+- team27 'Cointiply' recategorized to Earning (above).
+- team17 lead (NOT in clean, banked as lead): C3Q4qSaMNSmImrnwKgtaPF 'All service 👀' — ambiguous og:title, parent review advised.
+- team16: 3 Adult-tagged entries excluded on the feed's Adult tag without live verification ('Video call Girl', 'Garam masala', 'SiiPii v!deo') — restorable if the parent disagrees.
+- team06/team11: 'Grupo hormonal' (KByTwCwllZdFZQxVfEjKq0) dropped under the doubt-rule (see adjudications).
+- team09: 4 Kwai referral groups excluded as earn-money referral schemes — restorable judgment call.
+
+## RESUME POINTS FOR NEXT RUN
+- PENDING RECHECKS (1,608 codes, all HTTP 429 — never call dead without a fresh successful check):
+  team02 886 linkado 6000-8499 codes; team30 673 groupda/groupizo codes; team23 49 groupsor.in codes.
+  Recheck in ~100-code chunks with 15-20 min cool-offs, 1-2 workers, off-peak (fewer concurrent verifiers).
+  WhatsApp 429-blocks the shared IP after ~150-200 fetches per window (measured by team30/team02).
+- UNMINED BANKS: linkado sitemap indices 11000-19730 (8,731 URLs, team03-leads); groupslinks.com pages 161-1047
+  + label pages 2+ (team05 resume); whatshub.es sitemap positions 1697-2781 (1,085 ids, team15-leads — retry slowly,
+  site throttles after ~75 pages); tugrupo.online pagination pages 20-110 (team13-leads); groupda 2,246 deferred
+  unverified codes (team30-groupda-mined.json); groupsor.in ~3,500 unmined sitemap pages (team23 — new source);
+  groupssor API poll cutoff createdAt > 2026-11-14T06:15:15Z (team20); groupjoin poll cutoff created_at > 2026-11-13 22:05:31 (team16).
+- NEW ROUTES FOUND THIS WAVE: groupsinvite.link wp-json API (/wp-json/custom/v2/groups, 2,799 entries; group_id IS
+  the invite code) — diff its 2,281 live-link entries vs union next run (team11); groupda wp-json API (team30);
+  linktogroups category pages (/en/crypto, /jobs, /dating, /education) — country pages are ~92% Telegram (team18);
+  groupsor.in sitemap + groupssor.com JSON API (team23).
+- BROWSER LEG (curl cannot resolve these; banked as leads): igrupos 48 geo-gated gids (need matching-country IP/VPN;
+  start ES, 33 gids) + 2 grupbul redirects (team10); grupodewhatsapp 83 slugs + 9 UUID /join URLs (Turnstile POST
+  /api/groups/<uuid>/invite) + 3 gruposwhats.app pages (team10/team15); grupbul 33 /redirect links (team29);
+  whts.club 372 codeless pages (join-request forms, no invite in static text — team12); groupwhat.com Kenya pages
+  (team25); whatgroups.com Tanzania (Cloudflare-blocked, 3rd wave); 61 groupsinvite pages are CLOSED (wp-json API
+  resolved them all: 43 union dupes, 17 dead, 1 channel — do NOT re-queue, team11).
+- EXHAUSTED / DO-NOT-RE-MINE: tglinkhub verify2 pool fully decided (team01; "~2,394 unverified" matched no derivable
+  count — re-derive from the 3 verify2 files + union, do not re-fetch decided codes); team02-extracted fully reconciled
+  (team09); whts.club sitemap covered through lastmod 2026-11-13 (team06); groupsnest/grouplinksforyou unchanged since
+  Nov 13 (team19); UCLM PDF stale, all codes dead (team24); hubrecipes.com DO-NOT-MINE (sexualized listings + phone
+  numbers); groupsor.in groupslink.pk porn posts not mined (team23); 'HQPCFBLlmukBYsQQSedLPr' (whts.club 'Entre amigos')
+  dead for the 3rd time — do not re-bank (team24).
+- UNION HYGIENE: the union file predates wave_20261113 — after the parent merges this wave, rebuild
+  .existing_codes.json from groups.json + wave_20261114_clean.json codes, or the next wave will double-bank
+  (team14 found 27 live codes already in wave13 team15's candidates but not in the union).
+
+## INCIDENTS / LESSONS
+- HTTP 429 storms: concurrent verification by ~30 teams through the shared proxy tripped WhatsApp rate limits
+  (team02: 922 pending; team30: 673; team23: 49; team05: 316, cleared after a 15-min cooldown). Future waves:
+  stagger verification, cap workers per team, cool-off 15-20 min between chunks.
+- Runtime restarts killed several long verifiers mid-run (team07 at 120/142, team13, team18, team23, team30, team05);
+  all resumed cleanly from checkpoints with no loss/double-count. Checkpointing works — keep it.
+- ProxyError/RemoteDisconnected bursts on directory fetches (team06 19/39 pages, team13 ~every other request,
+  team24/26/27 ~50% first-pass failures) — all recovered on retry with fresh sessions/backoff.
+- Screen evasions caught this wave: 'Mellbet' double-L spelling (team05 bet-substring audit), leetspeak/spaced-letter
+  casino names ('S0RTEI0S', 'G H O S T B E T', team03 hardened screen: NFKD + leetspeak + spaced-letter de-collapse),
+  fancy-Unicode titles (NEKOPOI via NFKD folding, team30), Devanagari porn titles missed by Roman-only keywords
+  (team07 fixed its screen mid-run — future screens must cover Devanagari + Roman forms),
+  standalone 'bet' not tokenized (team02 added bet/bets/betting/odds + plataforma-context rules).
+- team13: a Cloudflare challenge page was misread as end-of-pagination (page 14); fetcher patched to detect
+  challenge pages and retry — future waves: a listing-less page is a challenge, not the last page.
+- team22 wrote its 4 output files into a team22/ subdirectory instead of the wave-dir root — recovered by the
+  coordinator (merge reads the subdir); remind teams to write to the wave dir root.
+- team02 slice (linkado 6000-8499) is genuinely near-dead (~95% dead among resolved codes); team03 notes indices
+  11000+ are likely similar (~75% dead, ~74% of live are casino) — weigh linkado effort vs other directories.
+- The 285-code Nov-12 pending file is now FULLY resolved: 6 live kept (team08), 3 live excluded (team07),
+  276 dead, 0 still pending.
+
+## PARENT FLAGS (decisions for the parent, not taken by the coordinator)
+- 4 crypto-airdrop codes are still IN groups.json + union while the source site removed all 4
+  (KD408PRv4Kh1j81OBGMB6O, FQAEuMQvBZJKtOlCrsnmac, KkdRrp9oFNxLY9Q6eAwpGR, EghZlHeOTD406TCI21NChX)
+  — parent may want to purge them (flagged by team19, carried from team18/team28).
+- 43 groupinvite codes sit in the union but NOT in groups.json (team11) — a union-vs-groups audit may be worthwhile.
+- Wave12 team02-verify-state.json marks 1,787 codes 'live', many with empty og:'' — under this wave's hard rule an
+  empty og:title is dead, so those verdicts rest on a weaker signal; a spot re-check is worth considering (team09).
+- 999 tglinkhub tg_code_recs codes were never verified but are ALL in the union — re-examining them needs a
+  union-snapshot decision, not a re-verify (team01).
+- Kept-flagged items above (esp. team24's 7, team04/05 earn-online items, team30's 2) are in the clean set;
+  the parent can drop any of them at merge time.
+- groups.json shows 'M' in git status with mtime Nov 12 (predates this wave) — pre-existing working state, untouched by this wave.
+
+## COUNTS RECONCILIATION
+- Part A: 825 raw -> 656 unique -> 637 clean (12 contested + 7 casino dropped; 169 cross-team dup instances),
+  then 4 final-screen drops (Exemplo, roulette-promo, Pagol.bet, 81BET) -> 633 net,
+  then 1 overlap-resolution drop (Fãs do Richard G., below) -> 632 net.
+- Part B: 1,639 team candidates filed (1,636 top-level + team22's 3 in its subdir) -> 1,527 kept after dedupe
+  (37 vs Part A clean, 2 vs Part A excluded, 64 cross-team, 0 vs union) and 9 merge drops applied,
+  then 1 final-screen drop (Forsage, team30) -> 1,526 net.
+  Final clean = 632 + 1,526 = 2,158.
+- Pending: 1,645 raw -> 1,608 unique (34 already in clean, 3 already excluded).
+- Leads: 11,949 raw -> 11,801 unique (34 cross-team dupes, 151 code-already-in-clean incl. team30's 145 +
+  team08's 6 candidate-duplicate leads, 1 code-already-excluded).
+- Excluded: 468 unique codes (Part A 212 + team excluded lists + coordinator drops, deduped;
+  minus team29's 'Umb' exclusion, overruled — see adjudications).

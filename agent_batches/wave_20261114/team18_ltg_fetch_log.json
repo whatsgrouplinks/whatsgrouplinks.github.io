@@ -1,0 +1,324 @@
+[
+ {
+  "tag": "whatsapp-groups",
+  "url": "https://linktogroups.com/en/whatsapp-groups",
+  "status": 200,
+  "listings": 23,
+  "new_ids": [
+   "4023"
+  ]
+ },
+ {
+  "tag": "whatsapp-groups-p2",
+  "url": "https://linktogroups.com/en/whatsapp-groups?page=2",
+  "status": 200,
+  "listings": 20,
+  "new_ids": []
+ },
+ {
+  "tag": "whatsapp-groups-p3",
+  "url": "https://linktogroups.com/en/whatsapp-groups?page=3",
+  "status": 200,
+  "listings": 20,
+  "new_ids": []
+ },
+ {
+  "tag": "whatsapp-groups-p4",
+  "url": "https://linktogroups.com/en/whatsapp-groups?page=4",
+  "status": 200,
+  "listings": 13,
+  "new_ids": [
+   "4027",
+   "4028",
+   "4029",
+   "4030",
+   "4031",
+   "4032",
+   "4033",
+   "4034"
+  ]
+ },
+ {
+  "tag": "whatsapp-groups-p5",
+  "url": "https://linktogroups.com/en/whatsapp-groups?page=5",
+  "status": 200,
+  "listings": 0,
+  "new_ids": []
+ },
+ {
+  "tag": "ghana",
+  "url": "https://linktogroups.com/en/ghana",
+  "status": 200,
+  "listings": 10,
+  "new_ids": []
+ },
+ {
+  "tag": "kenya",
+  "url": "https://linktogroups.com/en/kenya",
+  "status": 200,
+  "listings": 15,
+  "new_ids": [
+   "4024"
+  ]
+ },
+ {
+  "tag": "nigeria",
+  "url": "https://linktogroups.com/en/nigeria",
+  "status": 200,
+  "listings": 24,
+  "new_ids": [
+   "4024"
+  ]
+ },
+ {
+  "tag": "nigeria-p2",
+  "url": "https://linktogroups.com/en/nigeria?page=2",
+  "status": 200,
+  "listings": 20,
+  "new_ids": []
+ },
+ {
+  "tag": "nigeria-p3",
+  "url": "https://linktogroups.com/en/nigeria?page=3",
+  "status": 200,
+  "listings": 20,
+  "new_ids": []
+ },
+ {
+  "tag": "nigeria-p4",
+  "url": "https://linktogroups.com/en/nigeria?page=4",
+  "status": 200,
+  "listings": 20,
+  "new_ids": []
+ },
+ {
+  "tag": "nigeria-p5",
+  "url": "https://linktogroups.com/en/nigeria?page=5",
+  "status": 200,
+  "listings": 5,
+  "new_ids": []
+ },
+ {
+  "tag": "nigeria-p6",
+  "url": "https://linktogroups.com/en/nigeria?page=6",
+  "status": 200,
+  "listings": 0,
+  "new_ids": []
+ },
+ {
+  "tag": "saudi-arabia",
+  "url": "https://linktogroups.com/en/saudi-arabia",
+  "status": 200,
+  "listings": 11,
+  "new_ids": [
+   "4024"
+  ]
+ },
+ {
+  "tag": "home",
+  "url": "https://linktogroups.com/en",
+  "status": 0,
+  "error": "HTTPSConnectionPool(host='linktogroups.com', port=443): Max retries exceeded with url: /en (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+ },
+ {
+  "tag": "pakistan",
+  "url": "https://linktogroups.com/en/pakistan",
+  "status": 200,
+  "listings": 16,
+  "new_ids": [
+   "141",
+   "1839",
+   "1840",
+   "376",
+   "377",
+   "378",
+   "379",
+   "380",
+   "4021",
+   "4022"
+  ]
+ },
+ {
+  "tag": "india",
+  "url": "https://linktogroups.com/en/india",
+  "status": 200,
+  "listings": 24,
+  "new_ids": [
+   "1530",
+   "1828",
+   "1829",
+   "1831",
+   "1832",
+   "1834",
+   "1836",
+   "1837",
+   "1897",
+   "282",
+   "361",
+   "363",
+   "364",
+   "373",
+   "3945",
+   "793",
+   "824",
+   "944",
+   "971",
+   "977"
+  ]
+ },
+ {
+  "tag": "australia",
+  "url": "https://linktogroups.com/en/australia",
+  "status": 200,
+  "listings": 16,
+  "new_ids": [
+   "135",
+   "1774",
+   "1775",
+   "1850",
+   "1851",
+   "1852",
+   "1853",
+   "1854",
+   "1855",
+   "1893",
+   "397",
+   "398"
+  ]
+ },
+ {
+  "tag": "canada",
+  "url": "https://linktogroups.com/en/canada",
+  "status": 200,
+  "listings": 18,
+  "new_ids": [
+   "131",
+   "132",
+   "133",
+   "134",
+   "1772",
+   "1773",
+   "1847",
+   "1848",
+   "1849",
+   "392",
+   "393",
+   "394",
+   "395",
+   "396"
+  ]
+ },
+ {
+  "tag": "ethiopia",
+  "url": "https://linktogroups.com/en/ethiopia",
+  "status": 200,
+  "listings": 17,
+  "new_ids": [
+   "1000",
+   "1207",
+   "1278",
+   "1668",
+   "1670",
+   "1671",
+   "1673",
+   "435",
+   "829",
+   "838",
+   "842",
+   "847",
+   "976"
+  ]
+ },
+ {
+  "tag": "malaysia",
+  "url": "https://linktogroups.com/en/malaysia",
+  "status": 200,
+  "listings": 10,
+  "new_ids": [
+   "1846",
+   "387",
+   "388",
+   "389",
+   "390",
+   "391"
+  ]
+ },
+ {
+  "tag": "philippines",
+  "url": "https://linktogroups.com/en/philippines",
+  "status": 200,
+  "listings": 12,
+  "new_ids": [
+   "140",
+   "1776",
+   "1777",
+   "1841",
+   "1842",
+   "1843",
+   "381",
+   "382"
+  ]
+ },
+ {
+  "tag": "russia",
+  "url": "https://linktogroups.com/en/russia",
+  "status": 200,
+  "listings": 24,
+  "new_ids": [
+   "1056",
+   "1495",
+   "1502",
+   "1503",
+   "208",
+   "209",
+   "210",
+   "211",
+   "212",
+   "213",
+   "214",
+   "215",
+   "216",
+   "217",
+   "218",
+   "219",
+   "220",
+   "221",
+   "568",
+   "812"
+  ]
+ },
+ {
+  "tag": "singapore",
+  "url": "https://linktogroups.com/en/singapore",
+  "status": 200,
+  "listings": 15,
+  "new_ids": [
+   "136",
+   "137",
+   "138",
+   "139",
+   "1844",
+   "1845",
+   "383",
+   "384",
+   "385",
+   "386",
+   "496"
+  ]
+ },
+ {
+  "tag": "iran",
+  "url": "https://linktogroups.com/en/iran",
+  "status": 200,
+  "listings": 11,
+  "new_ids": [
+   "1012",
+   "1120",
+   "1127",
+   "1259",
+   "1571",
+   "1724",
+   "716"
+  ]
+ }
+]

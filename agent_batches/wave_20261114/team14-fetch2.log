@@ -1,0 +1,16 @@
+resumed: 10 done, 5 raw codes, 10 fails
+[830] done=25 raw=11 fails=0
+[858] done=50 raw=14 fails=0
+[885] done=75 raw=20 fails=0
+[904] ProxyError attempt 1: HTTPSConnectionPool(host='www.whatshub.es', port=443): Max retries exceeded with url: /grupo/904 (Ca
+[912] done=100 raw=21 fails=0
+[939] done=125 raw=25 fails=0
+[984] done=150 raw=25 fails=0
+[1016] done=175 raw=25 fails=0
+[1047] done=200 raw=27 fails=0
+[1049] ReadTimeout attempt 1: HTTPSConnectionPool(host='www.whatshub.es', port=443): Read timed out. (read timeout=60)
+[1049] ReadTimeout attempt 2: HTTPSConnectionPool(host='www.whatshub.es', port=443): Read timed out. (read timeout=60)
+[1049] ReadTimeout attempt 3: HTTPSConnectionPool(host='www.whatshub.es', port=443): Read timed out. (read timeout=60)
+[1049] FAILED (consecutive 1)
+[1050] ReadTimeout attempt 1: HTTPSConnectionPool(host='www.whatshub.es', port=443): Read timed out. (read timeout=60)
+[1050] ReadTimeout attempt 2: HTTPSConnectionPool(host='www.whatshub.es', port=443): Read timed out. (read timeout=60)

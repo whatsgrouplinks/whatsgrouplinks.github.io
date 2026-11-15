@@ -1,0 +1,309 @@
+{
+ "per_team": {
+  "team01": {
+   "candidates_file": 0,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team02": {
+   "candidates_file": 6,
+   "kept": 3,
+   "dup_union": 0,
+   "dup_partA_clean": 2,
+   "dup_partA_excluded": 1,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team03": {
+   "candidates_file": 28,
+   "kept": 21,
+   "dup_union": 0,
+   "dup_partA_clean": 1,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 6
+  },
+  "team04": {
+   "candidates_file": 210,
+   "kept": 209,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 1
+  },
+  "team05": {
+   "candidates_file": 911,
+   "kept": 889,
+   "dup_union": 0,
+   "dup_partA_clean": 10,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 12,
+   "merge_dropped": 0
+  },
+  "team06": {
+   "candidates_file": 0,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team07": {
+   "candidates_file": 0,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team08": {
+   "candidates_file": 6,
+   "kept": 6,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team09": {
+   "candidates_file": 11,
+   "kept": 10,
+   "dup_union": 0,
+   "dup_partA_clean": 1,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team10": {
+   "candidates_file": 0,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team11": {
+   "candidates_file": 0,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team12": {
+   "candidates_file": 0,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team13": {
+   "candidates_file": 82,
+   "kept": 81,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 1
+  },
+  "team14": {
+   "candidates_file": 3,
+   "kept": 3,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team15": {
+   "candidates_file": 2,
+   "kept": 2,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team16": {
+   "candidates_file": 1,
+   "kept": 1,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team17": {
+   "candidates_file": 10,
+   "kept": 10,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team18": {
+   "candidates_file": 0,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team19": {
+   "candidates_file": 0,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team20": {
+   "candidates_file": 1,
+   "kept": 1,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team21": {
+   "candidates_file": 3,
+   "kept": 3,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team22": {
+   "candidates_file": 3,
+   "kept": 3,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team23": {
+   "candidates_file": 32,
+   "kept": 32,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team24": {
+   "candidates_file": 48,
+   "kept": 28,
+   "dup_union": 0,
+   "dup_partA_clean": 18,
+   "dup_partA_excluded": 1,
+   "dup_cross_team": 0,
+   "merge_dropped": 1
+  },
+  "team25": {
+   "candidates_file": 11,
+   "kept": 11,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team26": {
+   "candidates_file": 75,
+   "kept": 69,
+   "dup_union": 0,
+   "dup_partA_clean": 4,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 2,
+   "merge_dropped": 0
+  },
+  "team27": {
+   "candidates_file": 1,
+   "kept": 1,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team28": {
+   "candidates_file": 50,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 50,
+   "merge_dropped": 0
+  },
+  "team29": {
+   "candidates_file": 0,
+   "kept": 0,
+   "dup_union": 0,
+   "dup_partA_clean": 0,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  },
+  "team30": {
+   "candidates_file": 145,
+   "kept": 144,
+   "dup_union": 0,
+   "dup_partA_clean": 1,
+   "dup_partA_excluded": 0,
+   "dup_cross_team": 0,
+   "merge_dropped": 0
+  }
+ },
+ "stats": {
+  "partB_partA_excluded": 2,
+  "partB_partA_dup": 37,
+  "merge_drops": 9,
+  "partB_cross_team_dup": 64,
+  "recategorized": 1
+ },
+ "screen_hits": [
+  {
+   "code": "CtQAkW75l298Pq4g5gREm9",
+   "name": "LANÇAMENTO REDE POP 📍CHINESAS 🇨🇳",
+   "category": "Community & Social",
+   "pattern": "roleta"
+  },
+  {
+   "code": "Ex8HvCVcqBF8Bjjtg6pazx",
+   "name": "🧡💛Ofertas e Cupons da Shô 🛍️",
+   "category": "Finance",
+   "pattern": "\\baposta"
+  },
+  {
+   "code": "CbZlXX0nQNH3lfFhDwX1aa",
+   "name": "ＣíＲＣｕＬＯ ＤＯＳ ＢＵＧＳ — 𝙿𝚊𝚐𝚘𝚕.𝚋𝚎𝚝 𝙸𝚗𝚜𝚒𝚍𝚎𝚛𝚜 4",
+   "category": "Finance",
+   "pattern": "\\bbet\\b"
+  },
+  {
+   "code": "CKzkMugEOJp6dT1ZQ38BTz",
+   "name": "Forsage 🦅 team Mrs fai",
+   "category": "Entertainment",
+   "pattern": "forsage"
+  }
+ ],
+ "schema_errors": [],
+ "clean_total": 2164
+}

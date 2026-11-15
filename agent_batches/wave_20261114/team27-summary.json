@@ -1,0 +1,833 @@
+{
+ "team": "team27",
+ "slice": "Fresh discovery — CATEGORY / COUNTRY listing pages: Gaming, Poetry, Movies/Entertainment, Buy Sell/Online Shopping, Business, News, Earning, Sports, single-girls, YouTube + country pages IN/PK/GB/US/AE/LK (wahublink.com, wagroupshub.com, activewagroup.com, newgrouplinks.pk, grouplink.com.in, wagroupslink.com). Did NOT re-mine team30 pages (Sports wahublink/wagroupshub, Education grouplink.com.in, Crypto/Jobs activewagroup, Islamic grouplink.com.in/whatgroups.com).",
+ "sources": [
+  {
+   "url": "https://wahublink.com/gaming-whatsapp-group-links/",
+   "category": "Gaming",
+   "country": "",
+   "status": 200,
+   "codes_found": 60,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wahublink.com/poetry-whatsapp-group-links/",
+   "category": "Poetry",
+   "country": "",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wahublink.com/movies-whatsapp-group-links/",
+   "category": "Entertainment",
+   "country": "",
+   "status": 200,
+   "codes_found": 44,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wahublink.com/online-shopping-whatsapp-group-links/",
+   "category": "Buy Sell",
+   "country": "",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wahublink.com/indian-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 59,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wahublink.com/pakistani-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wahublink.com/uk-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "GB",
+   "status": 200,
+   "codes_found": 57,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wahublink.com/usa-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "US",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wahublink.com/uae-dubai-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "AE",
+   "status": 200,
+   "codes_found": 209,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/business-whatsapp-group-links/",
+   "category": "Business",
+   "country": "",
+   "status": 200,
+   "codes_found": 45,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/entertainment-whatsapp-group-links/",
+   "category": "Entertainment",
+   "country": "",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/news-whatsapp-group-links/",
+   "category": "News",
+   "country": "",
+   "status": 200,
+   "codes_found": 44,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/poetry-whatsapp-group-links/",
+   "category": "Poetry",
+   "country": "",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/movies-whatsapp-group-links/",
+   "category": "Entertainment",
+   "country": "",
+   "status": 200,
+   "codes_found": 45,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/online-shopping-whatsapp-group-links/",
+   "category": "Buy Sell",
+   "country": "",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/tamil-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 33,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/kerala-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/malayalam-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 45,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/sri-lanka-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "LK",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/uk-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "GB",
+   "status": 200,
+   "codes_found": 57,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/usa-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "US",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupshub.com/youtube-whatsapp-group-links/",
+   "category": "Entertainment",
+   "country": "",
+   "status": 200,
+   "codes_found": 141,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/business-whatsapp-group-links/",
+   "category": "Business",
+   "country": "",
+   "status": 200,
+   "codes_found": 49,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/entertainment-whatsapp-group-links/",
+   "category": "Entertainment",
+   "country": "",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/news-whatsapp-group-links/",
+   "category": "News",
+   "country": "",
+   "status": 200,
+   "codes_found": 50,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/online-earning-whatsapp-group-links/",
+   "category": "Earning",
+   "country": "",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/online-shopping-whatsapp-group-links/",
+   "category": "Buy Sell",
+   "country": "",
+   "status": 200,
+   "codes_found": 91,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/poetry-whatsapp-group-links/",
+   "category": "Poetry",
+   "country": "",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/sports-whatsapp-group-links/",
+   "category": "Sports",
+   "country": "",
+   "status": 200,
+   "codes_found": 50,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/single-girls-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/uk-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "GB",
+   "status": 200,
+   "codes_found": 135,
+   "fresh_vs_union": 1,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/usa-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "US",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/pakistani-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": 200,
+   "codes_found": 185,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/tamil-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/sri-lanka-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "LK",
+   "status": 200,
+   "codes_found": 101,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/kerala-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://activewagroup.com/malayalam-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 70,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://newgrouplinks.pk/business-whatsapp-group-links/",
+   "category": "Business",
+   "country": "PK",
+   "status": 200,
+   "codes_found": 16,
+   "fresh_vs_union": 1,
+   "retry": false
+  },
+  {
+   "url": "https://newgrouplinks.pk/karachi-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://newgrouplinks.pk/lahore-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": 200,
+   "codes_found": 16,
+   "fresh_vs_union": 3,
+   "retry": false
+  },
+  {
+   "url": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://newgrouplinks.pk/youtube-whatsapp-group-links/",
+   "category": "Entertainment",
+   "country": "PK",
+   "status": 200,
+   "codes_found": 23,
+   "fresh_vs_union": 3,
+   "retry": false
+  },
+  {
+   "url": "https://grouplink.com.in/category/business/",
+   "category": "Business",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://grouplink.com.in/category/online-earning/",
+   "category": "Earning",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://grouplink.com.in/2900-active-indian-business-group-links/",
+   "category": "Business",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 41,
+   "fresh_vs_union": 2,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupslink.com/indian-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 49,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupslink.com/pakistani-whatsapp-group-link/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": "proxy-error (see retry entry)",
+   "codes_found": 0,
+   "fresh_vs_union": 0,
+   "retry": false
+  },
+  {
+   "url": "https://wagroupslink.com/all-group-links/",
+   "category": "Community & Social",
+   "country": "",
+   "status": 200,
+   "codes_found": 6,
+   "fresh_vs_union": 2,
+   "retry": false
+  },
+  {
+   "url": "https://wahublink.com/poetry-whatsapp-group-links/",
+   "category": "Poetry",
+   "country": "",
+   "status": 200,
+   "codes_found": 48,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://wahublink.com/online-shopping-whatsapp-group-links/",
+   "category": "Buy Sell",
+   "country": "",
+   "status": 200,
+   "codes_found": 83,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://wahublink.com/pakistani-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": 200,
+   "codes_found": 183,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://wahublink.com/usa-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "US",
+   "status": 200,
+   "codes_found": 83,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://wagroupshub.com/entertainment-whatsapp-group-links/",
+   "category": "Entertainment",
+   "country": "",
+   "status": 200,
+   "codes_found": 16,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://wagroupshub.com/poetry-whatsapp-group-links/",
+   "category": "Poetry",
+   "country": "",
+   "status": 200,
+   "codes_found": 48,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://wagroupshub.com/online-shopping-whatsapp-group-links/",
+   "category": "Buy Sell",
+   "country": "",
+   "status": 200,
+   "codes_found": 83,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://wagroupshub.com/kerala-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 61,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://wagroupshub.com/sri-lanka-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "LK",
+   "status": 200,
+   "codes_found": 10,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://wagroupshub.com/usa-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "US",
+   "status": 200,
+   "codes_found": 84,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://activewagroup.com/entertainment-whatsapp-group-links/",
+   "category": "Entertainment",
+   "country": "",
+   "status": 200,
+   "codes_found": 40,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://activewagroup.com/online-earning-whatsapp-group-links/",
+   "category": "Earning",
+   "country": "",
+   "status": 200,
+   "codes_found": 89,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://activewagroup.com/poetry-whatsapp-group-links/",
+   "category": "Poetry",
+   "country": "",
+   "status": 200,
+   "codes_found": 95,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://activewagroup.com/single-girls-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "",
+   "status": 200,
+   "codes_found": 46,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://activewagroup.com/usa-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "US",
+   "status": 200,
+   "codes_found": 120,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://activewagroup.com/tamil-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 40,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://activewagroup.com/kerala-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "IN",
+   "status": 200,
+   "codes_found": 80,
+   "fresh_vs_union": 0,
+   "retry": true
+  },
+  {
+   "url": "https://newgrouplinks.pk/karachi-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": 200,
+   "codes_found": 16,
+   "fresh_vs_union": 3,
+   "retry": true
+  },
+  {
+   "url": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": 200,
+   "codes_found": 20,
+   "fresh_vs_union": 8,
+   "retry": true
+  },
+  {
+   "url": "https://wagroupslink.com/pakistani-whatsapp-group-link/",
+   "category": "Community & Social",
+   "country": "PK",
+   "status": 200,
+   "codes_found": 19,
+   "fresh_vs_union": 4,
+   "retry": true
+  }
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N => og:title 'JAY - PHP & Python Full Stack Developer' (PASS; returned as 'JAY - PHP &amp; Python Full Stack Developer' HTML-escaped)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz => empty og:title (dead, PASS)"
+ },
+ "counts": {
+  "raw": 2985,
+  "verified": 1,
+  "dupes": 2958,
+  "dead": 26,
+  "excluded": 0,
+  "pending": 0,
+  "leads": 0,
+  "fresh_vs_union_unique": 27
+ },
+ "excluded": [],
+ "dead": [
+  {
+   "code": "C365QyvrSF76dHgzyLCT7f",
+   "reason": "empty og:title after 3 attempts",
+   "name": "crypto-360",
+   "category": "Community & Social",
+   "source_page": "https://activewagroup.com/uk-whatsapp-group-links/"
+  },
+  {
+   "code": "G68B0XO1BoL9HfBO9o58zm",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kt-btn-width-type-full kb-btn-global-fill kt-btn-has-text-true kt-btn-has-svg-false wp-block-kadence-singlebtn\" href=\"https://",
+   "category": "Business",
+   "source_page": "https://newgrouplinks.pk/business-whatsapp-group-links/"
+  },
+  {
+   "code": "IbL4u7KXhGdJ1k1qH6bov0",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kt-btn-width-type-full kb-btn-global-fill kt-btn-has-text-true kt-btn-has-svg-false wp-block-kadence-singlebtn\" href=\"https://",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/lahore-whatsapp-group-links/"
+  },
+  {
+   "code": "IGINFypyo4018T4WQx5wf4",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kt-btn-width-type-full kb-btn-global-fill kt-btn-has-text-true kt-btn-has-svg-false wp-block-kadence-singlebtn\" href=\"https://",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/lahore-whatsapp-group-links/"
+  },
+  {
+   "code": "HvrpKmmL7QMJ2tT6ZYy6mh",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kt-btn-width-type-full kb-btn-global-fill kt-btn-has-text-true kt-btn-has-svg-false wp-block-kadence-singlebtn\" href=\"https://",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/lahore-whatsapp-group-links/"
+  },
+  {
+   "code": "LTMzS5wVWo9Ewd4FtwLGEW",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kt-btn-width-type-full kb-btn-global-fill kt-btn-has-text-true kt-btn-has-svg-false wp-block-kadence-singlebtn\" href=\"https://",
+   "category": "Entertainment",
+   "source_page": "https://newgrouplinks.pk/youtube-whatsapp-group-links/"
+  },
+  {
+   "code": "JoEP0pcXmgvFejusUHv26o",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kt-btn-width-type-full kb-btn-global-fill kt-btn-has-text-true kt-btn-has-svg-false wp-block-kadence-singlebtn\" href=\"https://",
+   "category": "Entertainment",
+   "source_page": "https://newgrouplinks.pk/youtube-whatsapp-group-links/"
+  },
+  {
+   "code": "CANs84zo2Q86hvR4pfeLDA",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kt-btn-width-type-full kb-btn-global-fill kt-btn-has-text-true kt-btn-has-svg-false wp-block-kadence-singlebtn\" href=\"https://",
+   "category": "Entertainment",
+   "source_page": "https://newgrouplinks.pk/youtube-whatsapp-group-links/"
+  },
+  {
+   "code": "CtYbAsN9NOeDgZrNssFgwL",
+   "reason": "empty og:title after 3 attempts",
+   "name": "Reseller – <a href=\"https://",
+   "category": "Business",
+   "source_page": "https://grouplink.com.in/2900-active-indian-business-group-links/"
+  },
+  {
+   "code": "KWwJ5cOruZk9rTfcFwM9JT",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kt-btn-width-type-auto kb-btn-global-fill kt-btn-has-text-true kt-btn-has-svg-false wp-block-kadence-singlebtn\" href=\"https://",
+   "category": "Community & Social",
+   "source_page": "https://wagroupslink.com/all-group-links/"
+  },
+  {
+   "code": "DEvTOsBx0uKJMmWbFkQJdd",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kt-btn-width-type-auto kb-btn-global-fill kt-btn-has-text-true kt-btn-has-svg-false wp-block-kadence-singlebtn\" href=\"https://",
+   "category": "Community & Social",
+   "source_page": "https://wagroupslink.com/all-group-links/"
+  },
+  {
+   "code": "HuwntxpvTCK9tY5zeFx7tx",
+   "reason": "empty og:title after 3 attempts",
+   "name": "is-layout-flow\" style=\"flex-basis:50%\"> The Updates Of Karachi",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/karachi-whatsapp-group-links/"
+  },
+  {
+   "code": "Cpx9JwifhUx7Dz5bawwnkW",
+   "reason": "empty og:title after 3 attempts",
+   "name": "ck-column-is-layout-flow\" style=\"flex-basis:50%\"> Karachi Girls",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/karachi-whatsapp-group-links/"
+  },
+  {
+   "code": "H8f1hVlXwOE5oPy9WvsuM9",
+   "reason": "empty og:title after 3 attempts",
+   "name": "umn-is-layout-flow\" style=\"flex-basis:50%\"> Karachi Hiring Work",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/karachi-whatsapp-group-links/"
+  },
+  {
+   "code": "Lme59fVXjF7GpxYt9wAIAS",
+   "reason": "empty og:title after 3 attempts",
+   "name": "ck-column-is-layout-flow\" style=\"flex-basis:50%\"> Islamic Group",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/"
+  },
+  {
+   "code": "B4yiM6yWsDR7BAuw397OYi",
+   "reason": "empty og:title after 3 attempts",
+   "name": "block-column-is-layout-flow\" style=\"flex-basis:50%\"> Mazak Raat",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/"
+  },
+  {
+   "code": "GKNZfVCsMSIEvQdUBHLL1J",
+   "reason": "empty og:title after 3 attempts",
+   "name": "lumn-is-layout-flow\" style=\"flex-basis:50%\"> Pakistan News 24/7",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/"
+  },
+  {
+   "code": "LtG76vRCzuBB97hUIfUtLp",
+   "reason": "empty og:title after 3 attempts",
+   "name": "mn-is-layout-flow\" style=\"flex-basis:50%\"> Latest News Pakistan",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/"
+  },
+  {
+   "code": "EZ0prjThtEaBV0wfOH4XqF",
+   "reason": "empty og:title after 3 attempts",
+   "name": "column-is-layout-flow\" style=\"flex-basis:50%\"> Novels Aesthetic",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/"
+  },
+  {
+   "code": "GlCvigWlP2WDnA318Yv9Gy",
+   "reason": "empty og:title after 3 attempts",
+   "name": "layout-flow\" style=\"flex-basis:50%\"> Pakistan Messaging Service",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/"
+  },
+  {
+   "code": "KsI7xA7WSLFJ0Wk5UPLcHl",
+   "reason": "empty og:title after 3 attempts",
+   "name": "lock-column-is-layout-flow\" style=\"flex-basis:50%\"> Couple Love",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/"
+  },
+  {
+   "code": "DrltopL8EM242uoafhEGaA",
+   "reason": "empty og:title after 3 attempts",
+   "name": "ck-column-is-layout-flow\" style=\"flex-basis:50%\"> College Group",
+   "category": "Community & Social",
+   "source_page": "https://newgrouplinks.pk/pakistani-whatsapp-group-links/"
+  },
+  {
+   "code": "JtqStEF74wx2xTixeUilRx",
+   "reason": "empty og:title after 3 attempts",
+   "name": "WhatsApp group links for girls in Pakistan",
+   "category": "Community & Social",
+   "source_page": "https://wagroupslink.com/pakistani-whatsapp-group-link/"
+  },
+  {
+   "code": "JtXCULTcZdnADIUlrvk3DU",
+   "reason": "empty og:title after 3 attempts",
+   "name": "> Girl WhatsApp group links Tanzania",
+   "category": "Community & Social",
+   "source_page": "https://wagroupslink.com/pakistani-whatsapp-group-link/"
+  },
+  {
+   "code": "FqQDAKxndmh8wneWEXBhbF",
+   "reason": "empty og:title after 3 attempts",
+   "name": "kadence-column1789_e5dcb6-7e\"> Girl WhatsApp group links South Africa",
+   "category": "Community & Social",
+   "source_page": "https://wagroupslink.com/pakistani-whatsapp-group-link/"
+  },
+  {
+   "code": "KIt6GWeayzp8xI7cgT53Bp",
+   "reason": "empty og:title after 3 attempts",
+   "name": "WhatsApp group link Pakistan",
+   "category": "Community & Social",
+   "source_page": "https://wagroupslink.com/pakistani-whatsapp-group-link/"
+  }
+ ],
+ "flags": [
+  "BORDERLINE KEEP: 'Cointiply' (JzWs9w4vi5F0VKkxMcbnxb, Business/IN, from grouplink.com.in business page) — Cointiply is a crypto faucet/earn platform; kept per 'when in doubt keep + flag' (not an airdrop/binary-option/'free money' scam by name, og:title is just the brand). Coordinator may re-categorize to Earning or drop.",
+  "26 of 27 fresh codes were DEAD (empty og:title after 3 spaced attempts) — these listing pages are heavily stale vs the union.",
+  "First pass hit proxy disconnects on every 2nd request (20 pages); all 20 retried with fresh session + backoff and returned 200 with codes. No page left unfetched.",
+  "grouplink.com.in/category/business/ and /category/online-earning/ returned 200 with 0 invite codes (category index pages, no direct links) — tried, nothing to mine.",
+  "Listed group names on newgrouplinks.pk / wagroupslink.com / grouplink.com.in pages were unreadable from page HTML (Kadence button markup); candidate name taken from verified live og:title instead."
+ ],
+ "resume_point": "Slice exhausted for these 6 sites' category/country pages as of Nov 14 2026. Next wave should try NEW listing sites or deeper pages (pagination /2/, /3/) on wahublink/wagroupshub/activewagroup, or new categories (Health, Technology, Cooking, Travel, Scholarship, Freelance, Real Estate) on other directories not yet covered.",
+ "files": [
+  "team27-candidates.json",
+  "team27-leads.json",
+  "team27-pending.json",
+  "team27-summary.json",
+  "team27-raw.json",
+  "team27-verify-detail.json"
+ ]
+}

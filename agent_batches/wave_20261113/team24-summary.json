@@ -1,0 +1,98 @@
+{
+ "team": "team24",
+ "slice": "leftover leads slices consolidation miner: team01 slice1, team05 slice4, team09 slice3, team11 slice6, team02 slice2, team07 linkado-2700, team08 linkado-3100, team04 listicles-mixed, team06 slice7-pending, team32/33 plain listing URLs (other teams' slices untouched)",
+ "sources": [
+  "wagroupnest.com",
+  "wagroupshub.com",
+  "wglfinder.com",
+  "wahublink.com",
+  "whatsagroupslinks.com",
+  "whatsappkanali.com",
+  "walink.pk",
+  "hubrecipes.com",
+  "grouplink.com.in",
+  "77links.com",
+  "groupda.com",
+  "groupsnest.com",
+  "freewagroup.com",
+  "groupsgyani.org",
+  "englishan.com",
+  "assengaonline.com",
+  "groupslink.pk",
+  "ccsupsc.com",
+  "whatsgroup.in",
+  "activewhatsgrouplink.com",
+  "appgrouplink.com",
+  "groupjoin.link",
+  "grouplinks.app",
+  "groupchatconnect.info",
+  "groupizo.com",
+  "groupsinvite.link",
+  "linkado.app",
+  "app.grupodewhatsapp.com",
+  "groupsor.in",
+  "grupbul.com",
+  "gruposwapp.net",
+  "team32/33 plain URLs"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (live, as expected)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead, as expected)"
+ },
+ "raw": 4433,
+ "verified": 411,
+ "dupes": 2076,
+ "dead": 367,
+ "excluded": [
+  {
+   "code": "LBJdh6YtzMYEGErZBS6dc8",
+   "reason": "blocked keyword in title/context: Sexy"
+  },
+  {
+   "code": "BlJnCa26xKmBNnrLKoxebv",
+   "reason": "blocked keyword in title/context: Xxx"
+  },
+  {
+   "code": "BSGEpm6NBc02fo2EjMZ9v1",
+   "reason": "porn leaks group (og:title 'DESi LEEKS' with bikini emoji)"
+  },
+  {
+   "code": "Ksye8DAjJGH10tsB5BWgeI",
+   "reason": "Malayalam sexual slang og:title with aroused/droplet emojis"
+  },
+  {
+   "code": "DBrKSi4LKgI62owtUqZqUQ",
+   "reason": "adult romance group (og:title 'Romantic Vibe' with fire/kiss emojis) - doubt, dropped"
+  },
+  {
+   "code": "I4jvFgDg4j24YVVKWUfaVD",
+   "reason": "explicit sexual slang og:title ('RANDIA' = prostitutes)"
+  },
+  {
+   "code": "ELB3hIuG7CBHZB4kFG266s",
+   "reason": "18+ adult chatroom (og:title carries 18+ symbol)"
+  },
+  {
+   "code": "LDDbPk5ASm01iOHENYAial",
+   "reason": "explicit porn og:title ('FUCKiNG PUSSY LADiES')"
+  },
+  {
+   "code": "IgINbLLOdv4JHkNvzM6pDf",
+   "reason": "porn site name og:title (Xvideos, 18+)"
+  },
+  {
+   "code": "Li5wXY4NLI91kOZOwA1kze",
+   "reason": "sexual fetish og:title (Femdom)"
+  },
+  {
+   "code": "KOApd99myDIJ35jUawkWf3",
+   "reason": "suspected slots/betting signal ('777')"
+  },
+  {
+   "code": "B946Y1yIg5AEOcMqgUO3Ox",
+   "reason": "suspected investment/trading scheme ('ULTIMATEBROKER MONEY MAKING PLATFORM')"
+  }
+ ],
+ "pending": 0,
+ "leads": 2153
+}

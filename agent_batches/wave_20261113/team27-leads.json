@@ -1,0 +1,42 @@
+[
+ {
+  "kind": "url",
+  "value": "https://www.gruposwats.com/grupo.html",
+  "note": "gruposwats.com LATAM directory (MX/BR/CO/AR/CL/PE/VE subdomains): listing pages return a static 68KB shell with zero chat.whatsapp.com codes via curl; listings likely JS-loaded. Browser-only."
+ },
+ {
+  "kind": "url",
+  "value": "https://mx.gruposwats.com/grupo.html",
+  "note": "gruposwats.com Mexico subdomain listing; same static-shell issue as main domain. Browser-only."
+ },
+ {
+  "kind": "url",
+  "value": "https://br.gruposwats.com/grupo.html",
+  "note": "gruposwats.com Brazil subdomain listing; same static-shell issue. Browser-only."
+ },
+ {
+  "kind": "url",
+  "value": "https://gruposdewhatss.app/",
+  "note": "Brazilian directory, 20,000+ groups, 1,108 listing pages; geo-blocked from this VM ('Your country is not allowed to access this resource'); already a team32 (wave 20261111) leads-only slice. Browser leg should paginate the hub live."
+ },
+ {
+  "kind": "url",
+  "value": "https://grupodewhatsapp.com/es",
+  "note": "Spanish directory, thousands of groups; join codes behind Turnstile-gated 'Unirse' button per team33 (wave 20261112). Browser-only."
+ },
+ {
+  "kind": "url",
+  "value": "https://drive.google.com/file/d/1MAVhl6K-lSJS5TuU3rJFSdX-weWhzU0g/view",
+  "note": "'100 GRUPOS WHATSAPP CHILE (EMPLEO Y NETWORKING)' Google Drive docx listing ~100 Chile jobs/networking group codes (e.g. Abastecimiento-Compras, Abogad@s, Alimentos, Directivos, Networking). Unmined; needs Drive download + extraction."
+ },
+ {
+  "kind": "url",
+  "value": "https://www.grouplinks.app/join?join-id=231957378",
+  "note": "grouplinks.app join-gateway page (Portuguese Community Chat); directory hub unmined by this team; surfaced in Portugal-directory search. Needs live check whether codes are extractable."
+ },
+ {
+  "kind": "url",
+  "value": "https://www.igrupos.com/",
+  "note": "EXCLUDED slice (igrupos is on the wave exclusion list) — noted only because team32 resume pointed here: homepage 'Ultimos grupos y canales' newest-first, gids above 527086 are new since Nov 11. For another team, not team27."
+ }
+]

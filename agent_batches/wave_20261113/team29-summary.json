@@ -1,0 +1,43 @@
+{
+  "team": "team29",
+  "slice": "fresh-directory discovery — EUROPE + GLOBAL ENGLISH (UK/USA/Europe/global English directories not mined in earlier waves)",
+  "sources": [
+    "https://grouplinks.co.uk/best-whatsapp-group-links/ — 19 rows, 4 fresh codes",
+    "https://grouplinks.co.uk/uk-whatsapp-group-links/ — 19 rows, 6 fresh codes",
+    "https://grouplinks.co.uk/london-whatsapp-group-links/ — 6 rows, 2 fresh codes",
+    "https://grouplinks.co.uk/students-whatsapp-group-links/ — 68 rows, 25 fresh codes",
+    "https://www.whtsagrouplinks.com/ — 227 rows, 4 fresh codes",
+    "https://www.whtsagrouplinks.com/germany-whatsapp-group-links/ — 7 rows, 0 fresh codes",
+    "https://www.whtsagrouplinks.com/international-whatsapp-groups-links/ — Cloudflare challenge page, 0 codes (see leads)",
+    "https://www.whtsagrouplinks.com/english-learning-whatsapp-group-links/ — Cloudflare challenge page, 0 codes (see leads)",
+    "https://wagroupshub.com/ — 506 rows, 0 fresh codes",
+    "https://wagroupshub.com/usa-whatsapp-group-links/ — 100 rows, 0 fresh codes",
+    "https://wagroupshub.com/uk-whatsapp-group-links/ — 124 rows, 0 fresh codes",
+    "https://wagroupshub.com/education-whatsapp-group-links/ — 54 rows, 0 fresh codes",
+    "https://groupwa.link/ — 233 rows, 0 fresh codes",
+    "https://instantgrouplink.com/ — 449 rows, 0 fresh codes",
+    "Note: wagroupshub.com, groupwa.link and instantgrouplink.com share heavily recycled tables — 0 fresh codes from 1,362 combined rows. grouplinks.co.uk student/UK pages were the productive new source."
+  ],
+  "controls": {
+    "live": "KrDwdK8EIkB6vgauHg5M7N og:title 'JAY - PHP & Python Full Stack Developer' — PASS",
+    "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz og:title empty — PASS (dead)"
+  },
+  "raw": 971,
+  "verified": 33,
+  "dupes": 930,
+  "dead": 8,
+  "excluded": [],
+  "pending": 0,
+  "leads": 22,
+  "dead_codes": [
+    "Do7nhDYoAGxCZwBTuGk8wf",
+    "E4AKF7N7Cll9eSeFYxt9Oa",
+    "ER22AnqreeIKpksZW2TMv5",
+    "EppVb4c7tPK52sxcMkjLVE",
+    "FeqIxAmBYOUKnfaLMcGDtn",
+    "ITAhXVy1GPrH46z4n0Nrq8",
+    "L16nQ6VsY0Z4vTePyN3jDr",
+    "Li5Gz6gIk5EIX1NgAU6INU"
+  ],
+  "notes": "raw=unique invite codes extracted across all 14 fetched pages (1812 rows incl. cross-page repeats). dupes=raw unique minus 41 fresh vs .existing_codes.json. All 41 fresh codes curl-verified (8 concurrent, 90s); 8 empty og:title re-checked after a 45s+ spaced retry and still empty = dead. 0 transport failures, 0 pending. 0 exclusions: all 33 live titles screened clean (no porn/betting/crypto-scam signals). Names taken from live og:title; categories from directory heading + title; country GB only for explicitly UK pages, AU for OPRA Australia, else blank."
+}

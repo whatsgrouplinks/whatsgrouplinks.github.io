@@ -1,0 +1,145 @@
+{
+ "team": "team34",
+ "slice": "linkado sitemap indices 8500-8999 (offsets 0-499 of slice 8500-10999) + 30 newest live-sitemap listings; slice indices 9000-10999 (2000 URLs) banked as leads, unmined",
+ "sources": [
+  "linkado.app grupo pages (sitemap copy wave_20261110/linkado_sitemap.xml)",
+  "live https://linkado.app/sitemap.xml (30 new vs Nov 10 copy)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (LIVE, as expected)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead, as expected)"
+ },
+ "raw": 489,
+ "verified": 54,
+ "dupes": 167,
+ "dead": 268,
+ "excluded": [
+  {
+   "code": "FJHOeWiZvDU2ZzSW9XIk28",
+   "reason": "betting promo"
+  },
+  {
+   "code": "D9uM8OZlKpNBQVLUHjizQt",
+   "reason": "casino/slots"
+  },
+  {
+   "code": "D0TbCfWb6rWDmDT0w081zh",
+   "reason": "casino/slots"
+  },
+  {
+   "code": "Cf9MmA52BQN5OpPkxB08IP",
+   "reason": "casino/slots"
+  },
+  {
+   "code": "C3atENo603IFLz9Ezf2JzN",
+   "reason": "casino/slots"
+  },
+  {
+   "code": "C6iAjNjcUbN9g54zKu6A6F",
+   "reason": "casino/slots"
+  },
+  {
+   "code": "H26fiwZ2qFJBbr1iM9rUN6",
+   "reason": "betting promo"
+  },
+  {
+   "code": "KOH5f0kg6Wc88NyB9FXYT0",
+   "reason": "betting: cambista (bookmaker)"
+  },
+  {
+   "code": "GRcsQrFQBxS0Ka5wbzzwCo",
+   "reason": "crypto-investment risk (TON partner scheme, dropped on doubt)"
+  },
+  {
+   "code": "C2kTPht1iDpHrZmgz7qPCC",
+   "reason": "adult-themed (cabaret) — porn risk, dropped on doubt"
+  },
+  {
+   "code": "E3urROx38mMAxoYxiDMLhv",
+   "reason": "betting promo (tips/strategies + bancas + slot emoji)"
+  },
+  {
+   "code": "HaMeYkPnqi8KI5PxsU2nKF",
+   "reason": "betting signals (Aviator Sinais, stylized Unicode evaded regex)"
+  },
+  {
+   "code": "Dip4jynEoCaFQmsO9Q9yax",
+   "reason": "casino platform promo"
+  },
+  {
+   "code": "HhTFbhtkIgiJwD9rC1h0dw",
+   "reason": "casino recharge-bonus promo"
+  },
+  {
+   "code": "I4f9o1FRgil21n15Y60tkW",
+   "reason": "betting promo (platform promotion, 18+)"
+  },
+  {
+   "code": "I6eTpYMCgxE7PqkY57v0eT",
+   "reason": "casino/slots (slot emoji)"
+  },
+  {
+   "code": "ImeZkzURLo95wAqTbgnwGC",
+   "reason": "betting promo"
+  },
+  {
+   "code": "KdjO6bxGWtf8HQy4k7fmku",
+   "reason": "casino signup-bonus promo"
+  },
+  {
+   "code": "ImCQN1rU3Oq7lsNb02lOYj",
+   "reason": "casino/slots (slot + luck emoji)"
+  },
+  {
+   "code": "FqqCVhG2WC082N9EIBJLcr",
+   "reason": "betting promo (bet365)"
+  },
+  {
+   "code": "IXcGMYk2gbN0qmVj7lIH6h",
+   "reason": "casino platforms promo"
+  },
+  {
+   "code": "GaMFihRqCj68jBcIKKeFyF",
+   "reason": "slots methods/platforms (PG slots)"
+  },
+  {
+   "code": "Gu8wNZwgmLvE2V7H3Tskjo",
+   "reason": "investment/income scheme"
+  },
+  {
+   "code": "Do7r9GOUa1h8DYxRYu7NLC",
+   "reason": "slots influencer team (dropped on doubt)"
+  },
+  {
+   "code": "H1ztnFZWwGuDw2PNUG8Mh1",
+   "reason": "betting promo"
+  },
+  {
+   "code": "Iext7di7vbO8D72SUYTSKR",
+   "reason": "Tiger slots platform signals"
+  },
+  {
+   "code": "FU8j5SVev4w6RjjnbycGjV",
+   "reason": "betting team (dropped on doubt)"
+  },
+  {
+   "code": "GN9do5Ij0qr57jCB4DUNhy",
+   "reason": "casino/slots"
+  },
+  {
+   "code": "G5NV3hbPnM30ioxmnPqm0b",
+   "reason": "betting tips (palpites)"
+  },
+  {
+   "code": "Gi2Mvs6xMJu6x7p7dX0PS0",
+   "reason": "betting team (dropped on doubt)"
+  }
+ ],
+ "pending": 0,
+ "leads": 2041,
+ "listings_attempted": 530,
+ "listings_no_invite": 40,
+ "listings_fetch_fail": 1,
+ "last_checkpoint": "slice400-500",
+ "note": "Yield on the Nov 10 sitemap slice is very low (46 live banked initially from 530 listings; 33 of 54 verified-live were Dinheiro/betting-adjacent). POST-HOC AUDIT: 22 more live groups dropped after eyeballing all banked names — the regex screen missed stylized-Unicode names (mathematical bold 'Aviator Sinais'), emoji-only signals (slot machine), and Portuguese betting terms (plataformas, bancas, palpites, BETS, PG metodos, recarga bonus). Future runs must NFKD-normalize names and screen on emoji + PT betting vocabulary, not ASCII regex alone. A VM/runtime restart mid-run wiped /tmp; resumed from wave-dir checkpoints (offsets 0-199 complete at restart)."
+}

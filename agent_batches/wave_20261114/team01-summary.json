@@ -1,0 +1,106 @@
+{
+ "team": "team01",
+ "slice": "tglinkhub resume — verify2_results_20261112.jsonl remainder + never-verified non-union codes",
+ "sources": [
+  "agent_batches/wave_20261112/verify2_results_20261112.jsonl (11,587 lines)",
+  "agent_batches/wave_20261110/team32_raw/verify2_results.jsonl (Nov 10)",
+  "agent_batches/wave_20261111/verify2_results_20261111.jsonl (Nov 11)",
+  "agent_batches/wave_20261110/team32_raw/tg_fresh_codes.json + tg_code_recs.json + tg_code2src.json + tg_name_exclusions.json",
+  "agent_batches/wave_20261112/team03-tglinkhub-summary.json (team03 prior work)",
+  "agent_batches/wave_20261113/team04-summary.json (team04 re-verified the 62 pending)",
+  ".existing_codes.json (union, 119,266 codes)"
+ ],
+ "controls": {
+  "live": {
+   "code": "KrDwdK8EIkB6vgauHg5M7N",
+   "expected": "JAY - PHP & Python Full Stack Developer",
+   "got": "JAY - PHP & Python Full Stack Developer",
+   "http": 200,
+   "pass": true
+  },
+  "fabricated": {
+   "code": "ZzZzZzZzZzZzZzZzZzZzZzZz",
+   "expected": "",
+   "got": "",
+   "http": 200,
+   "pass": true
+  }
+ },
+ "counts": {
+  "raw_pool_fresh_codes": 13147,
+  "in_verify2_20261112_file": 11587,
+  "in_verify2_20261112_live": 5967,
+  "in_verify2_20261112_dead": 5620,
+  "in_verify2_20261112_undecided": 0,
+  "pool_decided_across_all_3_verify2_files": 13147,
+  "pool_live_across_all_3": 6763,
+  "pool_dead_across_all_3": 6322,
+  "pool_pending_across_all_3": 62,
+  "raw_this_run": 65,
+  "verified_live_this_run": 5,
+  "dead_this_run": 60,
+  "pending_this_run": 0,
+  "dupes_skipped_no_fetch": 3,
+  "verified_candidates_banked": 0,
+  "excluded_live": 5,
+  "leads": 0
+ },
+ "verified": 0,
+ "dead": 60,
+ "dupes": 3,
+ "pending": 0,
+ "leads": 0,
+ "excluded": [
+  {
+   "code": "KrlclnHLTF92zoufKilMdh",
+   "reason": "hard-screen DROP: voyeur/bathing-urination sexualised title: सभी भाभी आंटी सुसु नहाती"
+  },
+  {
+   "code": "3EvZx578PQ6EwZtEdNnpnP",
+   "reason": "name looks like a phone number/personal info: 6/1/18+91"
+  },
+  {
+   "code": "FsYLKSIBH2iHQxe8IFRJcE",
+   "reason": "scam signal in og:title/name: CARDING AND LEGIT ACCOUNT & UC"
+  },
+  {
+   "code": "IYSE8qdzpJwJR9TyInZDY9",
+   "reason": "scam signal in og:title/name: Forsage global team"
+  },
+  {
+   "code": "KMPCo287Qb3GqGc5wa21hQ",
+   "reason": "scam signal in og:title/name: Maham Carding Uc"
+  }
+ ],
+ "dupes_list": [
+  {
+   "code": "HEd8YypmDP79JFDbMupwuS",
+   "reason": "duplicate of existing groups.json code (in .existing_codes.json union)"
+  },
+  {
+   "code": "LQsFNeDaq9W03ptXrgHcaK",
+   "reason": "duplicate of existing groups.json code (in .existing_codes.json union)"
+  },
+  {
+   "code": "FwwR7FqEJofD90UMcxbc1Q",
+   "reason": "duplicate of existing groups.json code (in .existing_codes.json union)"
+  }
+ ],
+ "flagged_for_adjudication": [
+  {
+   "code": "3EvZx578PQ6EwZtEdNnpnP",
+   "og_title": "6/1/18+91",
+   "note": "ADJUDICATION FLAG: dropped as phone-number fragment (directory name and og:title are both just \"6/1/18+91\"); no group identity to bank honestly. If the coordinator judges it a date/code rather than a phone fragment, it could be banked as Business/Community & Social, but it was NOT banked here."
+  }
+ ],
+ "resume": "Nothing remains undecided in this slice. The 13,147-code keep pool is now fully decided: live 6,764 (6,763 from the 3 verify2 files + 1 pending re-verified live here, excluded), dead 6,380 (6,322 + 58 pending re-verified dead here), union dupes 3 (not fetched) = 13,147. Plus the 6 never-verified non-union codes: live 4 (all excluded), dead 2. Pending 0. Next run: re-derive from the 3 verify2 files + current union; do NOT re-fetch decided codes. Note: 999 tg_code_recs codes never verified are ALL in the union (skipped per dedupe rule); 3,887 recs-not-in-fresh codes are all in the union. If the coordinator wants those re-examined, that needs a union-snapshot decision, not a re-verify.",
+ "notes": [
+  "CONTROLS PASSED in-run: live KrDwdK8EIkB6vgauHg5M7N -> og:title exactly \"JAY - PHP & Python Full Stack Developer\" (http 200); fabricated ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title, dead (http 200).",
+  "SLICE-SIZE DISCREPANCY (honest): the assigned \"~2,394 unverified invite codes\" matches NO derivable count. Recomputed: verify2_20261112 file = 11,587 decided rows, 0 undecided; full fresh pool 13,147 decided across Nov10+Nov11+Nov12 except exactly the 62 pending codes (3 union dupes + 59 verified here). Closest counts to 2,394: live-not-in-union across all 3 files = 2,144; f12-live-not-in-union = 1,990; live-not-in-union + pending-not-in-union = 2,203. This run verified the true undecided remainder (65 codes: 59 pending + 6 never-verified non-union) and banked 0 candidates because all 5 live hits were drops.",
+  "INDEPENDENT RE-CHECK of wave_20261113 team04: team04 reported the 59 pending as 58 dead + 1 live-excluded (KrlclnHLTF92zoufKilMdh). This run independently re-fetched all 59 with spaced retries and got the IDENTICAL outcome: 58 dead (empty og:title after 3 attempts), 1 live with the same og:title (Hindi bhabhi/aunty bathing/urination voyeur content), excluded here too.",
+  "The 6 never-verified non-union codes are the 7 tg_name_exclusions codes minus the 1 already in the union (KilgsNKL3aBEZGMvPYrK26, \"Airdrop International\"). Of the 6: 4 live (2 carding, 1 Forsage, 1 phone fragment) — all excluded; 2 dead (Free Crypto Airdrop, Amazon Airdrop).",
+  "No HTTP 429 and no transport failures in this run (0 pending); persistent per-thread requests.Session held up for all 65 fetches + 2 controls (479s total).",
+  "Casino/slots screen applied to every live title (tigrinho/fortune tiger/sinais/plataformas pagantes/WJBET/cassino/slots/bet): 0 casino hits among the 5 live — the 5 were porn-voyeur / carding / Forsage / phone-fragment drops.",
+  "groups.json NOT edited, generate.py NOT run, no deploy. Only team01-* outputs written in wave_20261114 dir."
+ ]
+}

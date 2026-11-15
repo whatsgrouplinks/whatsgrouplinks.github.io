@@ -1,0 +1,24 @@
+pending to retry: 65
+1/65 BnkMCFkK71e0rCi9fZHZ7y dead | '' | empty og:title after 3 attempts
+2/65 FVI7kC9WrZDGAFalZ5ORAJ dead | '' | empty og:title after 3 attempts
+3/65 HCrbU7MYEao7h64AwwhfW8 dead | '' | empty og:title after 3 attempts
+4/65 Kl8TFSZWSgO1hfXD4AdMnQ dead | '' | empty og:title after 3 attempts
+5/65 JaYPLah38Es5H7EzSF4Gk5 dead | '' | empty og:title after 3 attempts
+6/65 IZAqHf1BoJ33I8Fxv7UaqQ dead | '' | empty og:title after 3 attempts
+7/65 DX2MlZqLQMB280s1700kcG dead | '' | empty og:title after 3 attempts
+8/65 IjeqjzeVtGmDaOah92JLOm dead | '' | empty og:title after 3 attempts
+9/65 BCS8XB6zFVz9hASfdIUvrP dead | '' | empty og:title after 3 attempts
+10/65 F0ubCx4JoxF2n9aIZPeBsx dead | '' | empty og:title after 3 attempts
+11/65 D7kJBX9QBuKC62v2nOoiLI dead | '' | empty og:title after 3 attempts
+12/65 B6shxPKVrKCHiH2liyOp0J dead | '' | empty og:title after 3 attempts
+13/65 Jqt8tEXUmm44Z0cY5OY7r3 live | '🌐YouTuber banege ✅' | 
+14/65 KKHXRvWsquBIqUGEJz3OLx dead | '' | empty og:title after 3 attempts
+15/65 Fae1B6zrgAo6pPmk7Ws8N3 dead | '' | empty og:title after 3 attempts
+16/65 CNeNUDGH1m01HLt6GVi6he dead | '' | empty og:title after 3 attempts
+17/65 K0EhVQQkrgP4tJsbgoBjh8 pending | '' | HTTP 429
+18/65 G6I8VRRBkHW8MSGt2gMUim pending | '' | HTTP 429
+19/65 FrxbvwJP9wqCb5nLwb3xJD pending | '' | HTTP 429
+20/65 DthjL8jZqMWGd2VaPQB6Zg pending | '' | HTTP 429
+21/65 I9k5z2O9qrbCSL2PWbhuLu pending | '' | HTTP 429
+5 consecutive 429s — stopping retry pass, rest stay pending
+retry done, resolved: 21

@@ -1,0 +1,628 @@
+{
+ "team": "team03",
+ "slice": "linkado grupo sitemap indices 9000-10999 (2000 URLs) + 41 retry leads from team34 (8500-8999 no-invite/fetch-fail)",
+ "sources": [
+  "linkado.app grupo pages (sitemap copy wave_20261110/linkado_sitemap.xml)",
+  "team34 leads file wave_20261113/team34-leads.json"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (LIVE, as expected)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead, as expected)"
+ },
+ "raw": 2041,
+ "verified": 134,
+ "dupes": 830,
+ "dead": 816,
+ "no_invite": 261,
+ "excluded_count": 106,
+ "excluded": [
+  {
+   "code": "DELl3wefNmr2cCz3ng6hsj",
+   "reason": "casino/betting: slot",
+   "title": "Grupo vip slots✅"
+  },
+  {
+   "code": "JqVNrzitmtA7ke4bMfgvhw",
+   "reason": "casino/betting: cassino",
+   "title": "SEGURO BET - CASSINO E SLOT"
+  },
+  {
+   "code": "IZHgAXQPl9nKbkNjHtf4NK",
+   "reason": "casino/betting: apost[ae](?!ila)",
+   "title": "🤑Aposta certa🤑"
+  },
+  {
+   "code": "BrEBN2VyQEH9MXJtvziPOf",
+   "reason": "casino/betting: slot",
+   "title": "🍀💰💰Slots premiados🤩 do Elias 🤑"
+  },
+  {
+   "code": "Ji6oa4zVE4G2ud3UIynT2F",
+   "reason": "casino/betting: slot",
+   "title": "SLOTS 015 🚀🚀✅"
+  },
+  {
+   "code": "IJFkQAttX96B9e2ZVcWeAc",
+   "reason": "casino: slot-machine emoji",
+   "title": "PLATAFORMAS NOVA, SORTEIOS E FERRAMENTAS🎰💻"
+  },
+  {
+   "code": "B9cnRWYZe3T5KMK6zyQyTW",
+   "reason": "casino/betting: \\bbancas?\\b",
+   "title": "BANCAS DIÁRIAS!! 🤑🔝"
+  },
+  {
+   "code": "JSUAbpGkHfq3fDzyYXVwOp",
+   "reason": "casino/betting: cassino",
+   "title": "AMANTES POR CASSINO ONLINE"
+  },
+  {
+   "code": "ChBdCoAg3y70kSMZRf7zN1",
+   "reason": "casino/betting: slot",
+   "title": "GRUPO DIVULGAÇÃO SLOTS"
+  },
+  {
+   "code": "LsyoJvO8wNO2YlLoREyvdw",
+   "reason": "casino/betting: slot",
+   "title": "SLOTS DA MEANNAZ"
+  },
+  {
+   "code": "CX0vonxGAhiAfnmHwItmdU",
+   "reason": "casino/betting: slot",
+   "title": "Tropa dos slots"
+  },
+  {
+   "code": "Eck6UCwzt7VL9Th5wo1TOU",
+   "reason": "casino/betting: slot",
+   "title": "Slots da Emily 🔥🚨"
+  },
+  {
+   "code": "FB804zWS0OkLPOizeqY4Pp",
+   "reason": "casino/betting: slot",
+   "title": "FADYNHA SLOTS -links da sorte🚀💚🍀"
+  },
+  {
+   "code": "CvGAP8a22YJCxM4ZwIdzNm",
+   "reason": "casino/betting: slot",
+   "title": "GRUPO DE SLOTS NATALY🍀🎰"
+  },
+  {
+   "code": "LlvNuRllKnnDQGMPQZMyCL",
+   "reason": "casino/betting: \\bbancas?\\b",
+   "title": "Lançamentos/Meia banca 🚀"
+  },
+  {
+   "code": "DvLj3SroNbv6T024B4nhle",
+   "reason": "casino/betting: tigrinho",
+   "title": "Link Tigrinho Com Bônus"
+  },
+  {
+   "code": "EHhu35iQR8JLYLYednrvSA",
+   "reason": "casino/betting: plataformas?\\s+pagantes?",
+   "title": "Plataformas pagantes 🐅🤑💸"
+  },
+  {
+   "code": "JIrezqFgEmpKSisvgscdN6",
+   "reason": "casino/betting: apost[ae](?!ila)",
+   "title": "Aposta Personalizada - DICAS"
+  },
+  {
+   "code": "HwRiRHhH5kC1611ZUvkmEb",
+   "reason": "casino: betting team + money/tiger emoji",
+   "title": "Tropa do Zack 👑🤑💵"
+  },
+  {
+   "code": "FqRzN6ty2FpDt0Pk9zGMba",
+   "reason": "casino/betting: slot",
+   "title": "Slots iasmin🚀💸"
+  },
+  {
+   "code": "FcM5hCWbYeJ3e9mQvk6xk3",
+   "reason": "casino/betting: slot",
+   "title": "WESLEY SLOTS"
+  },
+  {
+   "code": "IugKZeUSsfC8Nuw02WzUGE",
+   "reason": "casino: plataforma + betting context",
+   "title": "Divulgação de plataformas"
+  },
+  {
+   "code": "IE1dJHPuGmmGVo3331UWiz",
+   "reason": "casino/betting: fortune",
+   "title": "FORTUNE TIGER"
+  },
+  {
+   "code": "HNW9Ibnj88Q9SKt9JnBVBn",
+   "reason": "casino/betting: casino",
+   "title": "🎰casino da GIH🎰🚀💸"
+  },
+  {
+   "code": "KZ9yAiLF8Ay7uB4IzD1NtQ",
+   "reason": "casino/betting: apost[ae](?!ila)",
+   "title": "Renda extra, dicas de aposta e sorteios de pix!"
+  },
+  {
+   "code": "HJqKmLQ8zoZFUDiMZeJo8C",
+   "reason": "casino/betting: slot",
+   "title": "🔥 𝙎𝙇𝙊𝙏𝙎 𝘿𝘼 𝙅𝘼𝙉𝙉𝙄 🔥"
+  },
+  {
+   "code": "IeVTKedJFI11VgACEJ6xLW",
+   "reason": "casino/betting: plataformas?\\s+pagantes?",
+   "title": "PLATAFORMAS PAGANTES!🐅🐯🐅🐯"
+  },
+  {
+   "code": "Bi5oLYZw0I82CdfSoJq90Q",
+   "reason": "scam: fature money claim",
+   "title": "FATURE BEM  DOS AMIGOS🤑🤑"
+  },
+  {
+   "code": "ILHLnXBSfumE8rsZIj26oW",
+   "reason": "casino/betting: horario.*pagando|pagando.*horario",
+   "title": "Horários pagando 💰💰💰💰"
+  },
+  {
+   "code": "F0flB4imqcA8iOMrXhLaQ1",
+   "reason": "casino/betting: \\bbancas?\\b",
+   "title": "BANCA GRÁTIS 🎰🥳"
+  },
+  {
+   "code": "Fiabw6JbguJJpD1Tw0xP9h",
+   "reason": "casino: plataforma + betting context",
+   "title": "MELHORES   PLATAFORMAS  💵💸💵💸💷💶💴"
+  },
+  {
+   "code": "Br3X7Xrp9Kv8mLOZpgAlXS",
+   "reason": "casino/betting: pagantes?",
+   "title": "💸HORÁRIOS PAGANTES💸"
+  },
+  {
+   "code": "CcUCRzmJ4bU5zryM9SbrJ6",
+   "reason": "casino/betting: slot",
+   "title": "ANA SLOTS💸"
+  },
+  {
+   "code": "BuoQZKy9ok0EiD22dOx6mX",
+   "reason": "casino/betting: slot",
+   "title": "Cnc.bet.slots"
+  },
+  {
+   "code": "KvfWVyQa7h77sfO5wpuEnK",
+   "reason": "casino/betting: slot",
+   "title": "Elisangela’s Slot Tips & Platforms"
+  },
+  {
+   "code": "IHXqI1RYbxS3FgIlusmstu",
+   "reason": "casino/betting: slot",
+   "title": "🎰VIP DO ALEX SLOTS🎰"
+  },
+  {
+   "code": "BMV88wg88Wg7XtxiT5qHvL",
+   "reason": "casino/betting: slot",
+   "title": "AL SLOTS💸🚀🍀🎰"
+  },
+  {
+   "code": "FuhjmnN0GX9EaeNqLBjiDt",
+   "reason": "casino/betting: \\bbets?\\b",
+   "title": "BET TÉO"
+  },
+  {
+   "code": "EP400VIh750IV0EsUr1vV3",
+   "reason": "casino/betting: casino",
+   "title": "plataforma BET 7K 🐯AFILIADOS 🚀🚀🐯🐯E CASINOS🐰🐰"
+  },
+  {
+   "code": "BnMBlAb174b60oirTRp9Ny",
+   "reason": "casino/betting: slot",
+   "title": "GRUPÃO DOS SLOTS ❤️🚨"
+  },
+  {
+   "code": "GDtgB0soDRwFunOk5wku1r",
+   "reason": "scam: earn-money-by-referral scheme",
+   "title": "Ganhe dinheiro por indicação!!"
+  },
+  {
+   "code": "GQWO6NW3mop5wsL7aArEyy",
+   "reason": "junk name (no alphanumeric characters)",
+   "title": ".."
+  },
+  {
+   "code": "FYAlTXc61HR9RvEHEcLQ32",
+   "reason": "casino/betting: slot",
+   "title": "Ray Slots Br🚀🎰🩷"
+  },
+  {
+   "code": "EDortNlGDcjDib8J9audvo",
+   "reason": "casino/betting: slo+ts",
+   "title": "Andressa Sloots 🤑🐯🧧"
+  },
+  {
+   "code": "DQcOmCxMxopA1QJqlLXL1c",
+   "reason": "casino: slot-machine emoji",
+   "title": "GRUPO DA KAH E DO DIAS 🎰🍀"
+  },
+  {
+   "code": "GteX3MNtl6u9VdvVfmq0ZD",
+   "reason": "junk name (no alphanumeric characters)",
+   "title": "."
+  },
+  {
+   "code": "BZo8m1rJ7kqCJEME0XmuCZ",
+   "reason": "casino/betting: cassino",
+   "title": "Cassinos- sorteio de banca"
+  },
+  {
+   "code": "FDpn5gHM2AS1l531hkcC3M",
+   "reason": "casino: slot-machine emoji",
+   "title": "G.T.A PG🐯🐰Loh🎰🐯"
+  },
+  {
+   "code": "F20ksLhd8i28U83MJgaJeU",
+   "reason": "casino/betting: slot",
+   "title": "🍀 GG SLOTS 🍀"
+  },
+  {
+   "code": "LpyaTkVfVsL4l8n5MAYBR7",
+   "reason": "casino/betting: slot",
+   "title": "W7 SLOT 💸🎰"
+  },
+  {
+   "code": "JO3E2gidsNA1Y8Il3MYzc9",
+   "reason": "casino/betting: slot",
+   "title": "Faturando com slots🤑💰💰"
+  },
+  {
+   "code": "GUC57tDOYOx1fT0MFtj99N",
+   "reason": "casino/betting: \\bbancas?\\b",
+   "title": "GRUPO DE MEIA BANCA E COMPLETA 🍀💵"
+  },
+  {
+   "code": "I3p9VELrifZ3n0yKC9jKSa",
+   "reason": "casino/betting: (win|wiin|pix|super|mega|sport)?bet\\b",
+   "title": "AmandaBET🎰"
+  },
+  {
+   "code": "GLBWX1CJTibCeoGyXrdrTw",
+   "reason": "casino: 888 + gambling context",
+   "title": "Jogomanga888"
+  },
+  {
+   "code": "KOU9GFJDGTKE6MUVU5RERO",
+   "reason": "casino/betting: slot",
+   "title": "FranciaraISLOT 🤑🤑"
+  },
+  {
+   "code": "G9PfjJQW4wuBA199OscxXT",
+   "reason": "casino: plataforma + betting context",
+   "title": "PLATAFORMA BUGADA PAGANDO MUITO"
+  },
+  {
+   "code": "JpCEXAG87TQCIvXHpLGDXj",
+   "reason": "casino/betting: \\btips\\b",
+   "title": "FREE - TIPS DO GOAT"
+  },
+  {
+   "code": "HkD6vuvfOe2EPnYiNeV8Ym",
+   "reason": "casino: slot-machine emoji",
+   "title": "Plataforma Davi🎰"
+  },
+  {
+   "code": "CO96ujozGntFJoZUxsWkzP",
+   "reason": "casino: tiger emoji + money emoji",
+   "title": "EQUIPE-GABRIELZINHO💸🤑🐯"
+  },
+  {
+   "code": "CdTGJGZKqcpAhjYzqovcJm",
+   "reason": "casino/betting: apost[ae](?!ila)",
+   "title": "APOSTADOS HYPE 😮‍💨"
+  },
+  {
+   "code": "BsWz7clI2cr8YuZsQcZNCv",
+   "reason": "casino: slot-machine emoji",
+   "title": "🎰🧞‍♀️MAGUIN PLATAFORMAS🧞‍♀️🎰"
+  },
+  {
+   "code": "C74RudvptLY9DISVqXd5TF",
+   "reason": "casino/betting: \\bsinais\\b",
+   "title": "SINAIS (VIP) DA JAPA ☘️🐯❤️"
+  },
+  {
+   "code": "JHk3eNdam2l8cJC0Eyr5ur",
+   "reason": "casino/betting: \\bbets?\\b",
+   "title": "🔸 GRUPO VIP LEÃO BET 🦁"
+  },
+  {
+   "code": "DedQzfFAFlz7pq6YgOGx7a",
+   "reason": "casino/betting: \\bsinais\\b",
+   "title": "Lista de sinais Double e crash"
+  },
+  {
+   "code": "H96pmqtCEEMFVT758yRcRB",
+   "reason": "casino/betting: slot",
+   "title": "SLOTS DO RICK 🚀🎰"
+  },
+  {
+   "code": "KW0YxT2E4wF0Cqjp4J2Doe",
+   "reason": "porn/adult: \\bporn",
+   "title": "PORNOLANDIA"
+  },
+  {
+   "code": "EQIR7k60CDo1xD1LfKSfal",
+   "reason": "casino/betting: roleta",
+   "title": "💸🎰Rei Da Roleta🎰💸"
+  },
+  {
+   "code": "DnH0y9hOBSPBE22cPteT9d",
+   "reason": "casino/betting: \\bsinais\\b",
+   "title": "❦𝘉𝘌𝘛𝘗𝘙Ø - 𝘌𝘴𝘵𝘳𝘢𝘵é𝘨𝘪𝘢, 𝘔é𝘵𝘰𝘥𝘰𝘴, 𝘚𝘪𝘯𝘢𝘪𝘴 & 𝘏𝘰𝘳á𝘳𝘪𝘰𝘴 #12"
+  },
+  {
+   "code": "KWyYsaZVaxNBkF0dThPzNf",
+   "reason": "casino/betting: slot",
+   "title": "VANIA SLOTS🐯"
+  },
+  {
+   "code": "IH3vuhbqbVoGQ5eSEnhTlo",
+   "reason": "casino: plataforma + betting context",
+   "title": "GANHAR NAS PLATAFORMAS"
+  },
+  {
+   "code": "EfeTsmm6YM7DmG8WgeJtw2",
+   "reason": "casino: slot-machine emoji",
+   "title": "FÜT RESENHA ⚽🎯🏀🎰✅"
+  },
+  {
+   "code": "FaGG2xxOu2zHEfP3L9NFl3",
+   "reason": "casino: slot-machine emoji",
+   "title": "PK MÉTODO 🎰✅"
+  },
+  {
+   "code": "LUqaSkgb7KAIYoWOuCd60g",
+   "reason": "casino/betting: slot",
+   "title": "Bia slots ☘️🤖"
+  },
+  {
+   "code": "F7f0kl4d4FHHmmWj5ZiDq6",
+   "reason": "casino/betting: slot",
+   "title": "Rei do slot👑🍀"
+  },
+  {
+   "code": "DuC10LqhQhn7fCDRWgvW35",
+   "reason": "casino/betting: \\bbets?\\b",
+   "title": "Mundo bets VIP"
+  },
+  {
+   "code": "HiMHEkV2HjZG2osxvi1xvV",
+   "reason": "casino: fenix metodos (betting methods)",
+   "title": "FÊNIX METADOS [2]"
+  },
+  {
+   "code": "HVMwNWLnAQy73BIMI8nxSC",
+   "reason": "casino/betting: palpites?",
+   "title": "PALPITES 100%☘️🤑"
+  },
+  {
+   "code": "Cc0JSKKLWIGKzkOnF5rwKv",
+   "reason": "casino/betting: \\bsinal\\b",
+   "title": "S0RTEI0S - SINAL.GPT - Plataformas, Horários e Estratégias! 🚀"
+  },
+  {
+   "code": "CeD7ZyPP4cM9ojkFl0VWHW",
+   "reason": "porn/adult: 18+ sticker/pack group",
+   "title": "🆔️Figurinhas sem limites🔞🔭"
+  },
+  {
+   "code": "G91ocD4hDiL4vZiSDdupvr",
+   "reason": "casino/betting: slot",
+   "title": "SLOTS PAGANTES"
+  },
+  {
+   "code": "BE4IrKautPOIA7kN1rH6hi",
+   "reason": "casino/betting: \\bbancas?\\b",
+   "title": "🎉🛑🚀👀Nova edição de distribuição de bancas e meia bancas🍀❤️💝🎉"
+  },
+  {
+   "code": "Brak4GhEVaNKPCTUDsmF1L",
+   "reason": "casino/betting: cassino",
+   "title": "Rei dos cassinos vip🔥"
+  },
+  {
+   "code": "FLPG7PhhlVfBpQHpZYDQPY",
+   "reason": "casino/betting: slot",
+   "title": "DECKZIN SLOTS 🎰💸"
+  },
+  {
+   "code": "L1O5cdd7QTZERoqZxQOt3v",
+   "reason": "casino/betting: (win|wiin|pix|super|mega|sport)?bet\\b",
+   "title": "PLATAFORMA WIINBET❤️🤞🏻🥳"
+  },
+  {
+   "code": "DKXQYw1KqICK6OyltxcudY",
+   "reason": "casino/betting: plataformas?\\s+pagantes?",
+   "title": "Plataformas pagantes 🤑🤑🤑"
+  },
+  {
+   "code": "GrTRJF3uTgoJtwumCq48gl",
+   "reason": "casino/betting: apost[ae](?!ila)",
+   "title": "Liga dos Apostadores 💰"
+  },
+  {
+   "code": "DZwJXRqyN1SJHlJ0tReWVW",
+   "reason": "casino/betting: slot",
+   "title": "Slotes e plataformas"
+  },
+  {
+   "code": "KrkYO7js0SiLJMjmdByFfH",
+   "reason": "casino/betting: palpites?",
+   "title": "ALFA TIPS (PALPITES FREE ) ⚽💸"
+  },
+  {
+   "code": "E9H4qQ0wOSu3l5OSDHHe4B",
+   "reason": "casino/betting: slot",
+   "title": "Slot"
+  },
+  {
+   "code": "D8yqIhgGMQyEwLBJVUHGqL",
+   "reason": "casino/betting: apost[ae](?!ila)",
+   "title": "DICAS 💰DP SPORTS APOSTAS 💰"
+  },
+  {
+   "code": "LuOQ1L0q7Le0Qf7gkAzH4m",
+   "reason": "casino/betting: slot",
+   "title": "⭐ CANAL OFICIAL - 🍀 Dicas e slots da sorte 🍀"
+  },
+  {
+   "code": "K9p4IQsDyUQDQLUYp46UdU",
+   "reason": "casino: slot-machine emoji",
+   "title": "🎰EQUIPE R🎰2️⃣"
+  },
+  {
+   "code": "GHGSaZpSoZULqLfKOd2kt6",
+   "reason": "casino/betting: \\bblaze\\b",
+   "title": "BLAZE VIP 1.0"
+  },
+  {
+   "code": "ImdyCFsmBsqBdswhN0hwCf",
+   "reason": "casino/betting: apost[ae](?!ila)",
+   "title": "APOSTEMAIS.COM 🤑⚽💲"
+  },
+  {
+   "code": "ImVmHX4am8ADy8K3inUa7N",
+   "reason": "casino/betting: fortune",
+   "title": "Fortune Tiger 🥇🎰💰VIP 02"
+  },
+  {
+   "code": "Erlqbq9z1H28DRYSC9Gbab",
+   "reason": "casino: plataforma + betting context",
+   "title": "Real Plataformas 🐅💸"
+  },
+  {
+   "code": "JhR5HQOwsIcIflAncaPcPX",
+   "reason": "casino: plataforma + betting context",
+   "title": "BETEGOAL - PLATAFORMA COM LUCRO GARANTIDO"
+  },
+  {
+   "code": "C1xsT2Y15rhICfm2WZPBbs",
+   "reason": "casino: gol premiado (goal betting)",
+   "title": "GOL PREMIADO✅"
+  },
+  {
+   "code": "GfbxvzVovOTKk2LlSWiFJ7",
+   "reason": "casino/betting: \\bsinais\\b",
+   "title": "🚀GRUPO VIP SINAIS # 32⏰️"
+  },
+  {
+   "code": "KeEQADfbEHn1FpVIIMG7Ht",
+   "reason": "casino/betting: \\bsinais\\b",
+   "title": "Lançamento de sinais e plataformas. 🍀"
+  },
+  {
+   "code": "FapbpagrnOz221dP8ZCCLi",
+   "reason": "casino/betting: slot",
+   "title": "TA PAGANDO SLOTS"
+  },
+  {
+   "code": "EnSDiv88xaRCdxAU9ZMma8",
+   "reason": "casino/betting: apost[ae](?!ila)",
+   "title": "Grupo de apostas 🗿🍷💸"
+  },
+  {
+   "code": "Fdk085Ty6AlIHaTaOdppuW",
+   "reason": "casino/betting: fortune",
+   "title": "Fortune Tiger - Minutos Pagantes"
+  },
+  {
+   "code": "DZbM5NF1OshD9woJ6oa8hG",
+   "reason": "personal info: phone number in title",
+   "title": "RENDA EXTRA INTERNET 55 31920080590"
+  },
+  {
+   "code": "IRnwzIFmTyk1tlK9yq82w3",
+   "reason": "casino/betting: fortune",
+   "title": "💸Fortune tiger💸"
+  },
+  {
+   "code": "CKSYIh8pMxQIxJRNWUeQSY",
+   "reason": "casino/betting: (win|wiin|pix|super|mega|sport)?bet\\b",
+   "title": "G H O S T  B E T 👻®️"
+  }
+ ],
+ "flagged_count": 8,
+ "flagged": [
+  {
+   "name": "GRUPO HACKEADO ❌❌",
+   "category": "Gaming",
+   "country": "BR",
+   "description": "Join GRUPO HACKEADO ❌❌, an active WhatsApp group for gaming.",
+   "invite": "https://chat.whatsapp.com/HIhIXMu1HjX7UojAK9W1w5",
+   "flag": "hacked-content — review"
+  },
+  {
+   "name": "🥇 ECONOMIA PREMIUM ✅",
+   "category": "Finance",
+   "country": "BR",
+   "description": "Join 🥇 ECONOMIA PREMIUM ✅, an active WhatsApp group for finance.",
+   "invite": "https://chat.whatsapp.com/Fi7ZECIBLM8L1DueP9YjeK",
+   "flag": "premium money group — review"
+  },
+  {
+   "name": "Lançamentos plataforma",
+   "category": "Gaming",
+   "country": "BR",
+   "description": "Join Lançamentos plataforma, an active WhatsApp group for gaming.",
+   "invite": "https://chat.whatsapp.com/HSaFF1Gi3IF7gdcEEOawZN",
+   "flag": "plataforma — possible casino-platform promo, review"
+  },
+  {
+   "name": "Plataforma",
+   "category": "Finance",
+   "country": "BR",
+   "description": "Join Plataforma, an active WhatsApp group for finance.",
+   "invite": "https://chat.whatsapp.com/CkFWiYl4T29H7vTGUxfh0D",
+   "flag": "plataforma — possible casino-platform promo, review"
+  },
+  {
+   "name": "Jogos",
+   "category": "Finance",
+   "country": "BR",
+   "description": "Join Jogos, an active WhatsApp group for finance.",
+   "invite": "https://chat.whatsapp.com/FfMen8t7ySDHpgbboLswIq",
+   "flag": "jogos — ambiguous, possible gambling"
+  },
+  {
+   "name": "Grupo da kah🚀💸💸💸💸",
+   "category": "Community & Social",
+   "country": "BR",
+   "description": "Join Grupo da kah🚀💸💸💸💸, an active WhatsApp group for community & social.",
+   "invite": "https://chat.whatsapp.com/FssyORA0hoWGhdYge5nlS5",
+   "flag": "heavy money emojis — review"
+  },
+  {
+   "name": "GRUPO JOGOS",
+   "category": "Finance",
+   "country": "BR",
+   "description": "Join GRUPO JOGOS, an active WhatsApp group for finance.",
+   "invite": "https://chat.whatsapp.com/CxtLPVfzMwPAQnApYvRrDY",
+   "flag": "jogos — ambiguous, possible gambling"
+  },
+  {
+   "name": "ÁGUIA PLAY",
+   "category": "Finance",
+   "country": "BR",
+   "description": "Join ÁGUIA PLAY, an active WhatsApp group for finance.",
+   "invite": "https://chat.whatsapp.com/HYYdA8kMuje1irthS3ik17",
+   "flag": "play group in Dinheiro category — possible casino platform"
+  }
+ ],
+ "pending": 0,
+ "leads": 8731,
+ "candidates": 28,
+ "resume_point": "sitemap index 11000 (next unmined); team03-verify.json holds all verification results",
+ "note": "Screening on LIVE WhatsApp og:title with NFKD normalization + leetspeak + spaced-letter de-collapse + PT betting vocabulary + slot/tiger/money emoji; negated-prohibition restores kept; 18+ age gates on non-porn groups kept. Interim eyeball audit caught casino groups the first regex pass missed (ISLOT, WIINBET, APOSTEMAIS, S0RTEI0S, spaced GHOST BET, Horarios pagando, Fenix Metados, Blaze, Tips) — screen hardened and all live titles re-screened. Main verify pass hit HTTP 429 on the final stretch (168 codes); all 168 resolved in a retry pass (300s cooldown, 3 workers, 60/120/180s back-off) — 21 more live, 147 dead, 0 still pending. No indices 11000+ mined; they are banked as leads.",
+ "retry_429": {
+  "pending_first_pass": 168,
+  "resolved_live": 21,
+  "resolved_dead": 147,
+  "still_pending": 0
+ }
+}

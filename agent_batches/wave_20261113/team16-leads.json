@@ -1,0 +1,97 @@
+[
+  {
+    "kind": "url",
+    "value": "https://gruposdewats.com/",
+    "note": "LatAm directory (gruposwats network). Listings load via encrypted-token POST feed (/0_portada1/ etc.); zero codes in static HTML over http; https TLS broken. Browser-only."
+  },
+  {
+    "kind": "url",
+    "value": "https://www.gruposwats.com/",
+    "note": "Same network hub; 30 country subdomains (mx/ar/co/br/pe/cl/ve/es/uy/py/bo/ec/gt/hn/sv/ni/cr/pa/cu/do/pr/us/it/fr/ca/ad/ma/ph/bz/il). Listings via tokenised POST feed; no codes in static HTML. Browser-only."
+  },
+  {
+    "kind": "url",
+    "value": "https://go.tuxmat.com/total-ask/bahrain-whatsapp-group-links-2024-join-now-1767648724",
+    "note": "Bahrain listicle. Unreachable from VM (curl exit 000, retried twice). Browser-only."
+  },
+  {
+    "kind": "url",
+    "value": "https://play.google.com/store/apps/details?id=com.grupos.solion",
+    "note": "Solion app-only directory; no website, no codes extractable. App-only."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupo/amigos/",
+    "note": "gruposwapp detail page 'AMIGOS' (Chile, ir/458): /ir/458 redirect failed twice (curl 000) so invite code never resolved. Retry later; do not re-fetch detail page, only /ir/458."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-gamers/",
+    "note": "gruposwapp category listing page, unmined (only /grupos/ + /grupos-de-amistad/ mined this wave)."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-chat/",
+    "note": "gruposwapp category listing page, unmined."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-amigas/",
+    "note": "gruposwapp category listing page, unmined."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-musica/",
+    "note": "gruposwapp category listing page, unmined."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-peliculas/",
+    "note": "gruposwapp category listing page, unmined."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-futbol/",
+    "note": "gruposwapp category listing page, unmined."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-free-fire/",
+    "note": "gruposwapp category listing page, unmined."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-otakus/",
+    "note": "gruposwapp category listing page, unmined."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-quedadas/",
+    "note": "gruposwapp category listing page, unmined."
+  },
+  {
+    "kind": "url",
+    "value": "https://gruposwapp.net/grupos-de-stickers/",
+    "note": "gruposwapp category listing page, unmined."
+  },
+  {
+    "kind": "url",
+    "value": "https://groupslinks.com/",
+    "note": "ASSIGNED TO TEAM07 (groupslinks.com pages 13+) — listed here for coordinator awareness only; NOT mined by team16."
+  },
+  {
+    "kind": "url",
+    "value": "https://whts.club/sitemap.xml",
+    "note": "ASSIGNED TO TEAM11 (whts.club detail pages) — listed here for coordinator awareness only; NOT mined by team16."
+  },
+  {
+    "kind": "url",
+    "value": "https://www.whatshub.es/",
+    "note": "ASSIGNED TO TEAM15 (whatshub.es) — listed here for coordinator awareness only; NOT mined by team16."
+  },
+  {
+    "kind": "url",
+    "value": "https://app.grupodewhatsapp.com/",
+    "note": "ASSIGNED TO TEAM15 (grupodewhatsapp) — listed here for coordinator awareness only; NOT mined by team16."
+  }
+]

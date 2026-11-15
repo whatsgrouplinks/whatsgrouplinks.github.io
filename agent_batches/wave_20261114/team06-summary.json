@@ -1,0 +1,281 @@
+{
+ "team": "team06",
+ "wave": "20261114",
+ "slice": "whts.club news_pages.xml — re-check for NEW sitemap entries only (diff vs wave_20261112/team16 + wave_20261113/team11 mined sets)",
+ "sources": [
+  "https://whts.club/news_pages.xml (1662 URLs fetched 2026-11-14 ~06:58 PKT)",
+  "https://whts.club/sitemap.xml (index: static_pages.xml, category_pages.xml, tags_pages.xml, news_pages.xml, pages.xml — checked, 0 group-like URLs outside news_pages.xml)",
+  "https://whts.club/robots.txt (no sitemap pointer beyond the index)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> live, og:title 'JAY - PHP & Python Full Stack Developer' (HTML-escaped &amp; in raw markup)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> dead, empty og:title"
+ },
+ "sitemap": {
+  "total_urls": 1662,
+  "newest_lastmod": "2026-11-13T05:10:38+03:00",
+  "newest_entry": "https://whts.club/6560-republica-memera.html (2026-11-13T05:10:38+03:00, already mined by team11)",
+  "entries_with_lastmod_newer_than_2026-11-13": 0,
+  "removed_vs_prior": 0
+ },
+ "raw": 39,
+ "verified": 21,
+ "live": 1,
+ "dupes": 18,
+ "dead": 20,
+ "excluded": [
+  {
+   "code": "JLzCGXDg8irDsTjjFaBnKP",
+   "name": "Marvel Pro - Guión",
+   "url": "https://whts.club/6553-marvel-pro-guion.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "LI2BmgAzrj0LGzTSvITFer",
+   "name": "ADV 🥝𝐊𝐈̶͠𝐖̶̷̸𝐈 ₊˚๑̶ 𝐒̶̶͠𝐌𝐎̸̷࣪𝐎̶̤͟𝐓࣪𝐇͞ 𝐈̸̸̷̶𝐄̶̤ 🍵⃝ㅤ",
+   "url": "https://whts.club/6552-adv.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "DDIV1rgt0DMCLCCe08OFCG",
+   "name": "FurryArgento",
+   "url": "https://whts.club/6551-furryargento.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "IiE8vmNKVE8LN0xLGKUIQY",
+   "name": "RyouSpace.world-MC.⛏️",
+   "url": "https://whts.club/6542-ryouspaceworld-mc.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "Guprlyu8WPsGOfdFpfZ70Z",
+   "name": "Sociables de teclado",
+   "url": "https://whts.club/6537-sociables-de-teclado.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "HuMlqtDmlw7LpsShEqQoiU",
+   "name": "Josue Marcelo Digital",
+   "url": "https://whts.club/6536-josue-marcelo-digital.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "FkFLcTdu1UmKaKS7MYO4Iv",
+   "name": "EXITOSO? CLARO!!GENIO",
+   "url": "https://whts.club/6530-exitoso-clarogenio.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "F7SmC6xLojtKY5ZJZDoE87",
+   "name": "Naruto Grupo",
+   "url": "https://whts.club/6529-naruto-grupo.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "LQiFk4YWaqB2TNbiIRQ7Bd",
+   "name": "Videos Graciosos, Música y Stickers",
+   "url": "https://whts.club/6522-videos-graciosos-musica-y-stickers.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "I4QvSAgLg6sCXm5qoqOS3r",
+   "name": "Secta incel",
+   "url": "https://whts.club/6520-secta-incel.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "FVkThcVVs6T2kz0WzLyYDB",
+   "name": "Stickers y más",
+   "url": "https://whts.club/6508-stickers-y-mas.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "JC9PQOdrPZVLWNSVVrbOUm",
+   "name": "Hablemos de Series/Pelis",
+   "url": "https://whts.club/6507-hablemos-de-series-y-pelis.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "H3p8D41EZgqEwaaO8QNuPB",
+   "name": "Stickers Top Figurinhas",
+   "url": "https://whts.club/6498-stickers-top-figurinhas.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "HPRDMhwaNY61jVz6ANz264",
+   "name": "Grupo",
+   "url": "https://whts.club/6491-grupo.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "LVlFQiFGNC0JiR5geJCQ7U",
+   "name": "La legión",
+   "url": "https://whts.club/6490-la-legion.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "LNL9FvoepFi5SJy0eb05yg",
+   "name": "Pokemon Deoxis",
+   "url": "https://whts.club/6486-pokemon-deoxis.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "HIreug4zW3fAqEu3Cjz5pm",
+   "name": "Marina",
+   "url": "https://whts.club/6482-marina.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  },
+  {
+   "code": "KByTwCwllZdFZQxVfEjKq0",
+   "name": "Grupo hormonal 🔥",
+   "url": "https://whts.club/6480-grupo-hormonal.html",
+   "reason": "drop (doubt-rule, concurs with team11): 'Grupo hormonal' + meta 'Es un grupo hormonal dónde puedes hablar y hacer otras cositas' reads as sexual-euphemism group; live og:title 'Grupo hormonal' confirmed by team06 re-verify"
+  },
+  {
+   "code": "HgdxFY5PmuSJCmyZiLV5vl",
+   "name": "Amistad y migajeros",
+   "url": "https://whts.club/6478-amistad-y-migajeros.html",
+   "reason": "already in .existing_codes.json union (skipped before verify)"
+  }
+ ],
+ "dead_list": [
+  {
+   "code": "HQPCFBLlmukBYsQQSedLPr",
+   "name": "Entre amigos",
+   "url": "https://whts.club/6554-entre-amigos.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "BOaClIOgBg415LLAxjiLvm",
+   "name": "Pajas sin fronteras",
+   "url": "https://whts.club/6541-pajas-sin-fronteras.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "BtFKllnKn0OBoLhbNBYnRN",
+   "name": "República Bananera 🍌",
+   "url": "https://whts.club/6539-republica-bananera.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "CYJJyVisxmXBHURAU5U20z",
+   "name": "Clan De Free Fire",
+   "url": "https://whts.club/6531-clan-de-free-fire.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "LNmlBvoFGAeHMOlZKqcdoo",
+   "name": "Mundial LATAM",
+   "url": "https://whts.club/6525-mundial-latam.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "L0YeXcsc0vVAUQ5tBxeFmp",
+   "name": "𝙏𝙄𝙂𝙀𝙍𝙎 𝘼𝙍𝙈𝙔 👹",
+   "url": "https://whts.club/6515-.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "B93HEr28L12CmKzqVwGIZe",
+   "name": "𝔸𝕞𝕚𝟘𝕨𝟘𝕤 ℝ𝕒𝕟𝕕𝕠𝕞𝕤 💗",
+   "url": "https://whts.club/6514-.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "K0jP6WwynEYAcDn4IOViwi",
+   "name": "Amistades sin fronteras",
+   "url": "https://whts.club/6513-amistades-sin-fronteras.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "BeJmVWfxyyd1yckhmDht1T",
+   "name": "ˑ𓈒𐔌ᴄʜᴀᴛ ⁿ͟ᵒ͟ʳ͟ᵈ͟ᵉ͟ˢ͟ᵗ͟ᵉ͟𐦯",
+   "url": "https://whts.club/6512-.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "JCeezymSBwQCvcTBdEG2X9",
+   "name": "Morbo Gay",
+   "url": "https://whts.club/6505-morbo-gay.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "ELGsWuLi8d00ecg41YV7ZK",
+   "name": "Sostenernos, grupo de salud mental 💛",
+   "url": "https://whts.club/6499-psykhe-grupo-de-salud-mental.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "LneU3fZObp40lRLoLWIfd6",
+   "name": "Backyardigans",
+   "url": "https://whts.club/6496-backyardigans.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "BlwpLSSEYfO8PWU8RPLvNm",
+   "name": "🎮 Conectados y Disponibles 😈",
+   "url": "https://whts.club/6495-conectados-y-disponibles.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "DcOUIo4nnRHFYTDbEBdp7Z",
+   "name": "Umamadas",
+   "url": "https://whts.club/6493-umamadas.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "IICLvQEoBru3MD0K4aedEv",
+   "name": "Jhoan Alvarado",
+   "url": "https://whts.club/6492-jhoan-alvarado.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "JO8j97gBGBe1D4mQdemAFx",
+   "name": "Amiguis en lineaaaaaw",
+   "url": "https://whts.club/6475-amiguis-en-lineaaaaaw.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "LnqSTVK1JJL8zR2h0ldMvt",
+   "name": "Amiguitos",
+   "url": "https://whts.club/6473-amiguitos.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "K7gMQzKzpUIAw76SyIbFC0",
+   "name": "Baseanime",
+   "url": "https://whts.club/6444-baseanime.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "G3GTy9aGoCD54WvbXkL17i",
+   "name": "E-girls Colômbia",
+   "url": "https://whts.club/6442-e-girls-colombia.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  },
+  {
+   "code": "DNhqolHDXUY6kE3q1mOOkW",
+   "name": "MEMES CONSPIRANOICOS 24/7",
+   "url": "https://whts.club/6441-memes-conspiranoicos-247.html",
+   "reason": "dead-empty: og:title empty after 3 spaced check(s)"
+  }
+ ],
+ "pending": 0,
+ "leads": 0,
+ "pages_fetched": 39,
+ "pages_failed": 0,
+ "zero_code_pages": 0,
+ "candidates_kept": 0,
+ "new_entries_genuinely_new": 0,
+ "notes": [
+  "VERIFIED ZERO: sitemap unchanged since Nov 13 (1662 entries both days, newest lastmod 2026-11-13T05:10:38+03:00, 0 entries with lastmod newer than 2026-11-13, 0 removed). No genuinely new sitemap entries exist.",
+  "Apparent diff of 39 URLs vs team16 scratch URL files is NOT new content: it is exactly team11's Nov 13 slice (38 never-fetched pages) + 6554-entre-amigos (team16-verified dead at code level, HQPCFBLlmukBYsQQSedLPr, in team16 all_verify_out.jsonl but absent from its page-URL files). Team06 independently re-fetched all 39 pages and re-verified every non-union code rather than trusting team11's summary.",
+  "Reconciliation is exact: 18 union dupes (codes match team11's exclusion list 1:1, incl. 10 recovered in retry), 19 fresh dead-empty (10 first pass + 9 retry, each empty og:title confirmed over up to 3 spaced checks), 1 live hormonal (dropped under doubt-rule, concurring with team11), 1 entre-amigos dead (re-confirmed). 18+19+1+1 = 39. Team11's counts (18 dupes / 19 dead / 3 live incl. 2 candidates already banked) fully corroborated.",
+  "First pass: 19/39 page fetches failed with ProxyError (RemoteDisconnected, alternating pattern — dead keep-alive pooled connection). Retry with fresh Session per page + 'Connection: close' recovered all 19 (HTTP 200). No page left unfetched; 0 pending.",
+  "Only live code in the slice is Grupo hormonal (KByTwCwllZdFZQxVfEjKq0, og:title 'Grupo hormonal'), dropped under the when-in-doubt screen; no candidate, no lead, no pending produced.",
+  "Sitemap index checked: static_pages (1 URL), category_pages (19), tags_pages (74), pages (74) — all non-group URLs (homepage, categories, tags, country listings); 0 group-like URLs outside news_pages.xml.",
+  "Verification: requests Session, browser UA, 60-75s timeouts; empty og:title retried up to 3x spaced 8s; 0 transport failures on invite checks (0 pending). og:description ignored as live signal throughout."
+ ],
+ "resume_point": "Sitemap fully covered through 2026-11-13T05:10:38+03:00 (entry 6560-republica-memera). Next run: fetch news_pages.xml, diff URLs against team06-mined-set.json (1623 URLs) + team06-pages.json (39 URLs) + team11's 2 new URLs; process only entries in neither set or with lastmod newer than 2026-11-13."
+}

@@ -1,0 +1,39 @@
+{
+ "team": "team02",
+ "slice": "team02-awaiting-verification.json items 0-1079 (first half)",
+ "sources": [
+  "team02-awaiting-verification.json (wave_20261112)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (LIVE)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead)"
+ },
+ "raw": 1080,
+ "verified": 2,
+ "dupes": 611,
+ "dead": 462,
+ "excluded": [
+  {
+   "code": "DJjTUJqHx0R4BLRiWwgVJW",
+   "reason": "casino/betting signal keyword 'palpite' in title"
+  },
+  {
+   "code": "GINK21g0T1sCcuuNUxe9v3",
+   "reason": "casino/betting signal keyword 'robô' in title"
+  },
+  {
+   "code": "LZ4EK6VnNz7GcDb5s0x6qt",
+   "reason": "investment-scheme promo: 'alavancagem' (leverage-trading project) group title"
+  },
+  {
+   "code": "FK70rAkCo2gFVqpKPgzSis",
+   "reason": "investment-scheme promo: 'alavancagem' (leverage-trading project) group title"
+  },
+  {
+   "code": "GXydDqkgD8W9uQPtbqGZFX",
+   "reason": "investment-scheme promo: 'alavancagem' (leverage-trading project) group title"
+  }
+ ],
+ "pending": 0,
+ "leads": 0
+}

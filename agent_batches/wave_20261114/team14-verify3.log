@@ -1,0 +1,7 @@
+raw unique codes: 33; union: 119266
+CONTROL live: live title='JAY - PHP & Python Full Stack Developer'
+CONTROL fabricated: dead info='empty og:title (attempt 2)'
+CONTROLS PASS
+resumed verify: live=15 dead=1 pending=0 dupes=0
+fresh codes to verify: 6 (dupes vs union so far: 11)
+VERIFY DONE live=20 dead=2 pending=0 dupes=0

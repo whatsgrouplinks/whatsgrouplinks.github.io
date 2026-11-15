@@ -1,0 +1,176 @@
+[
+ {
+  "site": "grupodewhatsapp",
+  "url": "https://app.grupodewhatsapp.com/group/mj-vagas-de-trabalho",
+  "http": 200,
+  "len": 140551,
+  "secs": 1.5,
+  "codes": [],
+  "title": "MJ Vagas de Trabalho - Emprego | Grupo de WhatsApp",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "grupodewhatsapp",
+  "url": "https://app.grupodewhatsapp.com/group/conecta-emprego-rj-5-suas-habilidades-sao-reconhecidas",
+  "http": 200,
+  "len": 133595,
+  "secs": 0.6,
+  "codes": [],
+  "title": "Conecta Emprego RJ 5 - Suas Habilidades São Reconhecidas - Emprego | Grupo de WhatsApp",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "grupodewhatsapp",
+  "url": "https://app.grupodewhatsapp.com/group/noticias-emprego-rj",
+  "http": 200,
+  "len": 134089,
+  "secs": 0.5,
+  "codes": [],
+  "title": "Notícias &amp; Emprego RJ - Emprego | Grupo de WhatsApp",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "grupodewhatsapp",
+  "url": "https://app.grupodewhatsapp.com/group/bora-trabalhar-maceio-regiao",
+  "http": 200,
+  "len": 132002,
+  "secs": 0.5,
+  "codes": [],
+  "title": "Bora Trabalhar Maceió e Região - Emprego | Grupo de WhatsApp",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "grupodewhatsapp",
+  "url": "https://app.grupodewhatsapp.com/group/conecta-emprego-rj-suas-habilidades-sao-reconhecidas",
+  "http": 200,
+  "len": 132924,
+  "secs": 0.7,
+  "codes": [],
+  "title": "Conecta Emprego RJ - Suas Habilidades São Reconhecidas - Emprego | Grupo de WhatsApp",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "grupodewhatsapp",
+  "url": "https://app.grupodewhatsapp.com/group/dani-vagas-emprego-rj",
+  "http": 200,
+  "len": 132707,
+  "secs": 0.6,
+  "codes": [],
+  "title": "Dani Vagas De Emprego - RJ - Emprego | Grupo de WhatsApp",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "grupodewhatsapp",
+  "url": "https://app.grupodewhatsapp.com/group/mj-vagas-de-trabalho-2",
+  "http": 200,
+  "len": 139282,
+  "secs": 0.5,
+  "codes": [],
+  "title": "Mj Vagas De Trabalho - Emprego | Grupo de WhatsApp",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "grupodewhatsapp",
+  "url": "https://app.grupodewhatsapp.com/group/r-v-empregos-e-oportunidades-rj-oficial",
+  "http": 200,
+  "len": 132876,
+  "secs": 0.5,
+  "codes": [],
+  "title": "R&amp;V 👨‍🎓👩‍🔧 Empregos e Oportunidades RJ-OFICIAL - Emprego | Grupo de WhatsApp",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "gruposwhats",
+  "url": "https://gruposwhats.app/group/1161011",
+  "http": 200,
+  "len": 152193,
+  "secs": 2.2,
+  "codes": [],
+  "title": "Grupo de WhatsApp 0️⃣9️⃣ VAGAS DE EMPREGO | MARANHÃO",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "gruposwhats",
+  "url": "https://gruposwhats.app/group/1165645",
+  "http": "ERR",
+  "error": "ProxyError: HTTPSConnectionPool(host='gruposwhats.app', port=443): Max retries exceeded with url: /group/1165645 (Caused by ProxyErr",
+  "secs": 0.1,
+  "codes": []
+ },
+ {
+  "site": "gruposwhats",
+  "url": "https://gruposwhats.app/group/1165219",
+  "http": 200,
+  "len": 150817,
+  "secs": 1.2,
+  "codes": [],
+  "title": "Grupo de WhatsApp Oportunidades  2 - ADVs",
+  "cf": "",
+  "geo_block": false
+ },
+ {
+  "site": "grupbul",
+  "url": "https://grupbul.com/group/621903",
+  "http": 200,
+  "len": 50341,
+  "secs": 1.6,
+  "codes": [],
+  "title": "GARIBO KI MADAD KARO [WhatsApp Group] - Grupbul.com",
+  "cf": "",
+  "geo_block": false,
+  "redirect_hints": [
+   "redirect/621903/1243806\" class=\"btn btn-tema btn-lg btn-block mt-3\" rel=\"ugc nofollow\">\n                    <i class=\"fas fa-user-plus\" style=\"margin-right: 10px",
+   "redirected to the <b class=\"text-whatsapp\"><i class=\"fab fa-whatsapp\"></i> Whatsapp</b>  application. Do you approve?                    </div>\n                    <div",
+   "location.href='/redirect/621903/1243806'\" class=\"btn text-tema alert-whatsapp-2\" data-bs-dismiss=\"modal\">Yes I accept!</a>\n                        </div>\n                   "
+  ],
+  "ext_links": [
+   "https://kit.fontawesome.com/56c4c6cc3a.js?v=493",
+   "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+   "https://www.googletagmanager.com/gtag/js?id=G-QT91NQ3PF6",
+   "https://analytics.ahrefs.com/analytics.js",
+   "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3862354772343324",
+   "https://cse.google.com/cse.js?cx=partner-pub-3862354772343324:yssr-603iku",
+   "https://sosyalfenomen.com/",
+   "https://sepetbayim.com/",
+   "https://sosyalevin.com/instagram-turk-begeni-satin-al/",
+   "https://bayigram.com/"
+  ]
+ },
+ {
+  "site": "grupbul",
+  "url": "https://grupbul.com/group/419221",
+  "http": 200,
+  "len": 50054,
+  "secs": 0.6,
+  "codes": [],
+  "title": "ISKCON DELHI 03 [WhatsApp Group] - Grupbul.com",
+  "cf": "",
+  "geo_block": false,
+  "redirect_hints": [
+   "redirect/419221/838442\" class=\"btn btn-tema btn-lg btn-block mt-3\" rel=\"ugc nofollow\">\n                    <i class=\"fas fa-user-plus\" style=\"margin-right: 10px",
+   "redirected to the <b class=\"text-whatsapp\"><i class=\"fab fa-whatsapp\"></i> Whatsapp</b>  application. Do you approve?                    </div>\n                    <div",
+   "location.href='/redirect/419221/838442'\" class=\"btn text-tema alert-whatsapp-2\" data-bs-dismiss=\"modal\">Yes I accept!</a>\n                        </div>\n                    "
+  ],
+  "ext_links": [
+   "https://kit.fontawesome.com/56c4c6cc3a.js?v=493",
+   "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+   "https://www.googletagmanager.com/gtag/js?id=G-QT91NQ3PF6",
+   "https://analytics.ahrefs.com/analytics.js",
+   "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3862354772343324",
+   "https://cse.google.com/cse.js?cx=partner-pub-3862354772343324:yssr-603iku",
+   "https://sosyalfenomen.com/",
+   "https://sepetbayim.com/",
+   "https://sosyalevin.com/instagram-turk-begeni-satin-al/",
+   "https://bayigram.com/"
+  ]
+ }
+]

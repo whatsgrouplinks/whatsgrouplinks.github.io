@@ -1,0 +1,111 @@
+{
+ "team": 16,
+ "slice": "groupjoin.link newest poll (no tag param), fresh since 2026-11-12 16:26:43 (team17 Nov 13 newest)",
+ "sources": [
+  "https://api.groupjoin.link/groups?page=1&limit=20&safeSearch=blur",
+  "https://api.groupjoin.link/groups?page=2&limit=20&safeSearch=blur"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N returned og:title 'JAY - PHP & Python Full Stack Developer' — matches expected; method valid",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz returned empty og:title — correctly dead",
+  "detail": {
+   "control_live": {
+    "code": "KrDwdK8EIkB6vgauHg5M7N",
+    "status": "live",
+    "og_title": "JAY - PHP & Python Full Stack Developer",
+    "http": "200",
+    "elapsed_s": 4.4,
+    "rounds": 1
+   },
+   "control_fabricated": {
+    "code": "ZzZzZzZzZzZzZzZzZzZzZzZz",
+    "status": "dead",
+    "reason": "empty og:title after 3 spaced fetches",
+    "og_title": "",
+    "http": "200",
+    "elapsed_s": 3.6
+   }
+  }
+ },
+ "raw": 14,
+ "verified": 1,
+ "dupes": 0,
+ "dead": 10,
+ "excluded": [
+  {
+   "code": "HkfpRfTxhqNIQu1LuVfhQz",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='𝑉𝑖𝑖𝑑𝑒𝑒𝑜 𝑐𝑎𝑙𝑙 𝐺𝑖𝑟𝑙𝑙', created 2026-11-13 15:22:18, country=PK). NOT verified/banked."
+  },
+  {
+   "code": "LXTrYL6RFEa4PZABYHObkb",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='Garam masala', created 2026-11-13 13:22:48, country=IN). NOT verified/banked."
+  },
+  {
+   "code": "GsBSIzlcj82JY6B3ppXNTo",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='SiiPii v!deo', created 2026-11-13 09:34:07, country=IN). NOT verified/banked."
+  }
+ ],
+ "pending": 0,
+ "leads": 3,
+ "flags": [],
+ "dead_list": [
+  {
+   "code": "JTOdM73dDmvJOfCsQxE149",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  },
+  {
+   "code": "Ci7uIG3eB43FOeDR2YNm9q",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  },
+  {
+   "code": "FLRH6pmw6Q2KiIsXctwoUC",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  },
+  {
+   "code": "JWsEWy3xERX6rIMRzRq7gW",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  },
+  {
+   "code": "JoB2NwzCAz9DaX7cTYt3Ha",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  },
+  {
+   "code": "I9SFGT3eSaxJHNEXmk7WVm",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  },
+  {
+   "code": "JlU47ERiwpz9o5I6LuqlOz",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  },
+  {
+   "code": "F8fLWGrtDwCKmDHfKhLUY1",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  },
+  {
+   "code": "LdA1a2OJrAE9RkLdUzm3LW",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  },
+  {
+   "code": "CGipcPUfo1sJf0OJPjHVDD",
+   "reason": "empty og:title after 3 spaced fetches",
+   "og_title": ""
+  }
+ ],
+ "notes": "FIRST fresh non-Adult group on this feed in 3 runs, but only 1 of 11 verified live. Page 1 (20 items, 2026-11-12..2026-11-13) contains 14 items newer than the cutoff; 11 non-Adult (1 Business NG 'Contact gain hub' + 10 Money US crypto groups posted 11:54-12:03 on Nov 13) and 3 Adult, dropped wholesale. Page 2 guard: 20 items, 2026-11-08..2026-11-11, max 2026-11-11 18:29 — nothing fresher. The 10 crypto groups are a bulk upload (10 in 9 minutes, all US, same 'Crypto …' naming) AND ALL 10 ARE DEAD on WhatsApp (empty og:title after 3 spaced fetches each; method proven by the live control) — the directory lists stale/revoked invites; none banked. Only 'Contact gain hub' verified live (og:title matches API title). Detail pages: all 11 returned HTTP 200 with <title> matching the API group title exactly; invite codes are client-rendered, so the API link field is the authoritative invite source. All 14 fresh codes were absent from .existing_codes.json (119,266 codes); 0 within-team dupes. No transport failures, no 429s; 4s+ spacing kept on API, 8s+ on WhatsApp verifies.",
+ "resume": "Next run: poll https://api.groupjoin.link/groups?page=N&limit=20&safeSearch=blur (NO tag param — newest-first) starting page 1 until created_at < cutoff date; keep 4s+ spacing (API 429s on bursts). Fresh = created_at > 2026-11-13 22:05:31 (this run's newest seen). Dedupe against .existing_codes.json + this run's Adult drops before verifying; verify via chat.whatsapp.com og:title with a known-live control code each run. HARD RULE: never fetch, verify, or bank anything from the groupjoin.link Adult category.",
+ "resume_point": {
+  "newest_created_at_seen": "2026-11-13 22:05:31",
+  "last_page_polled": 2,
+  "page1_date_range": "2026-11-12..2026-11-13",
+  "page2_date_range": "2026-11-08..2026-11-11"
+ }
+}

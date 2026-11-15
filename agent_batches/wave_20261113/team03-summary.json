@@ -1,0 +1,35 @@
+{
+  "team": "team03",
+  "slice": "team02-awaiting-verification.json items 1080-2159",
+  "sources": [
+    "team02-awaiting-verification.json (wave 20261112)"
+  ],
+  "controls": {
+    "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (live)",
+    "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead)"
+  },
+  "raw": 1080,
+  "verified": 0,
+  "dupes": 643,
+  "dead": 433,
+  "excluded": [
+    {
+      "code": "BY3lRIOYb0917MZand4C1Y",
+      "reason": "blocked keyword 'BET'"
+    },
+    {
+      "code": "D1Y8bpiGvvaD6N13zAMljy",
+      "reason": "betting tips group ('palpites' = betting predictions/tips)"
+    },
+    {
+      "code": "Ec54ztnAb43JiabKpT7Xwd",
+      "reason": "betting pool ('Bolão' = sports betting pool)"
+    },
+    {
+      "code": "L3a3rBbWA0rJlsPS3u7yvZ",
+      "reason": "betting promo (SUPERBET = bookmaker brand, money emoji)"
+    }
+  ],
+  "pending": 0,
+  "leads": 0
+}

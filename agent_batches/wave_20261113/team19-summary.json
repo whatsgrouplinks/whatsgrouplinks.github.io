@@ -1,0 +1,35 @@
+{
+ "team": "team19",
+ "slice": "groupssor API newest poll",
+ "sources": [
+  "https://groupssor-api.blog-99n.workers.dev/api/groups"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS, dead)"
+ },
+ "raw": 3,
+ "verified": 1,
+ "dupes": 0,
+ "dead": 0,
+ "excluded": [
+  {
+   "code": "",
+   "reason": "telegram platform, not WhatsApp — 'Marketplace Vendo' (business), created 2026-11-12T09:04:18.516Z; link https://t.me/+OSCIUHCwjdk2Nzcx"
+  },
+  {
+   "code": "",
+   "reason": "telegram platform, not WhatsApp — 'Futboleros' (sports), created 2026-11-12T16:43:20.112Z; link https://t.me/futboleros7"
+  }
+ ],
+ "pending": 0,
+ "leads": 0,
+ "fresh_entries": 3,
+ "api_window": {
+  "newest": "2026-11-12T16:43:20.112Z",
+  "oldest": "2026-09-01T16:02:54.259Z",
+  "total_returned": 500
+ },
+ "resume": "Next poll: only entries with createdAt newer than 2026-11-12T16:43:20.112Z (newest entry this run). API returns a fixed latest-500; this run's window was 2026-09-01T16:02:54.259Z to 2026-11-12T16:43:20.112Z. Cutoff used this run: 2026-11-12T06:22:03.803Z (Nov 12 team22 newest).",
+ "notes": "Controls passed via curl (browser UA, -L, --max-time 90): known-live code showed og:title 'JAY - PHP & Python Full Stack Developer'; fabricated code showed empty og:title. LIVE = non-empty og:title ONLY; og:description is generic 'WhatsApp Group Invite' on both live and dead pages. Single WhatsApp fresh entry 'Dvoice Media' (business, NG) verified live as 'Dvoice Media General Chat'; code LvkywXnuMqP16t35FhH4gZ not in 119,266-code dedupe union. No porn/scam screening hits. No transport failures, no dupes, no dead codes."
+}

@@ -1,0 +1,2 @@
+phase A done: live=75 empty=71 pending=0
+Counter({'live': 75, 'dead': 71})

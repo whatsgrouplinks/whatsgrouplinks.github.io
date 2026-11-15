@@ -1,0 +1,8 @@
+re-screen: dropped 3, kept 3
+resolving 925 pending codes (300s cool-down first)...
+pending pass 1: 856 still pending, 67 empty
+pending pass 2: 856 codes, 120s cool-down first...
+pending pass 2: 719 still pending, 203 empty total
+pending retry pass 1: 0 still empty, 922 pending
+FINAL: {"raw": 2305, "verified": 6, "dupes": 814, "dead": 539, "pending": 922, "leads": 0}
+EXIT:0

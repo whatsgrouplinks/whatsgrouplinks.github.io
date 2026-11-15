@@ -1,0 +1,107 @@
+{
+ "team": 13,
+ "slice": "tugrupo.online — pagination page 4 onwards (pages 4, 11-19 mined) + 26 detail pages from wave_20261112 team17 leads",
+ "sources": [
+  "https://tugrupo.online/whatsapp/",
+  "https://tugrupo.online/whatsapp/?query-eb715b85=N (N=4,11..19)"
+ ],
+ "controls": {
+  "live": {
+   "status": "live",
+   "og_title": "JAY - PHP & Python Full Stack Developer",
+   "reason": "HTTP 200"
+  },
+  "fabricated": {
+   "status": "dead",
+   "og_title": "",
+   "reason": "empty og:title HTTP 200"
+  },
+  "passed": true
+ },
+ "counts": {
+  "pages_mined": [
+   4,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19
+  ],
+  "pages_failed": [],
+  "listings_mined_unique": 127,
+  "detail_pages_attempted": 153,
+  "detail_pages_processed": 152,
+  "detail_pages_with_code": 151,
+  "raw_fresh_codes_checked": 151,
+  "verified_kept": 82,
+  "dupes": 41,
+  "dupes_union": 40,
+  "dupes_team17_candidates": 0,
+  "dupes_within_team": 1,
+  "dead_no_og_title": 28,
+  "excluded": 0,
+  "pending": 0,
+  "leads_banked": 93
+ },
+ "excluded": [],
+ "flagged_kept_for_review": [
+  {
+   "code": "C516urnVfHg4P6yjwbKcR2",
+   "name": "Fre fire",
+   "og_title": "Chicas con senos",
+   "note": "KEPT but flagged: live og:title is sexualized (\"Chicas con senos\") while directory listing is a Free Fire gaming group; not hard porn/xxx wording, so kept per when-in-doubt-keep; coordinator may drop."
+  },
+  {
+   "code": "Cf9Hk8PCbg7Ajxt8JbqUaH",
+   "name": "Binance Actividades y Recompensas",
+   "og_title": "Binance actividades y recompensas",
+   "note": "KEPT but flagged: \"Binance Actividades y Recompensas\" is crypto-rewards themed; no explicit airdrop/free-money wording, so kept per when-in-doubt-keep; recategorized to Crypto; coordinator may drop."
+  }
+ ],
+ "dead_codes": [
+  "B8lbJbAI9HG7VrwQnaQG2g",
+  "BDTUjyaWBsGBsIs3zEcUEz",
+  "CP2D32TgP4SF047Y5VWQJQ",
+  "CYLRYbTytIB3u9O8oGpoMm",
+  "D5GVO0z8ZSD9Kioko0ddXi",
+  "DMTjLFZIIYAKCwzVkucqtj",
+  "DXKkDm4RMz040EB1bovpO9",
+  "E5ewcBDznt8Hha9qSPUWwx",
+  "ERSUqLfPrrpGE9lcYfRGef",
+  "Eu1wmOTIkwfLIZpmxKTPHy",
+  "FIG6M3nNUHx4j8uKVDlAbh",
+  "FYvYdHzCvJq56YVZDy5ZTv",
+  "FwmNCldVnUsCHX57pCHhxN",
+  "GSRjjjskO7x4BTHxiWJ7Xd",
+  "Gk88QdOawTn34BJ0OjUlr2",
+  "GnJiWCR3MiCEkaipV3fE2a",
+  "H0Mw3sRcZbnEnHVJPAtQVK",
+  "H9OW2LDJQAxDhxL92oDBk5",
+  "HO8Wy1sChPmB6HUkCFly1c",
+  "HSzJQ7B6A5m3eY4mcimZE4",
+  "IRzguCoAmwmJbpcueuW7xU",
+  "IooOJNSDqzQAmkbkWKJNPE",
+  "JBy2a7kJ39k4ro5UsL4ms1",
+  "JuYLTKALmNo2JHU0KZuG1O",
+  "Kzp1mwtmjOZDqel7uyUNGl",
+  "Lc04mZ1JGEYGwnH3Qidyed",
+  "Ld1117FsLmZ3e9nr7r9osh",
+  "LiqoNTT9cqf36QKAO585d4"
+ ],
+ "no_code_detail_pages": [
+  "https://tugrupo.online/whatsapp/diversion/gymrat/"
+ ],
+ "resume": "Pagination pages 20-110 unmined (banked as leads; site has 110 pages total per its own pagination). Detail lead gymrat loaded but carries no invite code on the page; tecnologia URL is a category page, not a group. Next wave: resume at page 20.",
+ "notes": [
+  "Page 4 (never loaded by team17) recovered: 19 listings.",
+  "First run stopped early at page 14: the fetch returned a Cloudflare \"One moment, please...\" challenge page (no listings), which the stop rule misread as end-of-pagination. Patched fetcher to detect challenge pages and retry; page 14 re-mined cleanly (19 listings).",
+  "Proxy errors (RemoteDisconnected) hit roughly every other tugrupo.online request; retries with backoff recovered nearly all fetches.",
+  "16 no-code detail pages retried in a second pass: 13 recovered a code (7 kept, 3 dead, 3 dup-union), 1 (gymrat) loads but has no invite code, 2 were dup-union on retry.",
+  "No source name/link and no personal info stored in candidates; descriptions are generated from name/category/country only.",
+  "Country set only where unambiguous from group name/live title (BO/UY/SV/IN/CL/ES); otherwise empty."
+ ]
+}

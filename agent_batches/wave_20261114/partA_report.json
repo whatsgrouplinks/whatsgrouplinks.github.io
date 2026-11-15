@@ -1,0 +1,19 @@
+{
+ "wave13_raw_items": 825,
+ "wave13_unique_codes": 656,
+ "wave13_cross_team_dup_instances": 169,
+ "wave13_in_union": 0,
+ "contested_excluded": 12,
+ "casino_team05_excluded": 7,
+ "partA_clean": 637,
+ "partA_excluded_total": 212,
+ "stream_total": 377,
+ "stream_accounting": {
+  "in_wave13_clean": 172,
+  "in_wave13_excluded": 12,
+  "team01_excluded_only": 193,
+  "unaccounted": []
+ },
+ "schema_errors": [],
+ "union_leaks_in_clean": 0
+}

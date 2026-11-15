@@ -1,0 +1,77 @@
+CONTROL live: status=live og:title='JAY - PHP & Python Full Stack Developer'
+CONTROL fabricated: status=empty og:title=None
+CONTROLS PASS
+  0029VaJWsaMAYlULoYIUnD22 attempt 1: empty None
+  0029VaJWsaMAYlULoYIUnD22 attempt 2: empty None
+  0029VaJWsaMAYlULoYIUnD22 attempt 3: empty None
+  channel check 0029VaJWsaMAYlULoYIUnD22: http=200 og:title='WhatsApp Channel'
+  4nCNG2BYLR70QlGeAGtCzZ attempt 1: empty None
+  4nCNG2BYLR70QlGeAGtCzZ attempt 2: empty None
+  4nCNG2BYLR70QlGeAGtCzZ attempt 3: empty None
+  B6uxJy5pp0fEUJ4LkbM5Cc attempt 1: empty None
+  B6uxJy5pp0fEUJ4LkbM5Cc attempt 2: empty None
+  B6uxJy5pp0fEUJ4LkbM5Cc attempt 3: empty None
+  Bc5Ramr13vz3meu4lqhr7Z attempt 1: empty None
+  Bc5Ramr13vz3meu4lqhr7Z attempt 2: empty None
+  Bc5Ramr13vz3meu4lqhr7Z attempt 3: empty None
+  BlcpctfO7jnI9OrOvdjdWG attempt 1: empty None
+  BlcpctfO7jnI9OrOvdjdWG attempt 2: empty None
+  BlcpctfO7jnI9OrOvdjdWG attempt 3: empty None
+  C2RHr7EdTPGF6oAu3QSGTx attempt 1: empty None
+  C2RHr7EdTPGF6oAu3QSGTx attempt 2: empty None
+  C2RHr7EdTPGF6oAu3QSGTx attempt 3: empty None
+  DPrgxnFcOiJBPkdK5hTkSC attempt 1: empty None
+  DPrgxnFcOiJBPkdK5hTkSC attempt 2: empty None
+  DPrgxnFcOiJBPkdK5hTkSC attempt 3: empty None
+  HiiBmwzdLRX3wYRkKmtH02 attempt 1: empty None
+  HiiBmwzdLRX3wYRkKmtH02 attempt 2: empty None
+  HiiBmwzdLRX3wYRkKmtH02 attempt 3: empty None
+  Hn5zWuXP3iTHp3jgxd32J6 attempt 1: empty None
+  Hn5zWuXP3iTHp3jgxd32J6 attempt 2: empty None
+  Hn5zWuXP3iTHp3jgxd32J6 attempt 3: empty None
+  I2qi4pYi90o27GFy6kGPuR attempt 1: empty None
+  I2qi4pYi90o27GFy6kGPuR attempt 2: empty None
+  I2qi4pYi90o27GFy6kGPuR attempt 3: empty None
+  IvtF7H1wXySHN1evwMZg7w attempt 1: empty None
+  IvtF7H1wXySHN1evwMZg7w attempt 2: empty None
+  IvtF7H1wXySHN1evwMZg7w attempt 3: empty None
+  JlLmucQHRrYIelIJIr0SL3 attempt 1: empty None
+  JlLmucQHRrYIelIJIr0SL3 attempt 2: empty None
+  JlLmucQHRrYIelIJIr0SL3 attempt 3: empty None
+  JN9z7LGePy8Ff0nfvbpdwK attempt 1: empty None
+  JN9z7LGePy8Ff0nfvbpdwK attempt 2: empty None
+  JN9z7LGePy8Ff0nfvbpdwK attempt 3: empty None
+  JpzvITtZBvPHoz2cq3yQpv attempt 1: empty None
+  JpzvITtZBvPHoz2cq3yQpv attempt 2: empty None
+  JpzvITtZBvPHoz2cq3yQpv attempt 3: empty None
+  JXfEvKS2TSYE8Q3fYnzF0i attempt 1: empty None
+  JXfEvKS2TSYE8Q3fYnzF0i attempt 2: empty None
+  JXfEvKS2TSYE8Q3fYnzF0i attempt 3: empty None
+  KkGoSIxFLXF7Jeq7v4Oj6g attempt 1: empty None
+  KkGoSIxFLXF7Jeq7v4Oj6g attempt 2: empty None
+  KkGoSIxFLXF7Jeq7v4Oj6g attempt 3: empty None
+  L8jU3jB428dEBxf0fzFrSu attempt 1: empty None
+  L8jU3jB428dEBxf0fzFrSu attempt 2: empty None
+  L8jU3jB428dEBxf0fzFrSu attempt 3: empty None
+  LP7D0oGrxraLaId5PrezVD attempt 1: empty None
+  LP7D0oGrxraLaId5PrezVD attempt 2: empty None
+  LP7D0oGrxraLaId5PrezVD attempt 3: empty None
+VERIFY DONE: Counter({'dead': 17, 'channel': 1})
+  channel 0029VaJWsaMAYlULoYIUnD22 og=None api='Work From Home'
+  dead    4nCNG2BYLR70QlGeAGtCzZ og=None api='IPL Match Discussion 😁😁😁😚'
+  dead    B6uxJy5pp0fEUJ4LkbM5Cc og=None api='Only It Job Pune'
+  dead    Bc5Ramr13vz3meu4lqhr7Z og=None api='Bitcoin Baba Store'
+  dead    BlcpctfO7jnI9OrOvdjdWG og=None api='Kerala job vacancy daily updates'
+  dead    C2RHr7EdTPGF6oAu3QSGTx og=None api='Free fire Id sale 💥🔴'
+  dead    DPrgxnFcOiJBPkdK5hTkSC og=None api='ROMANCE MAHOOL 🔥'
+  dead    HiiBmwzdLRX3wYRkKmtH02 og=None api='Free computer course'
+  dead    Hn5zWuXP3iTHp3jgxd32J6 og=None api='Jobs in Delhi NCR'
+  dead    I2qi4pYi90o27GFy6kGPuR og=None api='Bussiness Idea & Offers'
+  dead    IvtF7H1wXySHN1evwMZg7w og=None api='✈️MAJESTIC TRAVELS 🛬(5)'
+  dead    JlLmucQHRrYIelIJIr0SL3 og=None api='Job opportunities'
+  dead    JN9z7LGePy8Ff0nfvbpdwK og=None api='Free video editing course (43)'
+  dead    JpzvITtZBvPHoz2cq3yQpv og=None api='WINNING OF DREAM 11'
+  dead    JXfEvKS2TSYE8Q3fYnzF0i og=None api='The Travel Square'
+  dead    KkGoSIxFLXF7Jeq7v4Oj6g og=None api='Pharma medicine Jobs Pakistan'
+  dead    L8jU3jB428dEBxf0fzFrSu og=None api='महाराष्ट्र शिक्षक पॅनल 151'
+  dead    LP7D0oGrxraLaId5PrezVD og=None api='Free earning & verified airdrops 💯✔️'

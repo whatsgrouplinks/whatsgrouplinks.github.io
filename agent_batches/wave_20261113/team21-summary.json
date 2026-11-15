@@ -1,0 +1,49 @@
+{
+ "team": "team21",
+ "slice": "whtspgrouplink.com (sitemap/homepage freshness check + 3 category pages + 12 most-recently-modified post pages) + freewagroup.com (wp-json freshness check)",
+ "wave": "20261113",
+ "sources": [
+  "https://whtspgrouplink.com/sitemap_index.xml",
+  "https://whtspgrouplink.com/post-sitemap.xml",
+  "https://whtspgrouplink.com/",
+  "https://whtspgrouplink.com/category/latest-whatsapp-group-links/",
+  "https://whtspgrouplink.com/category/entertainment-whatsapp-group-links/",
+  "https://whtspgrouplink.com/category/earning-whatsapp-group-links/",
+  "https://whtspgrouplink.com/croatia-whatsapp-group-links-850-active-groups-2025/",
+  "https://whtspgrouplink.com/top-kannada-whatsapp-group-links-2025-join-and-submit-groups/",
+  "https://whtspgrouplink.com/raipur-whatsapp-group-links/",
+  "https://whtspgrouplink.com/abu-dhabi-jobs-whatsapp-group-links/",
+  "https://whtspgrouplink.com/czech-republic-whatsapp-group-links/",
+  "https://whtspgrouplink.com/brazil-whatsapp-group-links/",
+  "https://whtspgrouplink.com/palau-whatsapp-group-links/",
+  "https://whtspgrouplink.com/real-estate-whatsapp-group-links/",
+  "https://whtspgrouplink.com/ukraine-whatsapp-group-links/",
+  "https://whtspgrouplink.com/bpsc-whatsapp-group-links/",
+  "https://whtspgrouplink.com/etsy-whatsapp-group-links/",
+  "https://whtspgrouplink.com/san-marino-whatsapp-group-links/",
+  "https://whtspgrouplink.com/vision-ias-whatsapp-group-links/",
+  "https://whtspgrouplink.com/malayalam-news-whatsapp-group-links/",
+  "https://freewagroup.com/wp-json/wp/v2/posts?per_page=100&_fields=id,date,modified,slug,link,title&order=desc",
+  "https://freewagroup.com/wp-json/wp/v2/posts?per_page=5&_fields=id,date,modified,slug&orderby=modified&order=desc"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (LIVE, as expected)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> og:title empty (DEAD, as expected)"
+ },
+ "raw": 228,
+ "verified": 0,
+ "dupes": 224,
+ "dead": 4,
+ "dead_codes": [
+  "BES0DN28oKQFKrZQafZ3YF",
+  "H4pSJdaTGpyAm6Lsyqkvp6",
+  "IXJQ2IA326gKZcR7o8jWZM",
+  "IhbD9iE7q5MBpCobstB05k"
+ ],
+ "excluded": [],
+ "pending": 0,
+ "leads": 38,
+ "freewagroup_status": "UNCHANGED since 2026-11-08: newest post 2026-11-08T22:02:20 (gacha-life-club, id 1495), max modified 2026-11-08T22:02:21 (verified via orderby=modified desc) \u2014 identical to Nov 12 team26. No mining performed on this half.",
+ "resume": "whtspgrouplink: sitemap has 503 post URLs, ALL already mined by team24 across Nov 10/11/12 (0 never-mined pages); newest lastmod 2026-11-12T05:12:48Z (raipur, mined by team24 Nov 12) \u2014 no new posts since Nov 12. Mined 3 category pages (0 invite codes \u2014 archive pages carry no chat.whatsapp.com links) + 12 most-recently-modified post pages (lastmod 2026-11-01..2026-11-12): 228 unique codes, 224 in the 119,266-code union, 4 fresh, all 4 verified DEAD (HTTP 200 + empty og:title on first pass and on a spaced 45s retry). 0 live, 0 pending, 0 exclusions. Next slice: re-check sitemap for posts with lastmod after 2026-11-12T05:12:48Z.",
+ "notes": "H4pSJdaTGpyAm6Lsyqkvp6 was already declared DEAD by team24 on Nov 12 (old-pending re-check); it is absent from .existing_codes.json so it surfaced as 'fresh' here and re-confirmed DEAD twice today. The 2 homepage-only alias slugs 301-redirect to already-mined canonical pages (croatia-whatsapp-group-links-850-active-groups-2025 -> croatia-whatsapp-group-links; top-kannada-whatsapp-group-links-2025-join-and-submit-groups -> kannada-whatsapp-group-links); the redirect-target fetches timed out once (transport, 0 bytes) but both targets were mined by team24 Nov 12, so nothing lost. No 429s encountered; no transport failures among the 4 verified codes."
+}

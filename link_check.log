@@ -72557,3 +72557,6 @@ Total: 39225, Valid: 38722, Dead: 499, Uncheckable: 0
   DEAD: https://chat.whatsapp.com/Lu4zoQIwQ0VG1FNsStuzpm
   DEAD: https://chat.whatsapp.com/LwqbE9WV3GoBQ2znQxMuOV
   DEAD: https://chat.whatsapp.com/LxIXpaj2K0vFOzE8McsbNK
+
+=== Check 2026-11-15 01:13 ===
+CANARY FAILURE at 10000/85800: status=uncheckable. Nothing removed.

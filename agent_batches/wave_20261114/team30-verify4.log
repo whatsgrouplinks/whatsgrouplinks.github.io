@@ -1,0 +1,23 @@
+queue: 1306 gz mined: 434 gz new: 106 gd new: 3446 gd non-adult: 2567 gd adult: 879 gd deferred this run: 2246
+CONTROL live: live 'JAY - PHP & Python Full Stack Developer' PASS
+CONTROL fabricated: dead '' PASS
+resuming verify with 120 already checked
+to verify: 1186
+15/1186 live=9 done=135
+30/1186 live=9 done=150
+45/1186 live=9 done=165
+60/1186 live=9 done=180
+75/1186 live=9 done=195
+90/1186 live=9 done=210
+105/1186 live=9 done=225
+120/1186 live=9 done=240
+135/1186 live=9 done=255
+150/1186 live=9 done=270
+165/1186 live=9 done=285
+180/1186 live=9 done=300
+195/1186 live=9 done=315
+210/1186 live=9 done=330
+225/1186 live=9 done=345
+240/1186 live=9 done=360
+255/1186 live=9 done=375
+270/1186 live=9 done=390

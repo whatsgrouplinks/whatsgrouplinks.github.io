@@ -1,0 +1,70 @@
+{
+ "team": "team22",
+ "slice": "groupsnest.com new-post poll + grouplinksforyou.com new-post poll (Nov 13, 2026)",
+ "sources": [
+  "https://groupsnest.com/sitemap-posts.xml",
+  "https://www.grouplinksforyou.com/feeds/posts/default?alt=json&max-results=500",
+  "https://www.grouplinksforyou.com/feeds/posts/default?alt=json&max-results=500&start-index=34",
+  "https://www.grouplinksforyou.com/sitemap.xml"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> og:title empty (PASS, dead)"
+ },
+ "raw": 0,
+ "verified": 0,
+ "dupes": 0,
+ "dead": 0,
+ "excluded": [
+  {
+   "code": "5ZE2buyjKuNKeiPq2eZgTq",
+   "reason": "CARRY-OVER from 2026-11-11 team18 via 2026-11-12 team28 (not re-verified today \u2014 no new posts): crypto-airdrop scam, og:title 'AirDrop'"
+  },
+  {
+   "code": "H3Znr3mMLkxLTkcetGHSde",
+   "reason": "CARRY-OVER from 2026-11-11 team18 via 2026-11-12 team28 (not re-verified today \u2014 no new posts): crypto-airdrop scam, og:title 'Airdrop Network Bitcoin'"
+  },
+  {
+   "code": "BTsLR5yTI0S2C32WPPtQ0R",
+   "reason": "CARRY-OVER from 2026-11-11 team18 via 2026-11-12 team28 (not re-verified today \u2014 no new posts): crypto-airdrop scam, og:title 'HOLIVERSE(meta-whale)'"
+  },
+  {
+   "code": "CoJskuqxxW16xlsdlvqZ5O",
+   "reason": "CARRY-OVER from 2026-11-11 team18 via 2026-11-12 team28 (not re-verified today \u2014 no new posts): crypto-airdrop scam, og:title 'Legit Crypto Airdrops'"
+  }
+ ],
+ "new_exclusions_today": 0,
+ "pending": 0,
+ "leads": 0,
+ "groupsnest": {
+  "sitemap_byte_identical_to_20261112": true,
+  "sitemap_sha256_prefix": "feea55d1626fe62d",
+  "sitemap_urls": 33,
+  "new_urls": [],
+  "dropped_urls": [],
+  "newest_lastmod": "2026-10-09",
+  "collections_fetched": 33,
+  "collections_failed": 0,
+  "extracted_unique_codes": 1137,
+  "new_codes": 0,
+  "gone_codes": 0,
+  "per_page_count_diffs": {},
+  "page_byte_diffs_note": "25 of 33 pages differ byte-wise from Nov 12 but sizes are identical and code sets per page are identical; sampled diffs are trivial (freshness-badge class is-ok->is-old, mega-menu item order swap) \u2014 no new listings, no changed invite codes."
+ },
+ "grouplinksforyou": {
+  "feed_page1_entries": 33,
+  "feed_page2_entries": 6,
+  "total_results": 39,
+  "feed_updated_field": "2026-11-11T08:04:43.562-08:00",
+  "new_posts_vs_20261112": 0,
+  "removed_posts_vs_20261112": 0,
+  "changed_posts_vs_20261112": 0,
+  "newest_updated": "2026-11-03T09:32:00.100-08:00",
+  "oldest_updated": "2026-11-03T09:24:52.150-08:00",
+  "sitemap_byte_identical_to_20261112": true,
+  "sitemap_urls": 39,
+  "newest_lastmod": "2026-11-03T17:32:00Z"
+ },
+ "notes": "COMPLETE (valid empty result): neither site has new posts since Nov 12, so per the slice brief no mining, verification, or banking was needed beyond the controls. Controls ran FIRST and passed. Scratch (fetched sitemap/feed/sitemap + 33 groupsnest collection pages + control HTML): team22_scratch/. Carry-forward flag from team28 (unactioned, for parent): 4 crypto-airdrop codes banked Nov 10 are IN groups.json + .existing_codes.json (KD408PRv4Kh1j81OBGMB6O, FQAEuMQvBZJKtOlCrsnmac, KkdRrp9oFNxLY9Q6eAwpGR, EghZlHeOTD406TCI21NChX) and the source site has since removed all 4 from its posts \u2014 parent may want to purge them.",
+ "resume": "Both sites unchanged since Nov 12 (groupsnest sitemap byte-identical, 33 posts, newest lastmod 2026-10-09, 1,137 codes identical; grouplinksforyou feed+sitemap byte-identical, 39 posts, newest updated 2026-11-03T09:32-08:00). Next wave: re-fetch groupsnest sitemap-posts.xml + all 33 collection pages and grouplinksforyou feed (both pages) + sitemap.xml; mine only posts/codes new since Nov 13."
+}

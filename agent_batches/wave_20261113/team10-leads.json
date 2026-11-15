@@ -1,0 +1,237 @@
+[
+ {
+  "kind": "url",
+  "value": "https://zoneofwagroup.com",
+  "note": "fetch failed both passes (curl 000, connection timeout) — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.whtsagroupslinks.com",
+  "note": "HTTP 403 both passes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.facebook.com/groups/TheUPSCGroup",
+  "note": "Facebook group page, HTTP 400 login-walled error page, 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.facebook.com/linktogroups",
+  "note": "Facebook group page, HTTP 400 login-walled error page, 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.britsconnect.com/brits-in-indonesia",
+  "note": "fetched OK (200) but expat forum page, no WhatsApp group links on page"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.britsconnect.com/brits-in-thailand",
+  "note": "fetched OK (200) but expat forum page, no WhatsApp group links on page"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.forexgdp.com/forex-signals-whatsapp-group-in-south-africa",
+  "note": "fetched OK (200) forex article page, no invite codes on page"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.forexgdp.com/forex-signals/forex-trading-whatsapp-group-links",
+  "note": "fetched OK (200) forex article page, no invite codes on page"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.forexgdp.com/scams/avoid-whatsapp-groups",
+  "note": "fetched OK (200) forex article page, no invite codes on page"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.greenerpractice.co.uk/local-groups",
+  "note": "fetched OK (200) GP practice local-groups page, no WhatsApp invites on page"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.grouplinks.app/group/mina-protocol",
+  "note": "fetched OK (200) but Telegram group page, no WhatsApp invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.grouplinks.app/group/pulsedev",
+  "note": "fetched OK (200) but Telegram group page, no WhatsApp invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.grouplinks.app/group/purrpaws-official-chat",
+  "note": "fetched OK (200) but Telegram group page, no WhatsApp invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.groupslinks.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7",
+  "note": "fetched OK (200) Arabic category page, no chat.whatsapp.com links (codes only on individual group pages)"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.groupslinks.com/%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85",
+  "note": "fetched OK (200) Arabic category page, no chat.whatsapp.com links (codes only on individual group pages)"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.groupslinks.com/%d8%b1%d9%88%d8%a7%d8%a8%d8%b7-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%a3%d8%ac%d9%86%d8%a8%d9%8a%d8%a9",
+  "note": "fetched OK (200) Arabic category page, no chat.whatsapp.com links (codes only on individual group pages)"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.groupslinks.com/%d9%88%d8%a7%d8%a8%d8%b7-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%b4%d8%ba%d8%a7%d9%84%d8%a9-%d8%af%d9%84%d9%8a%d9%84%d9%83-%d8%a7%d9%84%d8%b4%d8%a7%d9%85",
+  "note": "fetched OK (200) Arabic category page, no chat.whatsapp.com links (codes only on individual group pages)"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.groupslinks.com/add-new-whatsapp",
+  "note": "fetched OK (200) submission-form page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.groupslinks.com/author/asfar",
+  "note": "fetched OK (200) author page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.groupslinks.com/channels",
+  "note": "fetched OK (200) WhatsApp Channels listing, no group invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://www.whatsgroup.in/whatsapp-groups-category",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://newgrouplinks.pk/category/all-groups/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whatslinky.com/bollywood-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whatslinky.com/friendship-girls-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whatslinky.com/indian-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whatslinky.com/job-alert-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whatslinky.com/tiktok-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whatslinky.com/category/jobs/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whatslinky.com/category/entertainment/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whatslinky.com/category/local/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/american-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/bgmi-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/category/country/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/cryptocurrency-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/ipl-matches-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/medical-students-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/movies-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/shopping-whatsapp-groups-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/usa-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/web-series-whatsapp-group-links/",
+  "note": "Cloudflare 'One moment, please...' bot-challenge stub (~12KB), 0 codes — needs live-browser pass"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/category/blog/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/category/education/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/category/news/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/category/other/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/category/share-market/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/category/sports/",
+  "note": "fetched OK (200) category index page, no invite codes"
+ },
+ {
+  "kind": "url",
+  "value": "https://whtsgrouplink.com/whatsapp-group-link-submit/",
+  "note": "fetched OK (200) submission-form page, no invite codes"
+ }
+]

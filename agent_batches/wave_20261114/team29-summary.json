@@ -1,0 +1,698 @@
+{
+ "team": "team29",
+ "slice": "grupbul re-check (chat-friendship, food, job-postings, sport) + fresh overflow (groupwa.link, instantgrouplink.com, wagroupshub.com, activewagroup.com, whatzgrouplink.com, techsslash.com)",
+ "sources": [
+  "https://grupbul.com/en/category/whatsapp/15/chat-friendship",
+  "https://grupbul.com/en/category/whatsapp/15/chat-friendship?page=2",
+  "https://grupbul.com/en/category/whatsapp/53/food",
+  "https://grupbul.com/en/category/whatsapp/53/food?page=2",
+  "https://grupbul.com/en/category/whatsapp/9/job-postings",
+  "https://grupbul.com/en/category/whatsapp/9/job-postings?page=2",
+  "https://grupbul.com/en/category/whatsapp/4/sport",
+  "https://grupbul.com/en/category/whatsapp/4/sport?page=2",
+  "https://groupwa.link/",
+  "https://groupwa.link/jobs/",
+  "https://groupwa.link/education/",
+  "https://groupwa.link/cricket/",
+  "https://groupwa.link/business/",
+  "https://groupwa.link/entertainment/",
+  "https://groupwa.link/page/2/",
+  "https://instantgrouplink.com/",
+  "https://instantgrouplink.com/single-girl-whatsapp-group-links/",
+  "https://instantgrouplink.com/tamil-whatsapp-group-links/",
+  "https://instantgrouplink.com/usa-whatsapp-group-links/",
+  "https://instantgrouplink.com/sri-lanka-whatsapp-group-links/",
+  "https://wagroupshub.com/",
+  "https://wagroupshub.com/page/2/",
+  "https://activewagroup.com/",
+  "https://activewagroup.com/page/2/",
+  "https://whatzgrouplink.com/",
+  "https://whatzgrouplink.com/football-whatsapp-group-links/",
+  "https://whatzgrouplink.com/girls-whatsapp-group-links/",
+  "https://techsslash.com/kenya-whatsapp-group-links/",
+  "https://techsslash.com/"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (note: raw HTML carries &amp; — unescaped before compare) — PASS",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> og:title '' (empty, dead) — PASS"
+ },
+ "raw": 1104,
+ "verified": 0,
+ "dupes": 942,
+ "dead": 157,
+ "excluded": [
+  {
+   "code": "4alacXkfikk4ijHLeWQS8w",
+   "reason": "LIVE og:title 'Umb' — listed as 'Forca CR7' football; code repurposed, title gives no usable group identity; cannot bank under listed name."
+  },
+  {
+   "code": "5INfL6MsbsfDwonJktNGFl",
+   "reason": "LIVE og:title 'Message me for private chat' — listed as 'Kenya Football WhatsApp Group'; code repurposed to a private-chat lure, not a group; dropped. (Same finding as team33 Nov 13.)"
+  },
+  {
+   "code": "B4qo61dnfpJ7N53YGIfPRd",
+   "reason": "LIVE og:title '🌗Projektgruppe Vermögenssteigerung' (German wealth-growth/investment project group) — listed as 'Borrusia Dortmund Australia' football; code repurposed; investment-scheme signal; dropped. (Same finding as team33 Nov 13.)"
+  },
+  {
+   "code": "KnD5PUkyf9G45DEveKo3Jv",
+   "reason": "LIVE og:title 'LEGITIMATE POS HAKING UPDATED' — listed as 'Football Arena'; hacking/illicit-activity group; dropped."
+  },
+  {
+   "code": "HDFLFW42usPKUEReJbnJC0",
+   "reason": "LIVE og:title 'Paid Chat Girl' — listed as 'Girl Chat'; paid chat-girl service (sexual/paid-chat); dropped per doubt rule."
+  }
+ ],
+ "dead_codes": [
+  {
+   "code": "CeDP5YoED1OJ3PPoqj1a3z",
+   "name": "Jobs | G join this"
+  },
+  {
+   "code": "07tOqXdRi3DAxTnFzeqKE4",
+   "name": "⚽🌍 WORLD OF SOCCER ⚽"
+  },
+  {
+   "code": "1ZMjfhhzDepFes6pi8V90I",
+   "name": "⚽ Barcelona"
+  },
+  {
+   "code": "7cONtvsaeJV6zVnwOcGAE8",
+   "name": "Barcelona FC"
+  },
+  {
+   "code": "7pZEoOtflS36pxOvKKAj9X",
+   "name": "Football Match Prediction"
+  },
+  {
+   "code": "8vZLNG9oJMc47x6MLU3glM",
+   "name": "Football Kerala Fans"
+  },
+  {
+   "code": "CKpUx2p0mbHJ7zuXp8d4a4",
+   "name": "For Malayalam football announcement group pls join"
+  },
+  {
+   "code": "DncbKXQUnBTA1USzWo1Q07",
+   "name": "Join new WhatsApp group for this year 2022"
+  },
+  {
+   "code": "FN1W7jeIG9j0fE1PTC5Oa0",
+   "name": "Football ⚽️ Fans"
+  },
+  {
+   "code": "Gaa9ViVGUq3I2ytyFE1d0O",
+   "name": "Indian Super League Addicts"
+  },
+  {
+   "code": "HAoV9n1JzMfJMInlLzfUGz",
+   "name": "Brazil Football"
+  },
+  {
+   "code": "I1vbGQR3fdlIQv07MJoWyY",
+   "name": "CR7 Fan Group"
+  },
+  {
+   "code": "0w5diUWuDgMKe670A31H4w",
+   "name": "USA College Girls"
+  },
+  {
+   "code": "508ffzhC53ZBQYXR6oKduN",
+   "name": "Punjabi Girls"
+  },
+  {
+   "code": "AhThF3lHKpg67NPQqfeOUR",
+   "name": "USA American Girls"
+  },
+  {
+   "code": "BF6QRMzyhAZKbSo6TBxq1c",
+   "name": "Pakistan girl 2026"
+  },
+  {
+   "code": "BabHZO738z0LpEKkTBYtBL",
+   "name": "Mumbai Girls"
+  },
+  {
+   "code": "BdzkjrKJUlA7uD9UJlwpqO",
+   "name": "GIRLS Don’t Cry"
+  },
+  {
+   "code": "Bev8k6ZFmrY8UKrkMn2f0v",
+   "name": "College Girlss"
+  },
+  {
+   "code": "BmjLFrVKgoM4pdH5CkETmg",
+   "name": "Girls Spa"
+  },
+  {
+   "code": "CPF9nteKXmhCjIqxjTyhED",
+   "name": "I’m Girl"
+  },
+  {
+   "code": "CRhhLa9VseK4G4pyUn757c",
+   "name": "Sweet girl"
+  },
+  {
+   "code": "CnvQF01nDeTCcKhyJQA1Qz",
+   "name": "girl Group"
+  },
+  {
+   "code": "DFPPHohkBBV8KVA9IMYB8X",
+   "name": "Tamil girl"
+  },
+  {
+   "code": "DHn0jTnGgEy22pt5KgxNbM",
+   "name": "want girl"
+  },
+  {
+   "code": "Dxe42wvwLL2BUfmLtHIDge",
+   "name": "Tamil Girls"
+  },
+  {
+   "code": "E59EiU6RTHOGnmFLgcuKhD",
+   "name": "Onli girl chat☝🏻"
+  },
+  {
+   "code": "E9FQAvfs5N4FGwHK5l12pk",
+   "name": "ONLY GIRLS GROUP"
+  },
+  {
+   "code": "EdDueWHRUwI6mOl0TaXwyY",
+   "name": "Girl 2023"
+  },
+  {
+   "code": "EhIo3BvQnLo88VKXz2vDkb",
+   "name": "Beautiful Girls"
+  },
+  {
+   "code": "EpAVRrywJciBZZXWmVU610",
+   "name": "Girl Group"
+  },
+  {
+   "code": "F6iWukALIZE1QQr0BnEf5L",
+   "name": "MALLU GIRLS"
+  },
+  {
+   "code": "FoUKKcjOs0LHtDgt7wE7pn",
+   "name": "FuN TiMe"
+  },
+  {
+   "code": "GHPkwMAhtdy7WxjDusN7eA",
+   "name": "Only Girls"
+  },
+  {
+   "code": "GejDrCR4zm856mifUEfmGE",
+   "name": "Sheena"
+  },
+  {
+   "code": "Gg6YAXkJp4pDBXMhr0ntCF",
+   "name": "Closed"
+  },
+  {
+   "code": "GgrvizQqLMN8KVxoOihphB",
+   "name": "Cute girls chat"
+  },
+  {
+   "code": "GrEPPTA4OilKKvZEbjpbHG",
+   "name": "ONLY GIRLS GROUP"
+  },
+  {
+   "code": "HJOneR07mkoLtHpeE0KPsb",
+   "name": "itemprop=\"datePublished\"> December 3, 2023 at 11:21 am <a href=\"https://chat.whatsapp.com/"
+  },
+  {
+   "code": "Hzy3KC9yxBDK7bV4R6t7XK",
+   "name": "Yσυɳɠ Gιɾʅ Wιƚԋ Bσყ"
+  },
+  {
+   "code": "I225VbaXEb078or7qdxjFh",
+   "name": "div class=\"comment-author-info\"> <a href=\"https://chat.whatsapp.com/"
+  },
+  {
+   "code": "I4lfCaYjKP464ajE4rBjFx",
+   "name": "Japanese GIRLS"
+  },
+  {
+   "code": "I5fizxidKfPKiXCyHYJMv1",
+   "name": "Indian Girl"
+  },
+  {
+   "code": "I78hXQMBCTV746JM6Ga9j7",
+   "name": "girls group link"
+  },
+  {
+   "code": "I9EMSRF8H1d14YtAu9FaNF",
+   "name": "0\" itemprop=\"datePublished\"> April 15, 2023 at 2:47 pm <a href=\"https://chat.whatsapp.com/"
+  },
+  {
+   "code": "INwR2GA2r3aI2PEkrZgtvL",
+   "name": "Mallu girl"
+  },
+  {
+   "code": "Ic6WSYaO0Ah7ZzzoZE3irz",
+   "name": "div class=\"comment-author-info\"> <a href=\"https://chat.whatsapp.com/"
+  },
+  {
+   "code": "IcpzgtPLnRi4Iq6CJuDo40",
+   "name": "🕉️🇮🇳🛕🔱🪔तेरे मेरे कल्कि🪔🔱🛕🇮🇳🕉️"
+  },
+  {
+   "code": "IgEiaRI3D857K1nCBDryxo",
+   "name": "single girls"
+  },
+  {
+   "code": "IiK3ZNz31jL2M5FvcEU96e",
+   "name": "Cute GIRLS"
+  },
+  {
+   "code": "Iq9k1SOKytxFQCPfXxmqyP",
+   "name": "s WhatsApp Group Join Links 2026 Russian girl ➠ <a href=\"https://chat.whatsapp.com/invite/"
+  },
+  {
+   "code": "IucZdqmoJvy6eqpMqj5JQn",
+   "name": "ᴠͥɪͣᴘͫ✮⃝🇲iss 🇶𝖚𝖊𝖊𝖓"
+  },
+  {
+   "code": "Ix2oGh3omL8DnZQKdR9kFJ",
+   "name": "Girls 😋 Only"
+  },
+  {
+   "code": "J1kXKdQMHKEKNHuMi9Lc69",
+   "name": "PAK Girls"
+  },
+  {
+   "code": "JbgkcmNeb8FGZZwNtN9G06",
+   "name": "Tamil girl"
+  },
+  {
+   "code": "K92qGt1uk2Z1UnLPX5hlHR",
+   "name": "Only Girls"
+  },
+  {
+   "code": "KKo5aNUkvefH3NqVLVv4Np",
+   "name": "Foregain Girls"
+  },
+  {
+   "code": "KSRtp75JoxgEaLcpJh8aik",
+   "name": "itemprop=\"datePublished\"> December 15, 2021 at 4:32 am <a href=\"https://chat.whatsapp.com/"
+  },
+  {
+   "code": "KSUuk5d0mkx5nP36jyXbNh",
+   "name": "Insta Girl"
+  },
+  {
+   "code": "KdEaS1WZZZxGmdSz5T4PRi",
+   "name": "Tamil Girls"
+  },
+  {
+   "code": "Kenak09CYvDGc7ko8ozDnY",
+   "name": "Boys and girls"
+  },
+  {
+   "code": "Kolk0LNH8LO5nld2cVQpTF",
+   "name": "temprop=\"datePublished\"> February 14, 2023 at 10:26 am <a href=\"https://chat.whatsapp.com/"
+  },
+  {
+   "code": "L0tzvmUQz7F71Qi71E2GFN",
+   "name": "Bengaluru Girls"
+  },
+  {
+   "code": "L6K8odYZ8V9IDsKYDkDEyN",
+   "name": "GIRL’S Marriage"
+  },
+  {
+   "code": "L6yznGrZSUWENJAr13EXsJ",
+   "name": "p USA https://chat.whatsapp.com/GAdSEpgiM8ULHNAR4OM9Qf <a href=\"https://chat.whatsapp.com/"
+  },
+  {
+   "code": "LBnepXq7CUH2145quqbf63",
+   "name": "𝐆𝐫𝐎𝐮𝐏 𝐟𝐎𝐫 𝐆𝐢𝐑𝐥𝐒"
+  },
+  {
+   "code": "LK967qtTAjFBaREJLaulyT",
+   "name": "Pakistan girls"
+  },
+  {
+   "code": "LPQuogOJlSsCutwOTIlv3g",
+   "name": "Age 22 Only"
+  },
+  {
+   "code": "Lea6dNYf12SI6q7nsk1FKP",
+   "name": "Indian Women"
+  },
+  {
+   "code": "Li8nBrTRWWtAIBr6PfI24B",
+   "name": "Single girls group"
+  },
+  {
+   "code": "LuGe56yM6Sp6xSEtx50J9B",
+   "name": "Girls Only"
+  },
+  {
+   "code": "LvPF2iG30sF5pZaSPFLP6s",
+   "name": "00\" itemprop=\"datePublished\"> April 2, 2022 at 8:56 am <a href=\"https://chat.whatsapp.com/"
+  },
+  {
+   "code": "1LppAANrAKl3EJolsce16A",
+   "name": "USA Income Plan"
+  },
+  {
+   "code": "2DnQVoyimw9HZyrPlDzd8y",
+   "name": "YouTube World"
+  },
+  {
+   "code": "2EoNT7tj7VC53Utv1VBUhO",
+   "name": "Promote YouTube Video"
+  },
+  {
+   "code": "2z6jfeH1b0x23F6AzQbbTZ",
+   "name": "Indian Friends"
+  },
+  {
+   "code": "2zE8VWWNSAp2MqdQEoBQb3",
+   "name": "Memes Group"
+  },
+  {
+   "code": "4311sYAIClg99TevrK3W1q",
+   "name": "COC WhatsApp Group"
+  },
+  {
+   "code": "4HiDgjuuOQqE1ic5iv9V8V",
+   "name": "Funny Videos"
+  },
+  {
+   "code": "4yGCcyt0GyfF7CmJ1eIArx",
+   "name": "Subscriber My YouTube"
+  },
+  {
+   "code": "6knXxv1SVg09kQgmpbhRX4",
+   "name": "Little Boy"
+  },
+  {
+   "code": "6lYiAVCYjEhI7bB7JGk7Ye",
+   "name": "One Love"
+  },
+  {
+   "code": "8XkW5jsYY2uEQBoCgBopGX",
+   "name": "Date Boss"
+  },
+  {
+   "code": "9BLQ4nR65gKGHbDZGjyzGU",
+   "name": "Bollywood King"
+  },
+  {
+   "code": "A15LkNBuvRK9QxF03snBTa",
+   "name": "Find my Love"
+  },
+  {
+   "code": "A6WBGTfUvZL6MusghBziVe",
+   "name": "Indian Fun"
+  },
+  {
+   "code": "AlPXX7P1KL03WGEYkMu0Mk",
+   "name": "My USA"
+  },
+  {
+   "code": "B6vcVm0xGHQ1admK2gNghz",
+   "name": "Work from home 🏠"
+  },
+  {
+   "code": "BKAxSd5veym7FU6c4Aj0xD",
+   "name": "Study Books PDF"
+  },
+  {
+   "code": "BmA5cRZ03zd5ROwIQSD6T0",
+   "name": "Single & Searching"
+  },
+  {
+   "code": "C6gRlQQ8pEvJzdQkWcQF6u",
+   "name": "USA Friend Zone"
+  },
+  {
+   "code": "CJzrTYXpF9hL0yHAsYlePg",
+   "name": "BGMI MOBILE WARRIORS"
+  },
+  {
+   "code": "CRq1qMhiJ0TGhvY1zVSNYT",
+   "name": "Break Points"
+  },
+  {
+   "code": "CSnQzULPXwj5qFUcpwTApX",
+   "name": "Cash"
+  },
+  {
+   "code": "CWhP7cqU26ZIkPuskOn9LG",
+   "name": "YouTube 1K Subscribers"
+  },
+  {
+   "code": "D5li6M5bTJJ68pb0UKpa3H",
+   "name": "🎬SV Studio🎥"
+  },
+  {
+   "code": "DBqYJQPAsKtJacw2DamME4",
+   "name": "USA Jobs"
+  },
+  {
+   "code": "DEhKEcm6qqoCcRplTxj4Ys",
+   "name": "Learn English Group"
+  },
+  {
+   "code": "DZ6gZNOtMrJIrA7fegk5bc",
+   "name": "Indian PUBG Lovers 😍"
+  },
+  {
+   "code": "DoEAu4OKf5QFLiMmhA0Qk6",
+   "name": "Hindi Notes"
+  },
+  {
+   "code": "DuqljNSwCar73lEStHbt1s",
+   "name": "Masti Time"
+  },
+  {
+   "code": "DwYCcjAtI7X5BFHlIJLHBz",
+   "name": "Janeman"
+  },
+  {
+   "code": "E1W9zlxHFqN6YiqbDngbwy",
+   "name": "World Family"
+  },
+  {
+   "code": "E2DdQMYXJi7231ibbyW2Am",
+   "name": "𝐂𝐍 𝐅𝐢𝐥𝐦 𝐆𝐫𝐨𝐮𝐩"
+  },
+  {
+   "code": "EI9OFeXIAGR5xHdsw0WvTc",
+   "name": "शिक्षा सुगम समाचार JOIN"
+  },
+  {
+   "code": "EKqbAU7ktpV4zRwGctHppw",
+   "name": "ᴛᴀᴍɪʟ ᴍᴏᴠɪᴇᴤ ❾"
+  },
+  {
+   "code": "EOOMZIrV5qRGGtoWMQdKwf",
+   "name": "𝙸𝚂𝙻𝙰𝙼𝙸𝙲 𝙱𝙰𝚈𝙰𝙽"
+  },
+  {
+   "code": "Ebv71DeNsik2gGkOiyAToq",
+   "name": "Study Points"
+  },
+  {
+   "code": "EdhewIVH81eIh0xP83igXI",
+   "name": "Indian News"
+  },
+  {
+   "code": "EpHyIOhs2sO1XqPR5glkB7",
+   "name": "South Indian movies"
+  },
+  {
+   "code": "EpN8jBMigWt4yULXDvmD2N",
+   "name": "Indian College Girls"
+  },
+  {
+   "code": "EqqEPl6x6Eb06FT9mEHq3L",
+   "name": "Patna Breaking News"
+  },
+  {
+   "code": "F1olWFdeusa7MBJrlLAlU5",
+   "name": "USA Gaming Group"
+  },
+  {
+   "code": "F8yaqwSZGWL5rOztw648Tw",
+   "name": "BGMI Free UC"
+  },
+  {
+   "code": "FUe7esqkHFo2Y3iKuhAOxL",
+   "name": "Followers for Instagram"
+  },
+  {
+   "code": "FUgzWeT0dVwAK2YTvDymFJ",
+   "name": "Free Movie Hub🎥🍿"
+  },
+  {
+   "code": "FZRz72vXfjJAfDnsmTpner",
+   "name": "Best Girl Friend"
+  },
+  {
+   "code": "FcDEqUsRNoY28HC0faEaye",
+   "name": "World movie club."
+  },
+  {
+   "code": "FfYgMRrTHOy581hCCifV3e",
+   "name": "Attitude Only"
+  },
+  {
+   "code": "FsBGbIajbUO0pMeOLP3t3F",
+   "name": "Dating Group"
+  },
+  {
+   "code": "Fvd3AotjAugEivx8shLSbE",
+   "name": "WORK FROM HOME"
+  },
+  {
+   "code": "G0627KhOwYkCqRVBFK3KzG",
+   "name": "Mathematical Games"
+  },
+  {
+   "code": "G7tUlHiuTSv6XyGxltoFoe",
+   "name": "Study Club"
+  },
+  {
+   "code": "Gw1eH1TfnNKIz4vohxQ8TK",
+   "name": "Work-from-home jobs"
+  },
+  {
+   "code": "GwGy2yuBLt66D8FOQC8VPH",
+   "name": "Masti Zadar"
+  },
+  {
+   "code": "HCWaeZe5Ixx2Ud5GmQO1fL",
+   "name": "Netflix Prime video"
+  },
+  {
+   "code": "HH6X7pOXqIID3lcxP9u8px",
+   "name": "Sports Group"
+  },
+  {
+   "code": "HSrk16ryUq105mvptYbsxz",
+   "name": "Tamil Movies🍿🎥"
+  },
+  {
+   "code": "ICVfaQjlcUeL9DTItnAI06",
+   "name": "Online business"
+  },
+  {
+   "code": "IIxjNP6XC0a0otl1Yx8Jrd",
+   "name": "डूंगरपुर पत्रिका समूह"
+  },
+  {
+   "code": "ILqgLEhrrVYKCv3xS2j5KJ",
+   "name": "Ram Ram Ji"
+  },
+  {
+   "code": "ISdfeKiEpTS4efb27e2pRZ",
+   "name": "Paytm Money Online"
+  },
+  {
+   "code": "IdUNBMFn4pcKFSqH31vsUx",
+   "name": "Paytm Earning Online"
+  },
+  {
+   "code": "J8gptvmYjWCBk7Mbc4aVhh",
+   "name": "Online Earning Money"
+  },
+  {
+   "code": "JSzcshT9khG6Y6cCWBXwLG",
+   "name": "Work from Home Kerala 💸"
+  },
+  {
+   "code": "JjvQTzsg27LLrQo7RgQhEF",
+   "name": "Digital work-from-home group"
+  },
+  {
+   "code": "JlSkVHNQzGq11xl6895BCY",
+   "name": "Islamic Group"
+  },
+  {
+   "code": "Jn0r0sTmx3C5Icp8Du4We4",
+   "name": "Made by the USA"
+  },
+  {
+   "code": "JoA4Xapv8Wc2gD7g7GKDlO",
+   "name": "Allowed Girls"
+  },
+  {
+   "code": "JwWMAHR4PdMLm5JXvGkjKt",
+   "name": "Home Job"
+  },
+  {
+   "code": "KFqKbJtRNLgFVwG55v8XcF",
+   "name": "Movies"
+  },
+  {
+   "code": "KSQHXDDNgFr5xOzMqUStnH",
+   "name": "Islamic whatsapp statas"
+  },
+  {
+   "code": "KdhpQW6XqPACEkU8qMNOpm",
+   "name": "Date Foreigner"
+  },
+  {
+   "code": "Keke47so68GADO9m1GLqt9",
+   "name": "Make Money Online in 2021"
+  },
+  {
+   "code": "Kl7XXToxdecDFzl4htwSxf",
+   "name": "WORK FROM HOME 🏘️"
+  },
+  {
+   "code": "KliBFPLBiAJD4TkMj4wwes",
+   "name": "Dating Site"
+  },
+  {
+   "code": "KrH1rdk1ykaI5mX6ZtEZC7",
+   "name": "Tata IPL 2026"
+  },
+  {
+   "code": "KtQCsJpof5KB1H5gMzeUjq",
+   "name": "Hindi Quotes"
+  },
+  {
+   "code": "Ktdx8FETzwo8g3YletCpoD",
+   "name": "Work From Home No Investment"
+  },
+  {
+   "code": "L7aCvHFWnfbE0TKFVwmTwM",
+   "name": "foreigners"
+  },
+  {
+   "code": "LEIBu5Cbg7KLkgJ1vqezyE",
+   "name": "Islamic group"
+  },
+  {
+   "code": "LEow5SlWddXJlvFRuQN67q",
+   "name": "Online Earning 2020"
+  },
+  {
+   "code": "LQcNsWwH7ftA12SNrOQMLf",
+   "name": "Work From Home"
+  },
+  {
+   "code": "LdIW2LgzM2w0yVe7MrZnBV",
+   "name": "Free Fire Hero"
+  },
+  {
+   "code": "LmtdRUCdOG3CGd9xsZg54J",
+   "name": "Online Earning in India"
+  },
+  {
+   "code": "LoAkz5G2Gy02sPe58lzXT2",
+   "name": "Online Islamic TV"
+  },
+  {
+   "code": "LqZEF8Y2enJ2jhW4axYL28",
+   "name": "Jokes Only"
+  }
+ ],
+ "pending": 0,
+ "leads": 33,
+ "notes": "GRUPBUL RE-CHECK: category counts IDENTICAL to team33 Nov-13 (chat-friendship 27 gids p1=p2, food 0, job-postings same 3 gids 320563/503833/977190, sport same 1 gid 113756) — zero new entries since Nov 13. All 33 group pages fetched (HTTP 200, incl. the 2 team21-carried gids 621903/419221); every page hides its invite behind exactly one /redirect/<gid>/<n>, zero direct chat.whatsapp.com codes. Redirect probe (5 gids incl. both carried): /redirect returns HTTP 200 homepage template, no Location header, no chat.whatsapp.com link, no meta refresh, no JS target in static HTML (5s countdown script has its button logic commented out) — code unextractable via HTTP, needs browser/JS follow. All 33 banked as leads in team29-leads.json (incl. the 6 already banked by team33). Screening flag: gid 113756 'BET 365 SURE ODDS' — listing name suggests betting; screen on live og:title when resolved. OVERFLOW MINING: 30 listing pages across 6 sites yielded 1,104 unique codes (len>=15, incl. /invite/ prefix handling); 942 already in the 119,266-code union; 162 fresh vs union. Fresh-code sources: whatzgrouplink home (85) — new vs team33, which did not mine it; whatzgrouplink girls page (61) — new vs team33; football page (15, incl. 8 team33 already checked Nov 13); groupwa.link/jobs (1). Verification of all 162 fresh codes finished with ZERO pending: 157 dead (empty og:title on 3 spaced attempts, HTTP 200), 5 live — ALL 5 excluded on screening (see excluded list; 2 repeat team33's Nov-13 exclusions, 3 new: repurposed 'Umb', hacking 'LEGITIMATE POS HAKING UPDATED', paid-chat 'Paid Chat Girl'). Zero bankable candidates. The 8 football codes team33 checked Nov 13 re-verified identically (6 dead again, 2 live-excluded again). Transport: WhatsApp rate-limited the session twice (HTTP 429 bursts) — 22 codes went pending, then 17 resolved dead after a 300s cooldown and the last 5 after a 600s cooldown; final pending = 0. Directory fetches also hit intermittent proxy disconnects (instantgrouplink usa/single-girl, whatzgrouplink home/jobs/education, wagroupshub/activewagroup page/2, techsslash home) — all retried successfully except whatzgrouplink jobs/education pages which 404 (do not exist) and groupwa.link/jobs/page/2 which 404s; wagroupshub/activewagroup page/2 return the same code set as home (no real pagination). No porn/casino/betting-signal titles among live codes except the exclusions above; girls/friendship listings were overwhelmingly dead codes. Resume point: nothing pending — all 162 fresh codes resolved; next run should re-check grupbul categories + mine whatzgrouplink home/girls and the overflow homepages again for newer entries."
+}

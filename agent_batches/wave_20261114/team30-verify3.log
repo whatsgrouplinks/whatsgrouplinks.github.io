@@ -1,0 +1,6 @@
+queue: 1306 gz mined: 434 gz new: 106 gd new: 3446 gd non-adult: 2567 gd adult: 879 gd deferred this run: 2246
+CONTROL live: live 'JAY - PHP & Python Full Stack Developer' PASS
+CONTROL fabricated: dead '' PASS
+resuming verify with 105 already checked
+to verify: 1201
+15/1201 live=5 done=120

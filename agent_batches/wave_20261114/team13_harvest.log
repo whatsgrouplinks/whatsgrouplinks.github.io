@@ -1,0 +1,173 @@
+CONTROLS...
+live control: live 'JAY - PHP & Python Full Stack Developer' HTTP 200
+fabricated control: dead '' empty og:title HTTP 200
+CONTROLS PASSED
+PAGE 4...
+PAGE 4 listings: 19
+  fetch https://tugrupo.online/whatsapp/chat/problemas-te-ayudamos-%f0%9f%98%8c/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/problemas-te-ayudamos-%F0%9F%98%8C/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union KnATfpTf7TG1Jugix8BvI0 Problemas? Te ayudamos 😌
+  fetch https://tugrupo.online/whatsapp/musica/un-cosmos-musical/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/musica/un-cosmos-musical/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union DtDIo8YZdFK9Lcc4U9rHL2 Un Cosmos Musical
+  fetch https://tugrupo.online/whatsapp/chat/rosa-negra/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/rosa-negra/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union GQj5zhDIpb3AXpEmzlVwKt Rosa Negra
+  fetch https://tugrupo.online/whatsapp/diversion/venezolanos-en-brasil/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/venezolanos-en-brasil/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union FbhjN1k2B5bGt2qOhfYQMs Venezolanos en brasil
+  fetch https://tugrupo.online/whatsapp/rol/the-umbrella-academy-rol/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/the-umbrella-academy-rol/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union I2wVYpbyWqP6SHpUlQLadM The umbrella academy rol
+  fetch https://tugrupo.online/whatsapp/chat/creciendo-juntos-refugio-de-apoyo-%e2%9c%a8%ef%b8%8f/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/creciendo-juntos-refugio-de-apoyo-%E2%9C%A8%EF%B8%8F/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union EQNGyg19NYw43md6Br5KM6 Creciendo juntos, (Refugio de apoyo).✨️
+  fetch https://tugrupo.online/whatsapp/chat/todo-estara-bien/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/todo-estara-bien/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union HARG2zEpI5V8w8IumgTJuU Todo estará bien
+  fetch https://tugrupo.online/whatsapp/juegos/rise-of-kingdoms-convocatoria/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/rise-of-kingdoms-convocatoria/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT LcsizkVX2gwCIEqISkcfBB [Gaming] ⚜️👑Rise of kingdoms y mas⚜️
+  fetch https://tugrupo.online/whatsapp/juegos/comunidad-blood-strike-latam/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/comunidad-blood-strike-latam/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union GYC6UaIdSST98OlufNwpN3 COMUNIDAD BLOOD STRIKE LATAM
+  fetch https://tugrupo.online/whatsapp/chat/chat-emoji-you-love-%f0%9f%8d%aa/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/chat-emoji-you-love-%F0%9F%8D%AA/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union COLjhco88htEfU159q0Iqe Chat & Emoji you love 🍪
+  fetch https://tugrupo.online/whatsapp/chat/los-tios-con-clase/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/los-tios-con-clase/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union GXSl1UVXH7v1mkpJ9KwVrz Los tios con clase
+  fetch https://tugrupo.online/whatsapp/diversion/plsd-cuenca/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/plsd-cuenca/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union KHgdynCxuYuFDZ8mdiv8Mz PLSD Cuenca
+  fetch https://tugrupo.online/whatsapp/chat/%f0%9f%ab%a3ls-mente-locas%f0%9f%98%8a/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/%F0%9F%AB%A3ls-mente-locas%F0%9F%98%8A/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union B8h454ZaflZ0C3KTHaySzP 🫣l@s Mente locas😊
+  fetch https://tugrupo.online/whatsapp/diversion/ramdows/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/ramdows/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union BgkBNu1u1enDQBtJiinAtY Ramdows
+  fetch https://tugrupo.online/whatsapp/rol/sud-y-amigos-empleos-y-medio-ambiente/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/sud-y-amigos-empleos-y-medio-ambiente/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DETAIL NO-CODE https://tugrupo.online/whatsapp/rol/sud-y-amigos-empleos-y-medio-ambiente/
+  fetch https://tugrupo.online/whatsapp/chat/%e2%9c%a8-superacion-personal-%e2%9c%a8/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/%E2%9C%A8-superacion-personal-%E2%9C%A8/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DETAIL NO-CODE https://tugrupo.online/whatsapp/chat/%e2%9c%a8-superacion-personal-%e2%9c%a8/
+  fetch https://tugrupo.online/whatsapp/chat/jungla-de-amigos/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/jungla-de-amigos/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DEAD FYvYdHzCvJq56YVZDy5ZTv empty og:title HTTP 200
+  DUP-union IatFLusxteCEG4SZFT7ZDe Grupo de Organizadores Pokemon Go Mundia
+  fetch https://tugrupo.online/whatsapp/rol/futuros-pilotos/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/futuros-pilotos/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union DYU8PTkhtDB6f3no4aVnXM Futuros Pilotos
+26 DETAIL LEADS...
+  fetch https://tugrupo.online/whatsapp/chat/pa-agregarrr-%f0%9f%a7%a1%f0%9f%8c%bb/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/pa-agregarrr-%F0%9F%A7%A1%F0%9F%8C%BB/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT D7XaZmQ2BhjJ1fmEcVb3k7 [Community & Social] Grupo cerrado
+  fetch https://tugrupo.online/whatsapp/juegos/pa-jugar-cod-mobile/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/pa-jugar-cod-mobile/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DETAIL NO-CODE https://tugrupo.online/whatsapp/juegos/pa-jugar-cod-mobile/
+  fetch https://tugrupo.online/whatsapp/rol/anime-roleplay-juegos-amistades-etc/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/anime-roleplay-juegos-amistades-etc/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT KIIK0mjKCx7Aw0eQPImaR9 [Gaming] ⚜️𝒜𝒹𝓂𝒾𝓈𝒾ó𝓃𝑒𝓈⚜️
+  fetch https://tugrupo.online/whatsapp/rol/droneros-de-todo-el-mundo/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/droneros-de-todo-el-mundo/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT ED0xQrhewwN0IL8axnKfnf [Gaming] Droneros de todo el mundo
+  fetch https://tugrupo.online/whatsapp/anime/phoenix-animations/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/anime/phoenix-animations/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT DkOC4kO68gE6v9V05hmzMY [Entertainment] 🔥 (Lobby)🔥 Arte Digital - [dibujos y animaciones]
+  fetch https://tugrupo.online/whatsapp/chat/five-nights-at-freddys-latinoamerica/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/five-nights-at-freddys-latinoamerica/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT LAlszJULdsy530ztJXN51m [Community & Social] 𝗚𝙚𝙣𝙚𝙧𝙖𝙡 🍕💬⭐
+  fetch https://tugrupo.online/whatsapp/diversion/edits-o-tutoriales-de-cap-cut-alight-motion-ect/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/edits-o-tutoriales-de-cap-cut-alight-motion-ect/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT KmlC6v322yBHiLAAhYhQPF [Entertainment] Edits o tutoriales de ( Cap cut , Alight Motion ) ect
+  fetch https://tugrupo.online/whatsapp/musica/estopa/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/musica/estopa/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union Jqh8IqOMFz1C3Jg00XC2aO "Estopa" Grupo de WhatsApp
+  fetch https://tugrupo.online/whatsapp/diversion/gym-nation/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/gym-nation/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DEAD H0Mw3sRcZbnEnHVJPAtQVK empty og:title HTTP 200
+  KEPT Jd6TNmkwqFhLLiHFPmaU0E [Entertainment] (Chat general)٭𝘑𝘰𝘑𝘰'𝘴 𝘉𝘪𝘻𝘢𝘳𝘳𝘦 𝘈𝘥𝘷𝘦𝘯𝘵𝘶𝘳𝘦٭
+  fetch https://tugrupo.online/whatsapp/anime/bits-de-amistad/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/anime/bits-de-amistad/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union HORUWJhmiiw1UFJFdwirh0 "Bits de Amistad" Grupo de WhatsApp
+  fetch https://tugrupo.online/whatsapp/rol/grupo-de-rol-de-one-piece/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/grupo-de-rol-de-one-piece/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union D6acmCv5FxAA57VQzv9xC1 "Grupo de rol de one piece" Grupo de Wha
+  fetch https://tugrupo.online/whatsapp/chat/bolivianidades/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/bolivianidades/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT HAplE8mejSB4SZsXmGxTnw [Community & Social] ꧁⁣༒🇧🇴BOLIVIA❤️💛💚NIDADES🇧🇴༒꧂
+  fetch https://tugrupo.online/whatsapp/juegos/valorant-2/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/valorant-2/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT I9xBAz9K2sT7rd5EUxamJ0 [Gaming] Valorant✌🏻
+  fetch https://tugrupo.online/whatsapp/musica/%e2%98%85%ea%a7%81%f0%9f%8c%b9%e2%84%99%f0%9d%95%99%f0%9d%95%a0%f0%9d%95%9f%f0%9d%95%9c-%f0%9d%95%aa-%f0%9d%95%9ea%f0%9d%95%a4%f0%9f%8d%92-%ea%a7%82%e2%98%85/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/musica/%E2%98%85%EA%A7%81%F0%9F%8C%B9%E2%84%99%F0%9D%95%99%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%9C-%F0%9D%95%AA-%F0%9D%95%9Ea%F0%9D%95%A4%F0%9F%8D%92-%EA%A7%82%E2%98%85/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT JhGB4KRu2BPKYIFIq5mNqs [Entertainment] «★꧁🌹ℙ𝕙𝕠𝕟𝕜 𝕪 𝕞á𝕤🍒 ꧂★»
+  fetch https://tugrupo.online/whatsapp/juegos/mc-bedrock-1-20-62/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/mc-bedrock-1-20-62/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT JdRwwdo8WgN6J5H969ebJJ [Gaming] MC BUGDROCK
+  fetch https://tugrupo.online/whatsapp/chat/cs-mod-run/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/cs-mod-run/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT BIYu8xw9PjJBjB0hOqHO23 [Community & Social] Sp'L | Comunnity Solo Para Lacras😎
+  fetch https://tugrupo.online/whatsapp/stickers/los-interactivos-%f0%9f%97%bf%f0%9f%97%a3/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/stickers/los-interactivos-%F0%9F%97%BF%F0%9F%97%A3/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT DwOP1mQ1x0GJmK1rL9tANk [Funny] Los interactivos 🗿🗣
+  fetch https://tugrupo.online/whatsapp/chat/%e3%83%9f%e2%9c%a7%e2%9c%a7th%ce%be%d1%88%ce%bb%d1%8f%d1%8fl%d1%84%d1%8fs%e2%9c%a7%e2%9c%a7%e5%bd%a1/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/%E3%83%9F%E2%9C%A7%E2%9C%A7th%CE%BE%D1%88%CE%BB%D1%8F%D1%8Fl%D1%84%D1%8Fs%E2%9C%A7%E2%9C%A7%E5%BD%A1/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union C9vkxmymt5y5oyQpwtS2o6 "ミ✧✧thΞШΛЯЯłФЯs✧✧彡" Grupo de WhatsApp
+  fetch https://tugrupo.online/whatsapp/anime/live-anime/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/anime/live-anime/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT KoHMseXT2jkD9IyBInCHDk [Entertainment] 🛕 ᒪᎥᐯᗴ ᗩᑎᎥᗰᗴ 🪷
+  fetch https://tugrupo.online/whatsapp/chat/gente-de-buen-rollo-cadiz-y-alrededores/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/gente-de-buen-rollo-cadiz-y-alrededores/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT GeaSS19zqZzCyGnLRrVU8w [Community & Social] Gente de buen Rollo, Cádiz y Alrededores
+  fetch https://tugrupo.online/whatsapp/peliculas/peliculas-y-series-2/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/peliculas/peliculas-y-series-2/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT HwM5o623swS3WviewK42wF [Entertainment] Peliculas y series🎬
+  fetch https://tugrupo.online/whatsapp/stickers/stickers-divertidos/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/stickers/stickers-divertidos/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union EML07DDdzfAGnkYqwOd2ei "Stickers divertidos" Grupo de WhatsApp
+  fetch https://tugrupo.online/whatsapp/diversion/amistad-y-respeto/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/amistad-y-respeto/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT LO4opV3HfAF4oU0B4DnuZH [Entertainment] Amistad y Respeto
+  fetch https://tugrupo.online/whatsapp/chat/1-dia-mas-grupo-de-alcoholicos-as-en-recuperacion/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/1-dia-mas-grupo-de-alcoholicos-as-en-recuperacion/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union Gtue7rrpI9E1W5OIwv9873 "1 día mas. Grupo de alcohólicos/as en r
+  fetch https://tugrupo.online/whatsapp/juegos/the-fantastics-wild-rift/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/the-fantastics-wild-rift/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT EowEM0bdGUAIZCPybZg6fJ [Gaming] 💣THE FANTASTICS💣 🔥🆆🅸🅻🅳 ​ 🆁🅸🅵🆃 🔥
+detail leads done. kept so far: 19
+PAGE 11...
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=11 ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/?query-eb715b85=11 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+PAGE 11 listings: 19
+  fetch https://tugrupo.online/whatsapp/diversion/pa-platicar/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/pa-platicar/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT GssOwwU3lj7I3gk2jVGuw1 [Entertainment] Pa platicar
+  fetch https://tugrupo.online/whatsapp/chat/puerto-montt/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/puerto-montt/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT Ep8XBMOYlE1CFK1RY9y6no [Community & Social] Oferta laboral Puerto Montt
+  fetch https://tugrupo.online/whatsapp/chat/amantes-de-la-noche/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/amantes-de-la-noche/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT IevL4BSVqmF4lsUggrAdyZ [Community & Social] l ꙰ғɪʟᴛʀᴏl ꙰
+  fetch https://tugrupo.online/whatsapp/anime/animeworld%e2%9c%a8/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/anime/animeworld%E2%9C%A8/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DEAD IooOJNSDqzQAmkbkWKJNPE empty og:title HTTP 200
+  DEAD D5GVO0z8ZSD9Kioko0ddXi empty og:title HTTP 200
+  KEPT L1ehKAEoHKcClpt6o0yGAs [Community & Social] Desarrollo Personal
+  fetch https://tugrupo.online/whatsapp/chat/ayudando-un-callejerito/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/ayudando-un-callejerito/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT BpQR4EU8saqJTwFdCFdqDC [Community & Social] Ayudando un callejerito 🐕🐕🐕🐈🐈🐈
+  fetch https://tugrupo.online/whatsapp/memes/no-te-metas-aqui-random/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/memes/no-te-metas-aqui-random/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union DPJBjEhrMIM7FaJ55Xoxct No te metas aquí random
+  fetch https://tugrupo.online/whatsapp/anime/amistad-picante/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/anime/amistad-picante/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union LL3eJnFyIK8JtvOBlWYgfB Amistad picante
+  fetch https://tugrupo.online/whatsapp/stickers/modo-egoista/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/stickers/modo-egoista/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union ENMRR7R0ofNEIM7pEOmpKd Modo Egoista
+  fetch https://tugrupo.online/whatsapp/juegos/genshinuniverse/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/genshinuniverse/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT LGAXmjXXTMs8W7ZVh6rhzG [Gaming] Filtro de ingreso.
+  fetch https://tugrupo.online/whatsapp/chat/hype-group-argentina-y-alrededor-%f0%9f%87%a6%f0%9f%87%b7%f0%9f%87%a7%f0%9f%87%b7%f0%9f%87%a8%f0%9f%87%b1%f0%9f%87%ba%f0%9f%87%be%f0%9f%87%bb%f0%9f%87%aa%f0%9f%87%b2%f0%9f%87%bd%f0%9f%87%b5/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/hype-group-argentina-y-alrededor-%F0%9F%87%A6%F0%9F%87%B7%F0%9F%87%A7%F0%9F%87%B7%F0%9F%87%A8%F0%9F%87%B1%F0%9F%87%BA%F0%9F%87%BE%F0%9F%87%BB%F0%9F%87%AA%F0%9F%87%B2%F0%9F%87%BD%F0%9F%87%B5/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DETAIL NO-CODE https://tugrupo.online/whatsapp/chat/hype-group-argentina-y-alrededor-%f0%9f%87%a6%f0%9f%87%b7%f0%9f%87%a7%f0%9f%87%b7%f0%9f%87%a8%f0%9f%87%b1%f0%9f%87%ba%f0%9f%87%be%f0%9f%87%bb%f0%9f%87%aa%f0%9f%87%b2%f0%9f%87%bd%f0%9f%87%b5/
+PAGE 12...
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=12 ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/?query-eb715b85=12 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+PAGE 12 listings: 19
+  fetch https://tugrupo.online/whatsapp/chat/para-ver-estados/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/para-ver-estados/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT BMf4V5AdBBc14RJcgloYXk [Community & Social] Nadie sale sin amig@s o novi@s🤪
+  fetch https://tugrupo.online/whatsapp/chat/despertar-de-conciencia-2/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/despertar-de-conciencia-2/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DEAD H9OW2LDJQAxDhxL92oDBk5 empty og:title HTTP 200
+  KEPT JiNCb4tAeaYDzVkwyXaPfQ [Community & Social] Debate y Memes
+  fetch https://tugrupo.online/whatsapp/juegos/elandy-games/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/elandy-games/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DETAIL NO-CODE https://tugrupo.online/whatsapp/juegos/elandy-games/
+  fetch https://tugrupo.online/whatsapp/chat/veganos/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/veganos/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT BgSXX7q2l7tLpVVxZgUheS [Community & Social] Veggies 🌱🇪🇸
+  fetch https://tugrupo.online/whatsapp/juegos/free-fire-5/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/free-fire-5/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT GJ763LzfVC30vpkR1MzwC2 [Gaming] FREE FIRE
+  fetch https://tugrupo.online/whatsapp/diversion/the-walking-dead/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/the-walking-dead/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DETAIL NO-CODE https://tugrupo.online/whatsapp/diversion/the-walking-dead/
+  fetch https://tugrupo.online/whatsapp/peliculas/peliculas-full-2024/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/peliculas/peliculas-full-2024/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DEAD B8lbJbAI9HG7VrwQnaQG2g empty og:title HTTP 200
+  KEPT BR8F4BlDwtGBzOO6XHarnp [Community & Social] 🔥❤️‍🔥Grupo para hacer amigos🌀🌈
+  fetch https://tugrupo.online/whatsapp/rol/hogwarts-pana/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/hogwarts-pana/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DEAD DMTjLFZIIYAKCwzVkucqtj empty og:title HTTP 200
+  DETAIL NO-CODE https://tugrupo.online/whatsapp/diversion/trip-panama-viajes-acampar-y-mas/
+  fetch https://tugrupo.online/whatsapp/diversion/conocimiento-de-si-mismo/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/conocimiento-de-si-mismo/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT FkPARHgoWwz6pGrM2plwQo [Entertainment] Conocimiento de Sí Mismo El Salvador 🇸🇻
+PAGE 13...
+  fetch https://tugrupo.online/whatsapp/?query-eb715b85=13 ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/?query-eb715b85=13 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+PAGE 13 listings: 19
+  fetch https://tugrupo.online/whatsapp/peliculas/%f0%9f%8e%acclub-de-peliculas-oficial%f0%9f%8e%96%ef%b8%8f/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/peliculas/%F0%9F%8E%ACclub-de-peliculas-oficial%F0%9F%8E%96%EF%B8%8F/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DEAD CP2D32TgP4SF047Y5VWQJQ empty og:title HTTP 200
+  DUP-union KOqo6PZpU060JiAoR8TJeY Stickers y más
+  fetch https://tugrupo.online/whatsapp/diversion/amigar-y-algo-mas-%f0%9f%99%88%e2%9d%a4%ef%b8%8f/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/amigar-y-algo-mas-%F0%9F%99%88%E2%9D%A4%EF%B8%8F/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT CzD858VuZpF89FNYZl6hUv [Entertainment] Nadie sale sin amigos 👻
+  fetch https://tugrupo.online/whatsapp/musica/billie-eilish/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/musica/billie-eilish/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DUP-union ILMCQZcp7kkG7fvhjvW9t5 Billie Eilish
+  fetch https://tugrupo.online/whatsapp/juegos/pokemon/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/juegos/pokemon/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT C7Sv9yHmMPGFW9pRD72mm4 [Gaming] POKEMON
+  fetch https://tugrupo.online/whatsapp/rol/avatar-roleplay/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/avatar-roleplay/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT LOYezzWc5KXAxMOpz0hLTj [Gaming] 〲⿻ᩧ᰷᰷  𝐋๏𝐛𝙗γ  ࣪ ⭒💨. 치.
+  fetch https://tugrupo.online/whatsapp/rol/epoca-victoriana/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/epoca-victoriana/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT LaZd5eXPfgI2gzu3h4svTW [Gaming] 𝓁ℴ𝒷𝒷𝓎 ♡︎✯
+  fetch https://tugrupo.online/whatsapp/chat/multigrasa-%e2%9c%a8%e2%9c%b0stars%e2%9c%a9/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/multigrasa-%E2%9C%A8%E2%9C%B0stars%E2%9C%A9/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT Dzfyo1Y2qKiLQEQoufC3NK [Community & Social] Ulti✭✮stars✯✰
+  fetch https://tugrupo.online/whatsapp/chat/grupo-de-estudio/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/chat/grupo-de-estudio/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  KEPT EbwA15tNdTRLwBvJBY3KMM [Community & Social] Grupo de Estudio 🎒📝
+  fetch https://tugrupo.online/whatsapp/diversion/latinos-por-el-mundo-3/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/diversion/latinos-por-el-mundo-3/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DEAD HO8Wy1sChPmB6HUkCFly1c empty og:title HTTP 200
+  KEPT I71x9sgzmXWISo9N5Vy6G8 [Community & Social] makeup beauty 💗💄
+  fetch https://tugrupo.online/whatsapp/rol/imperio-galactico-de-mythralia/ ERR ProxyError: HTTPSConnectionPool(host='tugrupo.online', port=443): Max retries exceeded with url: /whatsapp/rol/imperio-galactico-de-mythralia/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+  DEAD GnJiWCR3MiCEkaipV3fE2a empty og:title HTTP 200
+PAGE 14...
+PAGE 14: empty/repeat listings — STOP
+DONE. pages: [4, 11, 12, 13, 14] failed: [] verified: 38 pending: 0 dead: 10 excluded: 0

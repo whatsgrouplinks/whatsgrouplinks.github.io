@@ -21,16 +21,28 @@
   "groupwa.link",
   "app.grupodewhatsapp.com (unmineable via curl — JS/timeouts, all in leads)"
  ],
- "verified": 172,
- "pending": 9,
- "leads": 1448,
- "dead": 466,
+ "verified": 549,
+ "pending": 12,
+ "leads": 1981,
+ "dead": 2473,
  "exclusions": [
   {
    "code": "I1liZQ993ZDJyM9bdA6Ypc",
    "reason": "adult:porn (og:title 'Porno xxx' found on rename pass)"
+  },
+  {
+   "code": "HYxIXc2kv6CJG7TW5CrHSn",
+   "reason": "adult/scam (og:title)"
+  },
+  {
+   "code": "HrnQQaZAeRz9OL5PrBXe4R",
+   "reason": "adult/scam (og:title)"
+  },
+  {
+   "code": "Ltz2Mju9WHq8jIuyNTKPA0",
+   "reason": "adult:xxx (deep linkado name)"
   }
  ],
- "resume": "verify 1123 unverified candidates in team01-merged-candidates.json (team01_verify_stream.py); deep-fetch 772 unresolved groupsinvite slugs (team01_mine.py deep gi) — slugs in team01-leads-slice1-progress.json sub_groupsinvite; deep-fetch 3597 unresolved linkado grupo ids (team01_mine.py deep linkado)",
- "notes": "Wave 20261112 resume of wave 20261111 slice 1. Mined 3603/3603 listing pages (main+rescue+remine+remine0). Failed-fetch listing URLs: 1242 (in leads for retry). groupsinvite slugs collected: 1372 (deep-resolved: 600); linkado grupo ids collected: 3897 (deep-resolved: 300). Wave 20261111 VM rebooted twice mid-run (~08:00 UTC and ~10:00 UTC); the first reboot truncated the candidates file — the 263 pre-reboot candidates were re-mined by the remine0 job (idx 0-300) and grouplink candidates from idx 700-1040 by the remine job. The wave_20261111 stream verifier (team01_verify_stream.py run2) checked 525/1184, found 61 new live (138 total stream-verified incl. run1's 77), 462 dead, 1 pending, 1 exclusion, then died (VM reboot ~11:00 UTC); its dead-code list was never persisted (counts only), so the wave_20261112 stream pass re-checks the merged file and persists dead codes this time. Verification is sequential (1 worker): parallel chat.whatsapp.com fetches time out through the shared egress proxy (verified empirically: 3 concurrent curls all hit 30s; sequential requests succeed in ~8s). Live = HTTP 200 + non-empty og:title, retried once. Counts are from the output files at finalize time, not estimates. Name repair: 610 'Entrar no Grupo' linkado names fixed from grupo page titles; 7 junk-named verified records renamed from og:title; 1 porn-named group (I1liZQ993ZDJyM9bdA6Ypc, og:title 'Porno xxx') removed from verified and excluded."
+ "resume": "verify 1 leftover candidate in team01-merged-candidates.json (KgP5o2UC2uB7vOvk0nrALz, transport-pending, team01_verify_stream.py); retry 18 failed deep fetches (team01_deep.py — failed items not marked done)",
+ "notes": "Wave 20261112 resume of wave 20261111 slice 1. Mined 3603/3603 listing pages (main+rescue+remine+remine0). Failed-fetch listing URLs: 1242 (in leads for retry). groupsinvite slugs collected: 1372 (deep-resolved: 600); linkado grupo ids collected: 3897 (deep-resolved: 300). Wave 20261111 VM rebooted twice mid-run (~08:00 UTC and ~10:00 UTC); the first reboot truncated the candidates file — the 263 pre-reboot candidates were re-mined by the remine0 job (idx 0-300) and grouplink candidates from idx 700-1040 by the remine job. The wave_20261111 stream verifier (team01_verify_stream.py run2) checked 525/1184, found 61 new live (138 total stream-verified incl. run1's 77), 462 dead, 1 pending, 1 exclusion, then died (VM reboot ~11:00 UTC); its dead-code list was never persisted (counts only), so the wave_20261112 stream pass re-checks the merged file and persists dead codes this time. Verification is sequential (1 worker): parallel chat.whatsapp.com fetches time out through the shared egress proxy (verified empirically: 3 concurrent curls all hit 30s; sequential requests succeed in ~8s). Live = HTTP 200 + non-empty og:title, retried once. Counts are from the output files at finalize time, not estimates. Name repair: 610 'Entrar no Grupo' linkado names fixed from grupo page titles; 7 junk-named verified records renamed from og:title; 1 porn-named group (I1liZQ993ZDJyM9bdA6Ypc, og:title 'Porno xxx') removed from verified and excluded. FINALIZE2: folded 377 new stream-verified (merged+deep passes) for 549 total verified. Deep-fetch resolved 1738 candidates (163 groupsinvite + 1575 linkado); 18 deep fetches failed transport (in leads for retry); 515 deep slugs/ids had no invite code (in leads). Leftover unverified candidates: 9. Deep exclusions: 1. POST-FINALIZE FIXES: 1 verified record re-categorized 'Buy Sell'->'Buy & Sell'. 8 leftover codes already present in groups.json (skipped by the verifier as existing) removed from leftovers; 1 genuine leftover remains (KgP5o2UC2uB7vOvk0nrALz, transport-pending). OVERLAP NOTE: .existing_codes.json grew 112,070->119,266 and groups.json was rebuilt 10:41 UTC during this wave; 162 of the 377 stream-verified codes are already in groups.json (found independently, likely by other teams mining the same directories) — 215 stream-verified codes are new to groups.json. Verified file (549) = 172 carried from wave_20261111 (already deployed) + 377 stream-verified this wave."
 }

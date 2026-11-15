@@ -1,0 +1,30 @@
+{
+  "team": "team16",
+  "slice": "LatAm directory leftovers from wave_20261112 team33-newdirs-latam-gulf-leads.json (gruposwapp.net mined via curl; gruposdewats/gruposwats, tuxmat Bahrain, Solion app = browser/app-only, banked as leads; groupslinks/whts.club/whatshub/grupodewhatsapp excluded per assignment to team07/11/15)",
+  "sources": [
+    "https://gruposwapp.net/",
+    "https://gruposwapp.net/grupos/",
+    "https://gruposwapp.net/grupos-de-amistad/",
+    "https://gruposdewats.com/",
+    "https://www.gruposwats.com/",
+    "https://go.tuxmat.com/total-ask/bahrain-whatsapp-group-links-2024-join-now-1767648724",
+    "https://play.google.com/store/apps/details?id=com.grupos.solion"
+  ],
+  "controls": {
+    "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (LIVE, as expected)",
+    "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz -> og:title '' (dead, as expected)"
+  },
+  "raw": 17,
+  "verified": 2,
+  "dupes": 8,
+  "dead": 6,
+  "excluded": [
+    {
+      "code": "GnCpLynhLSb9puDlPtU1c4",
+      "reason": "LIVE og:title 'Data/Multimedia' but detail page states group shares adult content ('contenido para adultos', 18+, explicit photos) — dropped per hard porn/18+ sexual screening rule"
+    }
+  ],
+  "pending": 0,
+  "leads": 19,
+  "notes": "gruposwapp.net: 19 detail pages fetched (12 from /grupos/ + 7 new from /grupos-de-amistad/); 1 listing 404 (republica-bananera); /grupos/?paged=2 404s (no pagination). 17 unique codes resolved (11 via /ir/ redirects + inline, 6 more via category page). Dupes 8: LBk6v1WG9tl8YgEt0hUt6a, DuBHvJYTiSoAyojV1lzLaC, EzUX7eUEpbYB5yndbsiA8g, IO5ikb5Zt6h8dfQFtNWhZT, JgH3o5Qxiz708mKpfAcsRg, LH7ep6ARt1D6sxnT2487Ga, E9xpfnxQCB5CwO5GyrZiEC, DEQpRdRtzPPBFmp6qyzNge. Dead 6 (empty og:title on first fetch + one spaced 45s+ retry): B93HEr28L12CmKzqVwGIZe, KKCV28bXmrQIZDJ7LPlNXG, BEMQqJdSxX91mNUkTt2csV, IyyVt067fyb19hQfsrWyyb, JQdIApQmNOSGVy0g7o9MdL, LY2rKfcri7jHk2wVhxl78T (Cornudos — also sexually suggestive 'picante' theme, would have been excluded even if live). No transport-failure codes, so pending is empty; AMIGOS ir/458 never yielded a code and is banked as a lead URL instead."
+}

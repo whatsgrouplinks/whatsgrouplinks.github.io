@@ -1,0 +1,28 @@
+{
+  "team": "team30",
+  "slice": "Fresh discovery — category/country listing pages: Sports (wahublink.com, wagroupshub.com), Education/Study (grouplink.com.in All India Study + Sree Chaitanya Mahavidyalaya official notice PDF), Crypto (activewagroup.com), Jobs (activewagroup.com), Islamic (whatgroups.com — blocked)",
+  "sources": [
+    "https://wahublink.com/sports-whatsapp-group-links/ (Sports, 40 codes, 0 fresh)",
+    "https://grouplink.com.in/all-india-study-whatsapp-group-links/ (Education, 30 codes, 0 fresh)",
+    "https://activewagroup.com/ — Cryptocurrency section (18 codes, 0 fresh) and Jobs section (10 codes, 0 fresh)",
+    "https://wagroupshub.com/sports-whatsapp-group-links/ (Sports, 19 codes, 4 fresh)",
+    "https://grouplinks.co.uk/best-whatsapp-group-links/ (mixed best-of, 27 codes, 0 fresh)",
+    "https://newgrouplinks.pk/crypto-trading-whatsapp-group-links/ (Crypto, 40 codes, 0 fresh)",
+    "http://grouplink.com.in/malayalam-islamic-whatsapp-group-links/ (Islamic, 229 codes, 0 fresh)",
+    "https://groupwa.link/ (mixed homepage, 70 codes, 1 fresh)",
+    "https://wagroupslink.com/school-girl-whatsapp-study-group-link/ (Education, 19 codes, 1 fresh)",
+    "https://www.sreechaitanyamahavidyalaya.ac.in/images/Notice/1664129095whatsApp Link.pdf (official college study groups, 27 codes, 9 fresh)",
+    "https://whatgroups.com/islamic-whatsapp-group-link/ (Islamic — Cloudflare-blocked, 0 codes, banked as lead)"
+  ],
+  "controls": {
+    "live": "KrDwdK8EIkB6vgauHg5M7N => og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+    "fabricated": "ZzZzZzZzZzZzZzZzZzZzZz => empty og:title (dead, PASS)"
+  },
+  "raw": 480,
+  "verified": 7,
+  "dupes": 465,
+  "dead": 8,
+  "excluded": [],
+  "pending": 0,
+  "leads": 6
+}

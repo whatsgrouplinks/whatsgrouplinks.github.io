@@ -1,0 +1,256 @@
+{
+ "controls": {
+  "KrDwdK8EIkB6vgauHg5M7N": "JAY - PHP & Python Full Stack Developer",
+  "ZzZzZzZzZzZzZzZzZzZzZz": ""
+ },
+ "groupsnest_sitemap": {
+  "fetched": true,
+  "sha256": "feea55d1626fe62d56f4edb0cdd4eece05d6ab9b230f0b9d278d88d82ed13893",
+  "prev_sha256": "feea55d1626fe62d56f4edb0cdd4eece05d6ab9b230f0b9d278d88d82ed13893",
+  "identical_to_20261113": true,
+  "urls": 33,
+  "newest_lastmod": "2026-10-09",
+  "new_urls": [],
+  "dropped_urls": []
+ },
+ "glfy_feed.json": {
+  "fetched": true,
+  "identical_to_20261113": true,
+  "sha256": "aceadead781ea1e30f5524920ef4891f8d2229b6b6e56b3ebad5c65e219efdde",
+  "prev_sha256": "aceadead781ea1e30f5524920ef4891f8d2229b6b6e56b3ebad5c65e219efdde"
+ },
+ "glfy_feed_p2.json": {
+  "fetched": true,
+  "identical_to_20261113": true,
+  "sha256": "53b9f2fd1e0d1b802fd3239e2698d6709a3b34e920cc6e57860432a300644fb2",
+  "prev_sha256": "53b9f2fd1e0d1b802fd3239e2698d6709a3b34e920cc6e57860432a300644fb2"
+ },
+ "glfy_sitemap-glfy.xml": {
+  "fetched": true,
+  "identical_to_20261113": true,
+  "sha256": "3096d15f43893f06f8d9277e05fb03a8e7bcc7ea1a7fa08ff5d7dab5c568e50b",
+  "prev_sha256": "3096d15f43893f06f8d9277e05fb03a8e7bcc7ea1a7fa08ff5d7dab5c568e50b"
+ },
+ "grouplinksforyou": {
+  "feed_page1_entries": 33,
+  "feed_page2_entries": 6,
+  "total_results": 39,
+  "feed_updated_field": "2026-11-11T08:04:43.562-08:00",
+  "new_posts_vs_20261113": 0,
+  "new_posts": [],
+  "removed_posts_vs_20261113": 0,
+  "removed_posts": [],
+  "changed_posts_vs_20261113": 0,
+  "changed_posts": [],
+  "newest_updated": "2026-11-03T09:32:00.100-08:00",
+  "oldest_updated": "2026-11-03T09:24:52.150-08:00",
+  "sitemap_identical_to_20261113": true
+ },
+ "groupsnest_collections": {
+  "fetched": 33,
+  "failed": [],
+  "extracted_unique_codes": 1137,
+  "new_codes": [],
+  "gone_codes": [],
+  "per_page": {
+   "pakistan-property-whatsapp-group-links": {
+    "count": 19,
+    "prev_count": 19,
+    "new": [],
+    "gone": []
+   },
+   "national-whatsapp-group-links": {
+    "count": 31,
+    "prev_count": 31,
+    "new": [],
+    "gone": []
+   },
+   "labour-whatsapp-group-links": {
+    "count": 9,
+    "prev_count": 9,
+    "new": [],
+    "gone": []
+   },
+   "gsm-whatsapp-group-links": {
+    "count": 39,
+    "prev_count": 39,
+    "new": [],
+    "gone": []
+   },
+   "iphone-sell-whatsapp-group-links": {
+    "count": 24,
+    "prev_count": 24,
+    "new": [],
+    "gone": []
+   },
+   "horticulture-whatsapp-group-links": {
+    "count": 17,
+    "prev_count": 17,
+    "new": [],
+    "gone": []
+   },
+   "real-estate-whatsapp-group-links": {
+    "count": 37,
+    "prev_count": 37,
+    "new": [],
+    "gone": []
+   },
+   "urdu-poetry-whatsapp-group-links-pakistan": {
+    "count": 21,
+    "prev_count": 21,
+    "new": [],
+    "gone": []
+   },
+   "visa-whatsapp-group-links": {
+    "count": 18,
+    "prev_count": 18,
+    "new": [],
+    "gone": []
+   },
+   "novel-whatsapp-group-links": {
+    "count": 28,
+    "prev_count": 28,
+    "new": [],
+    "gone": []
+   },
+   "poultry-whatsapp-group-links-pakistan": {
+    "count": 16,
+    "prev_count": 16,
+    "new": [],
+    "gone": []
+   },
+   "sunni-islamic-whatsapp-group-link": {
+    "count": 29,
+    "prev_count": 29,
+    "new": [],
+    "gone": []
+   },
+   "general-knowledge-whatsapp-group-links-pakistan": {
+    "count": 24,
+    "prev_count": 24,
+    "new": [],
+    "gone": []
+   },
+   "gaming-whatsapp-group-links": {
+    "count": 28,
+    "prev_count": 28,
+    "new": [],
+    "gone": []
+   },
+   "online-business-whatsapp-group-link-pakistan": {
+    "count": 43,
+    "prev_count": 43,
+    "new": [],
+    "gone": []
+   },
+   "anime-whatsapp-group-link": {
+    "count": 32,
+    "prev_count": 32,
+    "new": [],
+    "gone": []
+   },
+   "sports-whatsapp-group-links": {
+    "count": 22,
+    "prev_count": 22,
+    "new": [],
+    "gone": []
+   },
+   "breaking-news-whatsapp-group-link-pakistan": {
+    "count": 52,
+    "prev_count": 52,
+    "new": [],
+    "gone": []
+   },
+   "islamabad-whatsapp-group-link": {
+    "count": 49,
+    "prev_count": 49,
+    "new": [],
+    "gone": []
+   },
+   "social-media-whatsapp-group-link": {
+    "count": 188,
+    "prev_count": 188,
+    "new": [],
+    "gone": []
+   },
+   "fashion-whatsapp-group-links": {
+    "count": 35,
+    "prev_count": 35,
+    "new": [],
+    "gone": []
+   },
+   "Islamic-Whatsapp-Group-Links": {
+    "count": 50,
+    "prev_count": 50,
+    "new": [],
+    "gone": []
+   },
+   "educational-whatsapp-group-link-pakistan": {
+    "count": 73,
+    "prev_count": 73,
+    "new": [],
+    "gone": []
+   },
+   "bisp-whatsapp-group-link-pakistan": {
+    "count": 16,
+    "prev_count": 16,
+    "new": [],
+    "gone": []
+   },
+   "css-whatsapp-group-links-pakistan": {
+    "count": 36,
+    "prev_count": 36,
+    "new": [],
+    "gone": []
+   },
+   "crypto-whatsapp-group-links": {
+    "count": 21,
+    "prev_count": 21,
+    "new": [],
+    "gone": []
+   },
+   "buy-and-sell-whatsapp-group-links-pakistan": {
+    "count": 25,
+    "prev_count": 25,
+    "new": [],
+    "gone": []
+   },
+   "pakistani-food-whatsapp-group-links": {
+    "count": 15,
+    "prev_count": 15,
+    "new": [],
+    "gone": []
+   },
+   "agriculture-whatsapp-group-links": {
+    "count": 27,
+    "prev_count": 27,
+    "new": [],
+    "gone": []
+   },
+   "karachi-whatsapp-group-links": {
+    "count": 29,
+    "prev_count": 29,
+    "new": [],
+    "gone": []
+   },
+   "punjabi-whatsapp-group-links": {
+    "count": 29,
+    "prev_count": 29,
+    "new": [],
+    "gone": []
+   },
+   "bank-jobs-whatsapp-group-link-pakistan": {
+    "count": 79,
+    "prev_count": 79,
+    "new": [],
+    "gone": []
+   },
+   "jobs-whatsapp-group-links-pakistan": {
+    "count": 26,
+    "prev_count": 26,
+    "new": [],
+    "gone": []
+   }
+  }
+ }
+}

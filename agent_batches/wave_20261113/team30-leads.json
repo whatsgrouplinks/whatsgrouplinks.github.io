@@ -1,0 +1,32 @@
+[
+  {
+    "kind": "url",
+    "value": "https://whatgroups.com/islamic-whatsapp-group-link/",
+    "note": "Islamic listing page, 1500+ groups claimed; Cloudflare challenge blocked both curl and text fetch, 0 codes extracted — unmined, needs browser leg"
+  },
+  {
+    "kind": "url",
+    "value": "https://grouplinks.co.uk/",
+    "note": "26 verified category lists (study groups, gaming, UK city communities, Premier League clubs); only the best-of page was mined — full category pages unmined"
+  },
+  {
+    "kind": "url",
+    "value": "https://groupwa.link/",
+    "note": "78-category directory; homepage mined (1 fresh code, dead); per-category pages unmined"
+  },
+  {
+    "kind": "url",
+    "value": "https://activewagroup.com/",
+    "note": "Homepage mined only for Crypto (18 codes) and Jobs (10 codes) sections; remaining sections (News, Movies, Entertainment, Technology, Shayari, Poetry, Educational, Friendship, USA, Pakistani, UK, International, Shopping) unmined — note Single Girl/Gay/Loans/Make Money sections need screening care"
+  },
+  {
+    "kind": "url",
+    "value": "https://newgrouplinks.pk/crypto-trading-whatsapp-group-links/",
+    "note": "Crypto page mined (0 fresh); site has other category pages unmined"
+  },
+  {
+    "kind": "url",
+    "value": "https://wagroupslink.com/school-girl-whatsapp-study-group-link/",
+    "note": "Study page mined (1 fresh code, dead); other category pages on this site unmined"
+  }
+]

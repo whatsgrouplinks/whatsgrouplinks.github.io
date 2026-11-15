@@ -1,0 +1,942 @@
+{
+ "team": "team18",
+ "slice": "linktogroups (ltg) continuation - wave_20261114",
+ "sources": [
+  "https://linktogroups.com/en/whatsapp-groups (+?page=2..5)",
+  "https://linktogroups.com/en/ghana",
+  "https://linktogroups.com/en/kenya",
+  "https://linktogroups.com/en/nigeria (+?page=2..6)",
+  "https://linktogroups.com/en/saudi-arabia",
+  "https://linktogroups.com/en (home - retry ok, relative hrefs, no new country links beyond known set)",
+  "EXTRA country pages first fetched by this slice (Nov13 never fetched them): pakistan, india, australia, canada, ethiopia, malaysia, philippines, russia, singapore, iran"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS, dead)",
+  "method": "one requests.Session, browser User-Agent, 60-90s timeouts; og:description ignored (generic on live and dead)"
+ },
+ "counts": {
+  "raw_new_listing_ids_vs_nov13": 131,
+  "raw_first_batch_original_pages": 10,
+  "raw_extra_country_pages": 121,
+  "resolved_via_click_api": 131,
+  "unresolved_ids": 0,
+  "whatsapp_chat_destinations": 9,
+  "verified_live": 1,
+  "verified_dead_3_passes": 8,
+  "dupes_vs_union": 1,
+  "candidates_banked": 0,
+  "dead": 8,
+  "excluded": 131,
+  "pending_429_transport": 0,
+  "leads": 3
+ },
+ "verified": {
+  "live": 1,
+  "dead": 8,
+  "http429": 0,
+  "transport": 0
+ },
+ "dupes": [
+  {
+   "code": "CccUUZdjC6xA4NIk7ppoem",
+   "ltg_id": "4023",
+   "name": "MR Rajib FX | GOLD Signals (live og:title 'THE TRADING ZONE')",
+   "reason": "live but already in 119,266-code union; NOT banked; not in any wave_20261113/14 candidate file"
+  }
+ ],
+ "dead": [
+  {
+   "code": "JlU47ERiwpz9o5I6LuqlOz",
+   "ltg_id": "4027",
+   "name": "Digital Asset Investors"
+  },
+  {
+   "code": "F8fLWGrtDwCKmDHfKhLUY1",
+   "ltg_id": "4028",
+   "name": "Crypto Exchange Review"
+  },
+  {
+   "code": "I9SFGT3eSaxJHNEXmk7WVm",
+   "ltg_id": "4029",
+   "name": "Blockchain & Web3 World"
+  },
+  {
+   "code": "JoB2NwzCAz9DaX7cTYt3Ha",
+   "ltg_id": "4030",
+   "name": "Copy Trading Network"
+  },
+  {
+   "code": "JWsEWy3xERX6rIMRzRq7gW",
+   "ltg_id": "4031",
+   "name": "Crypto Signals Community"
+  },
+  {
+   "code": "FLRH6pmw6Q2KiIsXctwoUC",
+   "ltg_id": "4032",
+   "name": "AI Crypto Trading Hub"
+  },
+  {
+   "code": "Ci7uIG3eB43FOeDR2YNm9q",
+   "ltg_id": "4033",
+   "name": "Crypto Market Analysis"
+  },
+  {
+   "code": "JTOdM73dDmvJOfCsQxE149",
+   "ltg_id": "4034",
+   "name": "Crypto Global News"
+  }
+ ],
+ "excluded": [
+  {
+   "code": "CccUUZdjC6xA4NIk7ppoem",
+   "ltg_id": "4023",
+   "name": "📈 MR Rajib FX | GOLD Signals 🔥 Forex Analysis | BTC | XAUUSD | Free Trading Signals 🚀 Join Our WhatsApp Channel 👇",
+   "reason": "LIVE (og:title 'THE TRADING ZONE') but DUPE - code already in 119,266-code union; not banked"
+  },
+  {
+   "code": "JlU47ERiwpz9o5I6LuqlOz",
+   "ltg_id": "4027",
+   "name": "Digital Asset Investors",
+   "reason": "DEAD - empty og:title on 3 spaced verification passes (HTTP 200 each time)"
+  },
+  {
+   "code": "F8fLWGrtDwCKmDHfKhLUY1",
+   "ltg_id": "4028",
+   "name": "Crypto Exchange Review",
+   "reason": "DEAD - empty og:title on 3 spaced verification passes (HTTP 200 each time)"
+  },
+  {
+   "code": "I9SFGT3eSaxJHNEXmk7WVm",
+   "ltg_id": "4029",
+   "name": "Blockchain & Web3 World",
+   "reason": "DEAD - empty og:title on 3 spaced verification passes (HTTP 200 each time)"
+  },
+  {
+   "code": "JoB2NwzCAz9DaX7cTYt3Ha",
+   "ltg_id": "4030",
+   "name": "Copy Trading Network",
+   "reason": "DEAD - empty og:title on 3 spaced verification passes (HTTP 200 each time)"
+  },
+  {
+   "code": "JWsEWy3xERX6rIMRzRq7gW",
+   "ltg_id": "4031",
+   "name": "Crypto Signals Community",
+   "reason": "DEAD - empty og:title on 3 spaced verification passes (HTTP 200 each time)"
+  },
+  {
+   "code": "FLRH6pmw6Q2KiIsXctwoUC",
+   "ltg_id": "4032",
+   "name": "AI Crypto Trading Hub",
+   "reason": "DEAD - empty og:title on 3 spaced verification passes (HTTP 200 each time)"
+  },
+  {
+   "code": "Ci7uIG3eB43FOeDR2YNm9q",
+   "ltg_id": "4033",
+   "name": "Crypto Market Analysis",
+   "reason": "DEAD - empty og:title on 3 spaced verification passes (HTTP 200 each time)"
+  },
+  {
+   "code": "JTOdM73dDmvJOfCsQxE149",
+   "ltg_id": "4034",
+   "name": "Crypto Global News",
+   "reason": "DEAD - empty og:title on 3 spaced verification passes (HTTP 200 each time)"
+  },
+  {
+   "code": "",
+   "ltg_id": "4022",
+   "name": "📈 MR Rajib FX | GOLD Signals 🔥 Forex Analysis | BTC | XAUUSD | Free Trading Signals 🚀 Join WhatsApp Channel 👇",
+   "reason": "not a WhatsApp group invite - destination is https://whatsapp.com/channel/0029VbDE6mO6hENmauS9tS3X (banked as lead)"
+  },
+  {
+   "code": "",
+   "ltg_id": "4021",
+   "name": "🔥 MR RAJIB FX  Professional Forex Market Insights 📊  Gold | Forex | BTC | Technical Analysis  Follow our page for",
+   "reason": "not a WhatsApp group invite - destination is https://wa.me/message/XSC5JF7V24NXI1 (banked as lead)"
+  },
+  {
+   "code": "",
+   "ltg_id": "4024",
+   "name": "Danish FX | GOLD Signals - Forex & BTC Analysis | XAUUSD | Free Signals",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/danish_pipsfx_09bot"
+  },
+  {
+   "code": "",
+   "ltg_id": "131",
+   "name": "Jobs in Canada",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/jobcanada"
+  },
+  {
+   "code": "",
+   "ltg_id": "132",
+   "name": "Canada — News & Life",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/canada"
+  },
+  {
+   "code": "",
+   "ltg_id": "133",
+   "name": "Canada Immigration News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/canadaimmigrationnews"
+  },
+  {
+   "code": "",
+   "ltg_id": "134",
+   "name": "Canada Immigration Updates",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/canada_immigration_updates"
+  },
+  {
+   "code": "",
+   "ltg_id": "135",
+   "name": "BA Jobs Australia & New Zealand",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/bajobsanz"
+  },
+  {
+   "code": "",
+   "ltg_id": "136",
+   "name": "Singapore News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/singaporenews65"
+  },
+  {
+   "code": "",
+   "ltg_id": "137",
+   "name": "Singapore Property News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/propnexpropertynewsupdate"
+  },
+  {
+   "code": "",
+   "ltg_id": "138",
+   "name": "Klook Singapore Deals & Travel Tips",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/klooktravelsg"
+  },
+  {
+   "code": "",
+   "ltg_id": "139",
+   "name": "Changi Airport Travel & Lifestyle Deals",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/changiairport"
+  },
+  {
+   "code": "",
+   "ltg_id": "140",
+   "name": "Philippines Local News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/pilipinas_news"
+  },
+  {
+   "code": "",
+   "ltg_id": "141",
+   "name": "Pakistani News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/pakistaninws"
+  },
+  {
+   "code": "",
+   "ltg_id": "208",
+   "name": "Новости Crypto Bot",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/cryptobotru"
+  },
+  {
+   "code": "",
+   "ltg_id": "209",
+   "name": "DeCenter — блокчейн и криптовалюты",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/decenter"
+  },
+  {
+   "code": "",
+   "ltg_id": "210",
+   "name": "Дайте TON!",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/givemetonru"
+  },
+  {
+   "code": "",
+   "ltg_id": "211",
+   "name": "Crypto Wolf",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/crypto_woolf"
+  },
+  {
+   "code": "",
+   "ltg_id": "212",
+   "name": "Investment Kingyru",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/investkingyru"
+  },
+  {
+   "code": "",
+   "ltg_id": "213",
+   "name": "Цифровой Журнал — IT и нейросети",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/chatgptv"
+  },
+  {
+   "code": "",
+   "ltg_id": "214",
+   "name": "GPT — ChatGPT и Midjourney",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/gptmainnews"
+  },
+  {
+   "code": "",
+   "ltg_id": "215",
+   "name": "Standoff 2",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/play_standoff2"
+  },
+  {
+   "code": "",
+   "ltg_id": "216",
+   "name": "Roblox",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/roblox1"
+  },
+  {
+   "code": "",
+   "ltg_id": "217",
+   "name": "Мороженое — маркетинг и медиа",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/na_morozhenoe"
+  },
+  {
+   "code": "",
+   "ltg_id": "218",
+   "name": "Окак",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/okak"
+  },
+  {
+   "code": "",
+   "ltg_id": "219",
+   "name": "The Экономист",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/economica"
+  },
+  {
+   "code": "",
+   "ltg_id": "220",
+   "name": "Мысли Семенчука",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/semenchuk"
+  },
+  {
+   "code": "",
+   "ltg_id": "221",
+   "name": "Леонардо Дайвинчик",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/leoday"
+  },
+  {
+   "code": "",
+   "ltg_id": "282",
+   "name": "BEST STOCK OPTIONS TRADING 🔵",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/market_st"
+  },
+  {
+   "code": "",
+   "ltg_id": "361",
+   "name": "India Govt Exam (Education News)",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/studyjobeducation"
+  },
+  {
+   "code": "",
+   "ltg_id": "363",
+   "name": "Knowledge Vault | UPSC • GK • GS • SSC",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/knowledgevaultindia"
+  },
+  {
+   "code": "",
+   "ltg_id": "364",
+   "name": "Upscreener Channel",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/upscreener"
+  },
+  {
+   "code": "",
+   "ltg_id": "373",
+   "name": "Malik Mumbai",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/malik_mumbai_vip99"
+  },
+  {
+   "code": "",
+   "ltg_id": "376",
+   "name": "KuCoin News Pakistan",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/kucoinnews_pakistan"
+  },
+  {
+   "code": "",
+   "ltg_id": "377",
+   "name": "Iran, Pakistan, Afghanistan-news",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/iranpakistanafghanistan_news"
+  },
+  {
+   "code": "",
+   "ltg_id": "378",
+   "name": "Pakistan NEWS Channel",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/news_pakistan"
+  },
+  {
+   "code": "",
+   "ltg_id": "379",
+   "name": "Gate Pakistani News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/gatepakistaninews"
+  },
+  {
+   "code": "",
+   "ltg_id": "380",
+   "name": "Lahore 1947 Movie",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/lahoor_1947_movie"
+  },
+  {
+   "code": "",
+   "ltg_id": "381",
+   "name": "菲律宾大事件 | Philippines NEWS",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/flbbg8"
+  },
+  {
+   "code": "",
+   "ltg_id": "382",
+   "name": "필리핀 뉴스 ( Philippines News )",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/pilnews"
+  },
+  {
+   "code": "",
+   "ltg_id": "383",
+   "name": "Info_News_Vacancy Singapore 新加坡招聘启事",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/info_news_vacancy_singapore"
+  },
+  {
+   "code": "",
+   "ltg_id": "384",
+   "name": "freelance jobs singapore",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/freelancesg"
+  },
+  {
+   "code": "",
+   "ltg_id": "385",
+   "name": "Singapore Jobs for Malaysian",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/singaporejobsformalaysian"
+  },
+  {
+   "code": "",
+   "ltg_id": "386",
+   "name": "Singapore Lorry Driver Jobs",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/sgdriverjobss"
+  },
+  {
+   "code": "",
+   "ltg_id": "387",
+   "name": "Malaysian Medical News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/malaysianhealth"
+  },
+  {
+   "code": "",
+   "ltg_id": "388",
+   "name": "Malaysia Biker News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/bikermalaysia"
+  },
+  {
+   "code": "",
+   "ltg_id": "389",
+   "name": "88razzi News Malaysia 劲爆第一手消息!",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/official88razzi_news"
+  },
+  {
+   "code": "",
+   "ltg_id": "390",
+   "name": "马来西亚大事件 | Malaysia NEWS",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/mlxybg8"
+  },
+  {
+   "code": "",
+   "ltg_id": "391",
+   "name": "The Sun Malaysia (News)",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/thesuntelegram"
+  },
+  {
+   "code": "",
+   "ltg_id": "392",
+   "name": "🇨🇦 Canada News 🇨🇦",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/news_cbc"
+  },
+  {
+   "code": "",
+   "ltg_id": "393",
+   "name": "Canada Free News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/canadafreenews"
+  },
+  {
+   "code": "",
+   "ltg_id": "394",
+   "name": "INC - Immigration News Canada",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/incnewsca"
+  },
+  {
+   "code": "",
+   "ltg_id": "395",
+   "name": "Jobs In Canada 🇨🇦",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/canadajobs2022"
+  },
+  {
+   "code": "",
+   "ltg_id": "396",
+   "name": "Jobs in Canada",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/jobs_canada"
+  },
+  {
+   "code": "",
+   "ltg_id": "397",
+   "name": "The Light Australia newspaper",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/thelightpaperaustralia"
+  },
+  {
+   "code": "",
+   "ltg_id": "398",
+   "name": "Family Life Sydney City",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/familylifesydneycity"
+  },
+  {
+   "code": "",
+   "ltg_id": "435",
+   "name": "Ethiopian Artificial Intelligence Institute",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/ethiopianaii"
+  },
+  {
+   "code": "",
+   "ltg_id": "496",
+   "name": "Seedly Personal Finance SG",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/personalfinancesg"
+  },
+  {
+   "code": "",
+   "ltg_id": "568",
+   "name": "С РЮКЗАКОМ ПО РОССИИ",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/backpackingrussia"
+  },
+  {
+   "code": "",
+   "ltg_id": "716",
+   "name": "اخبارفوری خبرفوری جنگ امریکا فوری",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/km_ap"
+  },
+  {
+   "code": "",
+   "ltg_id": "793",
+   "name": "Angel One",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/official_angelone"
+  },
+  {
+   "code": "",
+   "ltg_id": "812",
+   "name": "Forbes Russia",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/forbesrussia"
+  },
+  {
+   "code": "",
+   "ltg_id": "824",
+   "name": "UPSC HISTORY BPSC POLITY GK QUIZ",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/upsc_polity_bpsc_history_gk_quiz"
+  },
+  {
+   "code": "",
+   "ltg_id": "829",
+   "name": "Afriwork (Freelance Ethiopia)",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/freelance_ethio"
+  },
+  {
+   "code": "",
+   "ltg_id": "838",
+   "name": "Ethiojobs",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/ethiojobsofficial"
+  },
+  {
+   "code": "",
+   "ltg_id": "842",
+   "name": "Ethio Job Vacancy ®️",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/ethio_job_vacancy1"
+  },
+  {
+   "code": "",
+   "ltg_id": "847",
+   "name": "Fanajobs",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/fanajobs"
+  },
+  {
+   "code": "",
+   "ltg_id": "944",
+   "name": "All Online Premium Courses Free- SilkCourses",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/freshercooker_official"
+  },
+  {
+   "code": "",
+   "ltg_id": "971",
+   "name": "Indian Defence Airforce GK Exams",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/indian_airforce_defence_gk_exams"
+  },
+  {
+   "code": "",
+   "ltg_id": "976",
+   "name": "English For Ethiopia - በቀላሉ",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/english_ethiopian"
+  },
+  {
+   "code": "",
+   "ltg_id": "977",
+   "name": "Hindi Grammar Quiz ™ CTET UPTET",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/hindi_grammar_ctet_quiz"
+  },
+  {
+   "code": "",
+   "ltg_id": "1000",
+   "name": "Ethio telecom",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/ethio_telecom"
+  },
+  {
+   "code": "",
+   "ltg_id": "1012",
+   "name": "XpnTm | فیلترشکن",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/xpnteam"
+  },
+  {
+   "code": "",
+   "ltg_id": "1056",
+   "name": "BLACK RUSSIA",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/br_dev"
+  },
+  {
+   "code": "",
+   "ltg_id": "1120",
+   "name": "فوتبال 180",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/futball180tv"
+  },
+  {
+   "code": "",
+   "ltg_id": "1127",
+   "name": "کانال هواداران سپاهان",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/tofanasiai"
+  },
+  {
+   "code": "",
+   "ltg_id": "1207",
+   "name": "Ethiopian New Music",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/ethiopian_new_music"
+  },
+  {
+   "code": "",
+   "ltg_id": "1259",
+   "name": "جوانان ایران",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/ir_javan"
+  },
+  {
+   "code": "",
+   "ltg_id": "1278",
+   "name": "ሀበሻን memes™🇪🇹",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/habeshan_memes"
+  },
+  {
+   "code": "",
+   "ltg_id": "1495",
+   "name": "Shakko: об искусстве",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/shakko_kitsune"
+  },
+  {
+   "code": "",
+   "ltg_id": "1502",
+   "name": "russian mood",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/rusmuse5"
+  },
+  {
+   "code": "",
+   "ltg_id": "1503",
+   "name": "я поведу тебя в музей",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/vmuzey"
+  },
+  {
+   "code": "",
+   "ltg_id": "1530",
+   "name": "EpicModder 🇮🇳",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/epicmodder"
+  },
+  {
+   "code": "",
+   "ltg_id": "1571",
+   "name": "کانفیگ رایگان آلفا وی توری",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/v2ray_alpha"
+  },
+  {
+   "code": "",
+   "ltg_id": "1668",
+   "name": "Ethiopian News Agency",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/ethiopiannewsa"
+  },
+  {
+   "code": "",
+   "ltg_id": "1670",
+   "name": "Ethiopian Business Review",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/ebr_news"
+  },
+  {
+   "code": "",
+   "ltg_id": "1671",
+   "name": "Daily News Ethiopian 🇪🇹🔵",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/daily_news_ethiopian"
+  },
+  {
+   "code": "",
+   "ltg_id": "1673",
+   "name": "Ethiopian News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/ethiopian_news"
+  },
+  {
+   "code": "",
+   "ltg_id": "1724",
+   "name": "Music Production",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/mixmastering1399"
+  },
+  {
+   "code": "",
+   "ltg_id": "1772",
+   "name": "Canada Outlander Jobseekers",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/outlanderjobs"
+  },
+  {
+   "code": "",
+   "ltg_id": "1773",
+   "name": "Work in Toronto",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/jobs_toronto_ontario"
+  },
+  {
+   "code": "",
+   "ltg_id": "1774",
+   "name": "Jobs in Australia",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/jobsinaustralia24"
+  },
+  {
+   "code": "",
+   "ltg_id": "1775",
+   "name": "Melbourne & Sydney Jobs",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/melbjobs"
+  },
+  {
+   "code": "",
+   "ltg_id": "1776",
+   "name": "Job Hiring Philippines",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/jobsphilippines"
+  },
+  {
+   "code": "",
+   "ltg_id": "1777",
+   "name": "Online Jobs in Philippines",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/onlinejobsinphilippines"
+  },
+  {
+   "code": "",
+   "ltg_id": "1828",
+   "name": "Upscreener LLC - USA Registered",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/upscreenerchat"
+  },
+  {
+   "code": "",
+   "ltg_id": "1829",
+   "name": "UPSC_UPPSC_MPPCS_BPSC_UPSI_NEET preparation AND ALL OVER EXAMS IN INDIA QUIZ GROUP 🇮🇳🇮🇳",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/upscbpscsscneetreetallexam"
+  },
+  {
+   "code": "",
+   "ltg_id": "1831",
+   "name": "Hashtag Mumbai News",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/hashtagmumbainews"
+  },
+  {
+   "code": "",
+   "ltg_id": "1832",
+   "name": "Malik Mumbai",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/malik_mumbai_bhai_pro_backup"
+  },
+  {
+   "code": "",
+   "ltg_id": "1834",
+   "name": "👍Delhi 🏏 cricket 🏟️club⚔️",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/delhil"
+  },
+  {
+   "code": "",
+   "ltg_id": "1836",
+   "name": "Jobs Posting / Searching",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/jobs_in_bangalore"
+  },
+  {
+   "code": "",
+   "ltg_id": "1837",
+   "name": "INDIA Job Seekers (IJS)",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/bangalorejobseekers"
+  },
+  {
+   "code": "",
+   "ltg_id": "1839",
+   "name": "All job seekers Pakistan",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/jobseew"
+  },
+  {
+   "code": "",
+   "ltg_id": "1840",
+   "name": "JOBS IN GULF /PAKISTAN & OTHER ACTIVITY❤️❤️❤️",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/vvahfz0"
+  },
+  {
+   "code": "",
+   "ltg_id": "1841",
+   "name": "🇨🇳‎⁨CHINESE_UAE_Philippines_jobs🇨🇳",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/chinesejobsindubai2025"
+  },
+  {
+   "code": "",
+   "ltg_id": "1842",
+   "name": "Georgia , Thailand, Cambodia , Philippines Jobs",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/chinesejoberopmarket"
+  },
+  {
+   "code": "",
+   "ltg_id": "1843",
+   "name": "CARPOOL x TAXIPOOL (Metro Manila)",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/carpoolxtaxipool"
+  },
+  {
+   "code": "",
+   "ltg_id": "1844",
+   "name": "Singapore Security Officer Jobs 🇸🇬",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/sgsecurityguard"
+  },
+  {
+   "code": "",
+   "ltg_id": "1845",
+   "name": "$130 & Above Security Jobs Singapore",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/sjobs120"
+  },
+  {
+   "code": "",
+   "ltg_id": "1846",
+   "name": "JOBS IN MALAYSIA",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/malaysian_jobs"
+  },
+  {
+   "code": "",
+   "ltg_id": "1847",
+   "name": "JOBS IN CANADA",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/jobsfouryou"
+  },
+  {
+   "code": "",
+   "ltg_id": "1848",
+   "name": "Northeastern University Vancouver",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/northeasternuniversityvancouver"
+  },
+  {
+   "code": "",
+   "ltg_id": "1849",
+   "name": "Fairleigh Dickinson University Vancouver",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/fduvancouver"
+  },
+  {
+   "code": "",
+   "ltg_id": "1850",
+   "name": "Australian Freedom News/Events",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/australianfreedomevents"
+  },
+  {
+   "code": "",
+   "ltg_id": "1851",
+   "name": "IT jobs Australia Sydney Melbourne",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/it_jobs_australia"
+  },
+  {
+   "code": "",
+   "ltg_id": "1852",
+   "name": "Jobs Without Jabs Australia - Chatroom",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/jobswithoutjabsaustraliachat"
+  },
+  {
+   "code": "",
+   "ltg_id": "1853",
+   "name": "Traffic Control Sydney to Wollongong",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/tcsydneytowollongong"
+  },
+  {
+   "code": "",
+   "ltg_id": "1854",
+   "name": "MELBOURNE SECURITY JOBS",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/melbournsecurity"
+  },
+  {
+   "code": "",
+   "ltg_id": "1855",
+   "name": "Melbourne Bitcoin Only",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/btcmelbourne"
+  },
+  {
+   "code": "",
+   "ltg_id": "1893",
+   "name": "Australia Students - 2025",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/study_in_australia_abroadcube"
+  },
+  {
+   "code": "",
+   "ltg_id": "1897",
+   "name": "GPSC- All Books & material",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/pdfs_books"
+  },
+  {
+   "code": "",
+   "ltg_id": "3945",
+   "name": "GIRLS CHATTING GROUP",
+   "reason": "Telegram destination, not WhatsApp: https://t.me/indiansexygirlssss"
+  }
+ ],
+ "pending": [],
+ "leads": [
+  {
+   "ltg_id": "4022",
+   "name": "📈 MR Rajib FX | GOLD Signals 🔥 Forex Analysis | BTC | XAUUSD | Free Trading Signals 🚀 Join WhatsApp Channel 👇",
+   "pages": [
+    "pakistan"
+   ],
+   "destination": "https://whatsapp.com/channel/0029VbDE6mO6hENmauS9tS3X",
+   "reason": "WhatsApp Channel, not a chat-group invite"
+  },
+  {
+   "ltg_id": "4021",
+   "name": "🔥 MR RAJIB FX  Professional Forex Market Insights 📊  Gold | Forex | BTC | Technical Analysis  Follow our page for",
+   "pages": [
+    "pakistan"
+   ],
+   "destination": "https://wa.me/message/XSC5JF7V24NXI1",
+   "reason": "wa.me message link, not a group invite"
+  },
+  {
+   "ltg_id": "4024",
+   "name": "Danish FX | GOLD Signals - Forex & BTC Analysis | XAUUSD | Free Signals",
+   "pages": [
+    "kenya",
+    "nigeria",
+    "saudi-arabia"
+   ],
+   "destination": "https://t.me/danish_pipsfx_09bot",
+   "reason": "resolves to a Telegram bot (t.me), not WhatsApp"
+  }
+ ],
+ "notes": [
+  "Nov13 carryover checked: all 6 Nov13 new IDs were already resolved by team20 (119-122 = Telegram, 4003 = WhatsApp Channel, 4020 DVoice Media -> LvkywXnuMqP16t35FhH4gZ). 4020 was already banked as a candidate by team19 in wave_20261113 (Dvoice Media General Chat, Business, NG) - NOT re-banked here.",
+  "Every one of the 14 original listing pages returned HTTP 200 (several needed a retry after a proxy RemoteDisconnected on first attempt; same flakiness as Nov13). Home page failed on first attempt, succeeded on retry (411KB saved as team18_ltg_home.html); its country links are relative hrefs, which is why the absolute-URL regex found none.",
+  "Extra country pages were fetched because the Nov13 slice had never covered them; their 121 'new' IDs are old listings (IDs 131-1897) unseen by this slice, NOT fresh Nov14 listings. 120 of the 131 resolved destinations are Telegram - linktogroups is overwhelmingly a Telegram directory for those country pages.",
+  "The 8 dead WhatsApp codes (4027-4034, all crypto/trading names on whatsapp-groups-p4) returned HTTP 200 with empty og:title on all 3 spaced passes - dead, not pending. No 429s, no transport failures anywhere in this run.",
+  "Content screening: only 1 code went live and it was a dupe, so no content decision was needed on a bankable item. FLAG for coordinator: the live dupe (4023, 'THE TRADING ZONE' / MR Rajib FX gold/forex 'Free Trading Signals') is a forex-signals group; if it ever reappears under a fresh code, treat free-signals/forex-signal groups as borderline under the free-money-signal exclusion.",
+  "No porn/scam/casino screening hits among bankable items (nothing bankable). Girls/friendship restoration rules not triggered.",
+  "Known listing IDs now total 307 (was 176 after Nov13).",
+  "Unfetched linktogroups surface for future waves: category pages /en/crypto, /en/betting, /en/jobs, /en/dating, /en/education, /en/ai, /en/programming, /en/news-politics, /en/religion, /en/sports, /en/gaming, /en/comedy, /en/movies-tv, /en/music, /en/health, /en/business, /en/deals, /en/fashion-beauty, /en/telegram-groups, /en/telegram-channels, /en/telegram-bots, and /en/countries index."
+ ],
+ "resume": "Next run: compare against team18_ltg_listing_pages.json (now 307 IDs) in wave_20261114; re-fetch the same 24 listing pages + home; resolve new IDs via POST /api/v1/listings/{id}/click; verify WhatsApp chat codes only. Unfetched category pages listed in notes are the next expansion surface. No pending codes to retry (0 pending, 0 unresolved).",
+ "files": {
+  "fetch_script": "team18_ltg_fetch.py",
+  "fetch_extra_script": "team18_ltg_fetch_extra.py",
+  "resolve_scripts": [
+   "team18_ltg_resolve.py",
+   "team18_ltg_resolve_extra.py"
+  ],
+  "verify_script": "team18_ltg_verify.py",
+  "html": "team18_ltg_<tag>.html (24 pages + home)",
+  "fetch_log": "team18_ltg_fetch_log.json",
+  "listing_pages": "team18_ltg_listing_pages.json",
+  "listing_names": "team18_ltg_listing_names.json",
+  "new_ids": [
+   "team18_ltg_new_ids.json",
+   "team18_ltg_new_ids_extra.json"
+  ],
+  "resolved": "team18_ltg_new_resolved_all.json (131 records)",
+  "verify_results": "team18_verify_results.json",
+  "verify_ckpt": "team18_verify_ckpt.jsonl",
+  "controls": "team18-controls.json"
+ }
+}

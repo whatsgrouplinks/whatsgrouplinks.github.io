@@ -1,0 +1,839 @@
+{
+ "team": "team01",
+ "slice": "wave_20261112/team01-stream-verified.json re-verification (377 items)",
+ "sources": [
+  "wave_20261112/team01-stream-verified.json (resume, banked Nov 12, not yet merged)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS, dead)"
+ },
+ "raw": 377,
+ "verified": 172,
+ "dupes": 162,
+ "dead": 0,
+ "excluded": [
+  {
+   "code": "LyZxGVRR3qYDAu35vstojO",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Hs9jEXfhAjaHMJDnr4wGaj",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "JvYWJvX2PsNLcp96gXQ90o",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HUf5KDb6VGfDn09CIBk3jP",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IU433OVpU61I7y3UfG0q5c",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IRxYmRHc9FRAj1Bc3iAyFQ",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BEdT69OgQQd9ONll21SWrh",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KvjZcdtv0itFjwMdZRJgHI",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "E0Wjf8bSnrpLoyuAxqjezc",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "DPB5eDWg3wgLSLb0xl36HB",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LGxL2W6x2g6CnzzwQ1FHER",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KwR7GyrGhMrKgwOBri6ORl",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KyyyLX9dGT2Gnj7c90Ote3",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LMq2kZh5ccABiUyp2TnTjt",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "FW1aSean446JtWDDRGw71E",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Fm1vaH5nKo5EtY69EmPDnV",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "FBWnaO68hp99tozR3qayG8",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "H4s9eRIFV4UIBb9IMKQr1A",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GF40AWDx5pjLNdWDGQAIhG",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BGhSNlLvuqLLpyGuyjg99y",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "FtO25ExbQxJ02yUCm3QSVs",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GBZGF8nHNvDAyaUBK9FgMG",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "EhU9GmiVdaQICc6tjDb9Rx",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BA61H2YypGS7ocQ3OXgulk",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "FtjiAMC8Vox7NpOnGHZVef",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "G309BlfJ64P4lvEn3qrcFw",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Jq0vKKLK37GEQRJWlR5gau",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GeAoYq1jqhkGZG2ss1LAgh",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "K8xyjwhzaRiGGhfvRBU3sF",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "DCgWYHLu0Us47D2oExAShD",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LiknvjfDOHM2qyOLDFSArN",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CMuZ3YH0SA23ognhiZvP2G",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BxP6aUjxI6RHc6NQ76jf6o",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GITiGl5XEML7Y0s15b5U9J",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "DtK66Qmtwhq5OYpVAtWboV",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CLhgea98fNw51HEE81Rnpa",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GYk0T2SWjcpGOqrHER8ysL",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KrIhre7MZclGexYCT7DeJR",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IYsOsEHsCIZA5T3PTzFxkS",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "JjPeswDO8ik9NwibVOjBJt",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CCD1Qz0emcKFGSN9UFLb6n",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IXVZvlEtquwIapUZxRQMtv",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LiKt6qvg8qsCHQ7b7QoCsJ",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BRaYQZPFRdBHTQ4Sd1M3gW",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HPUvRcMIrlSER0Y7CIxEEM",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LA3ZX7lnFZdJe6h7jkUTCJ",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Jn8d7ryzvib3S7ZI834h4H",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Gwq2FEpu2K76leMdjeS0qb",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BrjwShDsVFRDVD5OxUZLQ4",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "DLkp4g0WJ8DDAJIRdx2YqX",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "JMZk9BwyaOM7Kg82T5pCxB",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Km0NcIAFuTZCSyrVYWcrwR",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "JeahMyWIvtsKbyxwOxL8VR",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Ia5ApizMxNP24usr4FUsXU",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GtcxTjPdm9PJrTMZ5Gvbl4",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BT6y6WhcL8sGQUN7u39eDi",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CtZ266xefAx9wi9VuhBDtM",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LIDx1oEoXEX0JbKceL8v5z",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "EFTMyLWIuybBFGME4WJYMD",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IbuvffwVyslJCGfAwVxSOI",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KT9w9lB7IsGIDAhlE3Hxvl",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "DVvosS9USnL7PUyowPiSJi",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "H8vbWT5a6gdB6sGDpmT6g6",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "G2YvxI85sX3804LfqNuZER",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Ju9RBBOl3As80ZYcELAfJ9",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CoWfayIxHq63e9LkjsdtQR",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "FD98ENJ5rAL9DbScv4VbMz",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KgOvR1TNAWh7D0SNg0sLsg",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Hu8LV0tWeFZKvjukBVEFAF",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Gk58mNLprfQ3WVYRelnM3O",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KdwFbG6rLcBBxXLbdHqV8N",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LROe2BdxLSiI5l40MOtNxu",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "EbHwmkXxw3iLbBOlV1K80A",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "EUjUsh7m83K6IJgMDjKTZz",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "J4TG2U5LBqiHd9rTolLKF1",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HMgevfvxOuuJGxAOgoZMJe",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "B5f1isgULVwANnUdSfnP1c",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CXMGGFjkpmNJjJvSNMdKE3",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HwIUXAFaBgjF78z7YtyAky",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "EWOIdjiEVHdHxuvA2ZEwIe",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "K7O4spwC3uv5Y5CogiJZ7W",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GDGMvvEzEiO623yVAzkxev",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KzPPn0KTEwm8MaMyVEqePG",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BoFDH6EMyCv8KvnW1cfTh0",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Cyz4eFSc7auHRo0oUnZicj",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "JZ9On97YjIqK6dGl2YeJEZ",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Hww5RLC1aFkF9sR7anbtea",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "JAWdCiXCUdf0fwthGNqhuA",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Egprc1Vg1jvI6FFKqR1Hzd",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HDdRM1XAfLJ8pSvqyXiLQU",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BhSFBLNsvth1FNVBWldGhn",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "DOC1gH2v67IIPo0qg2k20l",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "K5gZLdx1Q40LZtHCF49g4n",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IxZvIgnRQ5R7G2ff1mBLX9",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BeNynrh0L76DxrXUtK3U1v",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "D9ws8GLdEqK5rANUunPxog",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HecBwlpKvN2CLMGaKNEMZ3",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IMU2gocmSIQFBwroON5kwq",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LszqCwrH0BoGpWwGsvgrWk",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Kn28BtjQkghCsYBmNnPVMG",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "6qApLt32lmuDxSEj3lPfo7",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IRrt7GvEC0cFb4rTYbPloA",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LoDJOB3WGmXJY0XTpLSTB5",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "EG2sXNDaTNSIogj6TUKuHN",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "FWRwqHjf1YNHr8311DVHqe",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "L7dTvZys8xu4kakHYZyIw7",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LduleW6JwzgJJXO7Q0p9ja",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LtkaRJYlVfR1TpVO3elBtf",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HQokjOKb0H779QOgDAQKt8",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "G38WvaCE7d2Dn0oG09JLPA",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LTpLnHVVV1KE3ZTNBiQAd5",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CEggeUiOecuFiG1YYxSuDm",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GUx5jShSp1JHB00ljnOXUS",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "H4iWF4AEFD6Gs1VmAHQ1HG",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KM9MStbqkg1LLV1tRRn5fz",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CfBLKF29RoABX98oS1oPa8",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GVxrTvv9RDvDFyIxawmfWl",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HqoUndvH3LfGJuNVAfVd4k",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "EC9JMsX9JSm2I7pJLLNWy5",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "FI8BUPAVOVFJAaoy4ySUKi",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HZdaaaRm7NMFng2uwX787c",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IFjjH1GFDFeC2GpxFG5zQu",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "DnfZPVbWIiQCcEW6GVWzvl",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GIncBzBlc6DCMGvtETngod",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "JZp3fqdGzZq2vNXHS0mRcX",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "DlOYRT7i8UH6qV5uOETxuw",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Cp1gRgxhrnaHNPDFOeKyrA",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CzGsVH1hL624EkPSfAY37U",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IjeDGKSb06D9zVcCogkBxs",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CWg0RdddEyzB0LSSkAebum",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KQIhMvYpt0fIWI95Gui9uA",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "E6IQuunjAyL7QfzKJAQGUW",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "BYQsabpnFKiBsQ3oGexg3T",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "Him3HP7ltIvD3ZvB1Qwjc1",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KCRIvCXS77WFnc7awP8Lo4",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "JFIgsbEcN8qEVOiOsGKZV7",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IlNhDNzBWqPJQsPROJc4zh",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KV0IW1IdJ4XHZXDJkP7pYY",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "HafHYHueJIWCA9AMGGslgi",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "C2hKnmt54QwLK5LbupvqZg",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LvydzvxobhT67j2rSbEYLq",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "EIQdwEqrlty5E5bFzxEsIK",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CtVNUI74uSvK8v9Blqswr2",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GORBeOzcZcfARt7nEuqQP4",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "F8heglFA2Kl84NCeuKZk2w",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "KaoqSE3ZPvz8HfGNCpWyKv",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LLCQ1s5OJ2aFvktFTcyruD",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "ExjfOIn6FJuEtN4W075hxS",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "C4OFw7EzaBB84wEZwbM4dn",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GfsUyutR2LJLL91CLv7c5L",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GMfXmKlExLs3hJoEhDNDVq",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "ECWHX6CCWSvIGqv40xOXtP",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "LH8TmZN94zRDfMMUxTNZKI",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GcTClnFRSw75ANzMNnismI",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IlCo8Xa1YIJ6OFaaMtQHlH",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IBV9s4TeoLe9QqnEenOCAB",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GNqAGEqxpgUFZKth49iKGl",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CD2hHdOR3DL5g2QJsjCqJT",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CB1bQC4J7oqDoIUovyMZhT",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "IT7UgVIxbVBEYv5mycUr9I",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "JoFRpHZEZG1LV1Z6JNPBGA",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "GmTphFjtMzYE7mglyq3BWU",
+   "reason": "already in .existing_codes.json union"
+  },
+  {
+   "code": "CmKkEz4M80J4jBERQjtzOD",
+   "reason": "casino/betting signals content"
+  },
+  {
+   "code": "B946Y1yIg5AEOcMqgUO3Ox",
+   "reason": "investment/broker money-making scheme (live title 'ULTIMATEBROKER MONEY MAKING PLATFORM')"
+  },
+  {
+   "code": "EmGgfrPNWSWB4wjPlnBSi1",
+   "reason": "sexualized 'Hot Viral video' (live title)"
+  },
+  {
+   "code": "Fu2xzLH9EisDq7x4VmVYaT",
+   "reason": "sexualized 'Baddies' with tongue/lips emoji (live title)"
+  },
+  {
+   "code": "J0hBoywknE86GcSpKWO754",
+   "reason": "explicit 18+ videos (live title 'Hot videos18')"
+  },
+  {
+   "code": "KhXj8RYbOqnLikUft3PrNJ",
+   "reason": "sexualized 'Only Girls' with biting-lip emoji (live title)"
+  },
+  {
+   "code": "JqlWadz7x1ZJM0PkDfoE6k",
+   "reason": "porn/sexual 'Grupo de sacanagem' (live title)"
+  },
+  {
+   "code": "JEBd4Lb3h5A4sM6ewq76pr",
+   "reason": "group closed (live title 'GRUPO ENCERRADO')"
+  },
+  {
+   "code": "HMif2lSTJhGAHEyO9d06zt",
+   "reason": "betting tips group (stored name 'Esportes da Sorte - Tips'; live title is meaningless 'A')"
+  },
+  {
+   "code": "EGCKrvzt3Nq5JnsVKlI6Tx",
+   "reason": "'leaked videos' group (live title 'Videos vazado')"
+  },
+  {
+   "code": "LwwGKw8BzZW9KKbwMnetCI",
+   "reason": "money-doubling scam 'PIX INFINITO' (live title)"
+  },
+  {
+   "code": "FWlljOoSaTgEhbEpU94Njy",
+   "reason": "troll/offensive live title referencing children and testicular cancer"
+  },
+  {
+   "code": "EUm9SrC3T5VGb5rEpRTJP3",
+   "reason": "group deleted (live title 'Excluido')"
+  },
+  {
+   "code": "Kzvjt51dJvT8n67fCfNfJm",
+   "reason": "18+ stickers group (live title 'Figurinhas 18+')"
+  },
+  {
+   "code": "I2kuy97zeNqGz1Hn8WYLCI",
+   "reason": "18+ stickers group (live title with 18+ marker)"
+  },
+  {
+   "code": "F0ovqKkZu7TEVCVUXtxqcB",
+   "reason": "18+ stickers group; live title is just '.'"
+  },
+  {
+   "code": "ImdyCFsmBsqBdswhN0hwCf",
+   "reason": "betting site 'APOSTEMAIS.COM' (live title)"
+  },
+  {
+   "code": "K9p4IQsDyUQDQLUYp46UdU",
+   "reason": "slots/casino (slot-machine emoji in live title)"
+  },
+  {
+   "code": "LuOQ1L0q7Le0Qf7gkAzH4m",
+   "reason": "slots/casino ('Dicas e slots da sorte', live title)"
+  },
+  {
+   "code": "CeD7ZyPP4cM9ojkFl0VWHW",
+   "reason": "18+ stickers group (live title)"
+  },
+  {
+   "code": "HVMwNWLnAQy73BIMI8nxSC",
+   "reason": "betting tips 'PALPITES 100%' (live title)"
+  },
+  {
+   "code": "DuC10LqhQhn7fCDRWgvW35",
+   "reason": "betting 'Mundo bets VIP' (live title)"
+  },
+  {
+   "code": "EfeTsmm6YM7DmG8WgeJtw2",
+   "reason": "slots/casino (slot-machine emoji in live title)"
+  },
+  {
+   "code": "JpCEXAG87TQCIvXHpLGDXj",
+   "reason": "betting tips 'FREE - TIPS DO GOAT' (live title)"
+  },
+  {
+   "code": "JIrezqFgEmpKSisvgscdN6",
+   "reason": "betting 'Aposta Personalizada' (live title)"
+  },
+  {
+   "code": "FB804zWS0OkLPOizeqY4Pp",
+   "reason": "slots/casino 'FADYNHA SLOTS' (live title)"
+  },
+  {
+   "code": "G5NV3hbPnM30ioxmnPqm0b",
+   "reason": "betting tips 'Palpite Jogos' (live title)"
+  },
+  {
+   "code": "KOH5f0kg6Wc88NyB9FXYT0",
+   "reason": "sports-betting tout 'cambista da dp sport' (live title)"
+  },
+  {
+   "code": "FJHOeWiZvDU2ZzSW9XIk28",
+   "reason": "betting 'Next77 bet' (live title)"
+  },
+  {
+   "code": "Ci1YejIeOSEJDM314afYXj",
+   "reason": "slots/casino VIP group (slot-machine emoji in live title)"
+  },
+  {
+   "code": "FppPUh7wtiFGrLKz7lQyTx",
+   "reason": "betting 'RENDA EXTRA #TUDO BET' (live title)"
+  },
+  {
+   "code": "FstDV3ZZXkiAv4KAJHG6dw",
+   "reason": "betting VIP clients group ('CLIENTES/VIP/GREEN' - GREEN is betting slang)"
+  },
+  {
+   "code": "IwpaSmSnBql9pCQzvjr1qa",
+   "reason": "tigrinho casino-platform links (stored group name; live title is generic link-dump)"
+  },
+  {
+   "code": "EOgZgf50tLUGn6N6T8fawf",
+   "reason": "porn/obscene 'Galera da Putaria' (live title)"
+  },
+  {
+   "code": "KtsmZCBQZya2r405Cihd7D",
+   "reason": "slots/casino (slot-machine emoji in live title)"
+  },
+  {
+   "code": "Csopw2EvxtiKKqUQqZM7xl",
+   "reason": "betting tips 'JW TIPS FREE' (live title)"
+  },
+  {
+   "code": "HdkOweOdMT651roRg5iari",
+   "reason": "explicit sexual 'CHUDAI' with eggplant/18+ markers (live title)"
+  },
+  {
+   "code": "K6O64hjoeX3II7ZdDXjZYe",
+   "reason": "betting 'Dicas e apostas esportivas' (live title)"
+  },
+  {
+   "code": "GHpnxDBa4krGqv101g7s5U",
+   "reason": "slots/casino (slot-machine emoji in live title)"
+  },
+  {
+   "code": "D6URvVJUFQKKTdyFXu9IeW",
+   "reason": "casino 'LINKS PAGANTES' with slot-machine emoji (live title)"
+  },
+  {
+   "code": "CDjqbJ54fThH9cAP5QrQs6",
+   "reason": "18+ secret group 'No Sigilo' with 18+ markers (live title)"
+  },
+  {
+   "code": "DdxwQZq3IIf5C7iw2H2SRv",
+   "reason": "document sales group (likely forged/illicit documents)"
+  },
+  {
+   "code": "C2kTPht1iDpHrZmgz7qPCC",
+   "reason": "adult-entertainment 'Cabare Da Lana' (live title)"
+  }
+ ],
+ "pending": 0,
+ "leads": 0
+}

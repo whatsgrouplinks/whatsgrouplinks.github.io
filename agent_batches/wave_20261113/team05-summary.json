@@ -1,0 +1,90 @@
+{
+ "team": "team05",
+ "slice": "linkado.app grupo sitemap indices 3500-5999 (grupo-only, 0-based; 2500 URLs; first=https://linkado.app/grupo/692b9aad3331053de980f389 last=https://linkado.app/grupo/67db217b916daeae13772697)",
+ "sources": [
+  "linkado.app grupo pages (sitemap copy wave_20261110/linkado_sitemap.xml)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (LIVE, as expected)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead, as expected)"
+ },
+ "raw": 1720,
+ "verified": 208,
+ "dupes": 307,
+ "dead": 1074,
+ "excluded": [
+  {
+   "code": "LSPhf8I1YTe3Pf5cBQLS9q",
+   "reason": "raffle/betting promo (paid prize draw: 50 nomes, ganhador, premio, pix)"
+  },
+  {
+   "code": "FFWbQN9KnqnG2giN0k8MI6",
+   "reason": "adult sexual content (18+ + sexual emoji/meetup og:title)"
+  },
+  {
+   "code": "IlOCv8A6v2HJ3skImFWUiR",
+   "reason": "casino/signal platform with signup bonus ('plataformas com bônus grátis no cadastro')"
+  },
+  {
+   "code": "DtdrWTE9ph6C2WS7frl7rk",
+   "reason": "account-selling + 'métodos' (scam-methods) group; doubt -> drop"
+  },
+  {
+   "code": "JFB36Umru2vGVwqNNFrJ34",
+   "reason": "casino/signal platform with signup bonus (plataforma + bonus/cadastro)"
+  },
+  {
+   "code": "BddtjrBNlO85Jz2AgXANif",
+   "reason": "casino/signal platform with signup bonus (plataforma + bonus/cadastro)"
+  },
+  {
+   "code": "GNZdZgH5emfKxX9kIXpGJY",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "J1bRSNGuzCiAlcx8xwsxbb",
+   "reason": "casino/signal platform with signup bonus (plataforma + bonus/cadastro)"
+  },
+  {
+   "code": "Lwh6LjXwqdl0XL4SUhtsxw",
+   "reason": "betting/casino-scam language"
+  },
+  {
+   "code": "HR7Htic8dSsGxaXKSgA09p",
+   "reason": "casino/scam signal token 'plataformas pagantes'"
+  },
+  {
+   "code": "Jeek3Aqha2U0ToJhEcbqKS",
+   "reason": "casino/scam signal token 'plataformas pagantes'"
+  },
+  {
+   "code": "JMtgu4guUGGG21KWfkTWC4",
+   "reason": "hard porn/xxx marker 'porn'"
+  },
+  {
+   "code": "HdkOweOdMT651roRg5iari",
+   "reason": "adult sexual content (18+ + sexual emoji/meetup og:title)"
+  },
+  {
+   "code": "FnRUAIBFFpa62DkIAZ088r",
+   "reason": "casino/betting platform marker"
+  },
+  {
+   "code": "EYkFIrSEIFzI0ajKXuGQrZ",
+   "reason": "casino/signal platform with signup bonus (plataforma + bonus/cadastro)"
+  },
+  {
+   "code": "IySECcbCmPh6dUFbirAWjG",
+   "reason": "casino/betting platform marker"
+  },
+  {
+   "code": "CvfZ2oUkKDV2ji5cSzOdGM",
+   "reason": "casino/scam signal token 'plataformas pagantes'"
+  }
+ ],
+ "pending": 0,
+ "leads": 774,
+ "listings_attempted": 1830,
+ "listings_no_invite": 104,
+ "listings_fetch_fail": 0
+}

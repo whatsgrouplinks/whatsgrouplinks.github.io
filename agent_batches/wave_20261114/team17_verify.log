@@ -1,0 +1,16 @@
+CONTROL live -> {'code': 'KrDwdK8EIkB6vgauHg5M7N', 'status': 'live', 'title': 'JAY - PHP & Python Full Stack Developer'}
+CONTROL fake -> {'code': 'ZzZzZzZzZzZzZzZzZzZzZzZz', 'status': 'dead', 'title': '', 'reason': 'empty og:title after 3 spaced retries'}
+CONTROLS PASSED
+to verify: 195 already checkpointed: 2
+25/195 live=5 dead=22 pending=0
+50/195 live=10 dead=42 pending=0
+75/195 live=10 dead=67 pending=0
+100/195 live=10 dead=92 pending=0
+125/195 live=11 dead=116 pending=0
+150/195 live=11 dead=141 pending=0
+CONTROL live -> {'code': 'KrDwdK8EIkB6vgauHg5M7N', 'status': 'live', 'title': 'JAY - PHP & Python Full Stack Developer'}
+CONTROL fake -> {'code': 'ZzZzZzZzZzZzZzZzZzZzZzZz', 'status': 'dead', 'title': '', 'reason': 'empty og:title after 3 spaced retries'}
+CONTROLS PASSED
+to verify: 38 already checkpointed: 159
+25/38 live=12 dead=163 pending=9
+VERIFY DONE live=12 dead=163 pending=22

@@ -1,0 +1,21 @@
+25/500 fetched, 25 ok, 24 with codes, 94s
+50/500 fetched, 50 ok, 47 with codes, 198s
+75/500 fetched, 75 ok, 72 with codes, 292s
+100/500 fetched, 100 ok, 96 with codes, 388s
+125/500 fetched, 125 ok, 119 with codes, 481s
+150/500 fetched, 150 ok, 138 with codes, 580s
+175/500 fetched, 175 ok, 163 with codes, 688s
+200/500 fetched, 200 ok, 186 with codes, 787s
+225/500 fetched, 225 ok, 211 with codes, 888s
+250/500 fetched, 248 ok, 230 with codes, 1005s
+275/500 fetched, 271 ok, 251 with codes, 1048s
+300/500 fetched, 296 ok, 274 with codes, 1122s
+325/500 fetched, 321 ok, 297 with codes, 1204s
+350/500 fetched, 346 ok, 320 with codes, 1272s
+375/500 fetched, 371 ok, 344 with codes, 1337s
+400/500 fetched, 396 ok, 366 with codes, 1410s
+425/500 fetched, 421 ok, 390 with codes, 1479s
+450/500 fetched, 446 ok, 413 with codes, 1531s
+475/500 fetched, 471 ok, 436 with codes, 1585s
+500/500 fetched, 496 ok, 457 with codes, 1641s
+DONE 0-500: 496 pages, 457 with codes

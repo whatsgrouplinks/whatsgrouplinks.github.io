@@ -1,0 +1,20 @@
+{
+ "controls": {
+  "live_control": {
+   "code": "KrDwdK8EIkB6vgauHg5M7N",
+   "status": "live",
+   "og_title": "JAY - PHP & Python Full Stack Developer",
+   "http": 200,
+   "expected": "JAY - PHP & Python Full Stack Developer",
+   "pass": true
+  },
+  "fabricated_control": {
+   "code": "ZzZzZzZzZzZzZzZzZzZzZzZz",
+   "status": "empty",
+   "og_title": "",
+   "http": 200,
+   "expected_empty": true,
+   "pass": true
+  }
+ }
+}

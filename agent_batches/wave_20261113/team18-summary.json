@@ -1,0 +1,35 @@
+{
+ "team": "team18",
+ "slice": "groupsinvite.link NEW entries only (wave 20261113)",
+ "sources": [
+  "https://groupsinvite.link/sitemap.xml (index lastmod 2026-11-12; sub-sitemaps sitemap-1.xml..sitemap-11.xml fetched 2026-11-13)",
+  "https://groupsinvite.link/ homepage (70 listing URLs, fetched 2026-11-13)",
+  "https://groupsinvite.link/group/find/ (totalCount=2779, up from 2758 on Nov 12)",
+  "19 new listing pages + 15 /group/rules/ pages fetched 2026-11-13 (codes for 15 JS-gated listings came from their rules pages, as in wave 20261112 team23)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (PASS, dead)"
+ },
+ "raw": 19,
+ "verified": 9,
+ "dupes": 6,
+ "dead": 1,
+ "excluded": [
+  {
+   "code": "LeR0V4S3GGV1EzzxI14MuF",
+   "reason": "DEAD (not a screen exclusion): VIP GOLD SIGNAL — chat.whatsapp.com returned empty og:title on first attempt and on a spaced confirmation retry (218KB page body); invite appears inactive/expired. Also a trading-signals name, so it would have been screen-excluded even if live."
+  },
+  {
+   "code": "LbqSxXu4hn2FVKQeYUgtq4",
+   "reason": "EXCLUDED (screen): 'Oportunidades de Inversión' (Investment Opportunities, crypto-blockchain-web3 category) — investment-opportunity lure with no legitimate activity described; investment-promo/scam class."
+  },
+  {
+   "code": "KNOv95rQ7WwCEJJQZ1nVzl",
+   "reason": "EXCLUDED (screen): 'Prop firm updates' — prop-trading promo funnel (trading/investment signals class); no legitimate non-trading activity described."
+  }
+ ],
+ "pending": 0,
+ "leads": 0,
+ "notes": "Sitemap lastmod bulk-flipped to 2026-11-12 on nearly ALL 4,292 entries (site-wide regeneration artifact, NOT new groups), so lastmod alone was unusable; new entries were found by URL-diff against wave_20261112 team23_work/all_link_urls_20261112.json (2,754 URLs): 19 new /group/link/ URLs (plus 1,507 new /group/<tag>/ archive pages and 12 static pages, not group listings). Of the 19: 2 were already processed Nov 12 (f04t1qpyjr7ckgbwkjrxtu = dead Quran group; lj6vfsu3nry3gucsy6kdjf = free-money scam exclusion) and 1 was a 0029vb* WhatsApp Channel (0029vbdyg7e2p59q6vawxl3i, dropped on sight), leaving 15 sitemap-new listings; the homepage added 4 more genuinely new slugs (cnj0qt2c6acfpzzmz2v6q8, dbvn452zkfmbrhswl07rkw, jpgytsxbsog2llov7gf9km, knov95rq7wwcejjqz1nvzl) not in yesterday's sitemap or homepage. Queue = 19 listing pages. Codes: 4 from listing pages (incl. G39wYKWvQWeK7qf2TjQQER shared by 2 listings), 15 from /group/rules/ pages. Unique codes = 18. Dupes in .existing_codes.json (119,266-code union): 6 unique codes across 7 slugs (BlMkvaBWBJV31uGlRYaxm0, FnjjN7KZ50KKmr0U92H95R, GeSTTkOWYO103q9Up4oYZL, FvDpTgpDn5W05I6jBlNxOX, G39wYKWvQWeK7qf2TjQQER x2, KjKtMmOtZyh1TJnxvAlOHT). Fresh codes verified: 12; 11 live, 1 dead (LeR0V4S3GGV1EzzxI14MuF, confirmed dead on spaced retry). Of the 11 live, 2 screen-excluded (investment/trading promos), leaving 9 verified candidates. No transport failures (pending=0). No new leads: all 19 pages yielded codes; the 1,507 new tag-archive pages are not group listings. Countries taken from each listing page's Country meta-pill. Resume for next run: diff sitemap URLs against today's full URL set (save /tmp/gil_* work files: today's sitemap locs = 4,292) and homepage URLs against the sitemap set; filter out URLs already in wave_20261112 team23_work/queue.json and this run's queue; note lastmod is bulk-regenerated and cannot be trusted for newness. The 61 Nov-10 no-code JS-gated pages from team23 remain unmined (live-browser leg only)."
+}

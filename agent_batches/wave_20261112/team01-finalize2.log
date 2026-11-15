@@ -1,0 +1,2 @@
+FINALIZE2: verified=549 (+377) pending=12 leads=1981 dead=2473 excl=4 leftovers=9
+resume: verify 9 leftover candidates in team01-merged-candidates.json (merged+deep pools, team01_verify_stream.py); retry 18 failed deep fetches (team01_deep.py — failed items not marked done)

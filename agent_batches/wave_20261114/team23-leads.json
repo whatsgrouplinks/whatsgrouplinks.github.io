@@ -1,0 +1,112 @@
+[
+ {
+  "site": "groupsor.in",
+  "urls": [
+   "https://groupsor.in/sitemap/groups"
+  ],
+  "note": "3,804 group detail pages; only 7 SA categories mined (301 pages, 150 fresh). Remaining categories (dating-flirting, love-romance, movies-tv-series, shayari-status-quotes, sports, travel-tourism, health-fitness, fashion-clothing, fan-club-celebrities, social-media-promotion, digital-marketing, make-money-earning, others; adult-18-hot DO NOT MINE) unmined. Codes hide in /golink/wagroups-<CODE> href on detail pages. Homepage JS-loaded via /loadmoredata (403)."
+ },
+ {
+  "site": "groupssor.com",
+  "urls": [
+   "https://groupssor-api.blog-99n.workers.dev/api/groups"
+  ],
+  "note": "Public JSON API, 500-entry cap, no working pagination/filter. User-submitted, spam-heavy: 212 fresh, 123 pre-screened out (38 porn, 6 betting, 2 scam by name; 77 non-SA). Re-poll next run for newer submissions."
+ },
+ {
+  "site": "whatsgroupjoinlinks.com",
+  "urls": [
+   "https://whatsgroupjoinlinks.com/"
+  ],
+  "note": "Cloudflare challenge to requests; needs browser leg."
+ },
+ {
+  "site": "whtsagrouplinks.com",
+  "urls": [
+   "https://www.whtsagrouplinks.com/"
+  ],
+  "note": "Cloudflare challenge (team25 also blocked); needs browser leg. Snippets show 330+ Indian / 690+ Pakistani groups."
+ },
+ {
+  "site": "tglinkhub.com",
+  "urls": [
+   "https://tglinkhub.com/whatsapp-group-links/"
+  ],
+  "note": "Cloudflare challenge; needs browser leg. Snippets show BD/PK/IN sections."
+ },
+ {
+  "site": "whtsagroupslinks.com",
+  "urls": [
+   "https://www.whtsagroupslinks.com/"
+  ],
+  "note": "HTTP 403 to requests; retry later or browser leg."
+ },
+ {
+  "site": "wagroup.in",
+  "urls": [
+   "https://wagroup.in/tag/lanka-whatsapp-groups/feed/"
+  ],
+  "note": "Unreachable from this VM (proxy error on http+https, Nov 14); retry later. Sri Lanka Tamil news groups."
+ },
+ {
+  "site": "whatgroups.com",
+  "urls": [
+   "https://whatgroups.com/whatsapp-group-links-pakistan/"
+  ],
+  "note": "BD page mined Nov 14 (49 codes, 0 fresh). Pakistan page unmined; retry (Cloudflare cleared for BD page)."
+ },
+ {
+  "site": "groupwa.link",
+  "urls": [
+   "https://groupwa.link/"
+  ],
+  "note": "Homepage mined (230 codes, 0 fresh). Category/country sub-pages unmined; same pool likely, low yield."
+ },
+ {
+  "site": "groupinvitelink.com",
+  "urls": [
+   "https://groupinvitelink.com/"
+  ],
+  "note": "Homepage mined (175 codes, 0 fresh). Sub-pages unmined."
+ },
+ {
+  "site": "whtspgrouplink.com",
+  "urls": [
+   "https://whtspgrouplink.com/"
+  ],
+  "note": "Homepage mined (180 codes, 0 fresh). Sub-pages unmined."
+ },
+ {
+  "site": "whatsappgrouplink.org",
+  "urls": [
+   "https://whatsappgrouplink.org/"
+  ],
+  "note": "DO NOT MINE as a directory: domain now serves Yono Games gambling APK content."
+ },
+ {
+  "site": "wappgrouplinks.com",
+  "urls": [
+   "https://wappgrouplinks.com/"
+  ],
+  "note": "DO NOT MINE as a directory: domain now a medical blog, no WhatsApp groups."
+ },
+ {
+  "site": "hubrecipes.com",
+  "urls": [
+   "https://hubrecipes.com/join-active-nepali-girls-whatsapp-group-links/"
+  ],
+  "note": "DO NOT MINE (carried from team25): sexualized listings + personal phone numbers."
+ },
+ {
+  "site": "groupslink.pk",
+  "urls": [
+   "https://groupslink.pk/sexy-whatsapp-group-link/",
+   "https://groupslink.pk/xxx-video-whatsapp-group-links/",
+   "https://groupslink.pk/night-girls-whatsapp-group-links/",
+   "https://groupslink.pk/school-girls-whatsapp-group-links/",
+   "https://groupslink.pk/18-whatsapp-group-links/",
+   "https://groupslink.pk/whatsapp-sex-group-links/"
+  ],
+  "note": "DO NOT MINE these posts: porn/sex/xxx, night-girls, school-girls, 18+ content."
+ }
+]

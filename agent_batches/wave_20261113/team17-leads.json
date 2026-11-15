@@ -1,0 +1,12 @@
+[
+ {
+  "kind": "url",
+  "value": "https://api.groupjoin.link/groups?page=1&limit=20&safeSearch=blur",
+  "note": "Working newest-first feed (no tag param). Page 1 spans 2026-11-08..2026-11-12; page 2 spans 2026-11-06..2026-11-08, max 2026-11-08 17:33 — nothing fresher. Poll until created_at < cutoff."
+ },
+ {
+  "kind": "url",
+  "value": "https://groupjoin.link/",
+  "note": "Homepage listing (JS-rendered, backed by the same API). Detail pages /group/<group_uid> return HTTP 200 — usable for content screening if a title is ambiguous."
+ }
+]

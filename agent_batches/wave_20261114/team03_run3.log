@@ -1,0 +1,22 @@
+fetch: 300 done, 1741 todo
+fetch progress 400/2041
+fetch progress 500/2041
+fetch progress 600/2041
+fetch progress 700/2041
+fetch progress 800/2041
+fetch progress 900/2041
+fetch progress 1000/2041
+fetch progress 1100/2041
+fetch progress 1200/2041
+fetch progress 1300/2041
+fetch progress 1400/2041
+fetch progress 1500/2041
+fetch progress 1600/2041
+fetch progress 1700/2041
+fetch progress 1800/2041
+fetch progress 1900/2041
+fetch progress 2000/2041
+fetch done 2041
+verify: 950 to check, 0 already done, 830 dupes vs union/within-team
+verify progress 50/950
+verify progress 100/950

@@ -1,0 +1,46 @@
+{
+ "clean_total": 2158,
+ "pending_total": 1608,
+ "pending_dropped": {
+  "already_excluded": 3,
+  "already_in_clean": 34
+ },
+ "leads_total": 11801,
+ "leads_dropped": {
+  "dup_across_teams": 34,
+  "code_already_in_clean": 151,
+  "code_already_excluded": 1
+ },
+ "excluded_total": 468,
+ "final_drops": [
+  "J3piQqaXAdhA5wPKetGVMw",
+  "CtQAkW75l298Pq4g5gREm9",
+  "CbZlXX0nQNH3lfFhDwX1aa",
+  "CKzkMugEOJp6dT1ZQ38BTz",
+  "GAeHcFVi9L9BENBtBlxayJ"
+ ],
+ "screen_hits_final": [
+  {
+   "code": "Ex8HvCVcqBF8Bjjtg6pazx",
+   "name": "🧡💛Ofertas e Cupons da Shô 🛍️",
+   "pattern": "\\baposta"
+  }
+ ],
+ "despaced_hits_final": [
+  {
+   "code": "FEkheJzFJPF1jbpObSWevz",
+   "name": "BETTAS BC",
+   "pattern": "despaced:bet"
+  },
+  {
+   "code": "GAeHcFVi9L9BENBtBlxayJ",
+   "name": "🔥 Tesão em Lucrar - 81BET",
+   "pattern": "despaced:bet"
+  }
+ ],
+ "schema_errors": [],
+ "union_leaks": 0,
+ "notes": "BETTAS BC (FEkheJzFJPF1jbpObSWevz) kept: de-spaced BET hit is a false positive — Betta splendens fish sales group. Ex8HvCVcqBF8Bjjtg6pazx kept: negated \"NAO E GRUPO DE APOSTAS\".",
+ "pending_note": "1,645 raw pending entries -> 1,608 unique (34 already in clean, 3 already excluded). (team24-dead-pending.json holds 62 dead codes, not pending — excluded from this count.)",
+ "overlap_resolution": "CrUYaN0ExzoDx1ue3HAfBA dropped from clean (team09 evidence: group description explicitly permits sending nudes); 4alacXkfikk4ijHLeWQS8w kept in clean, team29 exclusion overruled (live title Umb is the real name; repurposing/renaming is not a drop reason)."
+}

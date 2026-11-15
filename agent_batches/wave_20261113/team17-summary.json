@@ -1,0 +1,68 @@
+{
+ "team": "team17",
+ "slice": "groupjoin.link newest poll (no tag param), fresh since 2026-11-11 05:12:31 (Nov 12 newest)",
+ "sources": [
+  "https://api.groupjoin.link/groups?page=1&limit=20&safeSearch=blur",
+  "https://api.groupjoin.link/groups?page=2&limit=20&safeSearch=blur"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N returned og:title 'JAY - PHP & Python Full Stack Developer' — matches expected; method valid",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz returned empty og:title — correctly dead"
+ },
+ "raw": 40,
+ "verified": 0,
+ "dupes": 0,
+ "dead": 0,
+ "excluded": [
+  {
+   "code": "HNJuewac2DyA9zDPWo7wLV",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='कच्ची काली', created 2026-11-12 16:26:43, country=IN). new since team19 run. NOT verified/banked."
+  },
+  {
+   "code": "DGNhoObxTP62CYEv4vV9pK",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='The Huntress Club', created 2026-11-12 15:08:01, country=US). new since team19 run. NOT verified/banked."
+  },
+  {
+   "code": "DcIHzTqZrNFDQvoO5LfH6A",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='💦ویڈیو کال ڈسچارچ 💦', created 2026-11-12 13:47:38, country=PK). new since team19 run. NOT verified/banked."
+  },
+  {
+   "code": "HJ7MWYoFkzwFY3wlIe0aVv",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='¢hîld Vídèö', created 2026-11-12 13:41:25, country=IN). new since team19 run. NOT verified/banked."
+  },
+  {
+   "code": "BNpnV3pxmevFecAMwymBKl",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='12saal Bina baal', created 2026-11-12 08:59:38, country=IN). new since team19 run. NOT verified/banked."
+  },
+  {
+   "code": "EFAp0cvM6WJAM36g4k2boh",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='Sell lill vdio', created 2026-11-12 05:50:38, country=IN). already dropped by team19 (Nov 12 run). NOT verified/banked."
+  },
+  {
+   "code": "Bfn5q5D7yXgDoqjjteQ6or",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='Collectionz aunty ❄️', created 2026-11-11 18:29:50, country=IN). already dropped by team19 (Nov 12 run). NOT verified/banked."
+  },
+  {
+   "code": "LGmitOjn68iCGRHQWDEbZr",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='11yπ$', created 2026-11-11 14:40:32, country=IN). already dropped by team19 (Nov 12 run). NOT verified/banked."
+  },
+  {
+   "code": "IuLIZTcOmehGQ8lSnT0fko",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='HOTBABY', created 2026-11-11 14:06:49, country=IN). already dropped by team19 (Nov 12 run). NOT verified/banked."
+  },
+  {
+   "code": "C9BRC2yDkizLr4y9kMsCv7",
+   "reason": "Adult category dropped wholesale (groupjoin Adult; title='Nosto may', created 2026-11-11 05:12:31, country=IN). the cutoff entry itself (created 05:12:31.821); already processed by team13 and dropped by team19. NOT verified/banked."
+  }
+ ],
+ "pending": 0,
+ "leads": 2,
+ "notes": "ZERO fresh non-Adult groups on this feed. Page 1 (20 items, 2026-11-08..2026-11-12) contains exactly 10 items with created_at > 2026-11-11 05:12:31 (the 10th is the cutoff entry itself at 05:12:31.821, already processed by team13/team19) and ALL 10 are groupjoin Adult category, dropped wholesale per this wave's hard rule (never fetch/verify/bank Adult). 5 of the 10 are new since team19's Nov 12 run (newest seen now 2026-11-12 16:26:43, 'कच्ची काली'); the other 5 were already dropped by team19. Page 2 checked as a guard (feed ordering verified descending): 20 items, 2026-11-06..2026-11-08, max 2026-11-08 17:33 — nothing fresher. Non-Adult items on pages 1-2 (Business GB ADOY MARKET, Money SHEYI LEGIT ONLINE UPDATE, Entertainment Online Celebs x2, Business Digital Card Trading, Friendship Make friends, Gaming) are all dated 2026-11-06..2026-11-09, i.e. older than the cutoff and outside this slice's fresh window; not verified or banked. Category-page guard: /category/education HTML is client-side rendered (no created_at embedded; API ?category= probe returned HTTP 400) — the no-tag API feed is the global newest-first feed, so no fresh non-Adult item can hide on a category page that is absent from page 1. No transport failures, no pending items, no scams banked. API: page 2 first attempt http 000 (transport flake) then succeeded on retry; 4s+ spacing kept, no 429s.",
+ "resume": "Next run: poll https://api.groupjoin.link/groups?page=N&limit=20&safeSearch=blur (NO tag param — newest-first) starting page 1 until created_at < cutoff date; keep 4s+ spacing (API 429s on bursts). Fresh = created_at > 2026-11-12 16:26:43 (this run's newest seen). Dedupe against .existing_codes.json + this run's Adult drops before verifying; verify via chat.whatsapp.com og:title with a known-live control code each run. HARD RULE: never fetch, verify, or bank anything from the groupjoin.link Adult category.",
+ "resume_point": {
+  "newest_created_at_seen": "2026-11-12 16:26:43",
+  "last_page_polled": 2,
+  "page1_date_range": "2026-11-08..2026-11-12",
+  "page2_date_range": "2026-11-06..2026-11-08"
+ }
+}

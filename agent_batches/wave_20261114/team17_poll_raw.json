@@ -1,0 +1,144 @@
+{
+ "fetch_log": [
+  {
+   "slug": "karachi",
+   "url": "https://77links.com/karachi-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 97,
+   "new": 0
+  },
+  {
+   "slug": "islamic",
+   "url": "https://77links.com/islamic-whatsapp-group-links/",
+   "status": "error ProxyError: HTTPSConnectionPool(host='77links.com', port=443): Max retries exceeded with url: /islamic-whatsapp-group-links/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))",
+   "codes_on_page": 0,
+   "new": 0
+  },
+  {
+   "slug": "kurulus-osman",
+   "url": "https://77links.com/kurulus-osman-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 104,
+   "new": 0
+  },
+  {
+   "slug": "malayalam",
+   "url": "https://77links.com/malayalam-whatsapp-group-links/",
+   "status": "error ProxyError: HTTPSConnectionPool(host='77links.com', port=443): Max retries exceeded with url: /malayalam-whatsapp-group-links/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))",
+   "codes_on_page": 0,
+   "new": 0
+  },
+  {
+   "slug": "marriage",
+   "url": "https://77links.com/marriage-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 27,
+   "new": 0
+  },
+  {
+   "slug": "online-earning",
+   "url": "https://77links.com/online-earning-whatsapp-groups/",
+   "status": "error ProxyError: HTTPSConnectionPool(host='77links.com', port=443): Max retries exceeded with url: /online-earning-whatsapp-groups/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))",
+   "codes_on_page": 0,
+   "new": 0
+  },
+  {
+   "slug": "pdf-books",
+   "url": "https://77links.com/pdf-books-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 21,
+   "new": 0
+  },
+  {
+   "slug": "pti",
+   "url": "https://77links.com/pti-whatsapp-group-links/",
+   "status": "error ProxyError: HTTPSConnectionPool(host='77links.com', port=443): Max retries exceeded with url: /pti-whatsapp-group-links/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))",
+   "codes_on_page": 0,
+   "new": 0
+  },
+  {
+   "slug": "pubg",
+   "url": "https://77links.com/pubg-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 51,
+   "new": 0
+  },
+  {
+   "slug": "lahore",
+   "url": "https://77links.com/lahore-whatsapp-group-links/",
+   "status": "error ProxyError: HTTPSConnectionPool(host='77links.com', port=443): Max retries exceeded with url: /lahore-whatsapp-group-links/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))",
+   "codes_on_page": 0,
+   "new": 0
+  },
+  {
+   "slug": "friendship",
+   "url": "https://77links.com/friendship-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 61,
+   "new": 0
+  },
+  {
+   "slug": "jobs",
+   "url": "https://77links.com/jobs-whatsapp-group-links/",
+   "status": "error ProxyError: HTTPSConnectionPool(host='77links.com', port=443): Max retries exceeded with url: /jobs-whatsapp-group-links/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))",
+   "codes_on_page": 0,
+   "new": 0
+  },
+  {
+   "slug": "pakistan-cricket",
+   "url": "https://77links.com/pakistan-cricket-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 131,
+   "new": 0
+  },
+  {
+   "slug": "islamic",
+   "url": "https://77links.com/islamic-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 102,
+   "new": 0,
+   "attempt": 1
+  },
+  {
+   "slug": "malayalam",
+   "url": "https://77links.com/malayalam-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 17,
+   "new": 0,
+   "attempt": 2
+  },
+  {
+   "slug": "online-earning",
+   "url": "https://77links.com/online-earning-whatsapp-groups/",
+   "status": "200",
+   "codes_on_page": 100,
+   "new": 0,
+   "attempt": 2
+  },
+  {
+   "slug": "pti",
+   "url": "https://77links.com/pti-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 40,
+   "new": 0,
+   "attempt": 2
+  },
+  {
+   "slug": "lahore",
+   "url": "https://77links.com/lahore-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 59,
+   "new": 0,
+   "attempt": 2
+  },
+  {
+   "slug": "jobs",
+   "url": "https://77links.com/jobs-whatsapp-group-links/",
+   "status": "200",
+   "codes_on_page": 115,
+   "new": 0,
+   "attempt": 2
+  }
+ ],
+ "new_codes": []
+}

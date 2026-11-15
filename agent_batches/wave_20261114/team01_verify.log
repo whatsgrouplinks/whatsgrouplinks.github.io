@@ -1,0 +1,13 @@
+pending total=62 dupes-in-union=3 pending-to-verify=59 never-verified-non-union=6 todo=65
+CONTROL live KrDwdK8EIkB6vgauHg5M7N ...
+CONTROL live -> {'code': 'KrDwdK8EIkB6vgauHg5M7N', 'status': 'live', 'http': 200, 'og_title': 'JAY - PHP & Python Full Stack Developer'}
+CONTROL fabricated ZzZzZzZzZzZzZzZzZzZzZzZz ...
+CONTROL fabricated -> {'code': 'ZzZzZzZzZzZzZzZzZzZzZzZz', 'status': 'dead', 'http': 200, 'og_title': '', 'reason': 'empty og:title after 3 attempts'}
+CONTROLS: {"live": {"code": "KrDwdK8EIkB6vgauHg5M7N", "expected": "JAY - PHP & Python Full Stack Developer", "got": "JAY - PHP & Python Full Stack Developer", "http": 200, "pass": true}, "fabricated": {"code": "ZzZzZzZzZzZzZzZzZzZzZzZz", "expected": "", "got": "", "http": 200, "pass": true}}
+10/65 elapsed 82s
+20/65 elapsed 162s
+30/65 elapsed 237s
+40/65 elapsed 314s
+50/65 elapsed 393s
+60/65 elapsed 460s
+DONE 65 elapsed 479s

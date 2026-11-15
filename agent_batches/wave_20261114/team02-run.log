@@ -1,0 +1,74 @@
+slice 6000-8499: 2500 URLs; union 119266
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  retry pass 1: 126 still empty
+  retry pass 2: 126 still empty
+chunk done: processed 250/2500 | candidates 1 | raw 230 dupes 98 dead 126 excluded 5 pending 0 no_invite 20 fetch_fail 0
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+slice 6000-8499: 2500 URLs; union 119266
+resumed: 250 offsets done, 0 candidates
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  retry pass 1: 126 still empty
+  retry pass 2: 126 still empty
+chunk done: processed 500/2500 | candidates 1 | raw 460 dupes 198 dead 252 excluded 9 pending 0 no_invite 40 fetch_fail 0
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  retry pass 1: 132 still empty
+  retry pass 2: 132 still empty
+chunk done: processed 750/2500 | candidates 1 | raw 699 dupes 303 dead 384 excluded 11 pending 0 no_invite 51 fetch_fail 0
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  chunk progress: 150 verify attempts
+  retry pass 1: 155 still empty
+  retry pass 2: 155 still empty
+chunk done: processed 1000/2500 | candidates 2 | raw 930 dupes 375 dead 539 excluded 14 pending 0 no_invite 70 fetch_fail 0
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  retry pass 1: 108 still empty
+slice 6000-8499: 2500 URLs; union 119266
+resumed: 1000 offsets done, 2 candidates
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+slice 6000-8499: 2500 URLs; union 119266
+resumed: 1000 offsets done, 2 candidates
+  chunk progress: 50 verify attempts
+slice 6000-8499: 2500 URLs; union 119266
+resumed: 1000 offsets done, 2 candidates
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  retry pass 1: 13 still empty
+  retry pass 2: 0 still empty
+chunk done: processed 1250/2500 | candidates 5 | raw 1150 dupes 461 dead 539 excluded 21 pending 124 no_invite 100 fetch_fail 0
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  chunk progress: 150 verify attempts
+  cool-down: 145 rate-limited, sleeping 60s
+  retry pass 1: 0 still empty
+chunk done: processed 1500/2500 | candidates 5 | raw 1385 dupes 546 dead 539 excluded 21 pending 274 no_invite 115 fetch_fail 0
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  cool-down: 144 rate-limited, sleeping 60s
+  retry pass 1: 0 still empty
+chunk done: processed 1750/2500 | candidates 5 | raw 1614 dupes 631 dead 539 excluded 21 pending 418 no_invite 136 fetch_fail 0
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  chunk progress: 150 verify attempts
+  cool-down: 155 rate-limited, sleeping 60s
+  retry pass 1: 0 still empty
+chunk done: processed 2000/2500 | candidates 5 | raw 1849 dupes 704 dead 539 excluded 21 pending 580 no_invite 151 fetch_fail 0
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  chunk progress: 150 verify attempts
+  cool-down: 184 rate-limited, sleeping 60s
+  retry pass 1: 0 still empty
+chunk done: processed 2250/2500 | candidates 6 | raw 2079 dupes 747 dead 539 excluded 21 pending 766 no_invite 171 fetch_fail 0
+  chunk progress: 50 verify attempts
+  chunk progress: 100 verify attempts
+  chunk progress: 150 verify attempts
+  cool-down: 156 rate-limited, sleeping 60s
+  retry pass 1: 0 still empty
+chunk done: processed 2500/2500 | candidates 6 | raw 2305 dupes 814 dead 539 excluded 21 pending 925 no_invite 195 fetch_fail 0
+FINAL: {"raw": 2305, "verified": 6, "dupes": 814, "dead": 539, "pending": 925, "leads": 0}
+EXIT:0

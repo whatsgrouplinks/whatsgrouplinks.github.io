@@ -1,0 +1,162 @@
+{
+ "team": "team02",
+ "slice": "linkado.app grupo sitemap indices 6000-8499 (grupo-only, 0-based; 2500 URLs; first=https://linkado.app/grupo/67db20d3916daeae13772619 last=https://linkado.app/grupo/66b2c97430349688bd900fcf)",
+ "sources": [
+  "linkado.app grupo pages (sitemap copy wave_20261110/linkado_sitemap.xml, 19731 grupo URLs; index mapping confirmed vs team05 last idx5999 and team34 first idx8500)"
+ ],
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N -> og:title 'JAY - PHP & Python Full Stack Developer' (LIVE, as expected)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead, as expected)"
+ },
+ "raw": 2305,
+ "verified": 6,
+ "dupes": 814,
+ "dead": 539,
+ "excluded": [
+  {
+   "code": "CjorPM1cxGG1lATaJ9FyjW",
+   "reason": "casino/betting marker 'slots?'",
+   "title": "Chefin slots ☘️💰🤪"
+  },
+  {
+   "code": "BwGVUz7AQbA7kSBflluvDp",
+   "reason": "casino/betting marker 'apostas?'",
+   "title": "👑 D•F SLOTS 👑                                       💫 Só Se Vive Uma Vez e a gente aposta 💫"
+  },
+  {
+   "code": "J4FDZkF49qEKHEeNlXAJWh",
+   "reason": "casino/betting marker 'apostas?'",
+   "title": "FLA APOSTAS 0% TAXA GP 2"
+  },
+  {
+   "code": "JwmvJDtHEyvBFeqImUaOP2",
+   "reason": "casino/betting marker 'slots?'",
+   "title": "GRUPO DE SLOTS 🚀💸"
+  },
+  {
+   "code": "HISBc5C9GuYJ4CTQZRNSzr",
+   "reason": "casino/betting marker 'slots?'",
+   "title": "SO PLATAFORMA ❌INESA SLOTS"
+  },
+  {
+   "code": "JklthmnqQOHLqPRGbPmELS",
+   "reason": "casino/betting marker 'bet' (post-hoc re-screen)",
+   "title": "GRUPO BET OFICIAL 🔥☘️"
+  },
+  {
+   "code": "LFwmWNfgAOn7lcay4vzisI",
+   "reason": "casino/betting marker 'cassino'",
+   "title": "Palpites futebol $ cassinos"
+  },
+  {
+   "code": "E8VRaXN6TtM2DYpy3WydVq",
+   "reason": "casino/betting marker 'slots?'",
+   "title": "Ganhos e horário pagantes do Slot"
+  },
+  {
+   "code": "D5A31rHNE62LgShShinEwT",
+   "reason": "casino/slots (slot machine emoji)",
+   "title": "Plataforma PAGANTE 🎉💰💥🐲🐭🐂🐇🐯🎰🔥🥳🎊"
+  },
+  {
+   "code": "BitIv9pM57U31L645OgVfj",
+   "reason": "casino/betting marker 'apostas?'",
+   "title": "Grupo de link de apostas pagantes ( 10 reias )"
+  },
+  {
+   "code": "EOgZgf50tLUGn6N6T8fawf",
+   "reason": "hard porn/xxx marker 'putaria'",
+   "title": "Galera da Putaria"
+  },
+  {
+   "code": "DIc5A6F7JrwEiFtRj728Es",
+   "reason": "casino/slots (slot machine emoji)",
+   "title": "Rumo a Elite 1.0 🔱🫳🏽🎰"
+  },
+  {
+   "code": "KtGobVAqZR18sTWSsPU2gw",
+   "reason": "casino/slots (slot machine emoji)",
+   "title": "Cooperação blogueiros 60% 🎰🍀"
+  },
+  {
+   "code": "BdLSP9RXzpALyLyzetEhkk",
+   "reason": "casino/betting marker 'cassino'",
+   "title": "Cassinos tops estrategias  e segredos pra ganha  muito dinheiro"
+  },
+  {
+   "code": "FBHXz4HZceX2pY5WRERc8k",
+   "reason": "casino/slots (slot machine emoji)",
+   "title": "Slots Da Martins 🎰🍀"
+  },
+  {
+   "code": "H3iIgVDkQ6zFbhG1eI52XF",
+   "reason": "casino/slots (slot machine emoji)",
+   "title": "Slos’t Félix Souza 🔞🎰"
+  },
+  {
+   "code": "IQw8ETIijl2KJAzzWu5zXU",
+   "reason": "casino/slots (slot machine emoji)",
+   "title": "Aqui o tigre paga fiquem de olho nos lançamentos.OPORTUNIDADE IGUAL PARA TODOS 🎰❤️‍🔥"
+  },
+  {
+   "code": "HLWfGeun2l47jB0jusnRth",
+   "reason": "casino/slots (slot machine emoji)",
+   "title": "Coinbase 🎰💵"
+  },
+  {
+   "code": "Jpghmbx5v0ALiuEFKSbpci",
+   "reason": "casino/slots (slot machine emoji)",
+   "title": "GRUPO KAAH SLOTS 🥇🎰"
+  },
+  {
+   "code": "JAiYiEpwotoESQZoVEkFoR",
+   "reason": "casino/betting marker 'tigrinho'",
+   "title": "Grupo de jogos do tigrinho"
+  },
+  {
+   "code": "LM0LlAHFw0A5bLCL7niMWJ",
+   "reason": "casino/betting marker '\\bbets?\\b'",
+   "title": "SSVIP.bet"
+  },
+  {
+   "code": "LWPI36iQpPnJ8JSIizPoLN",
+   "reason": "casino/signal platform promo (plataforma + bonus/cadastro/link/lancamento/pagando) (final audit)",
+   "title": "Grupo de Divulgação Plataformas Lançamentos 🤩🤑"
+  },
+  {
+   "code": "HTn6weX22PvCUarTMWAtEx",
+   "reason": "casino/signal platform promo (plataforma + bonus/cadastro/link/lancamento/pagando) (final audit)",
+   "title": "links de plataformas do dia"
+  },
+  {
+   "code": "JcD6FhAicCo8Ouj23mUb42",
+   "reason": "casino/signal platform promo (plataforma + bonus/cadastro/link/lancamento/pagando) (final audit)",
+   "title": "Plataforma legalizada pagando bem"
+  }
+ ],
+ "kept_flags": [
+  {
+   "code": "IkJKK8DvmKLIt6blkhqFXH",
+   "reason": "KEPT-FLAG: 'TROPA DO JOÃO' — 'tropa' squads are often betting-tipster groups, but no hard betting token in the live title; kept on doubt",
+   "title": "TROPA DO JOÃO"
+  },
+  {
+   "code": "KQk1vX7z402J5IbLqDMrCy",
+   "reason": "KEPT-FLAG: 'Sorte no Gamer' (luck + 🍀) is betting-adjacent wording, but no casino/bet token; kept on doubt as Gaming",
+   "title": "Sorte no Gamer 🥇🍀"
+  }
+ ],
+ "pending": 922,
+ "leads": 0,
+ "listings_attempted": 2500,
+ "listings_no_invite": 195,
+ "listings_fetch_fail": 0,
+ "resume_point": "done_offsets=2500/2500; unmined indices banked in team02-leads.json",
+ "notes": [
+  "Slice yield is very low: ~95% of verifiable codes dead (old listings), ~40% dupes vs union.",
+  "WhatsApp returned HTTP 429 heavily from chunk 5 on (many sibling teams verifying concurrently); 429 codes were deferred to a cool-down sweep, never marked dead. Unresolved 429s remain in team02-pending.json for a later run.",
+  "Verification used ONE shared requests.Session per process; empty og:title got 2 spaced retries before dead.",
+  "Screen applied to live og:title with NFKD fold (stylized Unicode), word-boundary matching, negated-prohibition restore, and PT betting vocabulary (bet/bets, tigrinho, sinais+context, plataforma+bonus/link/lancamento/pagando, slots, 🎰).",
+  "Kept-flagged (kept on doubt, see kept_flags): TROPA DO JOÃO, Sorte no Gamer."
+ ]
+}

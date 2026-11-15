@@ -1,0 +1,348 @@
+{
+ "team": "team28",
+ "slice": "listicles / blogs — fresh 'best WhatsApp group links' roundups",
+ "wave": "wave_20261114",
+ "prior_wave_read": "wave_20261113/team31-summary.json (listicles already mined Nov 13: grouplinks.co.uk best-of page, whatgroups.com homepage, whatzgrouplink.com/latest-whatsapp-group-links/, whtsagrouplinks.com, groupwa.link) — none re-mined. team31's 4 banked candidates + 20 unmined grouplinks.co.uk topic-page leads taken from team31-leads.json.",
+ "controls": {
+  "live": "KrDwdK8EIkB6vgauHg5M7N og:title 'JAY - PHP & Python Full Stack Developer' (PASS)",
+  "fabricated": "ZzZzZzZzZzZzZzZzZzZzZzZz empty og:title after 3 attempts (PASS, dead)"
+ },
+ "verification_method": "One requests.Session, browser User-Agent, 60-90s timeout per request; LIVE only on non-empty non-generic og:title; empty og:title retried 3x spaced before dead; HTTP 429/transport -> pending (none occurred).",
+ "counts": {
+  "raw": 1887,
+  "dupes_vs_union_file": 1741,
+  "dupes_already_banked_wave_20261113": 33,
+  "fresh_to_verify": 113,
+  "verified_live": 51,
+  "candidates": 50,
+  "excluded": 1,
+  "dead": 62,
+  "pending": 0,
+  "leads": 3
+ },
+ "counts_check": "1741 (union dupes) + 33 (wave13-banked dupes) + 113 (fresh) = 1887 raw; 113 fresh = 51 live + 62 dead + 0 pending; 51 live = 50 candidates + 1 excluded.",
+ "excluded": [
+  {
+   "code": "Fh7G5LnHVdg49bL6CSaPNy",
+   "name": "ıllıllı 𝘞𝘢𝘪𝘳𝘢𝘭 xxx ıllıllı",
+   "reason": "excluded: 'xxx'/porn in live og:title",
+   "source": "whtsagrouplinks-pakistani"
+  }
+ ],
+ "dead_codes": [
+  "HFJdwLH8mDi85bKytiSR6p",
+  "GHWyPHwX4XKDVSuVV24fW6",
+  "F5DKuIfUSTVHtuLd28DOjC",
+  "Fu3O0abOHc0HCzxTTU7Sg0",
+  "JULu909XiRQArg7nV9lQyc",
+  "InvgI4NsDuBDPjoI16FY2Z",
+  "K333NucdISjDSXJUq4iK7g",
+  "LSU8XK3qHnnAJE8QcajM4z",
+  "0iuv896D4drBCxtQknwWGe",
+  "CmcY3kUIE83Cc04akdx7TL",
+  "LrsWPRp8kHRDfRhxonfdjy",
+  "F3rQsIFfswWAPzTWS7N6aR",
+  "ER22AnqreeIKpksZW2TMv5",
+  "L16nQ6VsY0Z4vTePyN3jDr",
+  "ITAhXVy1GPrH46z4n0Nrq8",
+  "EppVb4c7tPK52sxcMkjLVE",
+  "C365QyvrSF76dHgzyLCT7f",
+  "HCqihp4mLLoBxkBpDKCFUW",
+  "DXBYJEx37WZ5KQXjqPeZnx",
+  "E6aaSia60CCKHqmw1My6qX",
+  "BpB7rxW3N1a5yw2E1nv1k3",
+  "K2IcOVO11P9AVtXusAylcI",
+  "IY2WjwNwrmXE2kbpxXLGfq",
+  "HDgBTWcNIW3HpKp3buLmGm",
+  "BY8VCBl6tWzHhwKzCd4KTw",
+  "IWsjecutDjGLKpYSWaphId",
+  "KjdKyVcSi3bGGU3aqGAGxG",
+  "GxjCMDj49UX4HozoK0HFtE",
+  "LsxSurBHN77LoafNRkHQWl",
+  "FT9mqsvK2gVJqqySzSCpbR",
+  "LRg8wno7X9hHR97yZZoEPf",
+  "GCwWLJiwGZD0YF0WU17cke",
+  "Bd30taZAGj52j2Rq1zw89W",
+  "GikK6aPnQ6BFgKh0ftuu5Q",
+  "KG7jsKHoVLhB3PkcxAcBvB",
+  "Fyf0gaKatJvJ2VlQ1VOSRF",
+  "DJ49ITw6OqF6lp7D0MIC68",
+  "Ct9PGIYeXOkALeypBEsL36",
+  "ImRRfXvoNwyBCv2VDPuw1z",
+  "FLnWB7EwgKBJP3LQ4zRvaP",
+  "HMy1Rs4B65q7Izua6oEB19",
+  "JhQtdYi8ZgABeJSHChw7rF",
+  "G7u5xVpP9UC6iZby6otT2I",
+  "CfVetjrgASdJ6HcPLfDUQF",
+  "GEvC65uCtdbEflDf5x9FSN",
+  "IG21GRMeZrrH35zwSm8W0H",
+  "E2wD9kXuvdiAxZssjogElR",
+  "KkbXx7eKIKhHIkP08D3dkn",
+  "Lr5RF2LGeNpCc0xk4qo7FS",
+  "Iy9mxAxKlR6LYKPhu7pCGA",
+  "FKoXZIOtunL1fXKaOC11OS",
+  "EzyeIknVjew84gVbq5kStO",
+  "BszVjp3ZPn1DiO5pvZOm9q",
+  "KsfL1iCQE5y8dK66yTXvRa",
+  "7XMqEr8eFe64Inbr3TTkva",
+  "E5crNx9RCDn2fFSVuB4ZCU",
+  "IAoraDjMTAHGNH04gPlvmW",
+  "60J4nM4qx6RFvZ8zvYCbVp",
+  "LsqIiLwyPY4JXoSKnmqXLR",
+  "HvmYP6JiIg49JdaS1h8RDX",
+  "KOCTY87DfbuEXtAspgndLR",
+  "JIpf5v3peHiJ6e2mVjq1ue"
+ ],
+ "sources": [
+  {
+   "url": "https://grouplinks.co.uk/arsenal-whatsapp-group-links/",
+   "label": "grouplinks-arsenal",
+   "codes_found": 2,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/chelsea-whatsapp-group-links/",
+   "label": "grouplinks-chelsea",
+   "codes_found": 3,
+   "note": "retry attempt 1 succeeded"
+  },
+  {
+   "url": "https://grouplinks.co.uk/liverpool-whatsapp-group-links/",
+   "label": "grouplinks-liverpool",
+   "codes_found": 1,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/manchester-united-whatsapp-group-links/",
+   "label": "grouplinks-manutd",
+   "codes_found": 4,
+   "note": "retry attempt 2 succeeded"
+  },
+  {
+   "url": "https://grouplinks.co.uk/premier-league-whatsapp-group-links/",
+   "label": "grouplinks-premier-league",
+   "codes_found": 11,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/glasgow-whatsapp-group-links/",
+   "label": "grouplinks-glasgow",
+   "codes_found": 14,
+   "note": "retry attempt 2 succeeded"
+  },
+  {
+   "url": "https://grouplinks.co.uk/london-whatsapp-group-links/",
+   "label": "grouplinks-london",
+   "codes_found": 6,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/manchester-whatsapp-group-links/",
+   "label": "grouplinks-manchester",
+   "codes_found": 9,
+   "note": "retry attempt 2 succeeded"
+  },
+  {
+   "url": "https://grouplinks.co.uk/students-whatsapp-group-links/",
+   "label": "grouplinks-students",
+   "codes_found": 68,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/uk-education-whatsapp-groups/",
+   "label": "grouplinks-uk-education",
+   "codes_found": 29,
+   "note": "retry attempt 2 succeeded"
+  },
+  {
+   "url": "https://grouplinks.co.uk/uk-student-community-whatsapp-group-links/",
+   "label": "grouplinks-uk-student-community",
+   "codes_found": 36,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/freelancing-whatsapp-group-links/",
+   "label": "grouplinks-freelancing",
+   "codes_found": 8,
+   "note": "retry attempt 2 succeeded"
+  },
+  {
+   "url": "https://grouplinks.co.uk/gaming-whatsapp-group-links/",
+   "label": "grouplinks-gaming",
+   "codes_found": 79,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/movies-whatsapp-group-links/",
+   "label": "grouplinks-movies",
+   "codes_found": 23,
+   "note": "retry attempt 2 succeeded"
+  },
+  {
+   "url": "https://grouplinks.co.uk/online-earning-whatsapp-group-links/",
+   "label": "grouplinks-online-earning",
+   "codes_found": 24,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/islamic-whatsapp-group-links/",
+   "label": "grouplinks-islamic",
+   "codes_found": 26,
+   "note": "retry attempt 2 succeeded"
+  },
+  {
+   "url": "https://grouplinks.co.uk/indian-whatsapp-group-links-uk/",
+   "label": "grouplinks-indian-uk",
+   "codes_found": 8,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/pakistani-whatsapp-group-links-uk/",
+   "label": "grouplinks-pakistani-uk",
+   "codes_found": 1,
+   "note": "retry attempt 2 succeeded"
+  },
+  {
+   "url": "https://grouplinks.co.uk/uk-whatsapp-group-links/",
+   "label": "grouplinks-uk",
+   "codes_found": 17,
+   "note": ""
+  },
+  {
+   "url": "https://grouplinks.co.uk/all-whatsapp-groups/",
+   "label": "grouplinks-all",
+   "codes_found": 0,
+   "note": "retry attempt 2 succeeded"
+  },
+  {
+   "url": "https://whatsappgroupslinkss.com/business-whatsapp-group-links/",
+   "label": "whatsappgroupslinkss-business",
+   "codes_found": 31,
+   "note": ""
+  },
+  {
+   "url": "https://activesocilalinks.com/",
+   "label": "activesociallinks",
+   "codes_found": 390,
+   "note": ""
+  },
+  {
+   "url": "https://www.whtsagroupslinks.com/",
+   "label": "whtsagroupslinks-home",
+   "codes_found": 0,
+   "note": "retry x3 failed (proxy disconnect / HTTP non-200); banked as lead"
+  },
+  {
+   "url": "https://wagroupnest.com/",
+   "label": "wagroupnest",
+   "codes_found": 385,
+   "note": ""
+  },
+  {
+   "url": "https://grouplink.com.in/explore-the-active-pakistani-whatsapp-group-links-right-here/",
+   "label": "grouplink-pakistani",
+   "codes_found": 86,
+   "note": ""
+  },
+  {
+   "url": "https://grouplink.com.in/all-india-study-whatsapp-group-links/",
+   "label": "grouplink-india-study",
+   "codes_found": 30,
+   "note": ""
+  },
+  {
+   "url": "http://grouplink.com.in/malayalam-islamic-whatsapp-group-links/",
+   "label": "grouplink-malayalam-islamic",
+   "codes_found": 27,
+   "note": ""
+  },
+  {
+   "url": "http://grouplink.com.in/join-now-central-government-whatsapp-group-links/",
+   "label": "grouplink-central-govt",
+   "codes_found": 87,
+   "note": ""
+  },
+  {
+   "url": "https://www.whtsagrouplinks.com/pakistani-whatsapp-group-link/",
+   "label": "whtsagrouplinks-pakistani",
+   "codes_found": 68,
+   "note": ""
+  },
+  {
+   "url": "https://whtsgrouplink.com",
+   "label": "whtsgrouplink-home",
+   "codes_found": 202,
+   "note": ""
+  },
+  {
+   "url": "https://www.bestdelhi.in/delhi-university-whatsapp-group-link/",
+   "label": "bestdelhi-du",
+   "codes_found": 12,
+   "note": ""
+  },
+  {
+   "url": "https://whtspgrouplink.com/ghana-shs-whatsapp-group-links/",
+   "label": "whtspgrouplink-ghana-shs",
+   "codes_found": 2,
+   "note": ""
+  },
+  {
+   "url": "https://www.wemakescholars.com/blog/whatsapp-group-for-ms-in-us-fall",
+   "label": "wemakescholars-ms-us",
+   "codes_found": 95,
+   "note": ""
+  },
+  {
+   "url": "https://www.grouplinksforyou.com/2023/04/dubai-whatsapp-group-links.html",
+   "label": "grouplinksforyou-dubai",
+   "codes_found": 51,
+   "note": ""
+  },
+  {
+   "url": "https://whatgroups.com/islamic-whatsapp-group-link/",
+   "label": "whatgroups-islamic",
+   "codes_found": 169,
+   "note": ""
+  }
+ ],
+ "leads": [
+  {
+   "kind": "url",
+   "value": "https://www.whtsagroupslinks.com/",
+   "note": "Directory homepage returned HTTP 403 on 3 attempts via curl (Nov 14); 0 codes extracted. Needs browser fetch."
+  },
+  {
+   "kind": "url",
+   "value": "https://grouplinks.co.uk/all-whatsapp-groups/",
+   "note": "Fetched OK but page carries 0 direct chat.whatsapp.com codes (hub page linking to topic lists, which were mined directly). No further action."
+  },
+  {
+   "kind": "url",
+   "value": "https://whatgroups.com/",
+   "note": "Carried from team31 (Nov 13): homepage Cloudflare-blocked via curl. Its /islamic-whatsapp-group-link/ subpage fetched fine this wave (169 codes, 3 fresh, all dead). Homepage still needs browser fetch."
+  }
+ ],
+ "notes": [
+  "grouplinks.co.uk topic pages were the highest-yield source: 20 pages mined (10 needed a retry after proxy disconnects; all 10 succeeded on attempt 2). grouplinks-all returned 0 direct invite codes (hub page).",
+  "team31's 3 surviving best-of codes re-appeared in topic-page mining (K63yNFseeDG0gStyH1ZWmA, CMGHr5jjvfQ9Ntkn9yJdC5, LGPFQN0e9Cw0ZTumAJLBPS) and were correctly excluded as wave13-banked dupes, not re-banked.",
+  "Other listicles were near-exhausted: activesociallinks (390 codes, 3 fresh), wagroupnest (385, 0 fresh), whtsgrouplink (202, 2 fresh), whatgroups-islamic (169, 3 fresh, all dead), grouplink.com.in Pakistani page (86, 22 fresh, all dead).",
+  "No false-positive restores needed: no negated-prohibition, 'sexta-feira', 'chuta', 18+ age-gate or food/fitness cases among live titles. Girls/friendship groups kept (e.g. Glasgow girlss).",
+  "Names in candidates are the LIVE og:title (real group name), categories assigned from listicle section + live title; country GB where the listicle is explicitly UK, IN for the Kolkata manpower group, '' otherwise.",
+  "Skipped as stale/low-value (not tried): 77links.com/islamic-whatsapp-group-links/ (312 days old), meraonlineworld.com/latest-islamic-whatsapp-group-links/ (288 days old), groupjoin.link (directory of internal group/ IDs, no direct chat.whatsapp.com codes on listing pages)."
+ ],
+ "resume_point": "Verification complete for all 113 fresh codes; 0 pending. Nothing to resume on this slice. Next wave could try the skipped stale listicles above or fresh grouplink.com.in niche pages (jobs/crypto/sports) not yet mined.",
+ "files": [
+  "team28-candidates.json",
+  "team28-leads.json",
+  "team28-pending.json",
+  "team28-summary.json",
+  "team28-mined.json",
+  "team28-fresh.json",
+  "team28-verify-results.jsonl",
+  "team28_verify.py",
+  "team28_mine.py",
+  "team28_retry.py",
+  "team28_run_verify.py",
+  "team28_build.py"
+ ]
+}

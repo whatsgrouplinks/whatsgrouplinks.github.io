@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verifying link for Funny | Groupizo</title>
+    <meta name="robots" content="noindex, follow">
+    <link rel="icon" type="image/x-icon" href="/favicon/favicon.ico">
+    <link rel="stylesheet" href="/assets/footer.css">
+    <style>
+        :root {
+            --bg:      #0a0a0a;
+            --card:    #151515;
+            --border:  #2a2a2a;
+            --w-green: #25D366;
+            --w-dark:  #128C7E;
+            --gray:    #999;
+            --shadow:  0 12px 40px rgba(0,0,0,0.6);
+        }
+        html {
+            -webkit-text-size-adjust: 100%;
+            -moz-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+        }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background: var(--bg);
+            color: #fff;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        a { color: var(--w-green); text-decoration: none; }
+
+        .v-wrap {
+            max-width: 560px;
+            margin: 0 auto;
+            width: 100%;
+            padding: 24px 16px 40px;
+            flex: 1;
+        }
+
+        /* GROUP IMAGE + NAME */
+        .v-group-header {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            margin-bottom: 28px;
+        }
+        .v-group-img {
+            width: 88px;
+            height: 88px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid var(--w-green);
+            margin-bottom: 14px;
+            background: #111;
+        }
+        .v-group-name {
+            font-size: clamp(1.1rem, 1.25rem, 24px);
+            font-weight: 800;
+            line-height: 1.3;
+            word-break: break-word;
+            overflow-wrap: anywhere;
+        }
+
+        /* VERIFICATION CARD */
+        .v-card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 28px 24px;
+            box-shadow: var(--shadow);
+            margin-bottom: 24px;
+        }
+
+        /* STATUS CHECKS */
+        .v-checks {
+            list-style: none;
+            padding: 0;
+            margin-bottom: 22px;
+        }
+        .v-checks li {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            font-size: clamp(0.8rem, 0.88rem, 16px);
+            color: var(--gray);
+            padding: 7px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.04);
+            transition: color 0.4s;
+            line-height: 1.4;
+        }
+        .v-checks li:last-child { border-bottom: none; }
+        .v-check-icon {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            border: 2px solid var(--border);
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.4s;
+            margin-top: 2px;
+        }
+        .v-check-icon svg {
+            width: 10px;
+            height: 10px;
+            stroke: #fff;
+            fill: none;
+            stroke-width: 3;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .v-checks li.done { color: #fff; }
+        .v-checks li.done .v-check-icon {
+            background: var(--w-green);
+            border-color: var(--w-green);
+        }
+        .v-checks li.done .v-check-icon svg { opacity: 1; }
+
+        /* JOIN BUTTON WITH LIQUID FILL */
+        .v-join-btn {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            padding: 15px 20px;
+            border-radius: 30px;
+            font-weight: 700;
+            font-size: 1rem;
+            border: 1px solid rgba(37,211,102,0.25);
+            cursor: not-allowed;
+            background: rgba(255,255,255,0.04);
+            color: #fff;
+            transition: all 0.4s ease;
+            text-decoration: none;
+            overflow: hidden;
+            pointer-events: none; /* disabled while verifying */
+        }
+        .v-btn-content {
+            position: relative;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 9px;
+            width: 100%;
+            pointer-events: none;
+            text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+        }
+        .v-btn-content svg { width: 22px; height: 22px; fill: currentColor; flex-shrink: 0; }
+        
+        .v-liquid-fill {
+            position: absolute;
+            left: 0; top: 0; bottom: 0;
+            width: 0%;
+            background: linear-gradient(90deg, #075E54, #128C7E 40%, #25D366 80%, #3de07a);
+            border-radius: 30px;
+            z-index: 1;
+            overflow: hidden;
+        }
+        /* Crisp sweeping glare */
+        .v-liquid-fill::after {
+            content: '';
+            position: absolute;
+            top: 0; left: -100%; bottom: 0; width: 50%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.35), transparent);
+            transform: skewX(-20deg);
+            animation: sweep 1.4s ease-in-out infinite;
+            border-radius: inherit;
+        }
+        @keyframes sweep {
+            0%   { left: -100%; }
+            100% { left: 200%; }
+        }
+
+        .v-join-btn.ready {
+            border: 1px solid rgba(255,255,255,0.12);
+            cursor: pointer;
+            pointer-events: auto;
+        }
+        .v-join-btn.ready:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(37,211,102,0.3); }
+        .v-join-btn.ready .v-liquid-fill {
+            width: 100% !important;
+        }
+
+        /* INFO BOX */
+        .v-info-box {
+            background: rgba(255,255,255,0.025);
+            border: 1px solid rgba(255,255,255,0.07);
+            border-radius: 12px;
+            padding: 16px 18px;
+        }
+        .v-info-box h2 {
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: var(--gray);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            margin-bottom: 10px;
+        }
+        .v-info-list {
+            list-style: none;
+            padding: 0;
+        }
+        .v-info-list li {
+            font-size: 0.82rem;
+            color: #666;
+            padding: 4px 0;
+            display: flex;
+            gap: 8px;
+        }
+        .v-info-list li::before { content: "•"; color: var(--w-green); }
+
+        /* RELATED GROUPS */
+        .related-box { margin-top: 32px; }
+        .related-box h2 { font-size: 1.15rem; color: #fff; margin-bottom: 16px; font-weight: 700; text-align: left; }
+        .related-list { display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+        .rel-card { display: flex; align-items: center; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05); border-radius: 12px; padding: 12px; transition: all 0.2s; text-decoration: none; color: #fff; min-width: 0; }
+        .rel-card:hover { background: rgba(255,255,255,0.06); border-color: rgba(255,255,255,0.1); transform: translateY(-2px); }
+        .rel-img { width: 48px; height: 48px; border-radius: 50%; object-fit: cover; margin-right: 14px; background: #111; flex-shrink: 0; border: 1px solid rgba(255,255,255,0.1); }
+        .rel-info { flex: 1; min-width: 0; margin-right: 10px; }
+        .rel-title { font-size: 0.95rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 3px; }
+        .rel-sub { font-size: 0.75rem; color: var(--gray); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .rel-btn { font-size: 0.75rem; color: var(--w-green); background: rgba(37,211,102,0.1); padding: 6px 14px; border-radius: 20px; font-weight: 700; flex-shrink: 0; transition: 0.2s; }
+        .rel-card:hover .rel-btn { background: var(--w-green); color: #000; }
+        
+        @media (min-width: 600px) {
+            .related-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+        }
+
+        @media (max-width: 480px) {
+            .v-wrap { padding: 16px 12px 32px; }
+            .v-card { padding: 20px 16px; }
+            .v-group-name { font-size: 1.1rem; }
+            .v-join-btn { padding: 12px 16px; }
+        }
+    </style>
+</head>
+<body>
+
+<style>
+    html,
+    body {
+        overflow-x: hidden;
+        width: 100%;
+        position: relative;
+    }
+</style>
+
+<header class="master-header">
+    <div class="mh-container">
+
+        <div class="mh-logo">
+            <a href="/" aria-label="Groupizo Home">
+                <img src="/logo.jpg" alt="Groupizo - WhatsApp Group Directory"
+                    width="160" height="48" style="max-height: 48px; width: auto; display: block;">
+            </a>
+        </div>
+
+        <nav class="mh-desktop-nav">
+            <a href="/" class="mh-link " >Home</a>
+            <a href="/categories" class="mh-link " >Categories</a>
+            <a href="/countries" class="mh-link " >Countries</a>
+            <a href="/cities" class="mh-link " >Cities</a>
+            <a href="/blog" class="mh-link " >Blog</a>
+            <a href="/pages/groups-gallery" class="mh-link " >Gallery</a>
+            <a href="/report-group" class="mh-link " >Report</a>
+        </nav>
+
+        <div class="mh-actions">
+            <button class="mh-icon-btn" id="search-trigger" aria-label="Search">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </button>
+
+            <a href="/add-group" class="mh-cta">
+                <span>+ Group</span>
+            </a>
+
+            <a href="/add-group" class="mh-icon-btn mh-mobile-add" aria-label="Add Group" title="Add Group">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="12" y1="5" x2="12" y2="19"></line>
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                </svg>
+            </a>
+
+            <button class="mh-hamburger" id="menu-trigger" aria-label="Menu">
+                <div class="mh-bar"></div>
+                <div class="mh-bar"></div>
+                <div class="mh-bar"></div>
+            </button>
+        </div>
+    </div>
+
+    <div class="mh-search-modal" id="search-modal">
+        <div class="mh-search-inner">
+            <form action="/search" method="GET" class="mh-search-form">
+                <svg class="mh-search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#666"
+                    stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+                <input type="text" name="q" placeholder="Type to search..." class="mh-search-input" id="mh-search-input"
+                    required autocomplete="off">
+                <button type="button" class="mh-search-close" id="search-close">✕</button>
+            </form>
+        </div>
+    </div>
+</header>
+
+<div class="mh-drawer-backdrop" id="drawer-backdrop"></div>
+<div class="mh-drawer" id="mobile-drawer">
+    <div class="mh-drawer-header">
+        <span class="mh-drawer-title">Menu</span>
+        <button class="mh-drawer-close" id="drawer-close">✕</button>
+    </div>
+    <nav class="mh-drawer-nav">
+        <a href="/" class="mh-d-link ">
+            <span>Home</span>
+        </a>
+        <a href="/categories" class="mh-d-link ">
+            <span>Categories</span>
+        </a>
+        <a href="/countries" class="mh-d-link ">
+            <span>Countries</span>
+        </a>
+        <a href="/cities" class="mh-d-link ">
+            <span>Cities</span>
+        </a>
+        <a href="/blog" class="mh-d-link ">
+            <span>Blog</span>
+        </a>
+        <a href="/pages/groups-gallery" class="mh-d-link ">
+            <span>Visual Gallery</span>
+        </a>
+        <a href="/report-group" class="mh-d-link ">
+            <span>Safety & Report</span>
+        </a>
+        <div class="mh-drawer-cta">
+            <a href="/add-group" class="mh-btn-small">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+                ADD GROUP
+            </a>
+        </div>
+    </nav>
+</div>
+
+<style>
+    /* RESET & VARS */
+    .master-header * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        outline: none;
+    }
+
+    /* MAIN HEADER BAR */
+    .master-header {
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+        background: rgba(18, 18, 18, 0.85);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        height: 64px;
+        width: 100%;
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+    }
+
+    .mh-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 15px;
+        position: relative;
+    }
+
+    /* LOGO */
+    .mh-logo a {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        text-decoration: none;
+        color: #fff;
+        font-weight: 700;
+        font-size: 1.2rem;
+        font-family: system-ui, -apple-system, sans-serif;
+    }
+
+    /* DESKTOP NAV */
+    .mh-desktop-nav {
+        display: flex;
+        gap: 25px;
+        height: 100%;
+    }
+
+    .mh-link {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        color: #b0b0b0;
+        text-decoration: none;
+        font-size: 0.95rem;
+        font-weight: 500;
+        font-family: system-ui, -apple-system, sans-serif;
+        border-bottom: 2px solid transparent;
+        transition: 0.2s;
+    }
+
+    .mh-link:hover,
+    .mh-link.active {
+        color: #fff;
+        border-bottom-color: #25D366;
+    }
+
+    /* ACTIONS */
+    .mh-actions {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .mh-icon-btn {
+        background: transparent;
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        padding: 8px;
+        border-radius: 50%;
+        display: flex;
+        transition: 0.2s;
+    }
+
+    .mh-icon-btn:hover {
+        background: rgba(255, 255, 255, 0.1);
+    }
+
+    .mh-cta {
+        background: #25D366;
+        color: #000;
+        text-decoration: none;
+        padding: 8px 16px;
+        border-radius: 20px;
+        font-weight: 700;
+        font-size: 0.9rem;
+        font-family: system-ui, -apple-system, sans-serif;
+        transition: 0.2s;
+    }
+
+    .mh-cta:hover {
+        background: #128C7E;
+        color: #fff;
+    }
+
+    /* MOBILE ADD ICON */
+    .mh-mobile-add {
+        display: none;
+        color: #25D366;
+        background: rgba(37, 211, 102, 0.08);
+        border: 1px solid rgba(37, 211, 102, 0.2);
+        text-decoration: none;
+    }
+    .mh-mobile-add:hover {
+        background: rgba(37, 211, 102, 0.15);
+    }
+
+    /* HAMBURGER */
+    .mh-hamburger {
+        display: none;
+        background: none;
+        border: none;
+        cursor: pointer;
+        flex-direction: column;
+        gap: 5px;
+        padding: 5px;
+    }
+
+    .mh-bar {
+        width: 24px;
+        height: 2px;
+        background: #fff;
+        border-radius: 2px;
+        transition: 0.3s;
+    }
+
+    /* SEARCH MODAL (Absolute Overlay) */
+    .mh-search-modal {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 64px;
+        background: #121212;
+        z-index: 1002;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        opacity: 0;
+        visibility: hidden;
+        transition: 0.2s ease;
+        border-bottom: 1px solid #25D366;
+    }
+
+    .mh-search-modal.is-active {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .mh-search-inner {
+        width: 100%;
+        max-width: 800px;
+        padding: 0 15px;
+    }
+
+    .mh-search-form {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .mh-search-input {
+        flex-grow: 1;
+        background: transparent;
+        border: none;
+        color: #fff;
+        font-size: 1.1rem;
+        padding: 10px;
+    }
+
+    .mh-search-close {
+        background: none;
+        border: none;
+        color: #888;
+        font-size: 1.2rem;
+        cursor: pointer;
+        padding: 5px;
+    }
+
+    /* MOBILE DRAWER (Off-Canvas Right) */
+    .mh-drawer-backdrop {
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.6);
+        z-index: 2000;
+        opacity: 0;
+        visibility: hidden;
+        transition: 0.3s;
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+    }
+
+    .mh-drawer-backdrop.is-active {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .mh-drawer {
+        position: fixed;
+        top: 0;
+        right: -300px;
+        width: 280px;
+        height: 100%;
+        background: #121212;
+        z-index: 2001;
+        transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        border-left: 1px solid rgba(255, 255, 255, 0.1);
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mh-drawer.is-active {
+        right: 0;
+    }
+
+    .mh-drawer-header {
+        height: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 20px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .mh-drawer-title {
+        font-weight: 700;
+        color: #fff;
+        font-size: 1.1rem;
+    }
+
+    .mh-drawer-close {
+        background: none;
+        border: none;
+        color: #fff;
+        font-size: 1.2rem;
+        cursor: pointer;
+    }
+
+    .mh-drawer-nav {
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .mh-d-link {
+        display: block;
+        padding: 12px 15px;
+        color: #ccc;
+        text-decoration: none;
+        font-size: 1rem;
+        border-radius: 8px;
+        transition: 0.2s;
+        font-family: system-ui, sans-serif;
+    }
+
+    .mh-d-link:hover,
+    .mh-d-link.active {
+        background: rgba(37, 211, 102, 0.1);
+        color: #25D366;
+    }
+
+    .mh-drawer-cta {
+        margin-top: auto;
+        padding: 15px;
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+        display: flex;
+        justify-content: center;
+    }
+
+    .mh-btn-small {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        background: rgba(37, 211, 102, 0.1);
+        color: #25D366;
+        border: 1px solid rgba(37, 211, 102, 0.3);
+        padding: 10px 24px;
+        border-radius: 20px;
+        font-weight: 700;
+        font-size: 0.85rem;
+        text-decoration: none;
+        font-family: system-ui, sans-serif;
+        letter-spacing: 0.5px;
+        transition: 0.2s;
+    }
+
+    .mh-btn-small:hover {
+        background: #25D366;
+        color: #000;
+    }
+
+
+    /* RESPONSIVE */
+    @media (max-width: 900px) {
+
+        .mh-desktop-nav,
+        .mh-cta {
+            display: none;
+        }
+
+        .mh-hamburger {
+            display: flex;
+        }
+
+        .mh-mobile-add {
+            display: flex;
+        }
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Elements
+        const body = document.body;
+        const searchTrigger = document.getElementById('search-trigger');
+        const searchModal = document.getElementById('search-modal');
+        const searchClose = document.getElementById('search-close');
+        const searchInput = document.getElementById('mh-search-input');
+
+        const menuTrigger = document.getElementById('menu-trigger');
+        const drawer = document.getElementById('mobile-drawer');
+        const backdrop = document.getElementById('drawer-backdrop');
+        const drawerClose = document.getElementById('drawer-close');
+
+        // 1. SEARCH LOGIC
+        searchTrigger.addEventListener('click', () => {
+            searchModal.classList.add('is-active');
+            setTimeout(() => searchInput.focus(), 100);
+        });
+
+        const closeSearch = () => searchModal.classList.remove('is-active');
+        searchClose.addEventListener('click', closeSearch);
+
+        // 2. MENU LOGIC
+        const openMenu = () => {
+            drawer.classList.add('is-active');
+            backdrop.classList.add('is-active');
+            body.style.overflow = 'hidden'; // Lock scroll
+        };
+
+        const closeMenu = () => {
+            drawer.classList.remove('is-active');
+            backdrop.classList.remove('is-active');
+            body.style.overflow = ''; // Unlock scroll
+        };
+
+        menuTrigger.addEventListener('click', openMenu);
+        drawerClose.addEventListener('click', closeMenu);
+        backdrop.addEventListener('click', closeMenu);
+
+        // 3. KEYBOARD
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeSearch();
+                closeMenu();
+            }
+        });
+        // SCOLO FIX Bug 82: Removed effectivegatecpm.com pop-under ad script.
+        // It conflicts with Google AdSense TOS and was not in the CSP allowlist.
+    });
+</script>
+<div class="v-wrap">
+
+    <div class="v-group-header">
+        <img src="https://pps.whatsapp.net/v/t61.24694-24/852511990_1470335071629399_4895800711997308895_n.jpg?ccb=11-4&amp;oh=01_Q5Aa6AFinE2ljnNVdtKt5swo-lgmg8OTGehXs20FH2xfT706eQ&amp;oe=6AFDD715&amp;_nc_sid=5e03e0&amp;_nc_cat=106"
+             class="v-group-img" width="88" height="88"
+             alt="Funny"
+             onerror="this.onerror=null;this.src='/uploads/group_images/default-group.png';">
+        <div class="v-group-name">Funny</div>
+    </div>
+
+    <div class="v-card">
+
+        <!-- VERIFICATION CHECKS -->
+        <ul class="v-checks" id="v-checks">
+            <li id="ck1">
+                <span class="v-check-icon">
+                    <svg viewBox="0 0 12 12"><polyline points="2 6 5 9 10 3"></polyline></svg>
+                </span>
+                Checking stored join URL
+            </li>
+            <li id="ck2">
+                <span class="v-check-icon">
+                    <svg viewBox="0 0 12 12"><polyline points="2 6 5 9 10 3"></polyline></svg>
+                </span>
+                Validating URL protocol
+            </li>
+            <li id="ck3">
+                <span class="v-check-icon">
+                    <svg viewBox="0 0 12 12"><polyline points="2 6 5 9 10 3"></polyline></svg>
+                </span>
+                Confirming destination is a WhatsApp invitation
+            </li>
+            <li id="ck4">
+                <span class="v-check-icon">
+                    <svg viewBox="0 0 12 12"><polyline points="2 6 5 9 10 3"></polyline></svg>
+                </span>
+                Matching link to group record
+            </li>
+        </ul>
+
+        <!-- JOIN BUTTON / PROGRESS -->
+        <a href="https://chat.whatsapp.com/KMeLimG6jyR7wnS8gnaJP1" class="v-join-btn" id="v-join-btn"
+           rel="ugc nofollow noopener noreferrer" target="_blank"
+           onclick="event.preventDefault();">
+            <div class="v-liquid-fill" id="v-liquid-fill"></div>
+            <div class="v-btn-content">
+                <svg viewBox="0 0 24 24"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.711 2.598 2.669-.7c.987.545 2.051.849 3.287.849 3.174 0 5.76-2.587 5.76-5.766.001-3.18-2.585-5.76-5.76-5.768zm0-2c4.28 0 7.76 3.48 7.76 7.768 0 4.288-3.48 7.766-7.761 7.766-1.267 0-2.39-.327-3.487-.89l-4.543 1.206 1.218-4.434c-.662-1.127-1.06-2.316-1.06-3.648 0-4.288 3.48-7.768 7.76-7.768zm-5.074 12.062l.135.215c.67.971 1.595 1.637 2.662 1.936l.243.06a6.03 6.03 0 0 0 1.543.197c3.27 0 5.93-2.66 5.93-5.93 0-3.27-2.66-5.93-5.93-5.93-3.27 0-5.93 2.66-5.93 5.93 0 1.27.42 2.44 1.13 3.38l.163.203-.715 2.61 2.77-.73z"/></svg>
+                <span id="v-btn-text">Verifying Link...</span>
+            </div>
+        </a>
+
+    </div>
+    
+        <!-- RELATED GROUPS -->
+    <div class="related-box">
+        <h2>Explore More Funny Groups</h2>
+        <div class="related-list">
+                        <a href="/joe-media-contacts-funny-3951" class="rel-card" title="Join JOE MEDIA CONTACTS">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/796457744_1807951167114348_2494475994228900382_n.jpg?ccb=11-4&oh=01_Q5Aa6AG3KrTjfSgQo2KKNa6teRGF1W425IbZZf4lnACDZKzq7g&oe=6AFDF6D6&_nc_sid=5e03e0&_nc_cat=101" alt="JOE MEDIA CONTACTS" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">JOE MEDIA CONTACTS</div>
+                    <div class="rel-sub">15 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                        <a href="/pt-berak-lancar-2-funny-indonesia-whatsapp-group" class="rel-card" title="Join PT Berak Lancar 2">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/684127458_1874099587311118_2619219295762588057_n.jpg?ccb=11-4&oh=01_Q5Aa6AGYMc_WiMsrKoQtvDWIEsT12iPjSUPDZUbE4AwCO5cfLA&oe=6AFDCB9C&_nc_sid=5e03e0&_nc_cat=105" alt="PT Berak Lancar 2" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">PT Berak Lancar 2</div>
+                    <div class="rel-sub">51 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                        <a href="/the-safe-place-funny-3221" class="rel-card" title="Join The Safe Place">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/887685097_1598672328238548_1495479366687965176_n.jpg?ccb=11-4&oh=01_Q5Aa6AHmHQDNLzbSoaJexW6ismooqYaVNfzy4RkVLJsKW4IN-g&oe=6AFC72B7&_nc_sid=5e03e0&_nc_cat=109" alt="The Safe Place" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">The Safe Place</div>
+                    <div class="rel-sub">10 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                        <a href="/its-xxl-funny-8316" class="rel-card" title="Join iTs XxL 🎀">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/866007501_1496684159174808_6054140385635862599_n.jpg?ccb=11-4&oh=01_Q5Aa6AEPk-ecYAe5peJkgDlp9x5gutmWIMM8pbziLyU9iZkMlg&oe=6AFD4AA4&_nc_sid=5e03e0&_nc_cat=105" alt="iTs XxL 🎀" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">iTs XxL 🎀</div>
+                    <div class="rel-sub">152 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                        <a href="/neon-nights-club-funny-invite-link" class="rel-card" title="Join Neon Nights Club 😎">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/646045813_2170691503802111_8170661143215722846_n.jpg?ccb=11-4&oh=01_Q5Aa6AHkqns8k7pHW31t-yW18M2gW9eBl_gfGR8Oobkg7FQz0Q&oe=6AFDDF4C&_nc_sid=5e03e0&_nc_cat=102" alt="Neon Nights Club 😎" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">Neon Nights Club 😎</div>
+                    <div class="rel-sub">97 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                        <a href="/admin-bna-do-yr-funny-invite-link" class="rel-card" title="Join Admin bna do yr😏">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/298819194_1503233693439822_3493286552831518284_n.jpg?ccb=11-4&oh=01_Q5Aa6AH77JA5b4oMhtZ14pPGfUesMg-LuUPa547bcf7nNyZhuQ&oe=6AFDD689&_nc_sid=5e03e0&_nc_cat=108" alt="Admin bna do yr😏" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">Admin bna do yr😏</div>
+                    <div class="rel-sub">11 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                        <a href="/bible-study-gone-wrong-funny-invite-link" class="rel-card" title="Join Bible Study 📚 Gone Wrong 😑">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/850242475_2203761393539019_2134133842907384413_n.jpg?ccb=11-4&oh=01_Q5Aa6AEHyUfOinzvB0ku-cqAgOPUnZSCDCNOg1xhkkK7aBdi8A&oe=6AFDE0A8&_nc_sid=5e03e0&_nc_cat=104" alt="Bible Study 📚 Gone Wrong 😑" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">Bible Study 📚 Gone Wrong 😑</div>
+                    <div class="rel-sub">604 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                        <a href="/komunitas-meme-candaan-santai-indonesia-funny-invite-link" class="rel-card" title="Join komunitas meme &amp; candaan santai indonesia">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/770077016_2250232469105634_5610965059242044058_n.jpg?ccb=11-4&oh=01_Q5Aa6AFQlZNeddpVBBPMU6R6WWAD5vudxtV8jPwhULhQ3S4eIQ&oe=6AFDD140&_nc_sid=5e03e0&_nc_cat=101" alt="komunitas meme &amp; candaan santai indonesia" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">komunitas meme &amp; candaan santai indonesia</div>
+                    <div class="rel-sub">42 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                        <a href="/just-for-laughs-funny-invite-link" class="rel-card" title="Join JUST FOR LAUGHS 🤣">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/161404456_332902551758234_4205564013820515155_n.jpg?ccb=11-4&oh=01_Q5Aa6AGhNlmINWSC35sl7Remops2UI70g-3kbcwCvFKTIpke0w&oe=6AFDEF16&_nc_sid=5e03e0&_nc_cat=105" alt="JUST FOR LAUGHS 🤣" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">JUST FOR LAUGHS 🤣</div>
+                    <div class="rel-sub">62 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                        <a href="/time-pass-group-funny-invite-link" class="rel-card" title="Join Time  pass group">
+                <img src="https://pps.whatsapp.net/v/t61.24694-24/367750321_974684537102042_1933042367795337746_n.jpg?ccb=11-4&oh=01_Q5Aa6AHERsJaYajiei6RqqTZYvg6jK0nq_YHBLiMUozdAK8FsQ&oe=6AFDEF32&_nc_sid=5e03e0&_nc_cat=105" alt="Time  pass group" class="rel-img" loading="lazy">
+                <div class="rel-info">
+                    <div class="rel-title">Time  pass group</div>
+                    <div class="rel-sub">59 clicks</div>
+                </div>
+                <div class="rel-btn">Join</div>
+            </a>
+                    </div>
+    </div>
+    <br>
+    
+    <!-- INFO BOX -->
+    <div class="v-info-box">
+        <h2>What this page does</h2>
+        <ul class="v-info-list">
+            <li>Verifies the stored join URL before you leave our site</li>
+            <li>Checks the URL uses the expected protocol</li>
+            <li>Confirms the destination is a valid group invitation link</li>
+            <li>Matches the link to the group record you selected</li>
+        </ul>
+    </div>
+
+</div>
+
+<footer class="global-footer" dir="ltr">
+    <div class="gf-container">
+
+        <!-- Brand & EEAT Core -->
+        <div class="gf-brand">
+            <div class="gf-logo">Groupizo.</div>
+            <p class="gf-mission">
+                A reviewed directory for public WhatsApp group invite listings. Every submission is checked before publishing. Invite status is monitored and updated when changes are detected.            </p>
+            <div class="gf-contact">
+                <strong>Support:</strong>
+                <a href="/cdn-cgi/l/email-protection#224a474e4e4d6245504d57524b584d0c414d4f"><span class="__cf_email__" data-cfemail="2c44494040436c4b5e43595c455643024f4341">[email&#160;protected]</span></a>
+            </div>
+            <!-- Trust Badges -->
+            <div class="gf-trust-badges">
+                <div class="gf-badge">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                    Reviewed Listings                </div>
+                <div class="gf-badge">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                    Status Monitored                </div>
+                <div class="gf-badge">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>
+                    Report Supported                </div>
+            </div>
+        </div>
+
+        <!-- Directory Links -->
+        <div class="gf-nav-col">
+            <div class="gf-col-title">Explore</div>
+            <nav>
+                <a href="/">Home</a>
+                <a href="/categories">All Categories</a>
+                <a href="/countries">All Countries</a>
+                <a href="/add-group">Submit a Group</a>
+                <a href="/pages/groups-gallery">Groups Gallery</a>
+            </nav>
+        </div>
+
+        <!-- Trust & Policy -->
+        <div class="gf-nav-col">
+            <div class="gf-col-title">About & Trust</div>
+            <nav>
+                <a href="/pages/about">Our Mission</a>
+                <a href="/pages/editorial-policy" class="gf-highlight">How We Review &uarr;</a>
+                <a href="/report-group">Report this group</a>
+                
+                <a href="/pages/contact">Contact Us</a>
+            </nav>
+        </div>
+
+        <!-- Legal Cluster -->
+        <div class="gf-nav-col">
+            <div class="gf-col-title">Legal</div>
+            <nav>
+                <a href="/pages/terms-and-conditions">Terms of Service</a>
+                <a href="/pages/privacy-policy">Privacy Policy</a>
+                <a href="/pages/cookies-policy">Cookies Policy</a>
+                <a href="/pages/disclaimer">Disclaimer</a>
+                <a href="/pages/dmca">DMCA Notice</a>
+            </nav>
+        </div>
+
+    </div>
+
+    <!-- Bottom Bar -->
+    <div class="gf-bottom-bar">
+        <div class="gf-legal-text">
+            &copy; 2026 Groupizo. All rights reserved.            <span>Independent curation platform. Not affiliated with WhatsApp Inc.</span>
+        </div>
+
+        <!-- Social Icons -->
+        <div class="gf-socials">
+            <a href="https://whatsapp.com/channel/0029Vb7TG7jHFxOtpHI9L21q" target="_blank" rel="noopener nofollow" title="Follow on WhatsApp" class="gf-social-btn gf-wa">
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+            </a>
+            <a href="https://web.facebook.com/groupizo" target="_blank" rel="noopener nofollow" title="Follow on Facebook" class="gf-social-btn gf-fb">
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            </a>
+            <a href="https://www.instagram.com/groupizo" target="_blank" rel="noopener nofollow" title="Follow on Instagram" class="gf-social-btn gf-ig">
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+            </a>
+            <a href="https://www.threads.com/@groupizo" target="_blank" rel="noopener nofollow" title="Follow on Threads" class="gf-social-btn gf-th">
+                <svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor"><path d="M6.321 6.016c-.27-.18-1.166-.802-1.166-.802.756-1.081 1.753-1.502 3.132-1.502.975 0 1.803.327 2.394.948s.928 1.509 1.005 2.644q.492.207.905.484c1.109.745 1.719 1.86 1.719 3.137 0 2.716-2.226 5.075-6.256 5.075C4.594 16 1 13.987 1 7.994 1 2.034 4.48 0 8.044 0 9.69 0 13.55.243 15 5.036l-1.36.353C12.516 1.974 10.163 1.43 8.006 1.43c-3.565 0-5.582 2.171-5.582 6.79 0 4.143 2.254 6.343 5.63 6.343 2.777 0 4.847-1.443 4.847-3.556 0-1.438-1.208-2.127-1.27-2.127-.236 1.234-.868 3.31-3.644 3.31-1.618 0-3.013-1.118-3.013-2.582 0-2.09 1.984-2.847 3.55-2.847.586 0 1.294.04 1.663.114 0-.637-.54-1.728-1.9-1.728-1.25 0-1.566.405-1.967.868ZM8.716 8.19c-2.04 0-2.304.87-2.304 1.416 0 .878 1.043 1.168 1.6 1.168 1.02 0 2.067-.282 2.232-2.423a6.2 6.2 0 0 0-1.528-.161"/></svg>
+            </a>
+            <a href="https://www.linkedin.com/company/groupizodirectory/" target="_blank" rel="noopener nofollow" title="Follow on LinkedIn" class="gf-social-btn gf-li">
+  <svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+    <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.43.567-.876 1.229-.876.866 0 1.213.66 1.213 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/>
+  </svg>
+</a>
+
+        </div>
+    </div>
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+(function () {
+    var fill    = document.getElementById('v-liquid-fill');
+    var btn     = document.getElementById('v-join-btn');
+    var btnText = document.getElementById('v-btn-text');
+
+    var destUrl = "https://chat.whatsapp.com/KMeLimG6jyR7wnS8gnaJP1";
+    var groupId = 10982;
+
+    // Milestones: [pct, label, checkId|null]
+    var milestones = [
+        [0,   'Verifying join link\u2026',           null],
+        [22,  'Validating URL protocol\u2026',       'ck1'],
+        [48,  'Checking destination host\u2026',     'ck2'],
+        [72,  'Matching link to group record\u2026', 'ck3'],
+        [92,  'Confirming group is active\u2026',    'ck4']
+    ];
+
+    var TOTAL_MS  = 5000; // 5 seconds
+    var TICK_MS   = 50;   // update every 50ms for even smoother movement
+    var STEPS     = TOTAL_MS / TICK_MS; // 125 steps
+    var pct       = 0;
+    var fired     = [];
+
+    // Set initial label
+    btnText.textContent = milestones[0][1];
+
+    var interval = setInterval(function () {
+        pct += 100 / STEPS;
+        if (pct > 100) pct = 100;
+
+        fill.style.width = pct.toFixed(2) + '%';
+
+        // Fire milestones when pct crosses their threshold
+        milestones.forEach(function (ms, i) {
+            if (fired[i]) return;
+            if (pct >= ms[0]) {
+                fired[i] = true;
+                if (ms[1]) btnText.textContent = ms[1];
+                if (ms[2]) {
+                    var el = document.getElementById(ms[2]);
+                    if (el) el.classList.add('done');
+                }
+            }
+        });
+
+        // Done
+        if (pct >= 100) {
+            clearInterval(interval);
+
+            // Tick the last check if not already done
+            var last = document.getElementById('ck4');
+            if (last) last.classList.add('done');
+
+            btn.classList.add('ready');
+            btn.onclick = function (e) {
+                if (typeof trackClick === 'function') { trackClick(groupId); }
+            };
+            btnText.textContent = 'Join on WhatsApp';
+        }
+    }, TICK_MS);
+}());
+</script>
+
+<script data-cfasync="false" src="https://ahuramazda.org/1/0dcdf09a9f624dc35eb432bfc8362bbc"></script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a5a4283a7c52b3d0',t:'MTc5NDYzOTgxNA=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a5a4283a7c52b3d0',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

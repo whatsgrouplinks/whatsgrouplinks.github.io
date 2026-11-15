@@ -1,0 +1,58 @@
+[
+ {
+  "id": "119",
+  "name": "Jobs Today Nigeria",
+  "pages": [
+   "nigeria-p5"
+  ],
+  "destination": "https://t.me/jbtoday",
+  "status": 200
+ },
+ {
+  "id": "120",
+  "name": "Job Vacancies Nigeria",
+  "pages": [
+   "nigeria-p5"
+  ],
+  "destination": "https://t.me/jobsnigeria001rekrutconsulting",
+  "status": 200
+ },
+ {
+  "id": "121",
+  "name": "Jobs in Nigeria Today",
+  "pages": [
+   "nigeria-p5"
+  ],
+  "destination": "https://t.me/jobsinnigeriatoday",
+  "status": 200
+ },
+ {
+  "id": "122",
+  "name": "News Room Nigeria",
+  "pages": [
+   "nigeria-p5"
+  ],
+  "destination": "https://t.me/newsroomngr",
+  "status": 200
+ },
+ {
+  "id": "4003",
+  "name": "",
+  "pages": [
+   "ghana",
+   "nigeria"
+  ],
+  "destination": "https://whatsapp.com/channel/0029Vb9NBY5BlHpk3VEbT92X",
+  "status": 200
+ },
+ {
+  "id": "4020",
+  "name": "DVoice Media",
+  "pages": [
+   "whatsapp-groups",
+   "nigeria"
+  ],
+  "destination": "https://chat.whatsapp.com/LvkywXnuMqP16t35FhH4gZ",
+  "status": 200
+ }
+]
