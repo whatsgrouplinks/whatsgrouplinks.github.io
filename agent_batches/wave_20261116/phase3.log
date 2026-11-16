@@ -1,0 +1,10 @@
+queue size: 10231
+controls: {'code': 'KrDwdK8EIkB6vgauHg5M7N', 'status': 'live', 'title': 'JAY - PHP & Python Full Stack Developer', 'err': ''} {'code': 'ZzZzZzZzZzZzZzZzZzZzZzZz', 'status': 'empty', 'title': '', 'err': 'empty-title'}
+pass1 todo: 10231 already done: 0
+pass1: 500/10231 {'live': 438, 'empty': 0, 'pending': 62}
+pass1: 1000/10231 {'live': 528, 'empty': 2, 'pending': 470}
+pass1: 1500/10231 {'live': 605, 'empty': 2, 'pending': 893}
+pass1: 2000/10231 {'live': 684, 'empty': 4, 'pending': 1312}
+pass1: 2500/10231 {'live': 704, 'empty': 5, 'pending': 1791}
+pass1: 3000/10231 {'live': 712, 'empty': 6, 'pending': 2282}
+pass1: 3500/10231 {'live': 712, 'empty': 18, 'pending': 2770}

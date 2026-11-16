@@ -1,0 +1,48 @@
+pass1b: 4761 to fetch (1629 already done)
+pass1b: 4609 to fetch (1781 already done)
+pass1b: 500/4609 {'live': 215, 'empty': 285, 'pending': 0}
+pass1b: 1000/4609 {'live': 441, 'empty': 559, 'pending': 0}
+pass1b: 1500/4609 {'live': 677, 'empty': 823, 'pending': 0}
+pass1b: 2000/4609 {'live': 885, 'empty': 1115, 'pending': 0}
+pass1b: 2500/4609 {'live': 1069, 'empty': 1431, 'pending': 0}
+pass1b: 3000/4609 {'live': 1277, 'empty': 1723, 'pending': 0}
+pass1b: 3500/4609 {'live': 1465, 'empty': 2035, 'pending': 0}
+pass1b: 4000/4609 {'live': 1474, 'empty': 2526, 'pending': 0}
+pass1b: 214 to fetch (6176 already done)
+pass1b DONE: {'live': 102, 'empty': 112, 'pending': 0}
+pendings to retry: 3106
+retry429: 3106 to fetch (0 already done)
+retry429: 500/3106 {'live': 500, 'empty': 0, 'pending': 0}
+retry429: 1000/3106 {'live': 999, 'empty': 0, 'pending': 1}
+retry429: 1500/3106 {'live': 1499, 'empty': 0, 'pending': 1}
+pass1b: 0 to fetch (6390 already done)
+pass1b DONE: {'live': 0, 'empty': 0, 'pending': 0}
+pendings to retry: 3106
+retry429: 1186 to fetch (1920 already done)
+pass1b: 0 to fetch (6390 already done)
+pass1b DONE: {'live': 0, 'empty': 0, 'pending': 0}
+pendings to retry: 3106
+retry429: 1015 to fetch (2091 already done)
+retry429: 500/1015 {'live': 87, 'empty': 413, 'pending': 0}
+retry429: 1000/1015 {'live': 87, 'empty': 913, 'pending': 0}
+retry429 DONE: {'live': 87, 'empty': 928, 'pending': 0}
+empties to retry (pass2): 5126
+pass2: 5126 to fetch (0 already done)
+pass2: 500/5126 {'live': 5, 'empty': 495, 'pending': 0}
+pass2: 1000/5126 {'live': 5, 'empty': 995, 'pending': 0}
+pass2: 1500/5126 {'live': 5, 'empty': 1495, 'pending': 0}
+pass1b: 0 to fetch (6390 already done)
+pass1b DONE: {'live': 0, 'empty': 0, 'pending': 0}
+pendings to retry: 3106
+retry429: 0 to fetch (3106 already done)
+retry429 DONE: {'live': 0, 'empty': 0, 'pending': 0}
+empties to retry (pass2): 5126
+pass2: 3337 to fetch (1789 already done)
+pass2: 500/3337 {'live': 0, 'empty': 500, 'pending': 0}
+pass2: 1000/3337 {'live': 0, 'empty': 1000, 'pending': 0}
+pass2: 1500/3337 {'live': 0, 'empty': 1500, 'pending': 0}
+pass2: 2000/3337 {'live': 0, 'empty': 2000, 'pending': 0}
+pass2: 2500/3337 {'live': 0, 'empty': 2500, 'pending': 0}
+pass2: 3000/3337 {'live': 0, 'empty': 3000, 'pending': 0}
+pass2 DONE: {'live': 0, 'empty': 3337, 'pending': 0}
+PHASE 3b ALL DONE

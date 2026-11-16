@@ -1,0 +1,87 @@
+# WhatsGroupLinks — Wave 20261116 consolidation manifest
+# Coordinator run: Mon 16 Nov 2026 (PKT). Parent merges + deploys; this run produced ONLY the verified-clean candidate file.
+# Work dir: ~/workspace/whatsapp-groups-site/agent_batches/wave_20261116/
+
+## TOTALS
+- Pool collected: 17,397 unique codes (wave_20261115 teams + wave_20261112 stream items + verify-file live codes)
+- Dedupe union: 121,422 codes (.existing_codes.json, 14 Nov 2026)
+- CLEAN (wave_20261116_clean.json): 10,735 verified-unique new groups
+- PENDING (wave_20261116_pending.json): 1 code (HTTP 429 after retry)
+- EXCLUDED (wave_20261116_excluded.json): 6,661
+  - dead (empty og:title after retry): 5,128
+  - porn: 640 | casino: 117 | scam: 16 | junk-name: 392 | dupe-union: 368
+- LEADS banked (wave_20261116_leads.json): 5,276 listing URLs / code strings for next run
+- Categories: all canonical (Community & Social 5,561; General 3,154; Entertainment 404; Gaming 389; Finance 318; ...). Non-canonical team categories mapped: 7,012 records.
+- Schema: every clean record = {name, category, description, invite, country, image:"", slug:""}; 0 schema/invite/category/country defects; 0 dupes in clean.
+
+## HOW CLEAN WAS BUILT
+- Team-live accepted: 5,794 codes with a team verify file recording a non-empty, non-generic og:title.
+- Coordinator-verified live: 5,109 codes fetched by me (pass1/pass1b/retry429/pass2), minus 9 title-screen failures = 5,100.
+- Title screening: every live og:title re-screened (name AND title). 4 post-hoc sweeps removed 149 more (porn slang incl. fuck/horny/randi/chut/lund/hookup/sugar-mummy/call-boy/mms/leaks; casino sinais/bet365/bets/binary-options).
+- Stream items (wave_20261112, 377): 332 were ALREADY in the union (merged by a later run despite the "never merged" note) -> dupe-union; 31 made clean.
+- Descriptions: team description kept where present; otherwise generated "Join <name>, a WhatsApp group listed under <category>."
+
+## PER-TEAM TABLE (team | source | raw candidates | team-live accepted | coord-verified live | final clean | excluded)
+- stream-nov12 | wave_20261112 team01-stream-verified.json | 377 | 11 | 26 | 31 | 345 (332 dupe-union)
+- team01-tglinkhub | tglinkhub remainder | 1396 | 1340 | - | 1318 | 56
+- team02-linkado11000 | linkado sitemap 11000-13499 | 535 | 514 | - | 513 | 20
+- team03-linkado13500 | linkado sitemap 13500-15999 | 681 | 647 | - | 647 | 32
+- team04 | linkado (raw only, no candidates file) | 2500 raw | 0* | - | 0 | 0
+- team05-linkado18500 | linkado sitemap 18500-19730 | 1231 raw | 0 | - | 0 | 7 (team file)
+- team06 | groupslinks? (Arabic cards p161-260) | ~3168 cards | 644 | 214 | 858 | 1038
+- team07-groupslinks261 | groupslinks pages 261-360 | 521 | - | 512 | 512 | 9
+- team08-groupslinks361 | groupslinks pages 361-460 | 1047 | - | 1024 | 1023 | 23
+- team09 | groupslinks? (Arabic verified p461-560) | 4323 verified | 1042 | 95 | 1137 | 1685
+- team10-groupslinks561 | groupslinks pages 561-700 | 719 | 709 | - | 709 | 10
+- team11 | groupslinks? (Arabic cards p701-850) | ~4500 cards | - | 1907 | 1906 | 2628
+- team12-groupslinks851 | groupslinks pages 851+ | 611 | - | 608 | 608 | 3
+- team13-pendingA | pending recheck chunk A | 1 | 1 | - | 1 | 0
+- team14-pendingB | pending recheck chunk B | 16 | 14 | - | 14 | 2
+- team15-pendingC | pending recheck chunk C (groupda) | 150 | - | 138 | 138 | 12
+- team16-whatshub1697 | whatshub.es 1697-2200 | 1 | 1 | - | 1 | 0
+- team17-whatshub2201 | whatshub.es 2201-2781 | 0 | 0 | - | 0 | 0 (552 leads only)
+- team18-tugrupo20 | tugrupo.online p20-60 | 320 | 7 | 307 | 313 | 7
+- team19-tugrupo61 | tugrupo.online p61-110 | 447 | 330 | 86 | 416 | 24
+- team20-groupda | groupda deferred codes | 97 | - | 49 | 48 | 1
+- team21-groupsor | groupsor.in sitemap | 142 | - | 141 | 140 | 2
+- team22-groupsinvite | groupsinvite.link wp-json | 45 | 38 | - | 38 | 7
+- team23-freshpoll | freshness polls | 1 | 1 | - | 1 | 0
+- team24-groupizo-groupda | groupizo+groupda fresh poll | 1 | 1 | - | 1 | 0
+- team25-whtsclub | whts.club new sitemap entries | 0 | 0 | - | 0 | 0 (1 lead)
+- team26-discovery-global | fresh discovery (global) | 2 | - | 2 | 2 | 0
+- team27-discovery-sa-africa-me | fresh discovery (SA/Africa/ME) | 8 | 4 | - | 4 | 3
+- team29-ltg-labels | linktogroups labels | 0 | 0 | - | 0 | 0
+- team30-gated | JS/geo-gated (curl only) | 0 | 0 | - | 0 | 0 (227 leads)
+- verify-live-only | live codes from verify files w/o candidate record | - | 490 | - | 356 | 598 (489 porn via og:title)
+- *team04: raw mined 2500 linkado entries; only its 359 verify-file codes were considered and none survived (all dupe/dead/screened or already in candidates).
+- teams 05/17/25/29/30 produced 0 clean (candidates 0; only leads/raw).
+
+## VERIFICATION LOG (coordinator's own fetches)
+- Controls (run first + at spot-check): live KrDwdK8EIkB6vgauHg5M7N -> "JAY - PHP & Python Full Stack Developer" (live, as expected); fabricated ZzZzZzZzZzZzZzZzZzZzZzZz -> empty og:title (dead, as expected). Both passed twice.
+- Pass 1 (8 workers, full-page fetch): 3,841 codes -> 712 live, 25 empty, 3,104 HTTP 429 (burst rate-limit wall hit after ~500 requests).
+- Pass 1b (stream read <=48KB, 3->5 workers, 0.5s delay): remaining 6,390 -> 1,576 live, 4,812 empty, 2 pending. Zero 429s.
+- Retry429 (4->8->12 workers): all 3,106 pendings retried -> 2,699 live, 405 empty, 2 pending. (Early batches 99.9% live; tail was team09's genuinely-dead slice.)
+- Pass 2 (12->20 workers): all 5,126 empties retried once after delay -> 5 flipped live, 5,121 stayed empty (dead).
+- Final verdicts over 10,231 queue codes: 5,109 live, 5,121 dead, 1 pending (429).
+- SPOT-CHECK 1 (30 random clean): 29/30 live. Failure: '@hookup sugamum -kenya' (kiemhablxnr8ashosx5xza) read dead on recheck AND is sexual content -> removed; triggered the 4 post-hoc screen sweeps (149 removed total).
+- SPOT-CHECK 2 (fresh 40 random clean): 39/40 live. Failure: 'Dbd mobile' (bhvo63g03ac8v6kolwzocd) read dead twice -> removed.
+- Punctuation-title recheck (25 clean records whose team og:title was "." / ".." / "..."): 19 re-read live with the same "." title (WhatsApp genuinely serves "." for these groups); 6 read dead -> removed.
+
+## INCIDENTS / LESSONS
+1. WhatsApp burst 429: 8 workers + full-page downloads hit a hard 429 wall after ~500 requests. Fix used: stream read (first ~48KB, close early) + 0.5s delay + 3-5 workers, later 12-20 workers once latency-bound; 429 rate fell to ~0. The 3,104 burst-429 codes were NOT dead — 87% came back live on retry.
+2. Original screen missed explicit vocabulary: "fuck", "horny", "randi", "chut/lund/gand/chod", "hookup", "sugar-mummy", "call-boy", "mms/leaks", "naked", "boobs/pussy/dick/cum". Caught only because spot-check hit a hookup group. NEXT RUN: fold sweeps 1-4 patterns into the phase-2 screen (incl. Hindi/Urdu slang + "sinais" standalone + "bet365"/"bets" substrings + "binary options" plural).
+3. og:title is the true group name: several candidate names were innocent while the live title was porn/casino — screen BOTH name and live title, always.
+4. "verify-live-only" (490) lost 134 to title screening (mostly porn og:titles from raw verify files) — verify files are not pre-screened.
+5. Corrupt/empty team files (noted, skipped): team06_fresh_p161_260.json (0 bytes), team11_cards_merged.json (0 bytes), team09_cards_p461_560.json (0 bytes). team11_cards_p701_704.json etc. were valid.
+6. Stream-item note: the brief said wave_20261112 stream items were "never merged" — 332/377 were already in the union (Nov 14). Only 31 were genuinely new. Do not re-bank them next run.
+
+## RESUME POINTS FOR NEXT RUN
+- Pending: 1 code (GyC1zOQCVCL449e4IGGYIt, team08, 'Dark store') — HTTP 429 after retry; re-check first.
+- Leads: 5,276 in wave_20261116_leads.json (team20 groupda deferred codes 2,127; team07 pending code slices 538; team15 slice 522; team13 slice 450; team08 chunk8 147; team10 331; team30 gated 227; team17 whatshub 552; team24 142; team18 55; team26 29; team19 26; team27 23; team21 8; team23 2; team25 1; team03/05 unmined linkado URLs).
+- Team11/team06/team09 Arabic slices are now heavily mined (live rates: team11 ~43%, team06 ~26% of queue, team09 ~6% of remaining) — next run should rotate to fresher sources, not re-mine groupslinks p161-850.
+- Pattern file: fold coord_phase4.py screens + sweeps 1-4 into the phase-2 screen before the next wave.
+
+## FILES IN THIS DIR
+- wave_20261116_clean.json (10,735) | wave_20261116_pending.json (1) | wave_20261116_excluded.json (6,661) | wave_20261116_leads.json (5,276) | manifest.txt (this file)
+- Working state: phase1_state.json, union_codes.json, accepted_team_live.json, verify_queue.json, excluded_phase2.json, verify_pass1.jsonl, verify_pass1b.jsonl, verify_retry429.jsonl, verify_pass2.jsonl, phase4_stats.json, spotcheck.json, spotcheck2.json, punct_recheck.json, manifest_counts.json, team_inventory.json, leads_raw.json
+- Scripts: coord_phase1.py, coord_phase2.py, coord_phase3.py (superseded), coord_phase3b.py, coord_phase4.py, coord_phase4_final.py

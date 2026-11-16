@@ -72560,3 +72560,1069 @@ Total: 39225, Valid: 38722, Dead: 499, Uncheckable: 0
 
 === Check 2026-11-15 01:13 ===
 CANARY FAILURE at 10000/85800: status=uncheckable. Nothing removed.
+
+=== Check 2026-11-15 07:22 ===
+Total: 85800, Valid: 84837, Dead: 963, Uncheckable: 1891
+  DEAD: https://chat.whatsapp.com/0IKhP0hdETF4jE4AF7FbCg
+  DEAD: https://chat.whatsapp.com/0Sbb8UNzJnELTnOMIW2pmR
+  DEAD: https://chat.whatsapp.com/0leBQnRvw5o5xEGyuAS93e
+  DEAD: https://chat.whatsapp.com/265y2dEnZfHCc6bRcw7wEz
+  DEAD: https://chat.whatsapp.com/2CdAARp20kF3CNx7KJlI3I
+  DEAD: https://chat.whatsapp.com/3Pe721c286ML2dii65EGQe
+  DEAD: https://chat.whatsapp.com/3PinG45XiR78so1kpx1zkP
+  DEAD: https://chat.whatsapp.com/4DNa3V78KOUCMoA4UX7nxX
+  DEAD: https://chat.whatsapp.com/4INuHrd9SqV8Aqfx8vJ6jY
+  DEAD: https://chat.whatsapp.com/4cRJv4jwE7XEMgmVK72Ah2
+  DEAD: https://chat.whatsapp.com/4dak4ulmNg3A0HefbrBIpt
+  DEAD: https://chat.whatsapp.com/4naojhXhwFRIfmY05zgHX4
+  DEAD: https://chat.whatsapp.com/5rvEZbUpYgL5kbAS3rM7bf
+  DEAD: https://chat.whatsapp.com/61eI7I3XvkbC61e8iDLSvI
+  DEAD: https://chat.whatsapp.com/6qApLt32lmuDxSEj3lPfo7
+  DEAD: https://chat.whatsapp.com/7KMQY55aLOH0HCqufU2our
+  DEAD: https://chat.whatsapp.com/7OPA2rruYDeHgXVgLMyPtr
+  DEAD: https://chat.whatsapp.com/8Gvnzab5mnGApME9Ro1HRu
+  DEAD: https://chat.whatsapp.com/9mxMwQ8JHa35LFi0E2N2rT
+  DEAD: https://chat.whatsapp.com/ATyAkqOTcQQ5b6x5RpnY2H
+  DEAD: https://chat.whatsapp.com/B52IqFpfviP9RtM4XySy3e
+  DEAD: https://chat.whatsapp.com/B5a9k3BgUtkEbFdeRD08QE
+  DEAD: https://chat.whatsapp.com/B5qjW3mVwIVAUO31yS8cOp
+  DEAD: https://chat.whatsapp.com/B8M8ES3ESrK453mDWpA8iE
+  DEAD: https://chat.whatsapp.com/B9NsoXm9saML5irDXtZeBE
+  DEAD: https://chat.whatsapp.com/B9vXNH4d2eH0nl1QHC7kyU
+  DEAD: https://chat.whatsapp.com/B9wCkJ45hg75eRtBiqyTS1
+  DEAD: https://chat.whatsapp.com/BABqiJmfd7D6iM6OF4xVj6
+  DEAD: https://chat.whatsapp.com/BBIOpzwmhT8Bqlwr9uTmfe
+  DEAD: https://chat.whatsapp.com/BBeKu36aCGSDB4RMxR0GVN
+  DEAD: https://chat.whatsapp.com/BBgEHAo0mF08FxKFrwg8RC
+  DEAD: https://chat.whatsapp.com/BC2n2Oex9kS6fK27Urf5Ku
+  DEAD: https://chat.whatsapp.com/BCKzysInMyP7XjvE9h1zR0
+  DEAD: https://chat.whatsapp.com/BDaaCFREkSGB5FNB2TNhPe
+  DEAD: https://chat.whatsapp.com/BEORx17iPMS9nTRpoBRPmE
+  DEAD: https://chat.whatsapp.com/BEedogywZqd75IsVBjnLiF
+  DEAD: https://chat.whatsapp.com/BErTABptNELAhAiSK9N82M
+  DEAD: https://chat.whatsapp.com/BFhql4Ypj2lD3leatpGV12
+  DEAD: https://chat.whatsapp.com/BGMbW5p1iTVFcUkapfgYZT
+  DEAD: https://chat.whatsapp.com/BGwjBSyXly43M0c7ewcqeA
+  DEAD: https://chat.whatsapp.com/BHhetIT2noX2FsDIuJJ020
+  DEAD: https://chat.whatsapp.com/BHxgFzSoqfe8BesMrxwmxQ
+  DEAD: https://chat.whatsapp.com/BJOU89UY9BF0tC2UEtHK3D
+  DEAD: https://chat.whatsapp.com/BK33pNxLqzBElOxMtN0OyC
+  DEAD: https://chat.whatsapp.com/BMGuCYBTAzF6DNfoy8Z4LV
+  DEAD: https://chat.whatsapp.com/BOMOgZwLuIOJiMfDWtSjvU
+  DEAD: https://chat.whatsapp.com/BPMLjQ2XXHu590GFQVcA6m
+  DEAD: https://chat.whatsapp.com/BQlVi12kAQO93hlqMrY5G2
+  DEAD: https://chat.whatsapp.com/BR2TtqXbXIRHg6L0DGZ92p
+  DEAD: https://chat.whatsapp.com/BRMmMYGie9e9OTGJK7SJWe
+  DEAD: https://chat.whatsapp.com/BRc5annd6fS9AxqNPwQoCp
+  DEAD: https://chat.whatsapp.com/BRmtanxYdV91GMRYP5NDEM
+  DEAD: https://chat.whatsapp.com/BSBmviCVKOsLNHg94rdOBq
+  DEAD: https://chat.whatsapp.com/BVE1oRFfCKi8J0xlRdj0vo
+  DEAD: https://chat.whatsapp.com/BVQPWyG07JX8KT1FnmGL5Z
+  DEAD: https://chat.whatsapp.com/BVvwrrYPYmyFABqDALs4n4
+  DEAD: https://chat.whatsapp.com/BXDp1jUTuQxGJ7osUCdbxh
+  DEAD: https://chat.whatsapp.com/BXP6L7WpE20GO02VtwPi16
+  DEAD: https://chat.whatsapp.com/BXWdrAe68WIL5rlC35NUD0
+  DEAD: https://chat.whatsapp.com/BXZ9J0BtgGL85UOngMpwHa
+  DEAD: https://chat.whatsapp.com/BY7xBLu2nuE7TkDAPTdDPT
+  DEAD: https://chat.whatsapp.com/BY8v1F99Sh8582eQozbAJz
+  DEAD: https://chat.whatsapp.com/BYDyVc7s8bVBO0GU5WItzh
+  DEAD: https://chat.whatsapp.com/BYauvsdYqxmDl0nrFVfKdr
+  DEAD: https://chat.whatsapp.com/BZ8kkKWM1FIJjsN2RP2QMJ
+  DEAD: https://chat.whatsapp.com/BZvv4WEWqHW8eJocdQA9fz
+  DEAD: https://chat.whatsapp.com/BbtUYbrDwbE3lF70UW22Gx
+  DEAD: https://chat.whatsapp.com/BclxnrlQdIs1vkiBGjHjdc
+  DEAD: https://chat.whatsapp.com/BdQd7MVl1Y42uV9YBqtCkV
+  DEAD: https://chat.whatsapp.com/BdSN4RsgnXpKmglRgO1UWI
+  DEAD: https://chat.whatsapp.com/Bdmr3EDHMUsC7YUWardNtp
+  DEAD: https://chat.whatsapp.com/BeLRXDQivxaLd14qcgG1VQ
+  DEAD: https://chat.whatsapp.com/BfRcNqTyDopGPz0eawebi8
+  DEAD: https://chat.whatsapp.com/BgHOrhSFVDVABvyKIDnaZp
+  DEAD: https://chat.whatsapp.com/BgqGx89ID4xDu5U0kHRt96
+  DEAD: https://chat.whatsapp.com/BhD1pTND4sx3V4jqk9GkBC
+  DEAD: https://chat.whatsapp.com/Bhc4Xbvis3b9QRbvsVEAsu
+  DEAD: https://chat.whatsapp.com/BhgnAurSWHi5fXbRE1ixGF
+  DEAD: https://chat.whatsapp.com/Bi0ISdtSspODo6ju4ZC7Jx
+  DEAD: https://chat.whatsapp.com/Bi53sQe3DPxIq7QdVRORJx
+  DEAD: https://chat.whatsapp.com/BjHZPXqi9XYIIebdoV4DxR
+  DEAD: https://chat.whatsapp.com/BjRq1Pkw4xI12SZmXbij5h
+  DEAD: https://chat.whatsapp.com/BkYYE5Oq4bqCbAJBPV5gwc
+  DEAD: https://chat.whatsapp.com/BkZMgAWZ5HZElpZVu6OPAA
+  DEAD: https://chat.whatsapp.com/BklRZVQl1SmDM2aliZMONx
+  DEAD: https://chat.whatsapp.com/BlCakVy5GN2A2ZFvGzy6qQ
+  DEAD: https://chat.whatsapp.com/BpgHRB0P8Hm01u6MF4gJfT
+  DEAD: https://chat.whatsapp.com/BplZDgKGnIgByvZWxD31rT
+  DEAD: https://chat.whatsapp.com/BpxIIKxLlwDEqZC62eMI8u
+  DEAD: https://chat.whatsapp.com/BqRloeZ1TLqIYtRidTl5hA
+  DEAD: https://chat.whatsapp.com/BrHcU4HayXnDJH0AVqWFhg
+  DEAD: https://chat.whatsapp.com/BsAI7WrtBAGCb6onNJOxNi
+  DEAD: https://chat.whatsapp.com/BsCba8nrZCKJ7nxlESTQjD
+  DEAD: https://chat.whatsapp.com/BsH9xoU22NH9yKpqnFW3xI
+  DEAD: https://chat.whatsapp.com/BsKvPLC0yAm0T7d8gJQwEQ
+  DEAD: https://chat.whatsapp.com/BuQHCIOIhg2LYwK75iZr14
+  DEAD: https://chat.whatsapp.com/BulOv2NJQISGY9XqyDtP6g
+  DEAD: https://chat.whatsapp.com/BumUaa3qXXOK9dakEg6FeS
+  DEAD: https://chat.whatsapp.com/BxLW5Yngjn0AJRhuPUoqyA
+  DEAD: https://chat.whatsapp.com/ByCKmFH0H5TFrukbSJ4UlI
+  DEAD: https://chat.whatsapp.com/BynCy60NRaOHmLdXRFEmTO
+  DEAD: https://chat.whatsapp.com/Bz4uhxnm5hfAcngJ8AZMOo
+  DEAD: https://chat.whatsapp.com/C1hiOs5bIFN9k6Q64tedPL
+  DEAD: https://chat.whatsapp.com/C2NihkrEOEQIn9WHDassmS
+  DEAD: https://chat.whatsapp.com/C2lNvmqEFP0Fp8chaR1T0j
+  DEAD: https://chat.whatsapp.com/C5ErdXbvCkqCCf2bEllvIl
+  DEAD: https://chat.whatsapp.com/C5ZE9fwcSmbLIwrNBpuWuB
+  DEAD: https://chat.whatsapp.com/C5p82ROyQeh9u8ThtkCdrN
+  DEAD: https://chat.whatsapp.com/C5yIxXC6r815uIJuTI4iiG
+  DEAD: https://chat.whatsapp.com/C6OiIzWxMnb6AkQr1D5JAg
+  DEAD: https://chat.whatsapp.com/C6vM3xYwTJ421V38STHAgj
+  DEAD: https://chat.whatsapp.com/C7NTIAmmijaHb7VmqhhrG9
+  DEAD: https://chat.whatsapp.com/C8CCgdyIlFX6uqB7fkUxOM
+  DEAD: https://chat.whatsapp.com/CA1ZAjvGzdH3sGeYlSI6fc
+  DEAD: https://chat.whatsapp.com/CAl2JYLK1tL4wYaXCsX6yR
+  DEAD: https://chat.whatsapp.com/CBRW5xvaZH71Qg92UGyA0b
+  DEAD: https://chat.whatsapp.com/CCY6vHbugeyLo7RKzGh2xz
+  DEAD: https://chat.whatsapp.com/CEEkURYgj6eGNS53Cjerfd
+  DEAD: https://chat.whatsapp.com/CGwv0Lrd5PKGfTawT2fF74
+  DEAD: https://chat.whatsapp.com/CHqiqlZ925b99GvIn0eqDY
+  DEAD: https://chat.whatsapp.com/CICoWkmFu5FLdZl4N1fYIG
+  DEAD: https://chat.whatsapp.com/CISjXEKlex3266pa5NIxzY
+  DEAD: https://chat.whatsapp.com/CIV4RY4cWTJ5C9XJyyOYyX
+  DEAD: https://chat.whatsapp.com/CIWVZOO7lW9IiGRtNJ9k7L
+  DEAD: https://chat.whatsapp.com/CIXmQbEvjCC9UV2TblqPUI
+  DEAD: https://chat.whatsapp.com/CIY2pZsUXaE0BYGjSW6gGF
+  DEAD: https://chat.whatsapp.com/CIuK7Txz94cLk5SO8ynuYH
+  DEAD: https://chat.whatsapp.com/CJ2NeEIXOjJ3q3mTEWsffj
+  DEAD: https://chat.whatsapp.com/CJGktWM9XsiGT5TBd3PgyO
+  DEAD: https://chat.whatsapp.com/CJREpWMSfLxFGLtJTIcFz4
+  DEAD: https://chat.whatsapp.com/CKRwU3fKWYX8i2f9SkvYuQ
+  DEAD: https://chat.whatsapp.com/CLYr0xJubGh7webhC8Moq2
+  DEAD: https://chat.whatsapp.com/COyXq9NcWPoJECqE29u9mv
+  DEAD: https://chat.whatsapp.com/COz7SS6R12mFH5ANQy4Hi2
+  DEAD: https://chat.whatsapp.com/CPEzgSS5vZRKhih4Fr5XJ1
+  DEAD: https://chat.whatsapp.com/CPRuUDMyy2V4zVNjSa4w8d
+  DEAD: https://chat.whatsapp.com/CQFyATnQnMZ1fTojWljElE
+  DEAD: https://chat.whatsapp.com/CRxL47MFZvKLO63xyTygFJ
+  DEAD: https://chat.whatsapp.com/CSU2Id8RZJADLMroNPXGXr
+  DEAD: https://chat.whatsapp.com/CSU8aHYAkCLHfOkzDlKWoT
+  DEAD: https://chat.whatsapp.com/CTc5FYnDuDnAB38dPTgqZJ
+  DEAD: https://chat.whatsapp.com/CTmg01UkmQ5GJJ96LsWlp5
+  DEAD: https://chat.whatsapp.com/CUkRmDLj3q21cheIPan69d
+  DEAD: https://chat.whatsapp.com/CUmFXeZVEcA9m5TJDiLGv3
+  DEAD: https://chat.whatsapp.com/CVEKwQZHlHe4gXcpbIT2B4
+  DEAD: https://chat.whatsapp.com/CVOteyrotG0L0dAAw2UMgT
+  DEAD: https://chat.whatsapp.com/CWXz6En9uJJJBXuYmjOYbN
+  DEAD: https://chat.whatsapp.com/CXamfmqq3Fu9L2rgEsMF8t
+  DEAD: https://chat.whatsapp.com/CY6bDNLDX85IkJQWNl0H0N
+  DEAD: https://chat.whatsapp.com/CYAWsDELULDHmr3i7bo9LT
+  DEAD: https://chat.whatsapp.com/CYhrGGUrnpm2bBEihXL9ni
+  DEAD: https://chat.whatsapp.com/CZypgmAOaXB9ZiempKp3G1
+  DEAD: https://chat.whatsapp.com/CaasdnKMJBK3DwMmgRfbVC
+  DEAD: https://chat.whatsapp.com/CanwPy8Hhpl9Ch37pEKcby
+  DEAD: https://chat.whatsapp.com/Cb9nD3NDOQh0dI2DXLvpo2
+  DEAD: https://chat.whatsapp.com/CbD9wOKkyraK725mX6Y3P7
+  DEAD: https://chat.whatsapp.com/Cbkl5BB6Xqk7x73EysjxDP
+  DEAD: https://chat.whatsapp.com/CcUA6vBY14G4NF8w1W3Xaq
+  DEAD: https://chat.whatsapp.com/CdDGZmUxUAUFwci4xYgu9J
+  DEAD: https://chat.whatsapp.com/CdcGcS8SSlB8kGuvJfxlrY
+  DEAD: https://chat.whatsapp.com/CdcjHySoOJwIBLWzgX4hTX
+  DEAD: https://chat.whatsapp.com/CeJOAD9cwE60QIOxZ4tSDy
+  DEAD: https://chat.whatsapp.com/CfPr5qZgXu510iXt0xTYg6
+  DEAD: https://chat.whatsapp.com/Cg3nYHaMh7cGUwsJ7WwCZt
+  DEAD: https://chat.whatsapp.com/CiBeIaPu1QiLRkgrA7jY2R
+  DEAD: https://chat.whatsapp.com/Cj51nGiMbxrA4U96Dtkbk7
+  DEAD: https://chat.whatsapp.com/Cj7mFnEmxKeEjs464ZB3jU
+  DEAD: https://chat.whatsapp.com/CjpRU35WHLYI9p5bzEqj8w
+  DEAD: https://chat.whatsapp.com/Cl6lkMmcTJi43rY8B7owvi
+  DEAD: https://chat.whatsapp.com/Cmb2UEC35b72HqL8GLnEEN
+  DEAD: https://chat.whatsapp.com/CnmKzvqdTf01yW1BWpCrhq
+  DEAD: https://chat.whatsapp.com/Cny5Ph5mMVbCe2v4hjxD9a
+  DEAD: https://chat.whatsapp.com/Cok0ij7HA7zLSKGhK04t4d
+  DEAD: https://chat.whatsapp.com/Cor8xfQVErsAMRtVUYOLEL
+  DEAD: https://chat.whatsapp.com/Cs6HsxYEDeNCuPHjPl3WrM
+  DEAD: https://chat.whatsapp.com/CuNWy54wpBI8aD5ZFODos1
+  DEAD: https://chat.whatsapp.com/Cw23wPNX0g3JiM85N80Pj1
+  DEAD: https://chat.whatsapp.com/Cw3hwWl1V2C3a3NicRh9Tj
+  DEAD: https://chat.whatsapp.com/Cx1Ve6OrLX690tOAOaHhZF
+  DEAD: https://chat.whatsapp.com/CyEZzztshuT31KP3mpwUy7
+  DEAD: https://chat.whatsapp.com/CyUQSnh8x1J4ZiOyb30Rjd
+  DEAD: https://chat.whatsapp.com/Cz4k2e2u6Mj7LdGINEksDC
+  DEAD: https://chat.whatsapp.com/CzidOLowPV6CRZ78QggkYK
+  DEAD: https://chat.whatsapp.com/D0hU5sT1ZF5BOCjc004omk
+  DEAD: https://chat.whatsapp.com/D1B3j1JlhVsCsHdgCWCZCK
+  DEAD: https://chat.whatsapp.com/D1l5lZvtapmJV9VXi4UrEx
+  DEAD: https://chat.whatsapp.com/D3APsMQWWYuDBPFFJXgFrr
+  DEAD: https://chat.whatsapp.com/D3Bi2lRrjM27QcMY48KwZh
+  DEAD: https://chat.whatsapp.com/D4ES0mzuNiBE6scGujp595
+  DEAD: https://chat.whatsapp.com/D4IvJmtnfzz2F63QcA2hDL
+  DEAD: https://chat.whatsapp.com/D4hFNK9DgRuK5GY2tAL1z6
+  DEAD: https://chat.whatsapp.com/D5MCZAUiwXILG6X1iSNOED
+  DEAD: https://chat.whatsapp.com/D5iObY9YWFn2O2Jk4JoPF7
+  DEAD: https://chat.whatsapp.com/D6F3nO7fqAfLT82kL6Y7lr
+  DEAD: https://chat.whatsapp.com/D6Sdm8jRotaGmx5vrjRLrS
+  DEAD: https://chat.whatsapp.com/D6SqZBkmTknBlDGQJgfS2E
+  DEAD: https://chat.whatsapp.com/D7TP1YwjCRs5eklOQoBwn5
+  DEAD: https://chat.whatsapp.com/D7beJruWKD5DOm1LCKvIGd
+  DEAD: https://chat.whatsapp.com/D9C2Ivc3PIYILjKeA9qR1p
+  DEAD: https://chat.whatsapp.com/D9pm02xdyTU1BBn5tdwqcd
+  DEAD: https://chat.whatsapp.com/DAsfQdVQBH31SEkPEApufd
+  DEAD: https://chat.whatsapp.com/DBSfhNV25xt8JGB4fN7GCn
+  DEAD: https://chat.whatsapp.com/DDIV1rgt0DMCLCCe08OFCG
+  DEAD: https://chat.whatsapp.com/DEet6Ta7kpV3a6dHXBBbCP
+  DEAD: https://chat.whatsapp.com/DEuQW4oX12X8QodUYu4dT8
+  DEAD: https://chat.whatsapp.com/DF6dR8Pjga2BLKYU89lbvK
+  DEAD: https://chat.whatsapp.com/DFDWLEWAzA68rNTeMw03Kb
+  DEAD: https://chat.whatsapp.com/DHpbJyi2TG3D8oQ4W5eHYG
+  DEAD: https://chat.whatsapp.com/DIRTMeX2V0WKmVQ13dSLQh
+  DEAD: https://chat.whatsapp.com/DJIPu63Io0KHVab0RWkqBG
+  DEAD: https://chat.whatsapp.com/DJbjdFvzNjOGx7ksEYOT1J
+  DEAD: https://chat.whatsapp.com/DKAVntMuH6VKelgNQiacSm
+  DEAD: https://chat.whatsapp.com/DL2xmb1pnJBJZsdlAw0a9m
+  DEAD: https://chat.whatsapp.com/DLektybLnd12wO6rKyrJYL
+  DEAD: https://chat.whatsapp.com/DMRf50tFN9ODCClpdptjdy
+  DEAD: https://chat.whatsapp.com/DMStk6kZ3VQCc1RV5jpXHH
+  DEAD: https://chat.whatsapp.com/DNUSCtGOP5XGhsOmsNPNIk
+  DEAD: https://chat.whatsapp.com/DNkYKFCidTTDlHAFN71j7f
+  DEAD: https://chat.whatsapp.com/DOtLoIchR8UFp3lw2Yvkdo
+  DEAD: https://chat.whatsapp.com/DP4RjyldUVm9RQL2POzkMK
+  DEAD: https://chat.whatsapp.com/DPFv7mXJJKpClJWeRTLNK0
+  DEAD: https://chat.whatsapp.com/DPhxSYovFwm9RPMpsLN0If
+  DEAD: https://chat.whatsapp.com/DQTI6yQqsCMFThSo7EI83x
+  DEAD: https://chat.whatsapp.com/DRmHmiPRfBH2i8KYj5FC6r
+  DEAD: https://chat.whatsapp.com/DRoswJ5effQ870GnUhmLJl
+  DEAD: https://chat.whatsapp.com/DRxacMgnFTW2LL0Zgnlybe
+  DEAD: https://chat.whatsapp.com/DS5gQ7YJvHNFbikJ8bSh2g
+  DEAD: https://chat.whatsapp.com/DS8Z8QjIpKQKKpmb44Qa1p
+  DEAD: https://chat.whatsapp.com/DTC8tm7skXNKP0AzgToB0q
+  DEAD: https://chat.whatsapp.com/DTKQlLEx0l2Hn13ljAfWRz
+  DEAD: https://chat.whatsapp.com/DTOKGeBjjTz5pckoSbRBqE
+  DEAD: https://chat.whatsapp.com/DTtmbLYh7SRCJMerzGFV2A
+  DEAD: https://chat.whatsapp.com/DTu687R8N3gL2bzFcXhBQr
+  DEAD: https://chat.whatsapp.com/DU0kN9EuhYo1hDjRp9vkh0
+  DEAD: https://chat.whatsapp.com/DU5AIT1Tra9CB2svM9qDBL
+  DEAD: https://chat.whatsapp.com/DVfL75STxsp1xc2Eop6Is7
+  DEAD: https://chat.whatsapp.com/DWRcL2zTQmTI3bCUrRDqSP
+  DEAD: https://chat.whatsapp.com/DXmHyYhpLorJEwnoPAodTH
+  DEAD: https://chat.whatsapp.com/DXmW43CPajaKOxiLXw6pnN
+  DEAD: https://chat.whatsapp.com/DYDMb6yppoH87mR6kbAbdn
+  DEAD: https://chat.whatsapp.com/DYpUIuDSxZ54O8ZRA7ESJ8
+  DEAD: https://chat.whatsapp.com/DZPkYPPzTU2JGXZ8evBHkL
+  DEAD: https://chat.whatsapp.com/DaqBozbku5X6ZMEuMpKpHH
+  DEAD: https://chat.whatsapp.com/DcG90A5ztvbA7vI6VnOvj9
+  DEAD: https://chat.whatsapp.com/DdUy2K47DnQ9yzje17X4Hf
+  DEAD: https://chat.whatsapp.com/Ddd3Nea8DWl54WBWAAwN7C
+  DEAD: https://chat.whatsapp.com/DdlEUoIHILYCU5NjhysnE9
+  DEAD: https://chat.whatsapp.com/De7KAgzkL5sD23Aug6kkTl
+  DEAD: https://chat.whatsapp.com/DePIAKxzZFTC8vcghJhuSl
+  DEAD: https://chat.whatsapp.com/DewAN6rAZb32Z6EgR3Zm44
+  DEAD: https://chat.whatsapp.com/DfC7OWKcCcMIfOmjZAsbmX
+  DEAD: https://chat.whatsapp.com/DfoWRJgywLm7M0Lge4xk2d
+  DEAD: https://chat.whatsapp.com/DgBp0Swlds8GuNVMVgdCfi
+  DEAD: https://chat.whatsapp.com/DgTbutTCBaG4jke1gNPPal
+  DEAD: https://chat.whatsapp.com/DgWrhUEHYVB7XT3CJOhQeg
+  DEAD: https://chat.whatsapp.com/DgcTI9qMfwtEI1jVXraZzx
+  DEAD: https://chat.whatsapp.com/DglQ2X8UTKkEOiUxZTBJaQ
+  DEAD: https://chat.whatsapp.com/DguYspGAwGnCAR850QeGQX
+  DEAD: https://chat.whatsapp.com/DhS0cBMkY3V8bmlpnwAAXU
+  DEAD: https://chat.whatsapp.com/DhUPMiklRa7BQhyGzGSs45
+  DEAD: https://chat.whatsapp.com/Dia9YmLJ4KLCm49J29Dop9
+  DEAD: https://chat.whatsapp.com/DifhdrNgblBC8sMatoKVTX
+  DEAD: https://chat.whatsapp.com/DjRwCBk9Ox36HpN64MxbNa
+  DEAD: https://chat.whatsapp.com/Djri6YGkKpe3KcLwKYFFaw
+  DEAD: https://chat.whatsapp.com/DkJNpHSrH5u9jNJbhUbYZE
+  DEAD: https://chat.whatsapp.com/DkLnZ7p0jGM5hBdGOc81ur
+  DEAD: https://chat.whatsapp.com/DmPSM54uZrIEM9gHHDHYf0
+  DEAD: https://chat.whatsapp.com/DmWgVsDemikAYTBZ5yCLzF
+  DEAD: https://chat.whatsapp.com/DmcikAZzyXR5CnHLulhql9
+  DEAD: https://chat.whatsapp.com/DmiTuJ0zPlBJAhLhGA9VaO
+  DEAD: https://chat.whatsapp.com/DpPHK5LppAeHi3iSVrBSeq
+  DEAD: https://chat.whatsapp.com/Dpy29kgZ0sALp721SL6SLV
+  DEAD: https://chat.whatsapp.com/DqBSzhnPFGpIB1UV5CZPKo
+  DEAD: https://chat.whatsapp.com/DrkecuJ2YNYIyJ51mD5OEb
+  DEAD: https://chat.whatsapp.com/DrzEEohRXGcHLFYpxfLgoe
+  DEAD: https://chat.whatsapp.com/Ds5T4kWeo8IJM8537ExFSu
+  DEAD: https://chat.whatsapp.com/DsWgYKe8BgvGno43XQoYs2
+  DEAD: https://chat.whatsapp.com/DtwSnOrzpZPCk8Q2f05oWh
+  DEAD: https://chat.whatsapp.com/Du1EEkpE6wt0c1ItU9oeBH
+  DEAD: https://chat.whatsapp.com/DuGWdECxMU5CFfh3zrvCAw
+  DEAD: https://chat.whatsapp.com/DuvmArsdjcg60nmR0xQXpa
+  DEAD: https://chat.whatsapp.com/DvktPrMsqrBI10mWxRmv6O
+  DEAD: https://chat.whatsapp.com/DwOMafbAZvy60ymo6gafjk
+  DEAD: https://chat.whatsapp.com/DwXiNBt0NO8CNoK3J6I1a6
+  DEAD: https://chat.whatsapp.com/DwZ3mTlBXxbDfJVlea1MWe
+  DEAD: https://chat.whatsapp.com/DwtpNRNKnGgGurnTnytjlM
+  DEAD: https://chat.whatsapp.com/DyDAGN5kdpIAQrM18B2EkZ
+  DEAD: https://chat.whatsapp.com/DyJGhlcedqY3mfhx21gF9w
+  DEAD: https://chat.whatsapp.com/DynXfQKVxAV3ejpPJCTrDi
+  DEAD: https://chat.whatsapp.com/DzMODTUVzPZ8NjXq7pZjVQ
+  DEAD: https://chat.whatsapp.com/DzQWBFGQNhUHoEfsbURAnk
+  DEAD: https://chat.whatsapp.com/E0pVwLSkQnMH1mMQN5EcFp
+  DEAD: https://chat.whatsapp.com/E2OrqjqR0RmBWNgmq8amEW
+  DEAD: https://chat.whatsapp.com/E2VHEn6dWxN8c5ENjtkKjf
+  DEAD: https://chat.whatsapp.com/E2uhqqrzfzNImPtQ0N6wFH
+  DEAD: https://chat.whatsapp.com/E486mC9TYUa0negno2yK1X
+  DEAD: https://chat.whatsapp.com/E4Fq4edA9nYDmi9m4ZUL0o
+  DEAD: https://chat.whatsapp.com/E4V4GooTGW2IcP4Ax8Hc0L
+  DEAD: https://chat.whatsapp.com/E5NNvOaB8Hx9qcBkoBQ2bM
+  DEAD: https://chat.whatsapp.com/E734dF5lcR0Cmq9eMbUxx8
+  DEAD: https://chat.whatsapp.com/E7T8qJa5NGcIX6ZxTQol4X
+  DEAD: https://chat.whatsapp.com/E8VTvbsqozlF1qewOhnqYF
+  DEAD: https://chat.whatsapp.com/E8wY0RlnFaYDc8UvILD23b
+  DEAD: https://chat.whatsapp.com/E8yx5BJZ3mIAhxLEizQdbx
+  DEAD: https://chat.whatsapp.com/E93Ddh60ZqD1QhOUPFp2BN
+  DEAD: https://chat.whatsapp.com/EA9hHjBtK8IHmXYwuXtv75
+  DEAD: https://chat.whatsapp.com/EAKYY8WZ0xt0xaMbhBxTlr
+  DEAD: https://chat.whatsapp.com/EANtVowEx0E8Uj3FhnRHIa
+  DEAD: https://chat.whatsapp.com/EAZfrpKKoIhIoIbjqLz33x
+  DEAD: https://chat.whatsapp.com/EB2PXCMOrT64DqG6eSJF5H
+  DEAD: https://chat.whatsapp.com/EBK6QjVB1VOHdxJqGCVkQ1
+  DEAD: https://chat.whatsapp.com/EBxAhvFVAwt8NPoA4ZCccP
+  DEAD: https://chat.whatsapp.com/EEsssMwJeW3BmyRqmPB9WP
+  DEAD: https://chat.whatsapp.com/EH7dgrvNHziBoFSxxXMkw1
+  DEAD: https://chat.whatsapp.com/EHueyduWXKl4BO8sj37hvD
+  DEAD: https://chat.whatsapp.com/EIqQyBNnwOwDr5XaBWiUzb
+  DEAD: https://chat.whatsapp.com/EKY84QQXXkNHmKiuljRSuh
+  DEAD: https://chat.whatsapp.com/EKkJGpJ2nAD68SG9SBLuK1
+  DEAD: https://chat.whatsapp.com/EKurCdpnBdMGLfBESFgT0f
+  DEAD: https://chat.whatsapp.com/ELuHZ4Fd7ZHGGJXmbTd9j2
+  DEAD: https://chat.whatsapp.com/EMIiyN3s2IaFEuclFRGUyq
+  DEAD: https://chat.whatsapp.com/EMxVdb3gbrA4yWfOVZ14t7
+  DEAD: https://chat.whatsapp.com/EN4y1ZxQS8k7IqHESrQJvm
+  DEAD: https://chat.whatsapp.com/EOL2QvwDhr81on59nmcYUz
+  DEAD: https://chat.whatsapp.com/EP2WQ4qMeYX3rRe1PqcS7H
+  DEAD: https://chat.whatsapp.com/EPIWAWntmsR2vOpOLNj4Xa
+  DEAD: https://chat.whatsapp.com/EQPj5ZXWJ0J3Vg8t43v3Wr
+  DEAD: https://chat.whatsapp.com/EQzJjMb3xRD1MYYqGkmXGD
+  DEAD: https://chat.whatsapp.com/ER0smTM3DObKte4myGjtnd
+  DEAD: https://chat.whatsapp.com/ERa4gvkT8paAHiM2HjTK9n
+  DEAD: https://chat.whatsapp.com/ERamL8qL0eiF5Ejpr6tzYo
+  DEAD: https://chat.whatsapp.com/ERwSL8HacZX6NFX44W19mN
+  DEAD: https://chat.whatsapp.com/ET3qbHDPqatD0D8WmG76A0
+  DEAD: https://chat.whatsapp.com/ET4TCcC0ysaBoZapa2Muhl
+  DEAD: https://chat.whatsapp.com/ET7YS4Ve40u2ajhZ4mo3Z7
+  DEAD: https://chat.whatsapp.com/ET7myOjq5oj4SiU5mHGleA
+  DEAD: https://chat.whatsapp.com/ETGvQoM6yKz2b1RkXthdcE
+  DEAD: https://chat.whatsapp.com/ETY5Aij5NHs7laMdAW3NUN
+  DEAD: https://chat.whatsapp.com/EU58chREBgR2UhmQEtQ2M2
+  DEAD: https://chat.whatsapp.com/EUAJxKrP8XrA4OX0oykhjF
+  DEAD: https://chat.whatsapp.com/EUrbO3AR8qjLNLaUXalqcq
+  DEAD: https://chat.whatsapp.com/EWkrkt0J9zG7ucnZ69BQDN
+  DEAD: https://chat.whatsapp.com/EYRBukvczDAKqrDDcHJ0yi
+  DEAD: https://chat.whatsapp.com/EZsABBY9GVl9Zw6187e8A7
+  DEAD: https://chat.whatsapp.com/EaeK5diqmOtD7HcJSN2Sor
+  DEAD: https://chat.whatsapp.com/EafUEhMOmbh7ZbrYn68qdG
+  DEAD: https://chat.whatsapp.com/Ee3AsM8P1m1I2PlpfFoXgF
+  DEAD: https://chat.whatsapp.com/EeIbIv96uVPIjlcR13vxTc
+  DEAD: https://chat.whatsapp.com/Eeu3gZ1Tvfd8ctM0BvELWg
+  DEAD: https://chat.whatsapp.com/Efdn6474h0E0YQjqL9hWX2
+  DEAD: https://chat.whatsapp.com/Efu3kHCgCGy3zHsdIkikjJ
+  DEAD: https://chat.whatsapp.com/Ei8ZvFsqjNA0tBteKrWYLh
+  DEAD: https://chat.whatsapp.com/EiJUm6dXGDB1Fs5tDf77S0
+  DEAD: https://chat.whatsapp.com/Ej3xPnVnY3671y3FHizYwN
+  DEAD: https://chat.whatsapp.com/EjA1ccNQLjpBMFLHFFDWpK
+  DEAD: https://chat.whatsapp.com/EjR2VBfQMee3SeSuUokowt
+  DEAD: https://chat.whatsapp.com/EkyqIJi58TWIntWIs0pVCy
+  DEAD: https://chat.whatsapp.com/Em3ZjUvWkSvDXr5nysLTxt
+  DEAD: https://chat.whatsapp.com/EmphZt5wuH78G1ho1cIKZt
+  DEAD: https://chat.whatsapp.com/Engzq6pR2Ag2BLeTB8uPeF
+  DEAD: https://chat.whatsapp.com/Eo0c2HPaCodAKzONi9y2Ec
+  DEAD: https://chat.whatsapp.com/Ep7v66dSVwJG7m3Dwoq7PK
+  DEAD: https://chat.whatsapp.com/EtBKtM7fm8w3reSLdJ8NNZ
+  DEAD: https://chat.whatsapp.com/EtSJ4X1WIBLIs5gKClmjCh
+  DEAD: https://chat.whatsapp.com/EuN2luZMB8IJ0jIIPgexk3
+  DEAD: https://chat.whatsapp.com/Ew6eLKPGKEkKy5JIucBpGg
+  DEAD: https://chat.whatsapp.com/EwqXdZk7UjVIzKsfIHvyGA
+  DEAD: https://chat.whatsapp.com/F0eoECiadaBBG6YAyxJREr
+  DEAD: https://chat.whatsapp.com/F136xPI62eaBPUTcA0eVZz
+  DEAD: https://chat.whatsapp.com/F32xcFL7kCOHzlVmgsvHyq
+  DEAD: https://chat.whatsapp.com/F4DiIfZ8r228h8Wl55bO3O
+  DEAD: https://chat.whatsapp.com/F4aPMWFSJf3JSZZ9XQ33Yb
+  DEAD: https://chat.whatsapp.com/F4jDZAYiTBC3LXYnGYmxWz
+  DEAD: https://chat.whatsapp.com/F5vVnxccWil6UcPTEDfovZ
+  DEAD: https://chat.whatsapp.com/F6zSTwik31LAVRSL4sX02I
+  DEAD: https://chat.whatsapp.com/F8AnPZ8yUeYHydgFYedhRz
+  DEAD: https://chat.whatsapp.com/F9BgsqtxdmS8MsZBLPlGcK
+  DEAD: https://chat.whatsapp.com/F9Ssg0hH8hZKA45sbNkAnA
+  DEAD: https://chat.whatsapp.com/FB7Vsa53hNRKppp2enjYR7
+  DEAD: https://chat.whatsapp.com/FD10cdZNowG5OujlLCTBJs
+  DEAD: https://chat.whatsapp.com/FDAOXh5kub6CwoxlB34Yeq
+  DEAD: https://chat.whatsapp.com/FEAfS4g5TKDLiuuShix4Fw
+  DEAD: https://chat.whatsapp.com/FEmbWbXEJuv4wNw0dMQ2Av
+  DEAD: https://chat.whatsapp.com/FFMBwBJmuqxD6BdJHhCrl9
+  DEAD: https://chat.whatsapp.com/FFrKQwz1yNnDyTqfW89eqP
+  DEAD: https://chat.whatsapp.com/FGRKTH6sRo5K9jWmiYQJgI
+  DEAD: https://chat.whatsapp.com/FHabU87rabo5ARU03OuglU
+  DEAD: https://chat.whatsapp.com/FI5j0jKMNSjD21OTFZk4c9
+  DEAD: https://chat.whatsapp.com/FIhN3gLTMutFaofvFR6Nba
+  DEAD: https://chat.whatsapp.com/FIn3q6Eqix62r7SsgEps5r
+  DEAD: https://chat.whatsapp.com/FJKwGkBNuvfINgXeASO9Xe
+  DEAD: https://chat.whatsapp.com/FL7mvCFgquRD9dgnWMKiPq
+  DEAD: https://chat.whatsapp.com/FMTLftYSfOOHOozWqhihWT
+  DEAD: https://chat.whatsapp.com/FTCRSkQEq37GvbYI7yTnTt
+  DEAD: https://chat.whatsapp.com/FTJyHRDUpUN6evEMPLRxuK
+  DEAD: https://chat.whatsapp.com/FTQEfkrsfvQ0zhwbEGRCoQ
+  DEAD: https://chat.whatsapp.com/FUdUlkmEj5s6jhzqMzgHst
+  DEAD: https://chat.whatsapp.com/FXeEY5O4W8EAM5OXKXXZE9
+  DEAD: https://chat.whatsapp.com/FZB0Gbz4XzFKaAcMgADPWW
+  DEAD: https://chat.whatsapp.com/FZGWJfwqvZXGV2lpfjEEr8
+  DEAD: https://chat.whatsapp.com/FZc0H60aFpE28WNCBCxmiC
+  DEAD: https://chat.whatsapp.com/FaaEvHcpq2L9wdGoqXxjgf
+  DEAD: https://chat.whatsapp.com/FabGzqlIty2IBpf58rxexC
+  DEAD: https://chat.whatsapp.com/Fal4Sy5kh6fCuyMlaov6Iv
+  DEAD: https://chat.whatsapp.com/FeCmIEiMupt8ahCwcW71Ee
+  DEAD: https://chat.whatsapp.com/FfD1H7s5gFzH62AHQJj8Sa
+  DEAD: https://chat.whatsapp.com/FhMZEyg81xw84o4MQbAcbx
+  DEAD: https://chat.whatsapp.com/FiMzwzGxdvC06hURiASysM
+  DEAD: https://chat.whatsapp.com/FitJvLmYm1hHvnT0LmIjFB
+  DEAD: https://chat.whatsapp.com/FjsxbvcmdC2Jh1vmvMbvPY
+  DEAD: https://chat.whatsapp.com/FkEbcqaRgRc8H4q0nd310u
+  DEAD: https://chat.whatsapp.com/FlFChoUO6JV7ec2wd69AEq
+  DEAD: https://chat.whatsapp.com/Fn94nt45mVCER9EYB7Ygtn
+  DEAD: https://chat.whatsapp.com/FnA7Z7SNCRyJX0K5QPNlt3
+  DEAD: https://chat.whatsapp.com/FoDaFk1f3nL8sdvpuMqbu1
+  DEAD: https://chat.whatsapp.com/FogNeppJIPXEjnvwP7jPrR
+  DEAD: https://chat.whatsapp.com/FomI4E8GIlAHv1Mn2JhR12
+  DEAD: https://chat.whatsapp.com/FpFKeJTn4mTF8qyCckNeH5
+  DEAD: https://chat.whatsapp.com/Fr8IH2n1Q4hA4NdrNxB44r
+  DEAD: https://chat.whatsapp.com/FseEHjWjTyp92z6JS5KvS3
+  DEAD: https://chat.whatsapp.com/Fsmxz9BvC4k5jLMlpX4LGe
+  DEAD: https://chat.whatsapp.com/FtDjzaiT4fIAToXqNgmeLP
+  DEAD: https://chat.whatsapp.com/FtPi9N6gZlOAgKgM41bUet
+  DEAD: https://chat.whatsapp.com/Fuhh6c8OPVOLnEukFB6ZwN
+  DEAD: https://chat.whatsapp.com/FuiWAtCu6pv1mEudJjldRh
+  DEAD: https://chat.whatsapp.com/Fux7nqWcHRYDSNFZlzdupI
+  DEAD: https://chat.whatsapp.com/FvHvktKurbsGoMJm3p5mlo
+  DEAD: https://chat.whatsapp.com/FwDKX4O1bZB19iFhvo34Fl
+  DEAD: https://chat.whatsapp.com/FwsOvv8IjhiB836vsUxkfL
+  DEAD: https://chat.whatsapp.com/FxO64ieb2VzIwQBOpU1phW
+  DEAD: https://chat.whatsapp.com/FxYkDtVBJgfIch1PaalJeh
+  DEAD: https://chat.whatsapp.com/Fxm8z2PVcR55lTfX6sH42W
+  DEAD: https://chat.whatsapp.com/Fxnr1ZVqx7G2nbQtJ7Mfvc
+  DEAD: https://chat.whatsapp.com/Fy35Wbg4aY498VnuTZvGLY
+  DEAD: https://chat.whatsapp.com/FynbdFQXUvI6dgVJlDlzEp
+  DEAD: https://chat.whatsapp.com/FzkfNUhM2NiDbHb8m9xHM7
+  DEAD: https://chat.whatsapp.com/G0bn96CtAEcI8hCQyOZCV2
+  DEAD: https://chat.whatsapp.com/G1zeEou2wUtGC0LA53B8xr
+  DEAD: https://chat.whatsapp.com/G28v5jofSJQ2J1dXjleGAH
+  DEAD: https://chat.whatsapp.com/G2RZjqRhw5H7AQKs4KJTqJ
+  DEAD: https://chat.whatsapp.com/G38EyxyA6l7B8gb7JmPDG3
+  DEAD: https://chat.whatsapp.com/G3IrTyDGnhbLTi046r4A7f
+  DEAD: https://chat.whatsapp.com/G3QhEjeSW574XY4kT54LQt
+  DEAD: https://chat.whatsapp.com/G47bdhZBHGr3TcLWxsei0h
+  DEAD: https://chat.whatsapp.com/G4UdxGlitRbJIOSdyaYifp
+  DEAD: https://chat.whatsapp.com/G4ZpB3woFQs8buj3uR5EvE
+  DEAD: https://chat.whatsapp.com/G4xU1lFJPRC4cJdbcJBgKy
+  DEAD: https://chat.whatsapp.com/G5GiXx0GlagKGmvjAKSqsB
+  DEAD: https://chat.whatsapp.com/G5reI0Cq5O4BGwMjWA7oNX
+  DEAD: https://chat.whatsapp.com/G6Tu2NQE2YX60EHBoRdg3X
+  DEAD: https://chat.whatsapp.com/G6pnjg9EyJJ5gHQBv4Erlu
+  DEAD: https://chat.whatsapp.com/G70XLIWEAAwJEvabPSgWQX
+  DEAD: https://chat.whatsapp.com/G8hvMuh5NlJA23FMM4dxUq
+  DEAD: https://chat.whatsapp.com/G9lVPAwTKsDKeYIWOEmqO7
+  DEAD: https://chat.whatsapp.com/GAWziDEvQi64kfIHRzHDcP
+  DEAD: https://chat.whatsapp.com/GBDR969lubKHvksYQDOoTG
+  DEAD: https://chat.whatsapp.com/GBrjVVOIWqj0F0W287akBg
+  DEAD: https://chat.whatsapp.com/GDXREECwwtb4N557ACwqQc
+  DEAD: https://chat.whatsapp.com/GDcBcLiAvnI922z9Jf8PgB
+  DEAD: https://chat.whatsapp.com/GDoLtRhydPlJMrRrxvoLb2
+  DEAD: https://chat.whatsapp.com/GE1xZnBl4CpBOtAU6OGXhv
+  DEAD: https://chat.whatsapp.com/GFVvvhzuM8u407fO0B9Y8L
+  DEAD: https://chat.whatsapp.com/GFfFLaH0jlRJjpx0BtTFEJ
+  DEAD: https://chat.whatsapp.com/GH4qejUbR0HGnFGf66A3Cp
+  DEAD: https://chat.whatsapp.com/GHTuxbZE07PE3bFaEtI4v5
+  DEAD: https://chat.whatsapp.com/GHyLmyviDQ07qvVrx1tjil
+  DEAD: https://chat.whatsapp.com/GINhvJdSCJc1vtl5WCfC3E
+  DEAD: https://chat.whatsapp.com/GIbp5xrmE5m5MXgvbowN9W
+  DEAD: https://chat.whatsapp.com/GKKwTU578tJEeX3SsOl62f
+  DEAD: https://chat.whatsapp.com/GKgki4Rg7kFGdQwyjqFiYT
+  DEAD: https://chat.whatsapp.com/GKnj8fsI5XyGpU42FaVD3N
+  DEAD: https://chat.whatsapp.com/GKr4EzDScroGHuKuETVIZS
+  DEAD: https://chat.whatsapp.com/GN1Ut26V8eDFcbvsATQThg
+  DEAD: https://chat.whatsapp.com/GN1aMWqp1YL0PAHDJzqxHX
+  DEAD: https://chat.whatsapp.com/GNTt9FVtPy1I9d9cupZAXU
+  DEAD: https://chat.whatsapp.com/GNzlxImcvOnHbnVCm2TXJy
+  DEAD: https://chat.whatsapp.com/GOA0eUhtyCY4DlmRMWiGq6
+  DEAD: https://chat.whatsapp.com/GOLHaPkfIl1LQHnbrbh9b7
+  DEAD: https://chat.whatsapp.com/GPQXlugYq4PAe8HXEnmrHU
+  DEAD: https://chat.whatsapp.com/GPx87znnivjC1roEDeHsDb
+  DEAD: https://chat.whatsapp.com/GRyAwNF1Mt6CYNL7uLXJNa
+  DEAD: https://chat.whatsapp.com/GTaqmXKmIkw7n2rDq3AY3C
+  DEAD: https://chat.whatsapp.com/GUJTFwp1WJNKx7vd8lGwWJ
+  DEAD: https://chat.whatsapp.com/GURLnODqseC6PaWNk3IOvA
+  DEAD: https://chat.whatsapp.com/GUXSvonxTlw300uX3wYLWU
+  DEAD: https://chat.whatsapp.com/GWkGZnU5dYPG06CckMOuZ0
+  DEAD: https://chat.whatsapp.com/GYAygYs4KE263xVIQSAuog
+  DEAD: https://chat.whatsapp.com/GZBZ0pNc2n6AjgGUUUqoEX
+  DEAD: https://chat.whatsapp.com/GZK5HqxdNXDA1SxIWyMxO5
+  DEAD: https://chat.whatsapp.com/GZKjZqFtPWSLmqSImK5MU3
+  DEAD: https://chat.whatsapp.com/GbviInxsKTfJifzk7bjPd3
+  DEAD: https://chat.whatsapp.com/GcCpMRREmIA9OBsKDynfMj
+  DEAD: https://chat.whatsapp.com/GcafNKB7puOFjF00c3W0x6
+  DEAD: https://chat.whatsapp.com/GczO9EFKgSC1ULplhNedBk
+  DEAD: https://chat.whatsapp.com/GdMdEFHIY5RAseR8CQrKXy
+  DEAD: https://chat.whatsapp.com/GdeuhDHfflUAkUFbzQKe1x
+  DEAD: https://chat.whatsapp.com/Ge2r03n03Sw2LB677WWnDz
+  DEAD: https://chat.whatsapp.com/GeWh2Mc6eeSI2Eb9fV2us2
+  DEAD: https://chat.whatsapp.com/GfJCvla88luKP5ScW5xS2x
+  DEAD: https://chat.whatsapp.com/GfW7LejX7rSBhxHaLkXJYT
+  DEAD: https://chat.whatsapp.com/GfnbapiGkGeCGaAbhFueYt
+  DEAD: https://chat.whatsapp.com/GgBWACmDxYtGkWOrh54ij6
+  DEAD: https://chat.whatsapp.com/GiiGNufJT0jFQQ55m4EtE8
+  DEAD: https://chat.whatsapp.com/GjspsSe6jyDGoNilpLFr8y
+  DEAD: https://chat.whatsapp.com/GkeazrXEPWiB051ylW7l5U
+  DEAD: https://chat.whatsapp.com/GmPkJm650aJCGkVC3uDUtR
+  DEAD: https://chat.whatsapp.com/Gp1zWuAYWClEZi9LuwZYeJ
+  DEAD: https://chat.whatsapp.com/Gp2pI8Mn0NpAd9YIobysLN
+  DEAD: https://chat.whatsapp.com/GptO939q5sv1Ku7ilZib00
+  DEAD: https://chat.whatsapp.com/GqzpOzaAb0gCYaL9cuyiCW
+  DEAD: https://chat.whatsapp.com/GseVTmY4PnJ6woWJVJpTnd
+  DEAD: https://chat.whatsapp.com/GtiscZM3TTJEm01nDkAc80
+  DEAD: https://chat.whatsapp.com/GwkPsmdpH696bRd23ouTgI
+  DEAD: https://chat.whatsapp.com/GwvxKUaM0K4G5nvAiGgBqW
+  DEAD: https://chat.whatsapp.com/GxUzURL7i0sJFRCmbjTFS4
+  DEAD: https://chat.whatsapp.com/GyVDxVHLSC03z0cnqzecdA
+  DEAD: https://chat.whatsapp.com/Gz71cu5tdpZDbfJaMr3Mcw
+  DEAD: https://chat.whatsapp.com/GzH8hfqFyjjD0kgtDtGwJV
+  DEAD: https://chat.whatsapp.com/GzPFS6L9UX15ZmeWixz2Zv
+  DEAD: https://chat.whatsapp.com/H0RjtHV1LmPC2r9gT43PAy
+  DEAD: https://chat.whatsapp.com/H0paLqkVUz3LRwZ9uSvRw8
+  DEAD: https://chat.whatsapp.com/H1VuRwlRkiM1hbKltqIimI
+  DEAD: https://chat.whatsapp.com/H2cRkjiGnBAIzf2ERxYFHw
+  DEAD: https://chat.whatsapp.com/H3bDFewyZI2CO6JjZVaKfP
+  DEAD: https://chat.whatsapp.com/H4X3iMf6AywGJjlgyg5OK7
+  DEAD: https://chat.whatsapp.com/H4yEwjjpCekE99O7teQu7G
+  DEAD: https://chat.whatsapp.com/H4yhfZSPWevADV1sHM4Igf
+  DEAD: https://chat.whatsapp.com/H5Pmb0ioBzv0MxnyAzR2Wy
+  DEAD: https://chat.whatsapp.com/H5fbVNDOcrfF29QnGQegVm
+  DEAD: https://chat.whatsapp.com/H5kEzTu458AFXfVHjPYx45
+  DEAD: https://chat.whatsapp.com/H6ExIk2RZVjFFs4GdWjfmi
+  DEAD: https://chat.whatsapp.com/H6HURWD0kD73js6tE2YFmF
+  DEAD: https://chat.whatsapp.com/H7NH0Q3FtcVDTpxtAGLxxg
+  DEAD: https://chat.whatsapp.com/H7dxb3L4be7G7fVkGgcBc6
+  DEAD: https://chat.whatsapp.com/H7fq1MuzhVi3hpJlSeBWsP
+  DEAD: https://chat.whatsapp.com/H8ckxlGA2GwGnKACgGA55A
+  DEAD: https://chat.whatsapp.com/HA4WNSLzhSb8KfqOsjM58v
+  DEAD: https://chat.whatsapp.com/HAKyNUlMORND7lRgxharuZ
+  DEAD: https://chat.whatsapp.com/HC7YwDrApGT70mQOP5P9qw
+  DEAD: https://chat.whatsapp.com/HECinkAnjTBBsNdyJV3MUp
+  DEAD: https://chat.whatsapp.com/HEDOwWeZ0Lc7Wjh7PCRMvj
+  DEAD: https://chat.whatsapp.com/HFFzCKeligNAwIZh7hWXPX
+  DEAD: https://chat.whatsapp.com/HFdpaxUdhhqISWPrlewb48
+  DEAD: https://chat.whatsapp.com/HGaSizBdvD55hc09XoTarD
+  DEAD: https://chat.whatsapp.com/HGdg2WCeHn4CEC7jZ4DVbJ
+  DEAD: https://chat.whatsapp.com/HGqhZbu5BDdJ9LOpXicSvX
+  DEAD: https://chat.whatsapp.com/HHgzRYwXBQZ6skjjsWWCHR
+  DEAD: https://chat.whatsapp.com/HHq5vwjDLpU4VbjXDsMs1J
+  DEAD: https://chat.whatsapp.com/HJiIKhqsfat7EGg1Y7J2jh
+  DEAD: https://chat.whatsapp.com/HJohZ4ncEj72K6MbJwNHE7
+  DEAD: https://chat.whatsapp.com/HKJEQfgbrz6KIcbBQFdJqv
+  DEAD: https://chat.whatsapp.com/HKMLqOlKX182EXIchBMKWQ
+  DEAD: https://chat.whatsapp.com/HL1pkG6jdLbBdrzulv9FOo
+  DEAD: https://chat.whatsapp.com/HMztqev3ygH40htB7sbWKI
+  DEAD: https://chat.whatsapp.com/HPGUPGw41S5J2pXx8h3Wlj
+  DEAD: https://chat.whatsapp.com/HQwJlaZLt6H5vQBBnYAypc
+  DEAD: https://chat.whatsapp.com/HRU8q7TwdoEDSjkN2ZyVOe
+  DEAD: https://chat.whatsapp.com/HSMGxdQ9POHJfYWek5AcK1
+  DEAD: https://chat.whatsapp.com/HSX3QY2ShaR9nHo8eF2YbK
+  DEAD: https://chat.whatsapp.com/HSzBw6tuMDK1o0lu8NLjwU
+  DEAD: https://chat.whatsapp.com/HV4LI06TGJ7IyQHdkqG6yX
+  DEAD: https://chat.whatsapp.com/HVRtgoslKw51WQLOJRycMq
+  DEAD: https://chat.whatsapp.com/HVVzi3QW5p8HJrEaPEKaC1
+  DEAD: https://chat.whatsapp.com/HWgrnRdUsiVIZcZsDy4o8Y
+  DEAD: https://chat.whatsapp.com/HWvJ8Lmv2Fs4akB1GQqoya
+  DEAD: https://chat.whatsapp.com/HZJ7f588cNY5PQnsNSry1j
+  DEAD: https://chat.whatsapp.com/HakmvfNUpof9mPZbRHINQL
+  DEAD: https://chat.whatsapp.com/Hb218XO77XSG4ofSqalf4E
+  DEAD: https://chat.whatsapp.com/HcPAAT02CUxDFRatcrXh4A
+  DEAD: https://chat.whatsapp.com/HdtFYLyk9lU123rGCTOc1O
+  DEAD: https://chat.whatsapp.com/HePOxJ5Q23SChiOwdzd1Fb
+  DEAD: https://chat.whatsapp.com/HerZKPCSSryFRAnst6oNZB
+  DEAD: https://chat.whatsapp.com/HfFE0Y7WslqLVkNpZ6hIvD
+  DEAD: https://chat.whatsapp.com/Hfhogb3bqV36qgAj8o74YD
+  DEAD: https://chat.whatsapp.com/HfvV21OFkLEENkAyoaHQ5W
+  DEAD: https://chat.whatsapp.com/HgP3aRLW9tMEQwsF299R6J
+  DEAD: https://chat.whatsapp.com/HgaImbPC1c4CDCPnvo8dnB
+  DEAD: https://chat.whatsapp.com/Hh6arF0y3zLE8ixwFKg4rP
+  DEAD: https://chat.whatsapp.com/HjszcAbrxaAKQNMPrKki3r
+  DEAD: https://chat.whatsapp.com/HjzhEsICci87Ze2uFPdzOU
+  DEAD: https://chat.whatsapp.com/HkSB2qVdVbDI0UPxUCkzdi
+  DEAD: https://chat.whatsapp.com/HkWxberwwaZCzCJqbof666
+  DEAD: https://chat.whatsapp.com/HkdU8gkA5d5GT2kpDbwgaY
+  DEAD: https://chat.whatsapp.com/Hl4C8DP1m8k9SlTQ4Vexkt
+  DEAD: https://chat.whatsapp.com/HmKcoUwCnQF0QpucfdkTEU
+  DEAD: https://chat.whatsapp.com/HmNsB8F3CLHJY7xvXeZeM1
+  DEAD: https://chat.whatsapp.com/Hn76S965mGT6tZf0Um9ziu
+  DEAD: https://chat.whatsapp.com/HnDt1RcpwyLAyRIntzFW6v
+  DEAD: https://chat.whatsapp.com/HnyRrkkMJFtDBSwLhMCz4f
+  DEAD: https://chat.whatsapp.com/HpZ38lLGscG9fZYYQlsPey
+  DEAD: https://chat.whatsapp.com/Hqmq3RUiXyx8GfO0itR6xL
+  DEAD: https://chat.whatsapp.com/Hr02P966lXYJyCYm1qJyvQ
+  DEAD: https://chat.whatsapp.com/HrEZIXksU6g4GmL8Q9Gxu6
+  DEAD: https://chat.whatsapp.com/HrgKcivxxUT74xj59ku95S
+  DEAD: https://chat.whatsapp.com/Hs1K5vOtcKB6SVyys0RMR5
+  DEAD: https://chat.whatsapp.com/HsUIyIjrWipHYRN1y0OUtH
+  DEAD: https://chat.whatsapp.com/HshUZh9gSbr6g39FfBtcPN
+  DEAD: https://chat.whatsapp.com/Hshq9KhSO4L9tJdc3cIIeq
+  DEAD: https://chat.whatsapp.com/HtbpIPwriPQ6b8qy0N31Xk
+  DEAD: https://chat.whatsapp.com/HuBugcI4OvG8SkKMFJD03x
+  DEAD: https://chat.whatsapp.com/Hv4ifWqwppbCRCZJjYNph0
+  DEAD: https://chat.whatsapp.com/Hwnxp0Lk6uN6EEYtW8y4Gs
+  DEAD: https://chat.whatsapp.com/HwscnUh4BYp3ppl8D97z0F
+  DEAD: https://chat.whatsapp.com/Hx17NE4mEqI7DJhT1KHZPx
+  DEAD: https://chat.whatsapp.com/Hx6n9Rfw75QBGLhNY45WLT
+  DEAD: https://chat.whatsapp.com/HxIcIBXPJjwIJVHKEhXlnn
+  DEAD: https://chat.whatsapp.com/HyUtWHPndycIjxWZ6VmbSY
+  DEAD: https://chat.whatsapp.com/HzgTrOSm7vGJrWrndZBdeS
+  DEAD: https://chat.whatsapp.com/I0NBx2u5cgcAMPsf2eLvQc
+  DEAD: https://chat.whatsapp.com/I1ymJrGfThNAvBHNXDu1kX
+  DEAD: https://chat.whatsapp.com/I3VnISyzC4LCCSPOsil7LX
+  DEAD: https://chat.whatsapp.com/I3ivG6k3WqxCkLW8xS6vcX
+  DEAD: https://chat.whatsapp.com/I3j5c91c85bCv40pbkuvbf
+  DEAD: https://chat.whatsapp.com/I4NHpFh7WnQ0C1UrSWdlIv
+  DEAD: https://chat.whatsapp.com/I5XQv6OuCDx3tclRpRc56M
+  DEAD: https://chat.whatsapp.com/I6745i4sGM12qcgtwuWVI9
+  DEAD: https://chat.whatsapp.com/I6xAhgKr2iF8Ay4cGVFG7e
+  DEAD: https://chat.whatsapp.com/I7M1Y4Sdx98DieCKX9o35u
+  DEAD: https://chat.whatsapp.com/I7MSAeOxmcQIsV8iGLRPHO
+  DEAD: https://chat.whatsapp.com/I8ELB4R4fDE2oOrB4n4uxS
+  DEAD: https://chat.whatsapp.com/I8YAAH8LPDFGBAGSLww5Pf
+  DEAD: https://chat.whatsapp.com/I8kNMnTkutF3hCgnzCS9wN
+  DEAD: https://chat.whatsapp.com/I9yQPPumx0YB10W7gfFY9E
+  DEAD: https://chat.whatsapp.com/IByCjFe4GGL2k5wNVjjBTU
+  DEAD: https://chat.whatsapp.com/IC9njgEU3kk9HmJ0ElsUiq
+  DEAD: https://chat.whatsapp.com/ICWqSKRxR3D8WI4W5DTat8
+  DEAD: https://chat.whatsapp.com/ICp9Rnbl3cjGvi39C7DdmA
+  DEAD: https://chat.whatsapp.com/ICpzeWzZydxEzKfD1aYcY5
+  DEAD: https://chat.whatsapp.com/IDLikYSCNEkJjG4QucNCJ9
+  DEAD: https://chat.whatsapp.com/IErUDZcscER6mk5D24o7oK
+  DEAD: https://chat.whatsapp.com/IFV62m3Fu9n9vxh79P1j5Z
+  DEAD: https://chat.whatsapp.com/IGDhTVg75lsGcVXfLCLTSg
+  DEAD: https://chat.whatsapp.com/IHUe3mWpQ8g7JKP9eokm83
+  DEAD: https://chat.whatsapp.com/IHsxAafhxsG2KGOJDZueRC
+  DEAD: https://chat.whatsapp.com/II4S9gjYRvj4Z3W5Zqx55X
+  DEAD: https://chat.whatsapp.com/IIugiXMKcIA1ZtqoQ7xclJ
+  DEAD: https://chat.whatsapp.com/IJosA0eQMaMGQEwf1cENaK
+  DEAD: https://chat.whatsapp.com/IKVBBzIzpAx1P5mrkD5klf
+  DEAD: https://chat.whatsapp.com/IKZ2ECCTVOG9UWmhbmTid5
+  DEAD: https://chat.whatsapp.com/IKhp8pd5IvsJ9rxLrejZMq
+  DEAD: https://chat.whatsapp.com/IKo5nFqCHblKH3GEvXB6SN
+  DEAD: https://chat.whatsapp.com/IKrvM0ubNi9DZfMxoA9Sgh
+  DEAD: https://chat.whatsapp.com/IKxR2Iwxi28DQvfPeoZOkV
+  DEAD: https://chat.whatsapp.com/ILYEGBhqSm80l5CjZrmfA7
+  DEAD: https://chat.whatsapp.com/ILwHOd115z5Dg5X4jlTXfA
+  DEAD: https://chat.whatsapp.com/IM94s0AeIox7cDGwRKV92s
+  DEAD: https://chat.whatsapp.com/IMgcJoHkLYa7GkEJjaoBBX
+  DEAD: https://chat.whatsapp.com/IN6rmd0WbiTCT3xbJlY2Lj
+  DEAD: https://chat.whatsapp.com/INVJvd0LFCtCqNoajzUtgr
+  DEAD: https://chat.whatsapp.com/IOTOUPBrAlPCRxnfadc6Ik
+  DEAD: https://chat.whatsapp.com/IPEfCcwIXZw3CWfTpJRoPn
+  DEAD: https://chat.whatsapp.com/IQ0ppNY9HcR0eInEXbQlzE
+  DEAD: https://chat.whatsapp.com/IQDPwDHqy7TIa9hirQRpyI
+  DEAD: https://chat.whatsapp.com/IRlRjfJB7j1Ly61HqwfxRm
+  DEAD: https://chat.whatsapp.com/ISIubo96PVB28RkhcJlMZt
+  DEAD: https://chat.whatsapp.com/ISxlXFI9acW2sz15oqYAi0
+  DEAD: https://chat.whatsapp.com/ITBeGE4MPOQE5WnsCyLC9X
+  DEAD: https://chat.whatsapp.com/IUjG7gtXN1V5kIWJVAU4Qg
+  DEAD: https://chat.whatsapp.com/IWqSiBeTEw2JoVOrERDyOz
+  DEAD: https://chat.whatsapp.com/IY4oZfd9wtx9W2Pk70RDgl
+  DEAD: https://chat.whatsapp.com/IZqGlv8dOJt9hb6xnOCmES
+  DEAD: https://chat.whatsapp.com/IaEJhFgvRcYKJqpM6zJ6ql
+  DEAD: https://chat.whatsapp.com/IanDbx97x63GGHn6sRrrGR
+  DEAD: https://chat.whatsapp.com/IbFvN1zifDUDp2XP5R24s8
+  DEAD: https://chat.whatsapp.com/IbKzcoqLJMlJkrNMdisvvI
+  DEAD: https://chat.whatsapp.com/Ic3Wnn7KHEx1PSTFV8ZMPb
+  DEAD: https://chat.whatsapp.com/IcWyzLFEA0bCZ9mmAd3fwj
+  DEAD: https://chat.whatsapp.com/IcgCgvpeTLx0FRnvj0BIje
+  DEAD: https://chat.whatsapp.com/IdHWajeyyM35VqjmklOsVn
+  DEAD: https://chat.whatsapp.com/IeEe3m1TGG52iz1y2KgqLH
+  DEAD: https://chat.whatsapp.com/IfTZB5ialmH7988Kz6nKhq
+  DEAD: https://chat.whatsapp.com/IgeoaaV0p5iGR6XZW4Zoej
+  DEAD: https://chat.whatsapp.com/IgsPq2vpnOI0AqKOGi6I8D
+  DEAD: https://chat.whatsapp.com/IhFPT8lLuAbBvTS5o8AgbB
+  DEAD: https://chat.whatsapp.com/IhQDgjggJ2cErODm04rYgx
+  DEAD: https://chat.whatsapp.com/IiCQw19NHVrJOlkACg1Udo
+  DEAD: https://chat.whatsapp.com/IiGpFmFqA886yCwDMTS0Is
+  DEAD: https://chat.whatsapp.com/IiIyLZG0DyF9urNmaeVH5P
+  DEAD: https://chat.whatsapp.com/IjV0WgffEfq2ha7RnfK5JC
+  DEAD: https://chat.whatsapp.com/IjiFzKMmFdIL4mxkE2M2C7
+  DEAD: https://chat.whatsapp.com/IjqhxrYVGZw16XYxcvqtiv
+  DEAD: https://chat.whatsapp.com/IjygqPbtujJ3eHcpHWFbnR
+  DEAD: https://chat.whatsapp.com/Ikpvm3BD4qL7OVpAULGTlz
+  DEAD: https://chat.whatsapp.com/Iky10GoPx1wCseoY1cXCAV
+  DEAD: https://chat.whatsapp.com/Il8XOLcutYpLlbUPWIXssQ
+  DEAD: https://chat.whatsapp.com/ImNwWwyy45I0CuwyTssNsn
+  DEAD: https://chat.whatsapp.com/ImjmSkv9JUaDP7BtyVuxbx
+  DEAD: https://chat.whatsapp.com/Inu4sNi2yeo9Qd6DbIFGND
+  DEAD: https://chat.whatsapp.com/IpPx8UFAyKjBJIU4Kq9wFK
+  DEAD: https://chat.whatsapp.com/Iqkr8IaI43nF4z7lPg5LpN
+  DEAD: https://chat.whatsapp.com/IrKERtbxcfF54ur3FkAz8u
+  DEAD: https://chat.whatsapp.com/Is52iHiXPt7ABacKkMDhZj
+  DEAD: https://chat.whatsapp.com/IseDxHFjmmLGue7VIq7cTc
+  DEAD: https://chat.whatsapp.com/IsfK4ZAMgzw1wlZcg8hq6D
+  DEAD: https://chat.whatsapp.com/IteLLZlbzhi0A3dGPQGOmI
+  DEAD: https://chat.whatsapp.com/ItyzbWYIIYy1XR1yMwKoi6
+  DEAD: https://chat.whatsapp.com/Iuam0qomSgb8ar2qDO6FEA
+  DEAD: https://chat.whatsapp.com/IxbGi4ioP7WAE13b9XSdJb
+  DEAD: https://chat.whatsapp.com/Ixskvo0CYOHHEr5BgeraLq
+  DEAD: https://chat.whatsapp.com/IyWWGXheSUw9wwBx2iPKUN
+  DEAD: https://chat.whatsapp.com/IyobO6wM1CxEViVdFkonGK
+  DEAD: https://chat.whatsapp.com/Iz97Sq1WcauEN9rvOrSKHE
+  DEAD: https://chat.whatsapp.com/IzMvAuKLwWbLgY8uMqtb8f
+  DEAD: https://chat.whatsapp.com/IzvngE2xb5KJ4G6mQsfb5C
+  DEAD: https://chat.whatsapp.com/J14u61UGfJQ2FrGySiXd5o
+  DEAD: https://chat.whatsapp.com/J3GO3njDUfJAIjJt73x6Of
+  DEAD: https://chat.whatsapp.com/J3yHe4tmgOX6mtlG1cvhdd
+  DEAD: https://chat.whatsapp.com/J4mKaNzMTXB06OUtw6gQFq
+  DEAD: https://chat.whatsapp.com/J5PRQhr6mEw2ESyFWJ1hGA
+  DEAD: https://chat.whatsapp.com/J72A7Wcqp3s6LOmeR3G6Kh
+  DEAD: https://chat.whatsapp.com/J7qNOAwTPoHHro0ravKSQU
+  DEAD: https://chat.whatsapp.com/J8g3iOoRwWWBeAwCMmIAnQ
+  DEAD: https://chat.whatsapp.com/J9OLk3FSV7m7voD5oK9XCP
+  DEAD: https://chat.whatsapp.com/J9sVclYuazV9pyDeYPFrag
+  DEAD: https://chat.whatsapp.com/JBPHD2Nsj4fKYBMeCOCD27
+  DEAD: https://chat.whatsapp.com/JCm19GVqW0UL9r5t9YRNaC
+  DEAD: https://chat.whatsapp.com/JCv8kV49FyLHSllMDKkgE6
+  DEAD: https://chat.whatsapp.com/JDfPhHZ7tqK1goz5XVPTcy
+  DEAD: https://chat.whatsapp.com/JFaLku8ODfN6T6qA6JH8b6
+  DEAD: https://chat.whatsapp.com/JFigPhz0gkH3ZYDqktNW9s
+  DEAD: https://chat.whatsapp.com/JGLlQM3bD3w5snZd6Xadp8
+  DEAD: https://chat.whatsapp.com/JGc2YY7B3evEi2j7Annk6N
+  DEAD: https://chat.whatsapp.com/JHA1oRKzm9A4YIuwRpXGad
+  DEAD: https://chat.whatsapp.com/JHrAdLQeQQKLfoL5K1Ico9
+  DEAD: https://chat.whatsapp.com/JIrwLHRhFEVLYe5wu6Sv87
+  DEAD: https://chat.whatsapp.com/JIwVnXo7in36iOP1gaHYR1
+  DEAD: https://chat.whatsapp.com/JKMBQsFwXW6C5eclzx1XaV
+  DEAD: https://chat.whatsapp.com/JKQjiJmBvU2LaIhmHDh50Y
+  DEAD: https://chat.whatsapp.com/JLgBM7A9JPsGlTQOHk01OO
+  DEAD: https://chat.whatsapp.com/JMpYWo0qU7kFPbk3AUO1Gd
+  DEAD: https://chat.whatsapp.com/JN1t8HYGXH7IwEKbYaKhfe
+  DEAD: https://chat.whatsapp.com/JNHQdtpPQZJ8tmhkRr9Qs8
+  DEAD: https://chat.whatsapp.com/JOX6yJ0cmM7AwaUqaI5wSy
+  DEAD: https://chat.whatsapp.com/JOderlOFc8Q0lWnBRwnQ9k
+  DEAD: https://chat.whatsapp.com/JPv4QBXLC18LTpUiY4o6OV
+  DEAD: https://chat.whatsapp.com/JRIAt5qK2WOFGUqPjA1v2k
+  DEAD: https://chat.whatsapp.com/JRdm0j8klmh8ie0pQ05JPR
+  DEAD: https://chat.whatsapp.com/JRup2sG5NwkKWVggB8MT28
+  DEAD: https://chat.whatsapp.com/JRy2t91AX4x1tGGeSsH2Mf
+  DEAD: https://chat.whatsapp.com/JSZwngAc2pT0kwL0H3c6IY
+  DEAD: https://chat.whatsapp.com/JTH9mZpaQmr4lIXNe7ueL8
+  DEAD: https://chat.whatsapp.com/JU6WynXh39z1h2l2wLfj1Z
+  DEAD: https://chat.whatsapp.com/JUQH5pcXsaV1supMcP6lNs
+  DEAD: https://chat.whatsapp.com/JV1eNwVnDmoCvmmV0YJbzw
+  DEAD: https://chat.whatsapp.com/JVyh0KdZFiHKpjte2NezMk
+  DEAD: https://chat.whatsapp.com/JW2Ok7kBXc55aqdqTq25kt
+  DEAD: https://chat.whatsapp.com/JWJ0lzbY52wJFCUbz6qhTF
+  DEAD: https://chat.whatsapp.com/JWRqJwRcfmc0XFjn5koVaA
+  DEAD: https://chat.whatsapp.com/JXtS84ZVGkj4TPLiVNxgji
+  DEAD: https://chat.whatsapp.com/JYWDMTSW46y1t0DMUeaafE
+  DEAD: https://chat.whatsapp.com/JYui9ZwNqiD9uqLVHjH6tm
+  DEAD: https://chat.whatsapp.com/Ja1hjDbZGfhB4GOvSuUfFn
+  DEAD: https://chat.whatsapp.com/JamFejhDCGP9omo50Us05i
+  DEAD: https://chat.whatsapp.com/Jb6CU0wBH7IHbFXX67FeS2
+  DEAD: https://chat.whatsapp.com/Jc94qrbKyaaJLB7hBUmle3
+  DEAD: https://chat.whatsapp.com/JfBVUBmNdZT1zmSn9174xL
+  DEAD: https://chat.whatsapp.com/JfJx6TXKJxgF2G6UtoUsIF
+  DEAD: https://chat.whatsapp.com/JfNJnNXwRS632RO6qeKxMx
+  DEAD: https://chat.whatsapp.com/JhB3SgK1NyAI9LYObFhBU6
+  DEAD: https://chat.whatsapp.com/JhLSyNBz4IVDYEGgoGfWc2
+  DEAD: https://chat.whatsapp.com/JhbsjaO5ciXAUAagtc1c6l
+  DEAD: https://chat.whatsapp.com/JhsTX5DhNSDDDgLoQkPzKd
+  DEAD: https://chat.whatsapp.com/JisFd5A2YYo1HUpgiJbUqg
+  DEAD: https://chat.whatsapp.com/Jjf2wvUzRcS1wGsrs79UKc
+  DEAD: https://chat.whatsapp.com/Jk9pcKEPKHn13bd9SUwssZ
+  DEAD: https://chat.whatsapp.com/JktNYzgTAFtHW7NH5BH739
+  DEAD: https://chat.whatsapp.com/JkxlewVcpR096ebZYZlKRo
+  DEAD: https://chat.whatsapp.com/JmwnqnAnnHH6ITxuYcBKQQ
+  DEAD: https://chat.whatsapp.com/JoAqe5xqeToD8EJT8tu7Fq
+  DEAD: https://chat.whatsapp.com/JoW9rRtV6mXEBWSmJd1ioE
+  DEAD: https://chat.whatsapp.com/Jp1Yc1k2mY4Frw3G3szpy3
+  DEAD: https://chat.whatsapp.com/JpCR0wNUFu920xFvvyNT4z
+  DEAD: https://chat.whatsapp.com/JpXEYcKmOTYL3foktLshov
+  DEAD: https://chat.whatsapp.com/Jq1uFmEa5R9K5DsluJyHQQ
+  DEAD: https://chat.whatsapp.com/JqsFAUeSs1PA4QFEa1HzR5
+  DEAD: https://chat.whatsapp.com/JrGlCJlmqRLEKGVm5tup3H
+  DEAD: https://chat.whatsapp.com/JrwbJbGXo2yKmrxKavZRJZ
+  DEAD: https://chat.whatsapp.com/Js5Wo5a60GcC2tXzCQFvyE
+  DEAD: https://chat.whatsapp.com/Js9ADN4TIgKCKUzonjuTuJ
+  DEAD: https://chat.whatsapp.com/Jt7dVitSRgJ1JuYuQUdHUz
+  DEAD: https://chat.whatsapp.com/JtBJr5TXUJDFOR6Ngjw1Qn
+  DEAD: https://chat.whatsapp.com/JtDy4df9D49EOCVT2lKXe3
+  DEAD: https://chat.whatsapp.com/JuM7dDJLjk0CShc1uG0isJ
+  DEAD: https://chat.whatsapp.com/Juo6JJo7FWY2Jxi95QXAOL
+  DEAD: https://chat.whatsapp.com/JvglBhpQ8e70kEtHrZ4g2M
+  DEAD: https://chat.whatsapp.com/JvlwKqhx1ZXJvpjMP47OEM
+  DEAD: https://chat.whatsapp.com/JvtLZk9ei4e30UOA9oW81T
+  DEAD: https://chat.whatsapp.com/JwFyUtBx01c66zr5L8PHOx
+  DEAD: https://chat.whatsapp.com/Jy6wudGhjq8LZO6PSNYHEa
+  DEAD: https://chat.whatsapp.com/JytsZa8mGviAgHvv0lv27O
+  DEAD: https://chat.whatsapp.com/K0hUeqAzLOnEdbtHn3KvSg
+  DEAD: https://chat.whatsapp.com/K211OLXkpbv2PxPyF85r1G
+  DEAD: https://chat.whatsapp.com/K2IdVdcRAtM6j1EIWNj7V4
+  DEAD: https://chat.whatsapp.com/K2MX6SmnCzYJqx4ldvR2DP
+  DEAD: https://chat.whatsapp.com/K2ZGuqaMojzKZb5yA9A4ks
+  DEAD: https://chat.whatsapp.com/K398WhTyl4c9pslgiT6BHL
+  DEAD: https://chat.whatsapp.com/K3VVUkVrXbA0X67aM8uxwm
+  DEAD: https://chat.whatsapp.com/K4Y8wHd4d6l2hbiRCKzgsJ
+  DEAD: https://chat.whatsapp.com/K5BJTL79jNO8FiuwgEEwSY
+  DEAD: https://chat.whatsapp.com/K64oZbiV8HkLgRM5ZYo7kw
+  DEAD: https://chat.whatsapp.com/K6BSlABGTP9DVIfySuW1Pt
+  DEAD: https://chat.whatsapp.com/K6IttMaaV4SEVdBhDGLyy2
+  DEAD: https://chat.whatsapp.com/K7MCaODXEgu961jjB00Q3L
+  DEAD: https://chat.whatsapp.com/K7zm4HZUSSQJrpG03uw9CY
+  DEAD: https://chat.whatsapp.com/K8CWTsjOKyMCvKWriS6zOW
+  DEAD: https://chat.whatsapp.com/KA5IH51dqLs412WwILeFuV
+  DEAD: https://chat.whatsapp.com/KAR9c1kA0lDCDm8KVGhtkE
+  DEAD: https://chat.whatsapp.com/KAhL6iRCiRvGdVHgUpK8GJ
+  DEAD: https://chat.whatsapp.com/KBRcRRQxpYqLHjWbD4ORZV
+  DEAD: https://chat.whatsapp.com/KC2LhwL8XpPENp9de8gbWK
+  DEAD: https://chat.whatsapp.com/KCZrFk5J9un3UoQXlPfoYp
+  DEAD: https://chat.whatsapp.com/KEdpXMWcWkH80SdvOLtJQn
+  DEAD: https://chat.whatsapp.com/KH9w0seRHEHCbS8w5MhEpv
+  DEAD: https://chat.whatsapp.com/KJ67N5CHJQ86wNoqcQFakT
+  DEAD: https://chat.whatsapp.com/KJdlbvq5WdvJOKMeyaFBzY
+  DEAD: https://chat.whatsapp.com/KJhJql6xLokASOQcNPZ81o
+  DEAD: https://chat.whatsapp.com/KKN2IxvuF0g0Q1zWYec7js
+  DEAD: https://chat.whatsapp.com/KKOKQ5o2nmVEg6OCgkOpsg
+  DEAD: https://chat.whatsapp.com/KKTU68eMQooCny5SNPMrMk
+  DEAD: https://chat.whatsapp.com/KKmRIu9uCI13vbJmRKFgs0
+  DEAD: https://chat.whatsapp.com/KKonsMVevm35bMY2c2IAbW
+  DEAD: https://chat.whatsapp.com/KLTMEU25aTQ32SbeXSOPp3
+  DEAD: https://chat.whatsapp.com/KLx6Y5AgU3OKwZxeDqBknj
+  DEAD: https://chat.whatsapp.com/KMNhsKRt3qM3igonhNcPYe
+  DEAD: https://chat.whatsapp.com/KMxlPXbc3JC9VLXUKJksCS
+  DEAD: https://chat.whatsapp.com/KOUhePLfpxO9kM11J18OHa
+  DEAD: https://chat.whatsapp.com/KOX5ie6gIeS0HwZ9b5gqa4
+  DEAD: https://chat.whatsapp.com/KPJ8l08O1UTD8xmTsLKYcB
+  DEAD: https://chat.whatsapp.com/KPrO5TbMH0Q6vL27xP3xgH
+  DEAD: https://chat.whatsapp.com/KQINsWslZBXJp4y809ZOet
+  DEAD: https://chat.whatsapp.com/KQTZ0pGixZvEFF6KVQhZHP
+  DEAD: https://chat.whatsapp.com/KQXcAZGWRjF5Ad0jJ1nOn8
+  DEAD: https://chat.whatsapp.com/KSIQl17hXu44msBbs4m78O
+  DEAD: https://chat.whatsapp.com/KTN6N0gS1Ud2FwquhNTguR
+  DEAD: https://chat.whatsapp.com/KTbxtKNlv6M0SdoV41SrXo
+  DEAD: https://chat.whatsapp.com/KTw3sRy5XnKBmyUXCNKX7l
+  DEAD: https://chat.whatsapp.com/KVg3Vvq4klKLxLe99uY4OC
+  DEAD: https://chat.whatsapp.com/KX3X0HiyN8IAmhKGgFd4ul
+  DEAD: https://chat.whatsapp.com/KXAP9vRi8kO2C2UmFXpC9T
+  DEAD: https://chat.whatsapp.com/KXjFmErjKIuLWMUOCwqr9k
+  DEAD: https://chat.whatsapp.com/KYSCuHtZUKhEcDzpdkci5x
+  DEAD: https://chat.whatsapp.com/KZjRtSJN46o8Cu8WFndn26
+  DEAD: https://chat.whatsapp.com/KakYDcWiI9t66esWS84cF0
+  DEAD: https://chat.whatsapp.com/KcfaUT8LjJJK8bc5GbtGQm
+  DEAD: https://chat.whatsapp.com/KcoVM05jBf2Iqt6Yw44rHa
+  DEAD: https://chat.whatsapp.com/KcojdO7xiDpHvcCebc74qE
+  DEAD: https://chat.whatsapp.com/KcqtSOeBr3rJfmCp61BFk2
+  DEAD: https://chat.whatsapp.com/KdI9P2iBgls0ZB4RplxirG
+  DEAD: https://chat.whatsapp.com/KdTe6wlua7lKqdzAcP5T72
+  DEAD: https://chat.whatsapp.com/KdorCACEs8cBeqjQi9K8m8
+  DEAD: https://chat.whatsapp.com/KduCWKwTIc0ApshVcwBU2Z
+  DEAD: https://chat.whatsapp.com/KejBSQ4o6wP58Rhv5M6v1h
+  DEAD: https://chat.whatsapp.com/Kf4rVXmxqL59BIY5vtMtUc
+  DEAD: https://chat.whatsapp.com/KfSSPMyZohQCyF0094fGgT
+  DEAD: https://chat.whatsapp.com/KfZDkOLhHv1KxixjT8Pkpq
+  DEAD: https://chat.whatsapp.com/KfzIsfMwtXq6ESQcwHDo8Z
+  DEAD: https://chat.whatsapp.com/KgvMNsKFNWOCf0KyLMI9PH
+  DEAD: https://chat.whatsapp.com/Khwr03wsbMyL1EnMd0pCGf
+  DEAD: https://chat.whatsapp.com/Ki8e6CQG54kCuUGx3hVPQm
+  DEAD: https://chat.whatsapp.com/KiaYJk0Ufqs8eu8m94B0eQ
+  DEAD: https://chat.whatsapp.com/KimObNtpjDU6rGDNd2uQ5u
+  DEAD: https://chat.whatsapp.com/KlcjnDDhpwwL2LoKdTqi76
+  DEAD: https://chat.whatsapp.com/Kmtq2Xu6PuAHaDGnnJziv5
+  DEAD: https://chat.whatsapp.com/KnZ7FvKYXAiGa6KcIg2Opv
+  DEAD: https://chat.whatsapp.com/KneCHZ2nOFwBNP6aSdYMJz
+  DEAD: https://chat.whatsapp.com/Koak6SWE6Nf1QhaTV5vCtL
+  DEAD: https://chat.whatsapp.com/KpIRn2P4KTe7lS9Jl1qCq1
+  DEAD: https://chat.whatsapp.com/KqlC6wBqpp18QsJEG7AH4F
+  DEAD: https://chat.whatsapp.com/Kro2Ayj0IJcIRl647sFts8
+  DEAD: https://chat.whatsapp.com/Ks1tSaQOe3lE4Kx91cWP9S
+  DEAD: https://chat.whatsapp.com/KskCsKnLrHbFc1wuANKwFi
+  DEAD: https://chat.whatsapp.com/KspgSFYs8ZmG3mmqo6dq6M
+  DEAD: https://chat.whatsapp.com/KtK8tcezF3vAYPvdHtoL3i
+  DEAD: https://chat.whatsapp.com/KtNEqbt0oJVLUglVrbJRlL
+  DEAD: https://chat.whatsapp.com/KthbteVG5vjKhcMdBKN0J8
+  DEAD: https://chat.whatsapp.com/KtwgR48X2XxK6DIskrf8VJ
+  DEAD: https://chat.whatsapp.com/Ku5cFk9cviVJAxT5Krcf5T
+  DEAD: https://chat.whatsapp.com/KukzYhCKySp2lJafp4JcER
+  DEAD: https://chat.whatsapp.com/KvaZiWyNg2ZFiPDhUUe57d
+  DEAD: https://chat.whatsapp.com/Kvonv7GCQIxLhwflV163Bh
+  DEAD: https://chat.whatsapp.com/KwVBokVyRR0GTA6ZP6ioy8
+  DEAD: https://chat.whatsapp.com/KxnNeQyk6ctBSeTZwZK7uM
+  DEAD: https://chat.whatsapp.com/KyTmQZVUWil5PTbyTrsb2Y
+  DEAD: https://chat.whatsapp.com/L0dHmPCKmAoAKOR2jyplgu
+  DEAD: https://chat.whatsapp.com/L0kzn7qwp2P5ZAaACRzXsx
+  DEAD: https://chat.whatsapp.com/L0q1MEEru34IwjJosvwTC6
+  DEAD: https://chat.whatsapp.com/L1hy4hoKQd6KnH7EMPwtJg
+  DEAD: https://chat.whatsapp.com/L1xN0tdjSb53pHtAk8V2Fl
+  DEAD: https://chat.whatsapp.com/L3pileXAwi760LzcLNxlzl
+  DEAD: https://chat.whatsapp.com/L5t4ZkJa0Hf2qpILy9rshz
+  DEAD: https://chat.whatsapp.com/L6ZLTHrggJbFUp9TpIqi4w
+  DEAD: https://chat.whatsapp.com/L6gTCE7dGTy1QBfpf3rYLU
+  DEAD: https://chat.whatsapp.com/L7nHWtQUlE3KWRNHFXK8lL
+  DEAD: https://chat.whatsapp.com/L8HCuQHe0bhHK7safVSLHD
+  DEAD: https://chat.whatsapp.com/L8fC4nKfVfm9SWlE5Vb8Oq
+  DEAD: https://chat.whatsapp.com/L8iJfZlqN0KEkcpuaLNxQH
+  DEAD: https://chat.whatsapp.com/L8rAc90sZPyLIOoiDzsgiz
+  DEAD: https://chat.whatsapp.com/LAak7VirUJx4Zmk6GEo6U9
+  DEAD: https://chat.whatsapp.com/LB3Qw4W4B0uH59gliJCUUp
+  DEAD: https://chat.whatsapp.com/LBToiwjmLLs2ms0gWNjNC5
+  DEAD: https://chat.whatsapp.com/LCcc7Jrh3dvGYAwhlrMz5Z
+  DEAD: https://chat.whatsapp.com/LCjcnVaBMRc6OrEqrExKsd
+  DEAD: https://chat.whatsapp.com/LDm8GNFmKiBLNoThHRRGmv
+  DEAD: https://chat.whatsapp.com/LDvdvhoVHYuD3ZSAgYy3Dm
+  DEAD: https://chat.whatsapp.com/LEMU1JMNdMH1MUxj2ScraJ
+  DEAD: https://chat.whatsapp.com/LENrqh8Jm03FzG3p3kAU4T
+  DEAD: https://chat.whatsapp.com/LEOf3kZ0TRN3JTnEuctiTo
+  DEAD: https://chat.whatsapp.com/LER02DQ7NcOIOMIQt68c8z
+  DEAD: https://chat.whatsapp.com/LFrpMqatygkEDdVwLsy3cs
+  DEAD: https://chat.whatsapp.com/LG8nJroINz83ti4kE99bnz
+  DEAD: https://chat.whatsapp.com/LGK7dM9SgLN1tYCWCD1CSS
+  DEAD: https://chat.whatsapp.com/LHIKMIbtUp62VDGjEmZyjj
+  DEAD: https://chat.whatsapp.com/LI2BmgAzrj0LGzTSvITFer
+  DEAD: https://chat.whatsapp.com/LJAxXKkmBP19X68qVBsCg8
+  DEAD: https://chat.whatsapp.com/LJNNS1UGlcS5LRc1e1yKYS
+  DEAD: https://chat.whatsapp.com/LJecCw2PhDIFgNDl6tbU9D
+  DEAD: https://chat.whatsapp.com/LLWjBwbQEAQBITpwUzAWw2
+  DEAD: https://chat.whatsapp.com/LLomu1BIz2v6vNEaKcYdH9
+  DEAD: https://chat.whatsapp.com/LMBL1xH3nlH9HsfUoBOUxg
+  DEAD: https://chat.whatsapp.com/LNQ5J9anFMx4NOTNcYP28k
+  DEAD: https://chat.whatsapp.com/LOD88GueuvgIBXFxxz2p3G
+  DEAD: https://chat.whatsapp.com/LOFMO5ftSp5LgGGwQqJHZx
+  DEAD: https://chat.whatsapp.com/LPeDKCMmsldDoQ5ZffIW9r
+  DEAD: https://chat.whatsapp.com/LQ0dUxdRrBS8yHfnJSett3
+  DEAD: https://chat.whatsapp.com/LRV0IV9LD0k68QFde2tzNA
+  DEAD: https://chat.whatsapp.com/LRWKX6G5j7cCzENmize3eR
+  DEAD: https://chat.whatsapp.com/LRqmDzqrh0G2l3CnM2i149
+  DEAD: https://chat.whatsapp.com/LSk9DpnFfMEFgvfhM6pzSn
+  DEAD: https://chat.whatsapp.com/LTY9LaklITTGWK4n75HVuw
+  DEAD: https://chat.whatsapp.com/LUbfcgdPHMDCSoVkXALON8
+  DEAD: https://chat.whatsapp.com/LWe3mme3XH5BbCTXB4u72T
+  DEAD: https://chat.whatsapp.com/LXFHcGDVQvYIfd8BimHI0x
+  DEAD: https://chat.whatsapp.com/LXzbcngcoqR7eJFilu3hwH
+  DEAD: https://chat.whatsapp.com/LZ7Z9P4eDSUGUERmweNbng
+  DEAD: https://chat.whatsapp.com/Lac1pJNumdRLpg8aGxcrzG
+  DEAD: https://chat.whatsapp.com/LcJA35pz3FO7fwmnkmvyKc
+  DEAD: https://chat.whatsapp.com/LeJGq4K1pdX2fDHDGkJpWj
+  DEAD: https://chat.whatsapp.com/LgXqD4bTjiQJaHPZ7xFe0N
+  DEAD: https://chat.whatsapp.com/LhR5LSaailJEO2qHEtwOns
+  DEAD: https://chat.whatsapp.com/LjWPHWDEr5l8lZTUTrO0f3
+  DEAD: https://chat.whatsapp.com/LkZsr2qTRrTFTgCXrp6VSy
+  DEAD: https://chat.whatsapp.com/LlEpApVvNEqJSW4JuUlevK
+  DEAD: https://chat.whatsapp.com/LmT2TkW5sLt1LZhJIMv6M3
+  DEAD: https://chat.whatsapp.com/LmUAf2N8hjVHufNChPUGWr
+  DEAD: https://chat.whatsapp.com/LpaFURBsuv0D7Hi8lu8nAE
+  DEAD: https://chat.whatsapp.com/LpcaiqWJ8irCcyC6TCwKlr
+  DEAD: https://chat.whatsapp.com/LqCCbtESaDHLMwDQTVjCns
+  DEAD: https://chat.whatsapp.com/LqgjBb4nEOeHZs7knTQwVY
+  DEAD: https://chat.whatsapp.com/LrQlbqg7pfjEnWutGVjJVD
+  DEAD: https://chat.whatsapp.com/LsUJpjiyEkKBRh9HYkjspv
+  DEAD: https://chat.whatsapp.com/LscMAWNRYbGBir6NTb9Qex
+  DEAD: https://chat.whatsapp.com/LsqchhCCVOFAiczu3cG73i
+  DEAD: https://chat.whatsapp.com/LtG9QpaME5mLQPeVreDG5Z
+  DEAD: https://chat.whatsapp.com/LtbNRvQ8H9D9IO65GDqgJi
+  DEAD: https://chat.whatsapp.com/LuMkiNqe7YREx6JdHNWsyn
+  DEAD: https://chat.whatsapp.com/Lv3QQVriyJCCRLNGqfgzEH
+  DEAD: https://chat.whatsapp.com/LvNqshIgPfgCDUwrfikfLn
+  DEAD: https://chat.whatsapp.com/LvxFGWQ6IUBEUC53gW5DK9
+  DEAD: https://chat.whatsapp.com/LwB7EGcgFuHE94QiQeQw8k
+  DEAD: https://chat.whatsapp.com/LxGW4q40oYpId69eYOE9hr
+  DEAD: https://chat.whatsapp.com/LxO1gdGoDUgHWtNTTkJg77
+  DEAD: https://chat.whatsapp.com/LxgF77BIP4zDCewqTgTGmL
+  DEAD: https://chat.whatsapp.com/LydO96WHsG6CnorcICOSTV
+  UNCHECKABLE: Talba (HTTP 000)
+  UNCHECKABLE: Al NUUR ISLAMIC TV 📺☪️ 0️⃣1️⃣ (HTTP 000)
+  UNCHECKABLE: Pak Girls Boys X 🩲 (HTTP 000)
+  UNCHECKABLE: My love (HTTP 000)
+  UNCHECKABLE: ❤‍🔥Learn And Earn With Me❤‍🔥 (HTTP 000)
+  UNCHECKABLE: INDIAN PART TIME JOB AND MONEY 💸 EARNING WEBSITES AND APP (HTTP 000)
+  UNCHECKABLE: Part time jobs group 💸for indian people Only Job seekers are allowed to join the group. ⇒The job-rel (HTTP 000)
+  UNCHECKABLE: VIEW GULF JOBS (HTTP 000)
+  UNCHECKABLE: Visa Guide & Jobs Updates (HTTP 000)
+  UNCHECKABLE: HYDERABAD ADDS (HTTP 000)
+  UNCHECKABLE: Call boy Hyderabad (HTTP 000)
+  UNCHECKABLE: Hyderabad tops & bottoms (HTTP 000)
+  UNCHECKABLE: MehboobHyderabadJewellery (HTTP 000)
+  UNCHECKABLE: Silicon Township🏠 Real Estate🏜️ Development’s 🧰Business 💵 Hyderabad 🏹To 🎁Amaravati ⛳️ (HTTP 000)
+  UNCHECKABLE: New Hyderabad marriage ce (HTTP 000)
+  UNCHECKABLE: Hyderabad C group sindh (HTTP 000)
+  UNCHECKABLE: The Rising Hyderabad 2040 (HTTP 000)
+  UNCHECKABLE: International Group (HTTP 000)
+  UNCHECKABLE: Malappuram top v.s bottom (HTTP 000)
+  UNCHECKABLE: International Group (HTTP 000)
+  UNCHECKABLE: International Group (HTTP 000)
+  UNCHECKABLE: International Group (HTTP 000)
+  UNCHECKABLE: സെക്സി body and Enjoy🌨️🌩️⛈️🌧️ (HTTP 000)
+  UNCHECKABLE: IPL Paid Report 2023🥇 (HTTP 000)
+  UNCHECKABLE: IPL WIN {EARN MONEY} (HTTP 000)
+  UNCHECKABLE: IPL BET PREDICTION (HTTP 000)
+  UNCHECKABLE: IPl T20 DREAM11 (HTTP 000)
+  UNCHECKABLE: TATA IPL dream 11 group (HTTP 000)
+  UNCHECKABLE: Ipl fixed tiping 100%👍🌟 (HTTP 000)
+  UNCHECKABLE: Sky exchange (HTTP 000)
+  UNCHECKABLE: 🏏🏏Ipl & SL vs NZ And all cricket🏏🏏 (HTTP 000)
+  UNCHECKABLE: IPL Group (HTTP 000)
+  UNCHECKABLE: IPL Group (HTTP 000)
+  UNCHECKABLE: WowApp(App Para fazer dinheiro) (HTTP 000)
+  UNCHECKABLE: Listas e drinks criativos super baratos 🍹🍹 (HTTP 000)
+  UNCHECKABLE: MONEY CASH 🤑🤑 (HTTP 000)
+  UNCHECKABLE: Amizade 2024 ❤️ (HTTP 000)
+  UNCHECKABLE: Tropadarifa (HTTP 000)
+  UNCHECKABLE: Grupo de Anime (HTTP 000)
+  UNCHECKABLE: SÓ ZUEIRA 24HORAS😁 (HTTP 000)
+  UNCHECKABLE: ERROR 999 (HTTP 000)
+  UNCHECKABLE: Loucos(a) Por Craft (HTTP 000)
+  UNCHECKABLE: JF Seguidores e Telas Streaming 🚀 (HTTP 000)
+  UNCHECKABLE: el mapa de los pokerecuerdos (HTTP 000)
+  UNCHECKABLE: Otakus cosplay (HTTP 000)
+  UNCHECKABLE: Amistades Sur de Madrid 🤘🏻 (HTTP 000)
+  UNCHECKABLE: Futbol de barrio en Madrid (HTTP 000)
+  UNCHECKABLE: Anusha,'s collection household 1 (HTTP 000)
+  UNCHECKABLE: Press On Nails (HTTP 000)
+  UNCHECKABLE: ⚔️కాపు ముద్దుబిడ్డలు ⚔️ (HTTP 000)
+  UNCHECKABLE: Ecom Sages (HTTP 000)
+  UNCHECKABLE: Brand collection (HTTP 000)
+  UNCHECKABLE: SmmGreata.com (HTTP 000)
+  UNCHECKABLE: 🌱Team Elite Shopee Tanam (HTTP 000)
+  UNCHECKABLE: Grup Shopee Games (New) (HTTP 000)
+  UNCHECKABLE: Voucher Shopee 💕 (HTTP 000)
+  UNCHECKABLE: Share Event Umum & Khusus Shopping Online (HTTP 000)
+  UNCHECKABLE: Shoppe Tanam 99 (HTTP 000)
+  UNCHECKABLE: TANAM SHOPE DLL (HTTP 000)
+  UNCHECKABLE: Shopee Tanam 🌱💦 (HTTP 000)
+  UNCHECKABLE: Saling Siram Tanam shopee (HTTP 000)
+  UNCHECKABLE: SHOPEE SALING SIRAM (HTTP 000)
+  UNCHECKABLE: Auto sirbal Shopee Tanam🌱 (HTTP 000)
+  UNCHECKABLE: #shopeetanam1212 (HTTP 000)
+  UNCHECKABLE: Saling Siram Tanam Shopee (HTTP 000)
+  UNCHECKABLE: lontea (HTTP 000)
+  UNCHECKABLE: GRUP YTS 2 SEO 5 MENIT🇲🇨 (HTTP 000)
+  UNCHECKABLE: Youtuber komunity indo (HTTP 000)
+  UNCHECKABLE: Youtuber pemula445 (HTTP 000)
+  UNCHECKABLE: YOUTUBER PEMULA (AMANAH) (HTTP 000)
+  UNCHECKABLE: SEO YouTube Pemula( SYP) (HTTP 000)
+  UNCHECKABLE: Subscribe gratis yukkk (HTTP 000)
+  UNCHECKABLE: Youtuber pemula Indonesia🇮🇩 (HTTP 000)
+  UNCHECKABLE: SALING SUBSCRIBE 👍 (HTTP 000)
+  UNCHECKABLE: BCN MINDFUL TRIBE (HTTP 000)
+  UNCHECKABLE: SOCIAL (HTTP 000)
+  UNCHECKABLE: Enjoy hiking (HTTP 000)
+  UNCHECKABLE: El Camino • Yoga & Vida Consciente (HTTP 000)
+  UNCHECKABLE: STRED YOGA (HTTP 000)
+  UNCHECKABLE: WORK FROM HOME// TEAM OWAIS (HTTP 000)
+  UNCHECKABLE: Earn money with & without investment (HTTP 000)
+  UNCHECKABLE: Ziralten (HTTP 000)
+  UNCHECKABLE: VIP GOLD  SINGLE 🖇️ (HTTP 000)
+  UNCHECKABLE: CUANOLOGY FOREX PUBLIC (HTTP 000)
+  UNCHECKABLE: Pips Profit free learning education (HTTP 000)
+  UNCHECKABLE: Grupo de paranormal (HTTP 000)
+  UNCHECKABLE: Chat liberado 💀🖤💀🖤 (HTTP 000)
+  UNCHECKABLE: Amizade Verdadeira (HTTP 000)
+  UNCHECKABLE: 彡*✲゚CAFEZINHO-·*.☕ (HTTP 000)
+  UNCHECKABLE: CONVERSAS☃️ E NAMORO❤️ (HTTP 000)
+  UNCHECKABLE: House animes (HTTP 000)
+  UNCHECKABLE: Compra de Bebidas alcoólicas (HTTP 000)
+  UNCHECKABLE: WATA Miau 😺🔞 (HTTP 000)
+  UNCHECKABLE: Shopee Tanam 🍇🍈🍉 (HTTP 000)
+  UNCHECKABLE: 🇳🇬 fun group 18+. ✅ (HTTP 000)
+  UNCHECKABLE: ⭐Rise &Shine 👑 ⭐ Women Empowerment Hub👑⭐( only for female) (HTTP 000)
+  UNCHECKABLE: ALL KERALA USED VEHICLES (HTTP 000)
+  UNCHECKABLE: Tiktok like follow back follow (HTTP 000)
+  UNCHECKABLE: #INOIND777 (HTTP 000)
+  UNCHECKABLE: I promise, give you 90k subscribe, hey rendi ka awlat (HTTP 000)
